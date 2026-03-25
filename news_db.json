@@ -1,61 +1,61 @@
 {
-  "last_updated": "2026-03-25 13:12:43",
+  "last_updated": "2026-03-25 16:10:46",
   "news": [
     {
       "type": "HackerNews",
-      "title": "Meta told to pay $375M for misleading users over child safety",
-      "url": "https://www.bbc.com/news/articles/cql75dn07n2o",
-      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.bbc.com/news/artic...",
-      "score": 193
+      "title": "Local LLM App by Ente",
+      "url": "https://ente.com/blog/ensu/",
+      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://ente.com/blog/ensu/...",
+      "score": 185
+    },
+    {
+      "type": "HackerNews",
+      "title": "My Astrophotography in the Movie Project Hail Mary",
+      "url": "https://rpastro.square.site/s/stories/phm",
+      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://rpastro.square.site/s/...",
+      "score": 246
+    },
+    {
+      "type": "HackerNews",
+      "title": "Antimatter has been transported for the first time",
+      "url": "https://www.nature.com/articles/d41586-026-00950-w",
+      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.nature.com/article...",
+      "score": 70
     },
     {
       "type": "HackerNews",
       "title": "TurboQuant: Redefining AI efficiency with extreme compression",
       "url": "https://research.google/blog/turboquant-redefining-ai-efficiency-with-extreme-compression/",
       "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://research.google/blog/t...",
-      "score": 253
+      "score": 354
+    },
+    {
+      "type": "HackerNews",
+      "title": "Supreme Court Sides with Cox in Copyright Fight over Pirated Music",
+      "url": "https://www.nytimes.com/2026/03/25/us/politics/supreme-court-cox-music-copyright.html",
+      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.nytimes.com/2026/0...",
+      "score": 79
     },
     {
       "type": "HackerNews",
       "title": "Goodbye to Sora",
       "url": "https://twitter.com/soraofficialapp/status/2036532795984715896",
       "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://twitter.com/soraoffici...",
-      "score": 820
+      "score": 940
     },
     {
       "type": "HackerNews",
       "title": "VitruvianOS – Desktop Linux Inspired by the BeOS",
       "url": "https://v-os.dev",
       "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://v-os.dev...",
-      "score": 197
+      "score": 266
     },
     {
       "type": "HackerNews",
       "title": "Looking at Unity made me understand the point of C++ coroutines",
       "url": "https://mropert.github.io/2026/03/20/unity_cpp_coroutines/",
       "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://mropert.github.io/2026...",
-      "score": 69
-    },
-    {
-      "type": "HackerNews",
-      "title": "Flighty Airports",
-      "url": "https://flighty.com/airports",
-      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://flighty.com/airports...",
-      "score": 367
-    },
-    {
-      "type": "HackerNews",
-      "title": "Show HN: I took back Video.js after 16 years and we rewrote it to be 88% smaller",
-      "url": "https://videojs.org/blog/videojs-v10-beta-hello-world-again",
-      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://videojs.org/blog/video...",
-      "score": 468
-    },
-    {
-      "type": "HackerNews",
-      "title": "Tell HN: Litellm 1.82.7 and 1.82.8 on PyPI are compromised",
-      "url": "https://github.com/BerriAI/litellm/issues/24512",
-      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://github.com/BerriAI/lit...",
-      "score": 755
+      "score": 97
     }
   ]
 }
