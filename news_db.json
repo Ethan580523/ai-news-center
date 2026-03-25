@@ -1,61 +1,61 @@
 {
-  "last_updated": "2026-03-25 12:19:41",
+  "last_updated": "2026-03-25 09:54:45",
   "news": [
     {
       "type": "HackerNews",
-      "title": "US Army raises enlistment age to 42 and removes marijuana waiver requirement",
-      "url": "https://armypubs.army.mil/epubs/DR_pubs/DR_a/ARN42922-AR_601-210-000-WEB-1.pdf",
-      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://armypubs.army.mil/epub...",
-      "score": 31
+      "title": "TurboQuant: Redefining AI efficiency with extreme compression",
+      "url": "https://research.google/blog/turboquant-redefining-ai-efficiency-with-extreme-compression/",
+      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://research.google/blog/t...",
+      "score": 151
     },
     {
       "type": "HackerNews",
-      "title": "Flighty Airports",
-      "url": "https://flighty.com/airports",
-      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://flighty.com/airports...",
-      "score": 165
+      "title": "Why I forked httpx",
+      "url": "https://tildeweb.nl/~michiel/httpxyz.html",
+      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://tildeweb.nl/~michiel/h...",
+      "score": 79
     },
     {
       "type": "HackerNews",
-      "title": "Show HN: DuckDB community extension for prefiltered HNSW using ACORN-1",
-      "url": "https://github.com/cigrainger/duckdb-hnsw-acorn",
-      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://github.com/cigrainger/...",
-      "score": 11
+      "title": "VitruvianOS – Desktop Linux Inspired by the BeOS",
+      "url": "https://v-os.dev",
+      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://v-os.dev...",
+      "score": 137
     },
     {
       "type": "HackerNews",
       "title": "Goodbye to Sora",
       "url": "https://twitter.com/soraofficialapp/status/2036532795984715896",
       "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://twitter.com/soraoffici...",
-      "score": 492
+      "score": 711
     },
     {
       "type": "HackerNews",
-      "title": "I wanted to build vertical SaaS for pest control, so I took a technician job",
-      "url": "https://www.onhand.pro/p/i-wanted-to-build-vertical-saas-for-pest-control-i-took-a-technician-job-instead",
-      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.onhand.pro/p/i-wan...",
-      "score": 230
+      "title": "Flighty Airports",
+      "url": "https://flighty.com/airports",
+      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://flighty.com/airports...",
+      "score": 320
     },
     {
       "type": "HackerNews",
       "title": "Show HN: I took back Video.js after 16 years and we rewrote it to be 88% smaller",
       "url": "https://videojs.org/blog/videojs-v10-beta-hello-world-again",
-      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://videojs.org/blog/video...",
-      "score": 268
+      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://videojs.org/blog/video...",
+      "score": 403
     },
     {
       "type": "HackerNews",
-      "title": "Apple Business",
-      "url": "https://www.apple.com/newsroom/2026/03/introducing-apple-business-a-new-all-in-one-platform-for-businesses-of-all-sizes/",
-      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.apple.com/newsroom...",
-      "score": 550
+      "title": "In Edison’s Revenge, Data Centers Are Transitioning From AC to DC",
+      "url": "https://spectrum.ieee.org/data-center-dc",
+      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://spectrum.ieee.org/data...",
+      "score": 130
     },
     {
       "type": "HackerNews",
       "title": "Tell HN: Litellm 1.82.7 and 1.82.8 on PyPI are compromised",
       "url": "https://github.com/BerriAI/litellm/issues/24512",
-      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://github.com/BerriAI/lit...",
-      "score": 556
+      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://github.com/BerriAI/lit...",
+      "score": 679
     }
   ]
 }
