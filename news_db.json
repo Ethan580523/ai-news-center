@@ -1,61 +1,61 @@
 {
-  "last_updated": "2026-03-25 18:56:39",
+  "last_updated": "2026-03-25 21:40:05",
   "news": [
     {
       "type": "HackerNews",
-      "title": "Thoughts on Slowing the Fuck Down",
-      "url": "https://mariozechner.at/posts/2026-03-25-thoughts-on-slowing-the-fuck-down/",
-      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://mariozechner.at/posts/...",
-      "score": 318
+      "title": "The EU still wants to scan  your private messages and photos",
+      "url": "https://fightchatcontrol.eu/?foo=bar",
+      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://fightchatcontrol.eu/?f...",
+      "score": 301
     },
     {
       "type": "HackerNews",
-      "title": "My Astrophotography in the Movie Project Hail Mary",
+      "title": "ARC-AGI-3",
+      "url": "https://arcprize.org/arc-agi/3",
+      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://arcprize.org/arc-agi/3...",
+      "score": 128
+    },
+    {
+      "type": "HackerNews",
+      "title": "Earthquake scientists reveal how overplowing weakens soil at experimental farm",
+      "url": "https://www.washington.edu/news/2026/03/19/earthquake-scientists-reveal-how-overplowing-weakens-soil-at-experimental-farm/",
+      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.washington.edu/new...",
+      "score": 32
+    },
+    {
+      "type": "HackerNews",
+      "title": "My astrophotography in the movie Project Hail Mary",
       "url": "https://rpastro.square.site/s/stories/phm",
-      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://rpastro.square.site/s/...",
-      "score": 465
+      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://rpastro.square.site/s/...",
+      "score": 612
     },
     {
       "type": "HackerNews",
-      "title": "Local LLM App by Ente",
-      "url": "https://ente.com/blog/ensu/",
-      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://ente.com/blog/ensu/...",
-      "score": 278
+      "title": "90% of Claude-linked output going to GitHub repos w <2 stars",
+      "url": "https://www.claudescode.dev/?window=since_launch",
+      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.claudescode.dev/?w...",
+      "score": 58
     },
     {
       "type": "HackerNews",
-      "title": "Jury says Meta knowingly harmed children for profit, awarding landmark verdict",
-      "url": "https://www.latimes.com/business/story/2026-03-25/jury-says-meta-knowingly-harmed-children-for-profit-awarding-landmark-verdict",
-      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.latimes.com/busine...",
-      "score": 242
+      "title": "Apple randomly closes bug reports unless you \"verify\" the bug remains unfixed",
+      "url": "https://lapcatsoftware.com/articles/2026/3/11.html",
+      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://lapcatsoftware.com/art...",
+      "score": 145
     },
     {
       "type": "HackerNews",
-      "title": "Meta and YouTube Found Negligent in Landmark Social Media Addiction Case",
-      "url": "https://www.nytimes.com/2026/03/25/technology/social-media-trial-verdict.html",
+      "title": "Supreme Court Sides with Cox in Copyright Fight over Pirated Music",
+      "url": "https://www.nytimes.com/2026/03/25/us/politics/supreme-court-cox-music-copyright.html",
       "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.nytimes.com/2026/0...",
-      "score": 136
+      "score": 202
     },
     {
       "type": "HackerNews",
-      "title": "Sony V. Cox Decision Reversed",
-      "url": "https://supreme.justia.com/cases/federal/us/607/24-171/",
-      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://supreme.justia.com/cas...",
-      "score": 104
-    },
-    {
-      "type": "HackerNews",
-      "title": "TurboQuant: Redefining AI efficiency with extreme compression",
-      "url": "https://research.google/blog/turboquant-redefining-ai-efficiency-with-extreme-compression/",
-      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://research.google/blog/t...",
-      "score": 416
-    },
-    {
-      "type": "HackerNews",
-      "title": "Quantization from the Ground Up",
-      "url": "https://ngrok.com/blog/quantization",
-      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://ngrok.com/blog/quantiz...",
-      "score": 56
+      "title": "Ensu – Ente’s Local LLM app",
+      "url": "https://ente.com/blog/ensu/",
+      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://ente.com/blog/ensu/...",
+      "score": 310
     }
   ]
 }
