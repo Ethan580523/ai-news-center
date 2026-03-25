@@ -1,0 +1,38 @@
+name: AI 全效情报自动同步
+
+on:
+  schedule:
+    # 每隔 3 小时运行一次 (UTC 时间)
+    - cron: '0 */3 * * *'
+  workflow_dispatch: # 同时也支持您手动在 GitHub 上点击“运行”
+
+jobs:
+  build-and-deploy:
+    runs-on: ubuntu-latest
+    steps:
+      - name: 检出代码仓库
+        uses: actions/checkout@v3
+
+      - name: 设置 Python 3.11 环境
+        uses: actions/setup-python@v4
+        with:
+          python-version: '3.11'
+
+      - name: 安装依赖外挂
+        run: |
+          pip install httpx
+
+      - name: 执行 AI 情报情报大脑
+        run: |
+          python fetcher.py
+        env:
+          # 让脚本变成“单次运行”模式，以便 Action 顺利结束
+          RUN_ONCE: "true"
+
+      - name: 自动同步数据库并部署至 Pages
+        run: |
+          git config --local user.email "action@github.com"
+          git config --local user.name "GitHub Action Bot"
+          git add news_db.json
+          git commit -m "🤖 自动简报同步: $(date +'%Y-%m-%d %H:%M:%S')" || exit 0
+          git push origin main

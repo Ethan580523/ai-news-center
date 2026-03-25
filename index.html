@@ -1,0 +1,238 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Aether Fusion | AI 情报中心</title>
+    <link href="https://fonts.googleapis.com/css2?family=Outfit:wght@300;400;600&display=swap" rel="stylesheet">
+    <style>
+        :root {
+            --glass-bg: rgba(255, 255, 255, 0.45);
+            --glass-border: rgba(255, 255, 255, 0.6);
+            --text-main: #1d1d1f;
+            --text-sub: #6e6e73;
+            --accent: #2c5364;
+            --secondary: #4facfe;
+            --ai-glow: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+        }
+
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+            font-family: 'Outfit', sans-serif;
+        }
+
+        body {
+            background: linear-gradient(135deg, #0f2027, #203a43, #2c5364);
+            color: var(--text-main);
+            overflow: hidden;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            min-height: 100vh;
+        }
+
+        .dashboard {
+            width: 95%;
+            max-width: 1400px;
+            height: 90vh;
+            background: var(--glass-bg);
+            backdrop-filter: blur(40px);
+            -webkit-backdrop-filter: blur(40px);
+            border: 1px solid var(--glass-border);
+            border-radius: 40px;
+            display: grid;
+            grid-template-columns: 280px 1fr;
+            box-shadow: 0 40px 100px rgba(0,0,0,0.3);
+            overflow: hidden;
+            animation: fadeIn 1.2s ease-out;
+        }
+
+        @keyframes fadeIn {
+            from { opacity: 0; transform: translateY(20px); }
+            to { opacity: 1; transform: translateY(0); }
+        }
+
+        /* 侧边栏 */
+        aside {
+            padding: 40px 30px;
+            background: rgba(255,255,255,0.1);
+            border-right: 1px solid rgba(255, 255, 255, 0.2);
+            display: flex;
+            flex-direction: column;
+            justify-content: space-between;
+        }
+
+        .logo { font-size: 26px; font-weight: 700; color: #fff; letter-spacing: -1px; }
+        .logo span { color: var(--secondary); }
+
+        nav li {
+            list-style: none;
+            padding: 15px 0;
+            color: rgba(255,255,255,0.6);
+            font-weight: 500;
+            cursor: pointer;
+            transition: 0.3s;
+        }
+        nav li:hover { color: #fff; transform: translateX(5px); }
+        nav li.active { color: #fff; font-weight: 700; border-left: 3px solid var(--secondary); padding-left: 10px; }
+
+        /* 主视口 */
+        main {
+            padding: 40px;
+            overflow-y: auto;
+            position: relative;
+        }
+
+        header {
+            display: flex;
+            justify-content: space-between;
+            align-items: flex-end;
+            margin-bottom: 40px;
+        }
+        header h1 { font-size: 32px; color: #fff; letter-spacing: -1.5px; }
+        .update-time { font-size: 13px; color: rgba(255,255,255,0.4); }
+
+        /* 卡片流: 瀑布流布局 */
+        .news-container {
+            column-count: 2;
+            column-gap: 20px;
+        }
+
+        .news-card {
+            break-inside: avoid;
+            background: rgba(255,255,255,0.9);
+            border-radius: 25px;
+            padding: 25px;
+            margin-bottom: 20px;
+            box-shadow: 0 10px 30px rgba(0,0,0,0.1);
+            border: 1px solid rgba(255,255,255,0.8);
+            transition: 0.4s;
+            cursor: pointer;
+        }
+        .news-card:hover { transform: scale(1.02); box-shadow: 0 20px 50px rgba(0,0,0,0.15); }
+
+        .type-tag {
+            font-size: 10px;
+            font-weight: 700;
+            padding: 4px 10px;
+            border-radius: 50px;
+            text-transform: uppercase;
+            margin-bottom: 15px;
+            display: inline-block;
+        }
+        .tag-hn { background: #fee2e2; color: #ef4444; }
+        .tag-wb { background: #e0f2fe; color: #0ea5e9; }
+
+        .news-title { font-size: 18px; font-weight: 700; line-height: 1.4; margin-bottom: 12px; }
+        
+        /* AI 摘要风格 */
+        .ai-summary {
+            background: linear-gradient(to right, #f8fafc, #f1f5f9);
+            border-left: 4px solid #764ba2;
+            padding: 12px;
+            border-radius: 12px;
+            font-size: 13px;
+            color: #475569;
+            line-height: 1.6;
+            margin-top: 15px;
+        }
+
+        button.refresh-btn {
+            background: var(--ai-glow);
+            color: #fff;
+            border: none;
+            padding: 12px 25px;
+            border-radius: 30px;
+            font-weight: 600;
+            cursor: pointer;
+            transition: 0.3s;
+            box-shadow: 0 10px 20px rgba(118, 75, 162, 0.4);
+        }
+        button.refresh-btn:hover { transform: scale(1.05); filter: brightness(1.2); }
+
+        /* 滚动条美化 */
+        ::-webkit-scrollbar { width: 6px; }
+        ::-webkit-scrollbar-track { background: transparent; }
+        ::-webkit-scrollbar-thumb { background: rgba(255,255,255,0.1); border-radius: 10px; }
+
+    </style>
+</head>
+<body>
+    <div class="dashboard">
+        <aside>
+            <div class="logo">Aether<span>.Fusion</span></div>
+            <nav>
+                <ul>
+                    <li class="active">聚合工作流</li>
+                    <li>昨日归档</li>
+                    <li>推送日志</li>
+                    <li>设置中心</li>
+                </ul>
+            </nav>
+            <div style="font-size: 12px; color: rgba(255,255,255,0.3);">POWERED BY ANTIGRAVITY</div>
+        </aside>
+
+        <main>
+            <header>
+                <div>
+                    <h1 id="greeting">加载中...</h1>
+                    <p class="update-time" id="updateInfo">离线模式</p>
+                </div>
+                <button class="refresh-btn" onclick="alert('提示: 请在命令行运行 fetcher.py 以获取最新数据入库！')">唤醒 AI 抓取</button>
+            </header>
+
+            <div class="news-container" id="container">
+                <!-- 由 JS 填充 -->
+                <div style="color:rgba(255,255,255,0.4); grid-column: 1/-1; text-align: center; padding: 50px;">
+                    正在从本地数据库同步最新的“脱水”情报...
+                </div>
+            </div>
+        </main>
+    </div>
+
+    <script>
+        async function loadLocalDB() {
+            const container = document.getElementById('container');
+            const info = document.getElementById('updateInfo');
+            const greet = document.getElementById('greeting');
+            
+            greet.innerText = (new Date().getHours() < 12) ? "早安，极客" : "午后好，极客";
+
+            try {
+                // 核心逻辑: 获取本地 news_db.json
+                const response = await fetch('news_db.json');
+                const data = await response.json();
+                
+                info.innerText = `最后入库时间: ${data.last_updated}`;
+                container.innerHTML = '';
+
+                data.news.forEach(item => {
+                    const tagClass = (item.type === 'HackerNews') ? 'tag-hn' : 'tag-wb';
+                    const card = document.createElement('div');
+                    card.className = 'news-card';
+                    card.onclick = () => window.open(item.url, '_blank');
+                    card.innerHTML = `
+                        <span class="type-tag ${tagClass}">${item.type}</span>
+                        <div class="news-title">${item.title}</div>
+                        <div class="ai-summary">
+                            <b>AI 摘要:</b> ${item.summary}
+                        </div>
+                    `;
+                    container.appendChild(card);
+                });
+            } catch (e) {
+                container.innerHTML = `
+                    <div style="color:rgba(255,255,255,0.5); text-align: center; width: 100%; border: 2px dashed rgba(255,255,255,0.1); padding: 50px; border-radius: 20px;">
+                        <h3>🔌 数据库尚未初始化</h3>
+                        <p style="margin-top: 10px;">请先运行命令: <code>python fetcher.py</code> 建立本地情报索引。</p>
+                    </div>
+                `;
+            }
+        }
+
+        window.onload = loadLocalDB;
+    </script>
+</body>
+</html>
