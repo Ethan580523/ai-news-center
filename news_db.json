@@ -1,61 +1,61 @@
 {
-  "last_updated": "2026-03-26 10:02:00",
+  "last_updated": "2026-03-26 13:17:19",
   "news": [
     {
       "type": "HackerNews",
       "title": "Personal Encyclopedias",
       "url": "https://whoami.wiki/blog/personal-encyclopedias",
       "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://whoami.wiki/blog/perso...",
-      "score": 160
-    },
-    {
-      "type": "HackerNews",
-      "title": "Running Tesla Model 3's computer on my desk using parts from crashed cars",
-      "url": "https://bugs.xdavidhu.me/tesla/2026/03/23/running-tesla-model-3s-computer-on-my-desk-using-parts-from-crashed-cars/",
-      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://bugs.xdavidhu.me/tesla...",
-      "score": 628
-    },
-    {
-      "type": "HackerNews",
-      "title": "Why Sora Failed: $15M/day inference cost vs. $2.1M lifetime revenue",
-      "url": "https://www.revolutioninai.com/2026/03/%20chatgpt-gpt-54-mini-silent-switch-march-2026.html",
-      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.revolutioninai.com...",
-      "score": 7
+      "score": 406
     },
     {
       "type": "HackerNews",
       "title": "Swift 6.3",
       "url": "https://www.swift.org/blog/swift-6.3-released/",
       "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.swift.org/blog/swi...",
-      "score": 33
+      "score": 153
     },
     {
       "type": "HackerNews",
-      "title": "What came after the 486?",
-      "url": "https://dfarq.homeip.net/what-came-after-486/",
-      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://dfarq.homeip.net/what-...",
-      "score": 26
+      "title": "European Parliament decided that Chat Control 1.0 must stop",
+      "url": "https://bsky.app/profile/tuta.com/post/3mhxkfowv322c",
+      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://bsky.app/profile/tuta....",
+      "score": 82
     },
     {
       "type": "HackerNews",
-      "title": "The Last Contract: William T. Vollmann's Battle to Publish an Epic (2025)",
-      "url": "https://www.metropolitanreview.org/p/the-last-contract",
-      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.metropolitanreview...",
-      "score": 5
+      "title": "From zero to a RAG system: successes and failures",
+      "url": "https://en.andros.dev/blog/aa31d744/from-zero-to-a-rag-system-successes-and-failures/",
+      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://en.andros.dev/blog/aa3...",
+      "score": 85
     },
     {
       "type": "HackerNews",
-      "title": "ARC-AGI-3",
-      "url": "https://arcprize.org/arc-agi/3",
-      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://arcprize.org/arc-agi/3...",
-      "score": 393
+      "title": "Running Tesla Model 3's computer on my desk using parts from crashed cars",
+      "url": "https://bugs.xdavidhu.me/tesla/2026/03/23/running-tesla-model-3s-computer-on-my-desk-using-parts-from-crashed-cars/",
+      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://bugs.xdavidhu.me/tesla...",
+      "score": 698
     },
     {
       "type": "HackerNews",
-      "title": "The Cassandra of 'The Machine'",
-      "url": "https://www.thenewatlantis.com/publications/the-cassandra-of-the-machine",
-      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.thenewatlantis.com...",
-      "score": 7
+      "title": "Landmark L.A. jury verdict finds Instagram, YouTube were designed to addict kids",
+      "url": "https://www.latimes.com/california/story/2026-03-25/social-media-lawsuit-trial-meta-google-verdict",
+      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.latimes.com/califo...",
+      "score": 44
+    },
+    {
+      "type": "HackerNews",
+      "title": "Obsolete Sounds",
+      "url": "https://citiesandmemory.com/obsolete-sounds/",
+      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://citiesandmemory.com/ob...",
+      "score": 86
+    },
+    {
+      "type": "HackerNews",
+      "title": "End of \"Chat Control\": EU Parliament Stops Mass Surveillance in Voting Thriller",
+      "url": "https://www.patrick-breyer.de/en/end-of-chat-control-eu-parliament-stops-mass-surveillance-in-voting-thriller-paving-the-way-for-genuine-child-protection/",
+      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.patrick-breyer.de/...",
+      "score": 37
     }
   ]
 }
