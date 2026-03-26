@@ -1,61 +1,61 @@
 {
-  "last_updated": "2026-03-26 13:17:19",
+  "last_updated": "2026-03-26 16:12:17",
   "news": [
     {
       "type": "HackerNews",
-      "title": "Personal Encyclopedias",
-      "url": "https://whoami.wiki/blog/personal-encyclopedias",
-      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://whoami.wiki/blog/perso...",
-      "score": 406
-    },
-    {
-      "type": "HackerNews",
-      "title": "Swift 6.3",
-      "url": "https://www.swift.org/blog/swift-6.3-released/",
-      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.swift.org/blog/swi...",
-      "score": 153
+      "title": "Moving from GitHub to Codeberg, for lazy people",
+      "url": "https://unterwaditzer.net/2025/codeberg.html",
+      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://unterwaditzer.net/2025...",
+      "score": 213
     },
     {
       "type": "HackerNews",
       "title": "European Parliament decided that Chat Control 1.0 must stop",
       "url": "https://bsky.app/profile/tuta.com/post/3mhxkfowv322c",
-      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://bsky.app/profile/tuta....",
-      "score": 82
+      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://bsky.app/profile/tuta....",
+      "score": 449
+    },
+    {
+      "type": "HackerNews",
+      "title": "Personal Encyclopedias",
+      "url": "https://whoami.wiki/blog/personal-encyclopedias",
+      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://whoami.wiki/blog/perso...",
+      "score": 599
     },
     {
       "type": "HackerNews",
       "title": "From zero to a RAG system: successes and failures",
       "url": "https://en.andros.dev/blog/aa31d744/from-zero-to-a-rag-system-successes-and-failures/",
-      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://en.andros.dev/blog/aa3...",
-      "score": 85
+      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://en.andros.dev/blog/aa3...",
+      "score": 189
     },
     {
       "type": "HackerNews",
-      "title": "Running Tesla Model 3's computer on my desk using parts from crashed cars",
-      "url": "https://bugs.xdavidhu.me/tesla/2026/03/23/running-tesla-model-3s-computer-on-my-desk-using-parts-from-crashed-cars/",
-      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://bugs.xdavidhu.me/tesla...",
-      "score": 698
+      "title": "Cory Doctorow: Interoperability Can Save the Open Web",
+      "url": "https://spectrum.ieee.org/doctorow-interoperability",
+      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://spectrum.ieee.org/doct...",
+      "score": 61
+    },
+    {
+      "type": "HackerNews",
+      "title": "My minute-by-minute response to the LiteLLM malware attack",
+      "url": "https://futuresearch.ai/blog/litellm-attack-transcript/",
+      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://futuresearch.ai/blog/l...",
+      "score": 9
     },
     {
       "type": "HackerNews",
       "title": "Landmark L.A. jury verdict finds Instagram, YouTube were designed to addict kids",
       "url": "https://www.latimes.com/california/story/2026-03-25/social-media-lawsuit-trial-meta-google-verdict",
-      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.latimes.com/califo...",
-      "score": 44
+      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.latimes.com/califo...",
+      "score": 243
     },
     {
       "type": "HackerNews",
-      "title": "Obsolete Sounds",
-      "url": "https://citiesandmemory.com/obsolete-sounds/",
-      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://citiesandmemory.com/ob...",
-      "score": 86
-    },
-    {
-      "type": "HackerNews",
-      "title": "End of \"Chat Control\": EU Parliament Stops Mass Surveillance in Voting Thriller",
-      "url": "https://www.patrick-breyer.de/en/end-of-chat-control-eu-parliament-stops-mass-surveillance-in-voting-thriller-paving-the-way-for-genuine-child-protection/",
-      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.patrick-breyer.de/...",
-      "score": 37
+      "title": "Newly purchased Vizio TVs now require Walmart accounts to use smart features",
+      "url": "https://arstechnica.com/gadgets/2026/03/newly-purchased-vizio-tvs-now-require-walmart-accounts-to-use-smart-features/",
+      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://arstechnica.com/gadget...",
+      "score": 104
     }
   ]
 }
