@@ -1,61 +1,61 @@
 {
-  "last_updated": "2026-03-26 05:07:15",
+  "last_updated": "2026-03-26 07:10:19",
   "news": [
     {
       "type": "HackerNews",
       "title": "Running Tesla Model 3's computer on my desk using parts from crashed cars",
       "url": "https://bugs.xdavidhu.me/tesla/2026/03/23/running-tesla-model-3s-computer-on-my-desk-using-parts-from-crashed-cars/",
-      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://bugs.xdavidhu.me/tesla...",
-      "score": 474
+      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://bugs.xdavidhu.me/tesla...",
+      "score": 544
     },
     {
       "type": "HackerNews",
       "title": "ARC-AGI-3",
       "url": "https://arcprize.org/arc-agi/3",
-      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://arcprize.org/arc-agi/3...",
-      "score": 313
+      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://arcprize.org/arc-agi/3...",
+      "score": 354
     },
     {
       "type": "HackerNews",
       "title": "My astrophotography in the movie Project Hail Mary",
       "url": "https://rpastro.square.site/s/stories/phm",
-      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://rpastro.square.site/s/...",
-      "score": 765
-    },
-    {
-      "type": "HackerNews",
-      "title": "False claims in a widely-cited paper",
-      "url": "https://statmodeling.stat.columbia.edu/2026/03/24/false-claims-in-a-published-no-corrections-no-consequences-welcome-to-the-business-school/",
-      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://statmodeling.stat.colu...",
-      "score": 201
-    },
-    {
-      "type": "HackerNews",
-      "title": "Two studies in compiler optimisations",
-      "url": "https://www.hmpcabral.com/2026/03/20/two-studies-in-compiler-optimisations/",
-      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.hmpcabral.com/2026...",
-      "score": 39
+      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://rpastro.square.site/s/...",
+      "score": 818
     },
     {
       "type": "HackerNews",
       "title": "Earthquake scientists reveal how overplowing weakens soil at experimental farm",
       "url": "https://www.washington.edu/news/2026/03/19/earthquake-scientists-reveal-how-overplowing-weakens-soil-at-experimental-farm/",
-      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.washington.edu/new...",
-      "score": 127
+      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.washington.edu/new...",
+      "score": 146
     },
     {
       "type": "HackerNews",
-      "title": "The EU still wants to scan  your private messages and photos",
-      "url": "https://fightchatcontrol.eu/?foo=bar",
-      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://fightchatcontrol.eu/?f...",
-      "score": 848
+      "title": "Two studies in compiler optimisations",
+      "url": "https://www.hmpcabral.com/2026/03/20/two-studies-in-compiler-optimisations/",
+      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.hmpcabral.com/2026...",
+      "score": 61
     },
     {
       "type": "HackerNews",
-      "title": "Show HN: Robust LLM Extractor for Websites in TypeScript",
-      "url": "https://github.com/lightfeed/extractor",
-      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://github.com/lightfeed/e...",
-      "score": 9
+      "title": "Ashby (YC W19) Is Hiring Engineers Who Make Product Decisions",
+      "url": "https://www.ashbyhq.com/careers?ashby_jid=c3c7125d-7883-4dff-a2bf-f5a55de4a364&utm_source=hn",
+      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.ashbyhq.com/career...",
+      "score": 1
+    },
+    {
+      "type": "HackerNews",
+      "title": "My DIY FPGA board can run Quake II",
+      "url": "https://blog.mikhe.ch/quake2-on-fpga/part4.html",
+      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://blog.mikhe.ch/quake2-o...",
+      "score": 120
+    },
+    {
+      "type": "HackerNews",
+      "title": "The truth that haunts the Ramones: 'They sold more T-shirts than records'",
+      "url": "https://english.elpais.com/culture/2026-03-17/the-uncomfortable-truth-that-will-always-haunt-the-ramones-they-sold-more-t-shirts-than-records.html",
+      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://english.elpais.com/cul...",
+      "score": 71
     }
   ]
 }
