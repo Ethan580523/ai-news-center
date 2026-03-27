@@ -1,61 +1,61 @@
 {
-  "last_updated": "2026-03-27 18:57:01",
+  "last_updated": "2026-03-27 21:35:34",
   "news": [
+    {
+      "type": "HackerNews",
+      "title": "Make macOS consistently bad (unironically)",
+      "url": "https://lr0.org/blog/p/macos/",
+      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://lr0.org/blog/p/macos/...",
+      "score": 163
+    },
+    {
+      "type": "HackerNews",
+      "title": "If you don't opt out by Apr 24 GitHub will train on your private repos",
+      "url": null,
+      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：...",
+      "score": 156
+    },
+    {
+      "type": "HackerNews",
+      "title": "Slovenia becomes first EU country to introduce fuel rationing",
+      "url": "https://www.bbc.com/news/articles/c77m4zx6zvmo",
+      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.bbc.com/news/artic...",
+      "score": 20
+    },
+    {
+      "type": "HackerNews",
+      "title": "Velxio 2.0 – Emulate Arduino, ESP32, and Raspberry Pi 3 in the Browser",
+      "url": "https://github.com/davidmonterocrespo24/velxio",
+      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://github.com/davidmonter...",
+      "score": 21
+    },
     {
       "type": "HackerNews",
       "title": "Anatomy of the .claude/ folder",
       "url": "https://blog.dailydoseofds.com/p/anatomy-of-the-claude-folder",
-      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://blog.dailydoseofds.com...",
-      "score": 228
+      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://blog.dailydoseofds.com...",
+      "score": 310
     },
     {
       "type": "HackerNews",
-      "title": "Installing a Let's Encrypt TLS Certificate on a Brother Printer with Certbot",
-      "url": "https://owltec.ca/Other/Installing+a+Let%27s+Encrypt+TLS+certificate+on+a+Brother+printer+automatically+with+Certbot+(%26+Cloudflare)",
-      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://owltec.ca/Other/Instal...",
-      "score": 136
+      "title": "Telnyx package compromised on PyPI",
+      "url": "https://telnyx.com/resources/telnyx-python-sdk-supply-chain-security-notice-march-2026",
+      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://telnyx.com/resources/t...",
+      "score": 55
     },
     {
       "type": "HackerNews",
-      "title": "Sand from Different Beaches in the World",
-      "url": "https://magnifiedsand.com/",
-      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://magnifiedsand.com/...",
-      "score": 78
+      "title": "ISBN Visualization – Annas Archive",
+      "url": "https://annas-archive.gd/isbn-visualization?",
+      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://annas-archive.gd/isbn-...",
+      "score": 20
     },
     {
       "type": "HackerNews",
-      "title": "Desk for people who work at home with a cat",
-      "url": "https://soranews24.com/2026/03/27/japan-now-has-a-special-desk-for-people-who-work-at-home-with-a-pet-catphotos/",
-      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://soranews24.com/2026/03...",
-      "score": 193
-    },
-    {
-      "type": "HackerNews",
-      "title": "PyPI package telnyx has been compromised in yet another supply chain attack",
-      "url": "https://www.aikido.dev/blog/telnyx-pypi-compromised-teampcp-canisterworm",
-      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.aikido.dev/blog/te...",
-      "score": 8
-    },
-    {
-      "type": "HackerNews",
-      "title": "Building FireStriker: Making Civic Tech Free",
-      "url": "https://firestriker.org/blog/building-firestriker-why-im-making-civic-tech-free",
-      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://firestriker.org/blog/b...",
-      "score": 23
-    },
-    {
-      "type": "HackerNews",
-      "title": "AI got the blame for the Iran school bombing. The truth is more worrying",
-      "url": "https://www.theguardian.com/news/2026/mar/26/ai-got-the-blame-for-the-iran-school-bombing-the-truth-is-far-more-worrying",
-      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.theguardian.com/ne...",
-      "score": 159
-    },
-    {
-      "type": "HackerNews",
-      "title": "Meow.camera",
-      "url": "https://meow.camera/#4258783365322591678",
-      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://meow.camera/#425878336...",
-      "score": 71
+      "title": "Nashville library launches Memory Lab for digitizing home movies",
+      "url": "https://www.axios.com/local/nashville/2026/03/16/nashville-library-digitize-home-movies",
+      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.axios.com/local/na...",
+      "score": 50
     }
   ]
 }
