@@ -1,61 +1,61 @@
 {
-  "last_updated": "2026-03-27 02:28:06",
+  "last_updated": "2026-03-27 05:07:17",
   "news": [
     {
       "type": "HackerNews",
-      "title": "Show HN: I put an AI agent on a $7/month VPS with IRC as its transport layer",
-      "url": "https://georgelarson.me/writing/2026-03-23-nullclaw-doorman/",
-      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://georgelarson.me/writin...",
-      "score": 107
+      "title": "Schedule Claude Code tasks on the web",
+      "url": "https://code.claude.com/docs/en/web-scheduled-tasks",
+      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://code.claude.com/docs/e...",
+      "score": 7
     },
     {
       "type": "HackerNews",
       "title": "Why so many control rooms were seafoam green (2025)",
       "url": "https://bethmathews.substack.com/p/why-so-many-control-rooms-were-seafoam",
-      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://bethmathews.substack.c...",
-      "score": 616
+      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://bethmathews.substack.c...",
+      "score": 695
     },
     {
       "type": "HackerNews",
-      "title": "Chicago artist creates tourism posters for city's neighborhoods",
-      "url": "https://www.chicagotribune.com/2026/03/25/chicago-neighborhood-posters/",
-      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.chicagotribune.com...",
-      "score": 55
+      "title": "Show HN: I put an AI agent on a $7/month VPS with IRC as its transport layer",
+      "url": "https://georgelarson.me/writing/2026-03-23-nullclaw-doorman/",
+      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://georgelarson.me/writin...",
+      "score": 160
     },
     {
       "type": "HackerNews",
-      "title": "Apple discontinues the Mac Pro with no plans for future hardware",
+      "title": "Apple discontinues the Mac Pro",
       "url": "https://9to5mac.com/2026/03/26/apple-discontinues-the-mac-pro/",
-      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://9to5mac.com/2026/03/26...",
-      "score": 106
+      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://9to5mac.com/2026/03/26...",
+      "score": 214
+    },
+    {
+      "type": "HackerNews",
+      "title": "From 0% to 36% on Day 1 of ARC-AGI-3",
+      "url": "https://www.symbolica.ai/blog/arc-agi-3",
+      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.symbolica.ai/blog/...",
+      "score": 55
     },
     {
       "type": "HackerNews",
       "title": "Judge blocks Pentagon effort to 'punish' Anthropic with supply chain risk label",
       "url": "https://www.cnn.com/2026/03/26/business/anthropic-pentagon-injunction-supply-chain-risk",
-      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.cnn.com/2026/03/26...",
-      "score": 190
+      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.cnn.com/2026/03/26...",
+      "score": 332
     },
     {
       "type": "HackerNews",
       "title": "Moving from GitHub to Codeberg, for lazy people",
       "url": "https://unterwaditzer.net/2025/codeberg.html",
       "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://unterwaditzer.net/2025...",
-      "score": 533
+      "score": 556
     },
     {
       "type": "HackerNews",
-      "title": "DOOM Over DNS",
-      "url": "https://github.com/resumex/doom-over-dns",
-      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://github.com/resumex/doo...",
-      "score": 216
-    },
-    {
-      "type": "HackerNews",
-      "title": "From 0% to 36% on Day 1 of ARC-AGI-3",
-      "url": "https://www.symbolica.ai/blog/arc-agi-3",
-      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.symbolica.ai/blog/...",
-      "score": 9
+      "title": "Chroma Context-1: Training a Self-Editing Search Agent",
+      "url": "https://www.trychroma.com/research/context-1",
+      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.trychroma.com/rese...",
+      "score": 26
     }
   ]
 }
