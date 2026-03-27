@@ -1,61 +1,61 @@
 {
-  "last_updated": "2026-03-27 07:09:04",
+  "last_updated": "2026-03-27 09:55:54",
   "news": [
+    {
+      "type": "HackerNews",
+      "title": "A Faster Alternative to Jq",
+      "url": "https://micahkepe.com/blog/jsongrep/",
+      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://micahkepe.com/blog/jso...",
+      "score": 105
+    },
     {
       "type": "HackerNews",
       "title": "Schedule tasks on the web",
       "url": "https://code.claude.com/docs/en/web-scheduled-tasks",
-      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://code.claude.com/docs/e...",
-      "score": 81
+      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://code.claude.com/docs/e...",
+      "score": 136
+    },
+    {
+      "type": "HackerNews",
+      "title": "The European AllSky7 fireball network",
+      "url": "https://www.allsky7.net/#archive",
+      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.allsky7.net/#archi...",
+      "score": 44
+    },
+    {
+      "type": "HackerNews",
+      "title": "Apple discontinues the Mac Pro",
+      "url": "https://9to5mac.com/2026/03/26/apple-discontinues-the-mac-pro/",
+      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://9to5mac.com/2026/03/26...",
+      "score": 354
     },
     {
       "type": "HackerNews",
       "title": "Why so many control rooms were seafoam green (2025)",
       "url": "https://bethmathews.substack.com/p/why-so-many-control-rooms-were-seafoam",
       "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://bethmathews.substack.c...",
-      "score": 750
-    },
-    {
-      "type": "HackerNews",
-      "title": "Apple discontinues the Mac Pro",
-      "url": "https://9to5mac.com/2026/03/26/apple-discontinues-the-mac-pro/",
-      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://9to5mac.com/2026/03/26...",
-      "score": 278
+      "score": 807
     },
     {
       "type": "HackerNews",
       "title": "Show HN: I put an AI agent on a $7/month VPS with IRC as its transport layer",
       "url": "https://georgelarson.me/writing/2026-03-23-nullclaw-doorman/",
-      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://georgelarson.me/writin...",
-      "score": 194
+      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://georgelarson.me/writin...",
+      "score": 241
     },
     {
       "type": "HackerNews",
-      "title": "The European AllSky7 fireball network",
-      "url": "https://www.allsky7.net/#archive",
-      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.allsky7.net/#archi...",
-      "score": 3
+      "title": "Everything old is new again: memory optimization",
+      "url": "https://nibblestew.blogspot.com/2026/03/everything-old-is-new-again-memory.html",
+      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://nibblestew.blogspot.co...",
+      "score": 18
     },
     {
       "type": "HackerNews",
       "title": "The Legibility of Serif and Sans Serif Typefaces (2022)",
       "url": "https://library.oapen.org//handle/20.500.12657/53344",
-      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://library.oapen.org//han...",
-      "score": 21
-    },
-    {
-      "type": "HackerNews",
-      "title": "From 0% to 36% on Day 1 of ARC-AGI-3",
-      "url": "https://www.symbolica.ai/blog/arc-agi-3",
-      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.symbolica.ai/blog/...",
-      "score": 71
-    },
-    {
-      "type": "HackerNews",
-      "title": "Dobase – Your workspace, your server",
-      "url": "https://dobase.co/",
-      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://dobase.co/...",
-      "score": 62
+      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://library.oapen.org//han...",
+      "score": 40
     }
   ]
 }
