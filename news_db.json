@@ -1,61 +1,61 @@
 {
-  "last_updated": "2026-03-27 13:08:19",
+  "last_updated": "2026-03-27 15:54:10",
   "news": [
     {
       "type": "HackerNews",
-      "title": "Hold on to Your Hardware",
-      "url": "https://xn--gckvb8fzb.com/hold-on-to-your-hardware/",
-      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://xn--gckvb8fzb.com/hold...",
-      "score": 248
+      "title": "Anatomy of the .claude/ Folder",
+      "url": "https://blog.dailydoseofds.com/p/anatomy-of-the-claude-folder",
+      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://blog.dailydoseofds.com...",
+      "score": 65
+    },
+    {
+      "type": "HackerNews",
+      "title": "Installing a Let's Encrypt TLS Certificate on a Brother Printer with Certbot",
+      "url": "https://owltec.ca/Other/Installing+a+Let%27s+Encrypt+TLS+certificate+on+a+Brother+printer+automatically+with+Certbot+(%26+Cloudflare)",
+      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://owltec.ca/Other/Instal...",
+      "score": 46
+    },
+    {
+      "type": "HackerNews",
+      "title": "The 'paperwork flood': How I drowned a bureaucrat before dinner",
+      "url": "https://sightlessscribbles.com/posts/the-paperwork-flood/",
+      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://sightlessscribbles.com...",
+      "score": 327
+    },
+    {
+      "type": "HackerNews",
+      "title": "Iran-linked hackers claim breach of FBI director's personal email",
+      "url": "https://www.reuters.com/world/us/iran-linked-hackers-claim-breach-of-fbi-directors-personal-email-doj-official-2026-03-27/",
+      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.reuters.com/world/...",
+      "score": 119
     },
     {
       "type": "HackerNews",
       "title": "A Faster Alternative to Jq",
       "url": "https://micahkepe.com/blog/jsongrep/",
       "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://micahkepe.com/blog/jso...",
-      "score": 203
+      "score": 275
+    },
+    {
+      "type": "HackerNews",
+      "title": "This picture broke my brain [3B1B video]",
+      "url": "https://www.youtube.com/watch?v=ldxFjLJ3rVY",
+      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.youtube.com/watch?...",
+      "score": 93
+    },
+    {
+      "type": "HackerNews",
+      "title": "Hold on to Your Hardware",
+      "url": "https://xn--gckvb8fzb.com/hold-on-to-your-hardware/",
+      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://xn--gckvb8fzb.com/hold...",
+      "score": 381
     },
     {
       "type": "HackerNews",
       "title": "Schedule tasks on the web",
       "url": "https://code.claude.com/docs/en/web-scheduled-tasks",
       "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://code.claude.com/docs/e...",
-      "score": 187
-    },
-    {
-      "type": "HackerNews",
-      "title": "Apple discontinues the Mac Pro",
-      "url": "https://9to5mac.com/2026/03/26/apple-discontinues-the-mac-pro/",
-      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://9to5mac.com/2026/03/26...",
-      "score": 462
-    },
-    {
-      "type": "HackerNews",
-      "title": "Why so many control rooms were seafoam green (2025)",
-      "url": "https://bethmathews.substack.com/p/why-so-many-control-rooms-were-seafoam",
-      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://bethmathews.substack.c...",
-      "score": 881
-    },
-    {
-      "type": "HackerNews",
-      "title": "The European AllSky7 fireball network",
-      "url": "https://www.allsky7.net/#archive",
-      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.allsky7.net/#archi...",
-      "score": 77
-    },
-    {
-      "type": "HackerNews",
-      "title": "Everything old is new again: memory optimization",
-      "url": "https://nibblestew.blogspot.com/2026/03/everything-old-is-new-again-memory.html",
-      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://nibblestew.blogspot.co...",
-      "score": 77
-    },
-    {
-      "type": "HackerNews",
-      "title": "Local Bernstein theory, and lower bounds for Lebesgue constants",
-      "url": "https://terrytao.wordpress.com/2026/03/23/local-bernstein-theory-and-lower-bounds-for-lebesgue-constants/",
-      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://terrytao.wordpress.com...",
-      "score": 20
+      "score": 233
     }
   ]
 }
