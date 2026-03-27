@@ -1,61 +1,61 @@
 {
-  "last_updated": "2026-03-26 21:32:21",
+  "last_updated": "2026-03-27 02:28:06",
   "news": [
     {
       "type": "HackerNews",
-      "title": "We haven't seen the worst of what gambling and prediction markets will do",
-      "url": "https://www.derekthompson.org/p/we-havent-seen-the-worst-of-what",
-      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.derekthompson.org/...",
-      "score": 322
-    },
-    {
-      "type": "HackerNews",
-      "title": "CERN to host Europe's flagship open access publishing platform",
-      "url": "https://home.cern/news/news/cern/cern-host-europes-flagship-open-access-publishing-platform",
-      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://home.cern/news/news/ce...",
-      "score": 123
-    },
-    {
-      "type": "HackerNews",
-      "title": "John Bradley, author of xv, has passed away",
-      "url": "https://voxday.net/2026/03/25/rip-john-bradley/",
-      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://voxday.net/2026/03/25/...",
-      "score": 134
+      "title": "Show HN: I put an AI agent on a $7/month VPS with IRC as its transport layer",
+      "url": "https://georgelarson.me/writing/2026-03-23-nullclaw-doorman/",
+      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://georgelarson.me/writin...",
+      "score": 107
     },
     {
       "type": "HackerNews",
       "title": "Why so many control rooms were seafoam green (2025)",
       "url": "https://bethmathews.substack.com/p/why-so-many-control-rooms-were-seafoam",
       "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://bethmathews.substack.c...",
-      "score": 367
+      "score": 616
     },
     {
       "type": "HackerNews",
-      "title": "The Little Book of C",
-      "url": "https://little-book-of.github.io/c/books/en-US/book.html",
-      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://little-book-of.github....",
-      "score": 19
+      "title": "Chicago artist creates tourism posters for city's neighborhoods",
+      "url": "https://www.chicagotribune.com/2026/03/25/chicago-neighborhood-posters/",
+      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.chicagotribune.com...",
+      "score": 55
     },
     {
       "type": "HackerNews",
-      "title": "Doom entirely from DNS records",
+      "title": "Apple discontinues the Mac Pro with no plans for future hardware",
+      "url": "https://9to5mac.com/2026/03/26/apple-discontinues-the-mac-pro/",
+      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://9to5mac.com/2026/03/26...",
+      "score": 106
+    },
+    {
+      "type": "HackerNews",
+      "title": "Judge blocks Pentagon effort to 'punish' Anthropic with supply chain risk label",
+      "url": "https://www.cnn.com/2026/03/26/business/anthropic-pentagon-injunction-supply-chain-risk",
+      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.cnn.com/2026/03/26...",
+      "score": 190
+    },
+    {
+      "type": "HackerNews",
+      "title": "Moving from GitHub to Codeberg, for lazy people",
+      "url": "https://unterwaditzer.net/2025/codeberg.html",
+      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://unterwaditzer.net/2025...",
+      "score": 533
+    },
+    {
+      "type": "HackerNews",
+      "title": "DOOM Over DNS",
       "url": "https://github.com/resumex/doom-over-dns",
-      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://github.com/resumex/doo...",
-      "score": 146
+      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://github.com/resumex/doo...",
+      "score": 216
     },
     {
       "type": "HackerNews",
-      "title": "My minute-by-minute response to the LiteLLM malware attack",
-      "url": "https://futuresearch.ai/blog/litellm-attack-transcript/",
-      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://futuresearch.ai/blog/l...",
-      "score": 226
-    },
-    {
-      "type": "HackerNews",
-      "title": "Fermented foods shaped human biology",
-      "url": "https://press.asimov.com/articles/culture-shift",
-      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://press.asimov.com/artic...",
-      "score": 87
+      "title": "From 0% to 36% on Day 1 of ARC-AGI-3",
+      "url": "https://www.symbolica.ai/blog/arc-agi-3",
+      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.symbolica.ai/blog/...",
+      "score": 9
     }
   ]
 }
