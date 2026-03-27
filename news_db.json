@@ -1,61 +1,61 @@
 {
-  "last_updated": "2026-03-27 15:54:10",
+  "last_updated": "2026-03-27 18:57:01",
   "news": [
     {
       "type": "HackerNews",
-      "title": "Anatomy of the .claude/ Folder",
+      "title": "Anatomy of the .claude/ folder",
       "url": "https://blog.dailydoseofds.com/p/anatomy-of-the-claude-folder",
-      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://blog.dailydoseofds.com...",
-      "score": 65
+      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://blog.dailydoseofds.com...",
+      "score": 228
     },
     {
       "type": "HackerNews",
       "title": "Installing a Let's Encrypt TLS Certificate on a Brother Printer with Certbot",
       "url": "https://owltec.ca/Other/Installing+a+Let%27s+Encrypt+TLS+certificate+on+a+Brother+printer+automatically+with+Certbot+(%26+Cloudflare)",
-      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://owltec.ca/Other/Instal...",
-      "score": 46
+      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://owltec.ca/Other/Instal...",
+      "score": 136
     },
     {
       "type": "HackerNews",
-      "title": "The 'paperwork flood': How I drowned a bureaucrat before dinner",
-      "url": "https://sightlessscribbles.com/posts/the-paperwork-flood/",
-      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://sightlessscribbles.com...",
-      "score": 327
+      "title": "Sand from Different Beaches in the World",
+      "url": "https://magnifiedsand.com/",
+      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://magnifiedsand.com/...",
+      "score": 78
     },
     {
       "type": "HackerNews",
-      "title": "Iran-linked hackers claim breach of FBI director's personal email",
-      "url": "https://www.reuters.com/world/us/iran-linked-hackers-claim-breach-of-fbi-directors-personal-email-doj-official-2026-03-27/",
-      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.reuters.com/world/...",
-      "score": 119
+      "title": "Desk for people who work at home with a cat",
+      "url": "https://soranews24.com/2026/03/27/japan-now-has-a-special-desk-for-people-who-work-at-home-with-a-pet-catphotos/",
+      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://soranews24.com/2026/03...",
+      "score": 193
     },
     {
       "type": "HackerNews",
-      "title": "A Faster Alternative to Jq",
-      "url": "https://micahkepe.com/blog/jsongrep/",
-      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://micahkepe.com/blog/jso...",
-      "score": 275
+      "title": "PyPI package telnyx has been compromised in yet another supply chain attack",
+      "url": "https://www.aikido.dev/blog/telnyx-pypi-compromised-teampcp-canisterworm",
+      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.aikido.dev/blog/te...",
+      "score": 8
     },
     {
       "type": "HackerNews",
-      "title": "This picture broke my brain [3B1B video]",
-      "url": "https://www.youtube.com/watch?v=ldxFjLJ3rVY",
-      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.youtube.com/watch?...",
-      "score": 93
+      "title": "Building FireStriker: Making Civic Tech Free",
+      "url": "https://firestriker.org/blog/building-firestriker-why-im-making-civic-tech-free",
+      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://firestriker.org/blog/b...",
+      "score": 23
     },
     {
       "type": "HackerNews",
-      "title": "Hold on to Your Hardware",
-      "url": "https://xn--gckvb8fzb.com/hold-on-to-your-hardware/",
-      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://xn--gckvb8fzb.com/hold...",
-      "score": 381
+      "title": "AI got the blame for the Iran school bombing. The truth is more worrying",
+      "url": "https://www.theguardian.com/news/2026/mar/26/ai-got-the-blame-for-the-iran-school-bombing-the-truth-is-far-more-worrying",
+      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.theguardian.com/ne...",
+      "score": 159
     },
     {
       "type": "HackerNews",
-      "title": "Schedule tasks on the web",
-      "url": "https://code.claude.com/docs/en/web-scheduled-tasks",
-      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://code.claude.com/docs/e...",
-      "score": 233
+      "title": "Meow.camera",
+      "url": "https://meow.camera/#4258783365322591678",
+      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://meow.camera/#425878336...",
+      "score": 71
     }
   ]
 }
