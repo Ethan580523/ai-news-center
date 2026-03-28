@@ -1,61 +1,61 @@
 {
-  "last_updated": "2026-03-28 18:41:33",
+  "last_updated": "2026-03-28 21:29:58",
   "news": [
     {
       "type": "HackerNews",
       "title": "Founder of GitLab battles cancer by founding companies",
       "url": "https://sytse.com/cancer/",
       "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://sytse.com/cancer/...",
-      "score": 131
+      "score": 421
+    },
+    {
+      "type": "HackerNews",
+      "title": "CSS is DOOMed",
+      "url": "https://nielsleenheer.com/articles/2026/css-is-doomed-rendering-doom-in-3d-with-css/",
+      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://nielsleenheer.com/arti...",
+      "score": 39
+    },
+    {
+      "type": "HackerNews",
+      "title": "Further human + AI + proof assistant work on Knuth's \"Claude Cycles\" problem",
+      "url": "https://twitter.com/BoWang87/status/2037648937453232504",
+      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://twitter.com/BoWang87/s...",
+      "score": 92
     },
     {
       "type": "HackerNews",
       "title": "Linux is an interpreter",
       "url": "https://astrid.tech/2026/03/28/0/linux-is-an-interpreter/",
       "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://astrid.tech/2026/03/28...",
-      "score": 58
+      "score": 122
     },
     {
       "type": "HackerNews",
       "title": "AI overly affirms users asking for personal advice",
       "url": "https://news.stanford.edu/stories/2026/03/ai-advice-sycophantic-models-research",
-      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://news.stanford.edu/stor...",
-      "score": 359
-    },
-    {
-      "type": "HackerNews",
-      "title": "I Built an Open-World Engine for the N64 [video]",
-      "url": "https://www.youtube.com/watch?v=lXxmIw9axWw",
-      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.youtube.com/watch?...",
-      "score": 245
-    },
-    {
-      "type": "HackerNews",
-      "title": "Spanish legislation as a Git repo",
-      "url": "https://github.com/EnriqueLop/legalize-es",
-      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://github.com/EnriqueLop/...",
-      "score": 598
-    },
-    {
-      "type": "HackerNews",
-      "title": "Cocoa-Way – Native macOS Wayland compositor for running Linux apps seamlessly",
-      "url": "https://github.com/J-x-Z/cocoa-way",
-      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://github.com/J-x-Z/cocoa...",
-      "score": 233
+      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://news.stanford.edu/stor...",
+      "score": 445
     },
     {
       "type": "HackerNews",
       "title": "I decompiled the White House's new app",
       "url": "https://thereallo.dev/blog/decompiling-the-white-house-app",
       "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://thereallo.dev/blog/dec...",
-      "score": 169
+      "score": 278
     },
     {
       "type": "HackerNews",
-      "title": "rpg.actor Game Jam",
-      "url": "https://rpg.actor/jam",
-      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://rpg.actor/jam...",
-      "score": 23
+      "title": "Detecting file changes on macOS with kqueue",
+      "url": "https://www.vegardstikbakke.com/kqueue/",
+      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.vegardstikbakke.co...",
+      "score": 46
+    },
+    {
+      "type": "HackerNews",
+      "title": "I Built an Open-World Engine for the N64 [video]",
+      "url": "https://www.youtube.com/watch?v=lXxmIw9axWw",
+      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.youtube.com/watch?...",
+      "score": 291
     }
   ]
 }
