@@ -1,61 +1,61 @@
 {
-  "last_updated": "2026-03-28 15:32:07",
+  "last_updated": "2026-03-28 18:41:33",
   "news": [
     {
       "type": "HackerNews",
-      "title": "I put all 8,642 Spanish laws in Git – every reform is a commit",
-      "url": "https://github.com/EnriqueLop/legalize-es",
-      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://github.com/EnriqueLop/...",
-      "score": 394
+      "title": "Founder of GitLab battles cancer by founding companies",
+      "url": "https://sytse.com/cancer/",
+      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://sytse.com/cancer/...",
+      "score": 131
     },
     {
       "type": "HackerNews",
-      "title": "Britain today generating 90%+ of electricity from renewables",
-      "url": "https://grid.iamkate.com/",
-      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://grid.iamkate.com/...",
-      "score": 250
+      "title": "Linux is an interpreter",
+      "url": "https://astrid.tech/2026/03/28/0/linux-is-an-interpreter/",
+      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://astrid.tech/2026/03/28...",
+      "score": 58
     },
     {
       "type": "HackerNews",
-      "title": "AI chatbots are \"Yes-Men\" that reinforce bad relationship decisions, study finds",
+      "title": "AI overly affirms users asking for personal advice",
       "url": "https://news.stanford.edu/stories/2026/03/ai-advice-sycophantic-models-research",
-      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://news.stanford.edu/stor...",
-      "score": 89
+      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://news.stanford.edu/stor...",
+      "score": 359
     },
     {
       "type": "HackerNews",
       "title": "I Built an Open-World Engine for the N64 [video]",
       "url": "https://www.youtube.com/watch?v=lXxmIw9axWw",
-      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.youtube.com/watch?...",
-      "score": 139
+      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.youtube.com/watch?...",
+      "score": 245
+    },
+    {
+      "type": "HackerNews",
+      "title": "Spanish legislation as a Git repo",
+      "url": "https://github.com/EnriqueLop/legalize-es",
+      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://github.com/EnriqueLop/...",
+      "score": 598
     },
     {
       "type": "HackerNews",
       "title": "Cocoa-Way – Native macOS Wayland compositor for running Linux apps seamlessly",
       "url": "https://github.com/J-x-Z/cocoa-way",
       "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://github.com/J-x-Z/cocoa...",
-      "score": 172
+      "score": 233
     },
     {
       "type": "HackerNews",
-      "title": "CERN uses tiny AI models burned into silicon for real-time LHC data filtering",
-      "url": "https://theopenreader.org/Journalism:CERN_Uses_Tiny_AI_Models_Burned_into_Silicon_for_Real-Time_LHC_Data_Filtering",
-      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://theopenreader.org/Jour...",
-      "score": 192
+      "title": "I decompiled the White House's new app",
+      "url": "https://thereallo.dev/blog/decompiling-the-white-house-app",
+      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://thereallo.dev/blog/dec...",
+      "score": 169
     },
     {
       "type": "HackerNews",
-      "title": "Folk are getting dangerously attached to AI that always tells them they're right",
-      "url": "https://www.theregister.com/2026/03/27/sycophantic_ai_risks/",
-      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.theregister.com/20...",
-      "score": 35
-    },
-    {
-      "type": "HackerNews",
-      "title": "Improved Git Diffs with Delta, Fzf and a Little Shell Scripting",
-      "url": "https://nickjanetakis.com/blog/awesome-git-diffs-with-delta-fzf-and-a-little-shell-scripting",
-      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://nickjanetakis.com/blog...",
-      "score": 29
+      "title": "rpg.actor Game Jam",
+      "url": "https://rpg.actor/jam",
+      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://rpg.actor/jam...",
+      "score": 23
     }
   ]
 }
