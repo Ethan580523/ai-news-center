@@ -1,61 +1,61 @@
 {
-  "last_updated": "2026-03-29 05:11:16",
+  "last_updated": "2026-03-29 07:04:18",
   "news": [
     {
       "type": "HackerNews",
       "title": "Founder of GitLab battles cancer by founding companies",
       "url": "https://sytse.com/cancer/",
-      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://sytse.com/cancer/...",
-      "score": 823
+      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://sytse.com/cancer/...",
+      "score": 896
     },
     {
       "type": "HackerNews",
       "title": "OpenYak – An open-source Cowork that runs any model and owns your filesystem",
       "url": "https://github.com/openyak/desktop",
-      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://github.com/openyak/des...",
-      "score": 12
+      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://github.com/openyak/des...",
+      "score": 57
     },
     {
       "type": "HackerNews",
       "title": "CSS is DOOMed",
       "url": "https://nielsleenheer.com/articles/2026/css-is-doomed-rendering-doom-in-3d-with-css/",
-      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://nielsleenheer.com/arti...",
-      "score": 247
+      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://nielsleenheer.com/arti...",
+      "score": 274
     },
     {
       "type": "HackerNews",
       "title": "AI overly affirms users asking for personal advice",
       "url": "https://news.stanford.edu/stories/2026/03/ai-advice-sycophantic-models-research",
       "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://news.stanford.edu/stor...",
-      "score": 576
+      "score": 600
     },
     {
       "type": "HackerNews",
-      "title": "OpenBSD on Motorola 88000 Processors",
-      "url": "http://miod.online.fr/software/openbsd/stories/m88k1.html",
-      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：http://miod.online.fr/software...",
-      "score": 70
+      "title": "Alzheimer's disease mortality among taxi and ambulance drivers (2024)",
+      "url": "https://www.bmj.com/content/387/bmj-2024-082194",
+      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.bmj.com/content/38...",
+      "score": 95
     },
     {
       "type": "HackerNews",
-      "title": "Further human + AI + proof assistant work on Knuth's \"Claude Cycles\" problem",
-      "url": "https://twitter.com/BoWang87/status/2037648937453232504",
-      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://twitter.com/BoWang87/s...",
-      "score": 178
+      "title": "The ANSI art \"telecomics\" of the 1992 election",
+      "url": "https://breakintochat.com/blog/2026/03/25/don-lokke-and-mack-the-mouse/",
+      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://breakintochat.com/blog...",
+      "score": 20
     },
     {
       "type": "HackerNews",
       "title": "A Verilog to Factorio Compiler and Simulator (Working RISC-V CPU)",
       "url": "https://github.com/ben-j-c/verilog2factorio",
-      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://github.com/ben-j-c/ver...",
-      "score": 33
+      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://github.com/ben-j-c/ver...",
+      "score": 50
     },
     {
       "type": "HackerNews",
-      "title": "The 667MHz Machine",
-      "url": "https://www.0xsid.com/blog/667mhz-machine",
-      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.0xsid.com/blog/667...",
-      "score": 33
+      "title": "OpenBSD on Motorola 88000 Processors",
+      "url": "http://miod.online.fr/software/openbsd/stories/m88k1.html",
+      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：http://miod.online.fr/software...",
+      "score": 78
     }
   ]
 }
