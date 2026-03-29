@@ -1,61 +1,61 @@
 {
-  "last_updated": "2026-03-29 12:57:41",
+  "last_updated": "2026-03-29 15:32:56",
   "news": [
     {
       "type": "HackerNews",
       "title": "Overestimation of microplastics potentially caused by scientists' gloves",
       "url": "https://news.umich.edu/nitrile-and-latex-gloves-may-cause-overestimation-of-microplastics-u-m-study-reveals/",
-      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://news.umich.edu/nitrile...",
-      "score": 102
+      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://news.umich.edu/nitrile...",
+      "score": 312
     },
     {
       "type": "HackerNews",
       "title": "Miasma: A tool to trap AI web scrapers in an endless poison pit",
       "url": "https://github.com/austin-weeks/miasma",
-      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://github.com/austin-week...",
-      "score": 42
+      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://github.com/austin-week...",
+      "score": 146
+    },
+    {
+      "type": "HackerNews",
+      "title": "Building a Mostly IPv6 Only Home Network",
+      "url": "https://varunpriolkar.com/2026/03/building-a-mostly-ipv6-only-home-network/",
+      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://varunpriolkar.com/2026...",
+      "score": 28
     },
     {
       "type": "HackerNews",
       "title": "Founder of GitLab battles cancer by founding companies",
       "url": "https://sytse.com/cancer/",
-      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://sytse.com/cancer/...",
-      "score": 1152
+      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://sytse.com/cancer/...",
+      "score": 1234
     },
     {
       "type": "HackerNews",
-      "title": "The Cloud: The dystopian book that changed Germany (2022)",
-      "url": "https://www.bbc.com/culture/article/20221101-the-cloud-the-nuclear-novel-that-shaped-germany",
-      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.bbc.com/culture/ar...",
-      "score": 7
+      "title": "LinkedIn uses 2.4 GB RAM across two tabs",
+      "url": null,
+      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：...",
+      "score": 201
     },
     {
       "type": "HackerNews",
       "title": "Technology: The (nearly) perfect USB cable tester does exist",
       "url": "https://blog.literarily-starved.com/2026/02/technology-the-nearly-perfect-usb-cable-tester-does-exist/",
       "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://blog.literarily-starve...",
-      "score": 114
+      "score": 167
     },
     {
       "type": "HackerNews",
-      "title": "Show HN: Create a full language server in Go with 3.17 spec support",
-      "url": "https://github.com/owenrumney/go-lsp",
-      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://github.com/owenrumney/...",
-      "score": 8
+      "title": "Police used AI facial recognition to wrongly arrest TN woman for crimes in ND",
+      "url": "https://www.cnn.com/2026/03/29/us/angela-lipps-ai-facial-recognition",
+      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.cnn.com/2026/03/29...",
+      "score": 40
     },
     {
       "type": "HackerNews",
-      "title": "AI overly affirms users asking for personal advice",
-      "url": "https://news.stanford.edu/stories/2026/03/ai-advice-sycophantic-models-research",
-      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://news.stanford.edu/stor...",
-      "score": 678
-    },
-    {
-      "type": "HackerNews",
-      "title": "CSS is DOOMed",
-      "url": "https://nielsleenheer.com/articles/2026/css-is-doomed-rendering-doom-in-3d-with-css/",
-      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://nielsleenheer.com/arti...",
-      "score": 390
+      "title": "The Failure of the Thermodynamics of Computation(2010)",
+      "url": "https://sites.pitt.edu/~jdnorton/Goodies/Idealization/index.html",
+      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://sites.pitt.edu/~jdnort...",
+      "score": 21
     }
   ]
 }
