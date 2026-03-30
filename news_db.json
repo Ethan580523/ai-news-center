@@ -1,61 +1,61 @@
 {
-  "last_updated": "2026-03-30 19:01:30",
+  "last_updated": "2026-03-30 21:42:19",
   "news": [
     {
       "type": "HackerNews",
-      "title": "How to turn anything into a router",
-      "url": "https://nbailey.ca/post/router/",
-      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://nbailey.ca/post/router...",
-      "score": 414
-    },
-    {
-      "type": "HackerNews",
-      "title": "Bird brains (2023)",
-      "url": "https://www.dhanishsemar.com/writing/bird-brains",
-      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.dhanishsemar.com/w...",
-      "score": 238
-    },
-    {
-      "type": "HackerNews",
-      "title": "Cherri – programming language that compiles to an Apple Shortuct",
-      "url": "https://github.com/electrikmilk/cherri",
-      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://github.com/electrikmil...",
-      "score": 93
-    },
-    {
-      "type": "HackerNews",
-      "title": "OCR for construction documents does not work, we fixed it",
-      "url": "https://www.getanchorgrid.com/developer/docs/endpoints/drawings-doors",
-      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.getanchorgrid.com/...",
-      "score": 56
+      "title": "Fedware: Government apps that spy harder than the apps they ban",
+      "url": "https://www.sambent.com/the-white-house-app-has-huawei-spyware-and-an-ice-tip-line/",
+      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.sambent.com/the-wh...",
+      "score": 263
     },
     {
       "type": "HackerNews",
       "title": "Do your own writing",
       "url": "https://alexhwoods.com/dont-let-ai-write-for-you/",
       "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://alexhwoods.com/dont-le...",
-      "score": 28
+      "score": 231
     },
     {
       "type": "HackerNews",
-      "title": "A sea of sparks: Seeing radioactivity",
-      "url": "https://maurycyz.com/projects/spinthariscope/",
-      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://maurycyz.com/projects/...",
-      "score": 9
+      "title": "Turning a MacBook into a touchscreen with $1 of hardware (2018)",
+      "url": "https://anishathalye.com/macbook-touchscreen/",
+      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://anishathalye.com/macbo...",
+      "score": 91
     },
     {
       "type": "HackerNews",
-      "title": "CodingFont: A game to help you pick a coding font",
-      "url": "https://www.codingfont.com/",
-      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.codingfont.com/...",
-      "score": 167
+      "title": "How to turn anything into a router",
+      "url": "https://nbailey.ca/post/router/",
+      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://nbailey.ca/post/router...",
+      "score": 517
     },
     {
       "type": "HackerNews",
-      "title": "Build123d: A Python CAD programming library",
-      "url": "https://github.com/gumyr/build123d",
-      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://github.com/gumyr/build...",
-      "score": 74
+      "title": "Learn Claude Code by doing, not reading",
+      "url": "https://claude.nagdy.me/",
+      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://claude.nagdy.me/...",
+      "score": 21
+    },
+    {
+      "type": "HackerNews",
+      "title": "Bird brains (2023)",
+      "url": "https://www.dhanishsemar.com/writing/bird-brains",
+      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.dhanishsemar.com/w...",
+      "score": 270
+    },
+    {
+      "type": "HackerNews",
+      "title": "Cherri – programming language that compiles to an Apple Shortuct",
+      "url": "https://github.com/electrikmilk/cherri",
+      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://github.com/electrikmil...",
+      "score": 192
+    },
+    {
+      "type": "HackerNews",
+      "title": "Agents of Chaos",
+      "url": "https://agentsofchaos.baulab.info/report.html",
+      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://agentsofchaos.baulab.i...",
+      "score": 12
     }
   ]
 }
