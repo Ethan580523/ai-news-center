@@ -1,61 +1,61 @@
 {
-  "last_updated": "2026-03-30 05:25:52",
+  "last_updated": "2026-03-30 07:43:32",
   "news": [
     {
       "type": "HackerNews",
-      "title": "Copilot Edited an Ad into My PR",
-      "url": "https://notes.zachmanson.com/copilot-edited-an-ad-into-my-pr/",
-      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://notes.zachmanson.com/c...",
-      "score": 28
+      "title": "The curious case of retro demo scene graphics",
+      "url": "https://www.datagubbe.se/aipixels/",
+      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.datagubbe.se/aipix...",
+      "score": 83
     },
     {
       "type": "HackerNews",
       "title": "ChatGPT won't let you type until Cloudflare reads your React state",
       "url": "https://www.buchodi.com/chatgpt-wont-let-you-type-until-cloudflare-reads-your-react-state-i-decrypted-the-program-that-does-it/",
       "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.buchodi.com/chatgp...",
-      "score": 427
+      "score": 563
+    },
+    {
+      "type": "HackerNews",
+      "title": "Hamilton-Jacobi-Bellman Equation: Reinforcement Learning and Diffusion Models",
+      "url": "https://dani2442.github.io/posts/continuous-rl/",
+      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://dani2442.github.io/pos...",
+      "score": 4
+    },
+    {
+      "type": "HackerNews",
+      "title": "I use excalidraw to manage my diagrams for my blog",
+      "url": "https://blog.lysk.tech/excalidraw-frame-export/",
+      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://blog.lysk.tech/excalid...",
+      "score": 4
+    },
+    {
+      "type": "HackerNews",
+      "title": "VHDL's Crown Jewel",
+      "url": "https://www.sigasi.com/opinion/jan/vhdls-crown-jewel/",
+      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.sigasi.com/opinion...",
+      "score": 33
+    },
+    {
+      "type": "HackerNews",
+      "title": "Copilot edited an ad into my PR",
+      "url": "https://notes.zachmanson.com/copilot-edited-an-ad-into-my-pr/",
+      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://notes.zachmanson.com/c...",
+      "score": 381
     },
     {
       "type": "HackerNews",
       "title": "Voyager 1 runs on 69 KB of memory and an 8-track tape recorder",
       "url": "https://techfixated.com/a-1977-time-capsule-voyager-1-runs-on-69-kb-of-memory-and-an-8-track-tape-recorder-4/",
-      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://techfixated.com/a-1977...",
-      "score": 454
-    },
-    {
-      "type": "HackerNews",
-      "title": "Philly courts will ban all smart eyeglasses starting next week",
-      "url": "https://www.inquirer.com/news/philadelphia/smart-glasses-ai-meta-courts-20260326.html",
-      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.inquirer.com/news/...",
-      "score": 147
+      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://techfixated.com/a-1977...",
+      "score": 506
     },
     {
       "type": "HackerNews",
       "title": "15 Years of Forking",
       "url": "https://www.waterfox.com/blog/15-years-of-forking/",
-      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.waterfox.com/blog/...",
-      "score": 96
-    },
-    {
-      "type": "HackerNews",
-      "title": "New Apple Silicon M4 and M5 HiDPI Limitation on 4K External Displays",
-      "url": "https://smcleod.net/2026/03/new-apple-silicon-m4-m5-hidpi-limitation-on-4k-external-displays/",
-      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://smcleod.net/2026/03/ne...",
-      "score": 196
-    },
-    {
-      "type": "HackerNews",
-      "title": "The Cognitive Dark Forest",
-      "url": "https://ryelang.org/blog/posts/cognitive-dark-forest/",
-      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://ryelang.org/blog/posts...",
-      "score": 363
-    },
-    {
-      "type": "HackerNews",
-      "title": "Pretext: TypeScript library for multiline text measurement and layout",
-      "url": "https://github.com/chenglou/pretext",
-      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://github.com/chenglou/pr...",
-      "score": 251
+      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.waterfox.com/blog/...",
+      "score": 144
     }
   ]
 }
