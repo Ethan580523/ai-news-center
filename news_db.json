@@ -1,61 +1,61 @@
 {
-  "last_updated": "2026-03-29 21:32:57",
+  "last_updated": "2026-03-30 02:33:45",
   "news": [
     {
       "type": "HackerNews",
-      "title": "ChatGPT Won't Let You Type Until Cloudflare Reads Your React State",
-      "url": "https://www.buchodi.com/chatgpt-wont-let-you-type-until-cloudflare-reads-your-react-state-i-decrypted-the-program-that-does-it/",
-      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.buchodi.com/chatgp...",
-      "score": 96
+      "title": "The Cognitive Dark Forest",
+      "url": "https://ryelang.org/blog/posts/cognitive-dark-forest/",
+      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://ryelang.org/blog/posts...",
+      "score": 276
+    },
+    {
+      "type": "HackerNews",
+      "title": "Philly courts will ban all smart eyeglasses starting next week",
+      "url": "https://www.inquirer.com/news/philadelphia/smart-glasses-ai-meta-courts-20260326.html",
+      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.inquirer.com/news/...",
+      "score": 53
     },
     {
       "type": "HackerNews",
       "title": "Voyager 1 runs on 69 KB of memory and an 8-track tape recorder",
       "url": "https://techfixated.com/a-1977-time-capsule-voyager-1-runs-on-69-kb-of-memory-and-an-8-track-tape-recorder-4/",
-      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://techfixated.com/a-1977...",
-      "score": 309
+      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://techfixated.com/a-1977...",
+      "score": 404
+    },
+    {
+      "type": "HackerNews",
+      "title": "ChatGPT won't let you type until Cloudflare reads your React state",
+      "url": "https://www.buchodi.com/chatgpt-wont-let-you-type-until-cloudflare-reads-your-react-state-i-decrypted-the-program-that-does-it/",
+      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.buchodi.com/chatgp...",
+      "score": 348
+    },
+    {
+      "type": "HackerNews",
+      "title": "15 Years of Forking",
+      "url": "https://www.waterfox.com/blog/15-years-of-forking/",
+      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.waterfox.com/blog/...",
+      "score": 54
+    },
+    {
+      "type": "HackerNews",
+      "title": "Claude Code runs Git reset –hard origin/main against project repo every 10 mins",
+      "url": "https://github.com/anthropics/claude-code/issues/40710",
+      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://github.com/anthropics/...",
+      "score": 186
     },
     {
       "type": "HackerNews",
       "title": "Midnight train from GA: A view of America from the tracks as airports struggle",
       "url": "https://isp.netscape.com/news/story/0001/20260329/e4d8ea591b3b036142c2bf2dee7dff5a",
-      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://isp.netscape.com/news/...",
-      "score": 32
-    },
-    {
-      "type": "HackerNews",
-      "title": "The Cognitive Dark Forest",
-      "url": "https://ryelang.org/blog/posts/cognitive-dark-forest/",
-      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://ryelang.org/blog/posts...",
-      "score": 89
-    },
-    {
-      "type": "HackerNews",
-      "title": "C++26 is done ISO C++ standards meeting, Trip Report",
-      "url": "https://herbsutter.com/2026/03/29/c26-is-done-trip-report-march-2026-iso-c-standards-meeting-london-croydon-uk/",
-      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://herbsutter.com/2026/03...",
-      "score": 114
+      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://isp.netscape.com/news/...",
+      "score": 74
     },
     {
       "type": "HackerNews",
       "title": "Pretext: TypeScript library for multiline text measurement and layout",
       "url": "https://github.com/chenglou/pretext",
       "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://github.com/chenglou/pr...",
-      "score": 138
-    },
-    {
-      "type": "HackerNews",
-      "title": "The RISE RISC-V Runners: free, native RISC-V CI on GitHub",
-      "url": "https://riseproject.dev/2026/03/24/announcing-the-rise-risc-v-runners-free-native-risc-v-ci-on-github/",
-      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://riseproject.dev/2026/0...",
-      "score": 92
-    },
-    {
-      "type": "HackerNews",
-      "title": "Neovim 0.12.0",
-      "url": "https://github.com/neovim/neovim/releases/tag/v0.12.0",
-      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://github.com/neovim/neov...",
-      "score": 213
+      "score": 206
     }
   ]
 }
