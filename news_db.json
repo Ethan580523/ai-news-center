@@ -1,61 +1,61 @@
 {
-  "last_updated": "2026-03-30 13:22:05",
+  "last_updated": "2026-03-30 16:05:55",
   "news": [
     {
       "type": "HackerNews",
-      "title": "How the AI Bubble Bursts",
-      "url": "https://martinvol.pe/blog/2026/03/30/how-the-ai-bubble-bursts/",
-      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://martinvol.pe/blog/2026...",
-      "score": 116
+      "title": "How to Turn Anything into a Router",
+      "url": "https://nbailey.ca/post/router/",
+      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://nbailey.ca/post/router...",
+      "score": 199
     },
     {
       "type": "HackerNews",
-      "title": "Ghostmoon.app – The Swiss Army Knife for your macOS menu bar",
-      "url": "https://www.mgrunwald.com/ghostmoon/",
-      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.mgrunwald.com/ghos...",
-      "score": 67
+      "title": "Parrots pack twice as many neurons as primate brains of the same mass",
+      "url": "https://www.dhanishsemar.com/writing/bird-brains",
+      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.dhanishsemar.com/w...",
+      "score": 143
+    },
+    {
+      "type": "HackerNews",
+      "title": "72% of the dollar's purchasing power was destroyed in just four episodes",
+      "url": "https://eco3min.fr/en/us-inflation-is-not-linear/",
+      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://eco3min.fr/en/us-infla...",
+      "score": 66
+    },
+    {
+      "type": "HackerNews",
+      "title": "CodingFont: A game to help you pick a coding font",
+      "url": "https://www.codingfont.com/",
+      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.codingfont.com/...",
+      "score": 11
+    },
+    {
+      "type": "HackerNews",
+      "title": "\"Over 1.5 million GitHub PRs have had ads injected into them by Copilot\"",
+      "url": "https://www.neowin.net/news/microsoft-copilot-is-now-injecting-ads-into-pull-requests-on-github-gitlab/",
+      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.neowin.net/news/mi...",
+      "score": 111
+    },
+    {
+      "type": "HackerNews",
+      "title": "Build123d: A Python CAD programming library",
+      "url": "https://github.com/gumyr/build123d",
+      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://github.com/gumyr/build...",
+      "score": 21
     },
     {
       "type": "HackerNews",
       "title": "Mathematical methods and human thought in the age of AI",
       "url": "https://arxiv.org/abs/2603.26524",
-      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://arxiv.org/abs/2603.265...",
-      "score": 53
+      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://arxiv.org/abs/2603.265...",
+      "score": 123
     },
     {
       "type": "HackerNews",
       "title": "The curious case of retro demo scene graphics",
       "url": "https://www.datagubbe.se/aipixels/",
       "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.datagubbe.se/aipix...",
-      "score": 242
-    },
-    {
-      "type": "HackerNews",
-      "title": "I use excalidraw to manage my diagrams for my blog",
-      "url": "https://blog.lysk.tech/excalidraw-frame-export/",
-      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://blog.lysk.tech/excalid...",
-      "score": 129
-    },
-    {
-      "type": "HackerNews",
-      "title": "ChatGPT won't let you type until Cloudflare reads your React state",
-      "url": "https://www.buchodi.com/chatgpt-wont-let-you-type-until-cloudflare-reads-your-react-state-i-decrypted-the-program-that-does-it/",
-      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.buchodi.com/chatgp...",
-      "score": 762
-    },
-    {
-      "type": "HackerNews",
-      "title": "Comprehensive C++ Hashmap Benchmarks (2022)",
-      "url": "https://martin.ankerl.com/2022/08/27/hashmap-bench-01/",
-      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://martin.ankerl.com/2022...",
-      "score": 19
-    },
-    {
-      "type": "HackerNews",
-      "title": "Hamilton-Jacobi-Bellman Equation: Reinforcement Learning and Diffusion Models",
-      "url": "https://dani2442.github.io/posts/continuous-rl/",
-      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://dani2442.github.io/pos...",
-      "score": 79
+      "score": 295
     }
   ]
 }
