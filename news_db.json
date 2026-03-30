@@ -1,61 +1,61 @@
 {
-  "last_updated": "2026-03-30 16:05:55",
+  "last_updated": "2026-03-30 19:01:30",
   "news": [
     {
       "type": "HackerNews",
-      "title": "How to Turn Anything into a Router",
+      "title": "How to turn anything into a router",
       "url": "https://nbailey.ca/post/router/",
-      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://nbailey.ca/post/router...",
-      "score": 199
+      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://nbailey.ca/post/router...",
+      "score": 414
     },
     {
       "type": "HackerNews",
-      "title": "Parrots pack twice as many neurons as primate brains of the same mass",
+      "title": "Bird brains (2023)",
       "url": "https://www.dhanishsemar.com/writing/bird-brains",
-      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.dhanishsemar.com/w...",
-      "score": 143
+      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.dhanishsemar.com/w...",
+      "score": 238
     },
     {
       "type": "HackerNews",
-      "title": "72% of the dollar's purchasing power was destroyed in just four episodes",
-      "url": "https://eco3min.fr/en/us-inflation-is-not-linear/",
-      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://eco3min.fr/en/us-infla...",
-      "score": 66
+      "title": "Cherri – programming language that compiles to an Apple Shortuct",
+      "url": "https://github.com/electrikmilk/cherri",
+      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://github.com/electrikmil...",
+      "score": 93
+    },
+    {
+      "type": "HackerNews",
+      "title": "OCR for construction documents does not work, we fixed it",
+      "url": "https://www.getanchorgrid.com/developer/docs/endpoints/drawings-doors",
+      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.getanchorgrid.com/...",
+      "score": 56
+    },
+    {
+      "type": "HackerNews",
+      "title": "Do your own writing",
+      "url": "https://alexhwoods.com/dont-let-ai-write-for-you/",
+      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://alexhwoods.com/dont-le...",
+      "score": 28
+    },
+    {
+      "type": "HackerNews",
+      "title": "A sea of sparks: Seeing radioactivity",
+      "url": "https://maurycyz.com/projects/spinthariscope/",
+      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://maurycyz.com/projects/...",
+      "score": 9
     },
     {
       "type": "HackerNews",
       "title": "CodingFont: A game to help you pick a coding font",
       "url": "https://www.codingfont.com/",
-      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.codingfont.com/...",
-      "score": 11
-    },
-    {
-      "type": "HackerNews",
-      "title": "\"Over 1.5 million GitHub PRs have had ads injected into them by Copilot\"",
-      "url": "https://www.neowin.net/news/microsoft-copilot-is-now-injecting-ads-into-pull-requests-on-github-gitlab/",
-      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.neowin.net/news/mi...",
-      "score": 111
+      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.codingfont.com/...",
+      "score": 167
     },
     {
       "type": "HackerNews",
       "title": "Build123d: A Python CAD programming library",
       "url": "https://github.com/gumyr/build123d",
       "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://github.com/gumyr/build...",
-      "score": 21
-    },
-    {
-      "type": "HackerNews",
-      "title": "Mathematical methods and human thought in the age of AI",
-      "url": "https://arxiv.org/abs/2603.26524",
-      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://arxiv.org/abs/2603.265...",
-      "score": 123
-    },
-    {
-      "type": "HackerNews",
-      "title": "The curious case of retro demo scene graphics",
-      "url": "https://www.datagubbe.se/aipixels/",
-      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.datagubbe.se/aipix...",
-      "score": 295
+      "score": 74
     }
   ]
 }
