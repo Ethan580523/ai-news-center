@@ -1,60 +1,60 @@
 {
-  "last_updated": "2026-03-30 21:42:19",
+  "last_updated": "2026-03-31 02:28:32",
   "news": [
+    {
+      "type": "HackerNews",
+      "title": "Universal Claude.md – cut Claude output tokens by 63%",
+      "url": "https://github.com/drona23/claude-token-efficient",
+      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://github.com/drona23/cla...",
+      "score": 56
+    },
     {
       "type": "HackerNews",
       "title": "Fedware: Government apps that spy harder than the apps they ban",
       "url": "https://www.sambent.com/the-white-house-app-has-huawei-spyware-and-an-ice-tip-line/",
       "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.sambent.com/the-wh...",
-      "score": 263
+      "score": 434
+    },
+    {
+      "type": "HackerNews",
+      "title": "Android Developer Verification",
+      "url": "https://android-developers.googleblog.com/2026/03/android-developer-verification-rolling-out-to-all-developers.html",
+      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://android-developers.goo...",
+      "score": 153
     },
     {
       "type": "HackerNews",
       "title": "Do your own writing",
       "url": "https://alexhwoods.com/dont-let-ai-write-for-you/",
       "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://alexhwoods.com/dont-le...",
-      "score": 231
+      "score": 379
     },
     {
       "type": "HackerNews",
       "title": "Turning a MacBook into a touchscreen with $1 of hardware (2018)",
       "url": "https://anishathalye.com/macbook-touchscreen/",
       "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://anishathalye.com/macbo...",
-      "score": 91
+      "score": 210
+    },
+    {
+      "type": "HackerNews",
+      "title": "Learn Claude Code by doing, not reading",
+      "url": "https://claude.nagdy.me/",
+      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://claude.nagdy.me/...",
+      "score": 161
     },
     {
       "type": "HackerNews",
       "title": "How to turn anything into a router",
       "url": "https://nbailey.ca/post/router/",
       "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://nbailey.ca/post/router...",
-      "score": 517
+      "score": 597
     },
     {
       "type": "HackerNews",
-      "title": "Learn Claude Code by doing, not reading",
-      "url": "https://claude.nagdy.me/",
-      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://claude.nagdy.me/...",
-      "score": 21
-    },
-    {
-      "type": "HackerNews",
-      "title": "Bird brains (2023)",
-      "url": "https://www.dhanishsemar.com/writing/bird-brains",
-      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.dhanishsemar.com/w...",
-      "score": 270
-    },
-    {
-      "type": "HackerNews",
-      "title": "Cherri – programming language that compiles to an Apple Shortuct",
-      "url": "https://github.com/electrikmilk/cherri",
-      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://github.com/electrikmil...",
-      "score": 192
-    },
-    {
-      "type": "HackerNews",
-      "title": "Agents of Chaos",
-      "url": "https://agentsofchaos.baulab.info/report.html",
-      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://agentsofchaos.baulab.i...",
+      "title": "Incident March 30th, 2026 – Accidental CDN Caching",
+      "url": "https://blog.railway.com/p/incident-report-march-30-2026-accidental-cdn-caching",
+      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://blog.railway.com/p/inc...",
       "score": 12
     }
   ]
