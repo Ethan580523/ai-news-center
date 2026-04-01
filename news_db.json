@@ -1,61 +1,61 @@
 {
-  "last_updated": "2026-04-01 10:06:29",
+  "last_updated": "2026-04-01 13:23:43",
   "news": [
-    {
-      "type": "HackerNews",
-      "title": "CERN levels up with new superconducting karts",
-      "url": "https://home.cern/news/news/engineering/cern-levels-new-superconducting-karts",
-      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://home.cern/news/news/en...",
-      "score": 113
-    },
     {
       "type": "HackerNews",
       "title": "Claude Code Unpacked : A visual guide",
       "url": "https://ccunpacked.dev/",
-      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://ccunpacked.dev/...",
-      "score": 395
+      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://ccunpacked.dev/...",
+      "score": 664
+    },
+    {
+      "type": "HackerNews",
+      "title": "CERN levels up with new superconducting karts",
+      "url": "https://home.cern/news/news/engineering/cern-levels-new-superconducting-karts",
+      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://home.cern/news/news/en...",
+      "score": 210
+    },
+    {
+      "type": "HackerNews",
+      "title": "Show HN: Sycamore – next gen Rust UI library powered by fine-grained reactivity",
+      "url": "https://sycamore.dev",
+      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://sycamore.dev...",
+      "score": 17
+    },
+    {
+      "type": "HackerNews",
+      "title": "I Quit. The Clankers Won",
+      "url": "https://dbushell.com/2026/04/01/i-quit-the-clankers-won/",
+      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://dbushell.com/2026/04/0...",
+      "score": 149
+    },
+    {
+      "type": "HackerNews",
+      "title": "Intuiting Pratt Parsing",
+      "url": "https://louis.co.nz/2026/03/26/pratt-parsing.html",
+      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://louis.co.nz/2026/03/26...",
+      "score": 61
+    },
+    {
+      "type": "HackerNews",
+      "title": "Is BGP Safe Yet? No. Test Your ISP",
+      "url": "https://isbgpsafeyet.com/",
+      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://isbgpsafeyet.com/...",
+      "score": 3
     },
     {
       "type": "HackerNews",
       "title": "Show HN: CLI to order groceries via reverse-engineered REWE API (Haskell)",
       "url": "https://github.com/yannick-cw/korb",
-      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://github.com/yannick-cw/...",
-      "score": 70
+      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://github.com/yannick-cw/...",
+      "score": 128
     },
     {
       "type": "HackerNews",
-      "title": "Bring Back MiniDV with This Raspberry Pi FireWire Hat",
-      "url": "https://www.jeffgeerling.com/blog/2026/minidv-with-raspberry-pi-firewire-hat/",
-      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.jeffgeerling.com/b...",
-      "score": 64
-    },
-    {
-      "type": "HackerNews",
-      "title": "TinyLoRA – Learning to Reason in 13 Parameters",
-      "url": "https://arxiv.org/abs/2602.04118",
-      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://arxiv.org/abs/2602.041...",
-      "score": 178
-    },
-    {
-      "type": "HackerNews",
-      "title": "A dot a day keeps the clutter away",
-      "url": "https://scottlawsonbc.com/post/dot-system",
-      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://scottlawsonbc.com/post...",
-      "score": 316
-    },
-    {
-      "type": "HackerNews",
-      "title": "Show HN: 1-Bit Bonsai, the First Commercially Viable 1-Bit LLMs",
-      "url": "https://prismml.com/",
-      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://prismml.com/...",
-      "score": 259
-    },
-    {
-      "type": "HackerNews",
-      "title": "In Case of Emergency, Make Burrito Bison 3",
-      "url": "https://juicybeast.com/2017/08/03/in-case-of-emergency-make-burrito-bison-3/",
-      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://juicybeast.com/2017/08...",
-      "score": 7
+      "title": "Claude Wrote a Full FreeBSD Remote Kernel RCE with Root Shell (CVE-2026-4747)",
+      "url": "https://github.com/califio/publications/blob/main/MADBugs/CVE-2026-4747/write-up.md",
+      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://github.com/califio/pub...",
+      "score": 96
     }
   ]
 }
