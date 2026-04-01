@@ -1,61 +1,61 @@
 {
-  "last_updated": "2026-04-01 13:23:43",
+  "last_updated": "2026-04-01 16:06:38",
   "news": [
-    {
-      "type": "HackerNews",
-      "title": "Claude Code Unpacked : A visual guide",
-      "url": "https://ccunpacked.dev/",
-      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://ccunpacked.dev/...",
-      "score": 664
-    },
-    {
-      "type": "HackerNews",
-      "title": "CERN levels up with new superconducting karts",
-      "url": "https://home.cern/news/news/engineering/cern-levels-new-superconducting-karts",
-      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://home.cern/news/news/en...",
-      "score": 210
-    },
-    {
-      "type": "HackerNews",
-      "title": "Show HN: Sycamore – next gen Rust UI library powered by fine-grained reactivity",
-      "url": "https://sycamore.dev",
-      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://sycamore.dev...",
-      "score": 17
-    },
-    {
-      "type": "HackerNews",
-      "title": "I Quit. The Clankers Won",
-      "url": "https://dbushell.com/2026/04/01/i-quit-the-clankers-won/",
-      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://dbushell.com/2026/04/0...",
-      "score": 149
-    },
-    {
-      "type": "HackerNews",
-      "title": "Intuiting Pratt Parsing",
-      "url": "https://louis.co.nz/2026/03/26/pratt-parsing.html",
-      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://louis.co.nz/2026/03/26...",
-      "score": 61
-    },
     {
       "type": "HackerNews",
       "title": "Is BGP Safe Yet? No. Test Your ISP",
       "url": "https://isbgpsafeyet.com/",
       "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://isbgpsafeyet.com/...",
-      "score": 3
+      "score": 139
     },
     {
       "type": "HackerNews",
-      "title": "Show HN: CLI to order groceries via reverse-engineered REWE API (Haskell)",
-      "url": "https://github.com/yannick-cw/korb",
-      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://github.com/yannick-cw/...",
-      "score": 128
+      "title": "Claude Code Unpacked : A visual guide",
+      "url": "https://ccunpacked.dev/",
+      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://ccunpacked.dev/...",
+      "score": 859
+    },
+    {
+      "type": "HackerNews",
+      "title": "CERN levels up with new superconducting karts",
+      "url": "https://home.cern/news/news/engineering/cern-levels-new-superconducting-karts",
+      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://home.cern/news/news/en...",
+      "score": 293
+    },
+    {
+      "type": "HackerNews",
+      "title": "We Built It with Slide Rules. Then We Forgot How",
+      "url": "https://unmitigatedrisk.com/?p=1227",
+      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://unmitigatedrisk.com/?p...",
+      "score": 6
+    },
+    {
+      "type": "HackerNews",
+      "title": "Intuiting Pratt Parsing",
+      "url": "https://louis.co.nz/2026/03/26/pratt-parsing.html",
+      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://louis.co.nz/2026/03/26...",
+      "score": 96
+    },
+    {
+      "type": "HackerNews",
+      "title": "Consider the Greenland Shark (2020)",
+      "url": "https://www.lrb.co.uk/the-paper/v42/n09/katherine-rundell/consider-the-greenland-shark",
+      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.lrb.co.uk/the-pape...",
+      "score": 47
     },
     {
       "type": "HackerNews",
       "title": "Claude Wrote a Full FreeBSD Remote Kernel RCE with Root Shell (CVE-2026-4747)",
       "url": "https://github.com/califio/publications/blob/main/MADBugs/CVE-2026-4747/write-up.md",
       "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://github.com/califio/pub...",
-      "score": 96
+      "score": 165
+    },
+    {
+      "type": "HackerNews",
+      "title": "Show HN: CLI to order groceries via reverse-engineered REWE API (Haskell)",
+      "url": "https://github.com/yannick-cw/korb",
+      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://github.com/yannick-cw/...",
+      "score": 162
     }
   ]
 }
