@@ -1,61 +1,61 @@
 {
-  "last_updated": "2026-04-01 02:39:18",
+  "last_updated": "2026-04-01 05:25:02",
   "news": [
-    {
-      "type": "HackerNews",
-      "title": "We intercepted the White House app's traffic. 77% of requests go to 3rd parties",
-      "url": "https://www.atomic.computer/blog/white-house-app-network-traffic-analysis/",
-      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.atomic.computer/bl...",
-      "score": 17
-    },
     {
       "type": "HackerNews",
       "title": "The Claude Code Source Leak: fake tools, frustration regexes, undercover mode",
       "url": "https://alex000kim.com/posts/2026-03-31-claude-code-source-leak/",
       "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://alex000kim.com/posts/2...",
-      "score": 851
+      "score": 1028
+    },
+    {
+      "type": "HackerNews",
+      "title": "Neanderthals survived on a knife's edge for 350k years",
+      "url": "https://www.science.org/content/article/neanderthals-survived-knife-s-edge-350-000-years",
+      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.science.org/conten...",
+      "score": 71
     },
     {
       "type": "HackerNews",
       "title": "TinyLoRA – Learning to Reason in 13 Parameters",
       "url": "https://arxiv.org/abs/2602.04118",
-      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://arxiv.org/abs/2602.041...",
-      "score": 78
+      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://arxiv.org/abs/2602.041...",
+      "score": 130
     },
     {
       "type": "HackerNews",
-      "title": "TruffleRuby",
-      "url": "https://chrisseaton.com/truffleruby/",
-      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://chrisseaton.com/truffl...",
-      "score": 40
-    },
-    {
-      "type": "HackerNews",
-      "title": "A dot a day keeps the clutter away",
-      "url": "https://scottlawsonbc.com/post/dot-system",
-      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://scottlawsonbc.com/post...",
-      "score": 166
-    },
-    {
-      "type": "HackerNews",
-      "title": "Ministack (Replacement for LocalStack)",
-      "url": "https://ministack.org/",
-      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://ministack.org/...",
-      "score": 146
+      "title": "Bring Back MiniDV with This Raspberry Pi FireWire Hat",
+      "url": "https://www.jeffgeerling.com/blog/2026/minidv-with-raspberry-pi-firewire-hat/",
+      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.jeffgeerling.com/b...",
+      "score": 19
     },
     {
       "type": "HackerNews",
       "title": "Show HN: 1-Bit Bonsai, the First Commercially Viable 1-Bit LLMs",
       "url": "https://prismml.com/",
       "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://prismml.com/...",
-      "score": 113
+      "score": 174
     },
     {
       "type": "HackerNews",
-      "title": "OpenAI closes funding round at an $852B valuation",
-      "url": "https://www.cnbc.com/2026/03/31/openai-funding-round-ipo.html",
-      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.cnbc.com/2026/03/3...",
-      "score": 337
+      "title": "TruffleRuby",
+      "url": "https://chrisseaton.com/truffleruby/",
+      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://chrisseaton.com/truffl...",
+      "score": 86
+    },
+    {
+      "type": "HackerNews",
+      "title": "A dot a day keeps the clutter away",
+      "url": "https://scottlawsonbc.com/post/dot-system",
+      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://scottlawsonbc.com/post...",
+      "score": 227
+    },
+    {
+      "type": "HackerNews",
+      "title": "Ministack (Replacement for LocalStack)",
+      "url": "https://ministack.org/",
+      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://ministack.org/...",
+      "score": 178
     }
   ]
 }
