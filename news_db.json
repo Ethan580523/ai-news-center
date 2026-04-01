@@ -1,61 +1,61 @@
 {
-  "last_updated": "2026-04-01 07:22:02",
+  "last_updated": "2026-04-01 10:06:29",
   "news": [
+    {
+      "type": "HackerNews",
+      "title": "CERN levels up with new superconducting karts",
+      "url": "https://home.cern/news/news/engineering/cern-levels-new-superconducting-karts",
+      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://home.cern/news/news/en...",
+      "score": 113
+    },
     {
       "type": "HackerNews",
       "title": "Claude Code Unpacked : A visual guide",
       "url": "https://ccunpacked.dev/",
-      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://ccunpacked.dev/...",
-      "score": 171
+      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://ccunpacked.dev/...",
+      "score": 395
     },
     {
       "type": "HackerNews",
-      "title": "Neanderthals survived on a knife's edge for 350k years",
-      "url": "https://www.science.org/content/article/neanderthals-survived-knife-s-edge-350-000-years",
-      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.science.org/conten...",
-      "score": 115
-    },
-    {
-      "type": "HackerNews",
-      "title": "Mad Bugs: Vim vs. Emacs vs. Claude",
-      "url": "https://blog.calif.io/p/mad-bugs-vim-vs-emacs-vs-claude",
-      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://blog.calif.io/p/mad-bu...",
-      "score": 30
-    },
-    {
-      "type": "HackerNews",
-      "title": "Chess in SQL",
-      "url": "https://www.dbpro.app/blog/chess-in-pure-sql",
-      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.dbpro.app/blog/che...",
-      "score": 27
-    },
-    {
-      "type": "HackerNews",
-      "title": "TinyLoRA – Learning to Reason in 13 Parameters",
-      "url": "https://arxiv.org/abs/2602.04118",
-      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://arxiv.org/abs/2602.041...",
-      "score": 151
-    },
-    {
-      "type": "HackerNews",
-      "title": "TruffleRuby",
-      "url": "https://chrisseaton.com/truffleruby/",
-      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://chrisseaton.com/truffl...",
-      "score": 106
-    },
-    {
-      "type": "HackerNews",
-      "title": "Show HN: 1-Bit Bonsai, the First Commercially Viable 1-Bit LLMs",
-      "url": "https://prismml.com/",
-      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://prismml.com/...",
-      "score": 216
+      "title": "Show HN: CLI to order groceries via reverse-engineered REWE API (Haskell)",
+      "url": "https://github.com/yannick-cw/korb",
+      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://github.com/yannick-cw/...",
+      "score": 70
     },
     {
       "type": "HackerNews",
       "title": "Bring Back MiniDV with This Raspberry Pi FireWire Hat",
       "url": "https://www.jeffgeerling.com/blog/2026/minidv-with-raspberry-pi-firewire-hat/",
-      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.jeffgeerling.com/b...",
-      "score": 33
+      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.jeffgeerling.com/b...",
+      "score": 64
+    },
+    {
+      "type": "HackerNews",
+      "title": "TinyLoRA – Learning to Reason in 13 Parameters",
+      "url": "https://arxiv.org/abs/2602.04118",
+      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://arxiv.org/abs/2602.041...",
+      "score": 178
+    },
+    {
+      "type": "HackerNews",
+      "title": "A dot a day keeps the clutter away",
+      "url": "https://scottlawsonbc.com/post/dot-system",
+      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://scottlawsonbc.com/post...",
+      "score": 316
+    },
+    {
+      "type": "HackerNews",
+      "title": "Show HN: 1-Bit Bonsai, the First Commercially Viable 1-Bit LLMs",
+      "url": "https://prismml.com/",
+      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://prismml.com/...",
+      "score": 259
+    },
+    {
+      "type": "HackerNews",
+      "title": "In Case of Emergency, Make Burrito Bison 3",
+      "url": "https://juicybeast.com/2017/08/03/in-case-of-emergency-make-burrito-bison-3/",
+      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://juicybeast.com/2017/08...",
+      "score": 7
     }
   ]
 }
