@@ -1,61 +1,61 @@
 {
-  "last_updated": "2026-04-02 16:01:08",
+  "last_updated": "2026-04-02 18:58:02",
   "news": [
     {
       "type": "HackerNews",
-      "title": "LinkedIn Is Illegally Searching Your Computer",
-      "url": "https://browsergate.eu/",
-      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://browsergate.eu/...",
-      "score": 800
+      "title": "Google releases Gemma 4 open models",
+      "url": "https://deepmind.google/models/gemma/gemma-4/",
+      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://deepmind.google/models...",
+      "score": 584
     },
     {
       "type": "HackerNews",
-      "title": "Qwen3.6-Plus: Towards Real World Agents",
+      "title": "Tailscale's New macOS Home",
+      "url": "https://tailscale.com/blog/macos-notch-escape",
+      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://tailscale.com/blog/mac...",
+      "score": 37
+    },
+    {
+      "type": "HackerNews",
+      "title": "Qwen3.6-Plus: Towards real world agents",
       "url": "https://qwen.ai/blog?id=qwen3.6",
-      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://qwen.ai/blog?id=qwen3....",
-      "score": 126
+      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://qwen.ai/blog?id=qwen3....",
+      "score": 292
     },
     {
       "type": "HackerNews",
-      "title": "Delve allegedly forked an open-source tool and sold it as its own",
-      "url": "https://techcrunch.com/2026/04/01/the-reputation-of-troubled-yc-startup-delve-has-gotten-even-worse/",
-      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://techcrunch.com/2026/04...",
-      "score": 46
+      "title": "George Goble died recently – known for first dual-CPU-Unix and fast BBQ lighting",
+      "url": "https://www.legacy.com/us/obituaries/wlfi/name/george-goble-obituary?id=61144779",
+      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.legacy.com/us/obit...",
+      "score": 15
+    },
+    {
+      "type": "HackerNews",
+      "title": "LinkedIn is illegally searching your computer",
+      "url": "https://browsergate.eu/",
+      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://browsergate.eu/...",
+      "score": 1247
+    },
+    {
+      "type": "HackerNews",
+      "title": "Zep AI Is Hiring – Building the Agent Context Layer (YC W24)",
+      "url": "https://www.ycombinator.com/companies/zep-ai/jobs",
+      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.ycombinator.com/co...",
+      "score": 1
     },
     {
       "type": "HackerNews",
       "title": "Lemonade by AMD: a fast and open source local LLM server using GPU and NPU",
       "url": "https://lemonade-server.ai",
       "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://lemonade-server.ai...",
-      "score": 226
+      "score": 325
     },
     {
       "type": "HackerNews",
-      "title": "Inside Nepal's Fake Rescue Racket",
-      "url": "https://kathmandupost.com/money/2026/03/27/inside-nepal-s-fake-rescue-racket",
-      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://kathmandupost.com/mone...",
-      "score": 137
-    },
-    {
-      "type": "HackerNews",
-      "title": "Sweden goes back to basics, swapping screens for books in the classroom",
-      "url": "https://undark.org/2026/04/01/sweden-schools-books/",
-      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://undark.org/2026/04/01/...",
-      "score": 457
-    },
-    {
-      "type": "HackerNews",
-      "title": "IBM Announces Strategic Collaboration with Arm",
-      "url": "https://newsroom.ibm.com/2026-04-02-ibm-announces-strategic-collaboration-with-arm-to-shape-the-future-of-enterprise-computing",
-      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://newsroom.ibm.com/2026-...",
-      "score": 202
-    },
-    {
-      "type": "HackerNews",
-      "title": "Significant Raise of Reports",
-      "url": "https://lwn.net/Articles/1065620/",
-      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://lwn.net/Articles/10656...",
-      "score": 146
+      "title": "JSON Canvas Spec",
+      "url": "https://jsoncanvas.org/spec/1.0/",
+      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://jsoncanvas.org/spec/1....",
+      "score": 25
     }
   ]
 }
