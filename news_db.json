@@ -1,61 +1,61 @@
 {
-  "last_updated": "2026-04-03 18:49:53",
+  "last_updated": "2026-04-03 21:34:55",
   "news": [
+    {
+      "type": "HackerNews",
+      "title": "Artemis II crew take 'spectacular' image of Earth",
+      "url": "https://www.bbc.com/news/articles/ce8jzr423p9o",
+      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.bbc.com/news/artic...",
+      "score": 166
+    },
     {
       "type": "HackerNews",
       "title": "iNaturalist",
       "url": "https://www.inaturalist.org/",
-      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.inaturalist.org/...",
-      "score": 111
+      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.inaturalist.org/...",
+      "score": 264
+    },
+    {
+      "type": "HackerNews",
+      "title": "How to Make a Sliding, Self-Locking, and Predator-Proof Chicken Coop Door (2020)",
+      "url": "https://www.backyardchickens.com/articles/how-to-make-a-sliding-self-locking-and-predator-proof-chicken-coop-door.75906/",
+      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.backyardchickens.c...",
+      "score": 45
     },
     {
       "type": "HackerNews",
       "title": "Show HN: I built a frontpage for personal blogs",
       "url": "https://text.blogosphere.app/",
-      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://text.blogosphere.app/...",
-      "score": 472
+      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://text.blogosphere.app/...",
+      "score": 576
+    },
+    {
+      "type": "HackerNews",
+      "title": "What changes when you turn a Linux box into a router",
+      "url": "https://patrickmccanna.net/7-configuration-changes-that-turn-a-multi-homed-host-into-a-switch-router/",
+      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://patrickmccanna.net/7-c...",
+      "score": 24
+    },
+    {
+      "type": "HackerNews",
+      "title": "Charge Robotics (YC S21) Is Hiring Software and Hardware Engineers",
+      "url": "https://jobs.ashbyhq.com/charge-robotics",
+      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://jobs.ashbyhq.com/charg...",
+      "score": 1
     },
     {
       "type": "HackerNews",
       "title": "We replaced RAG with a virtual filesystem for our AI documentation assistant",
       "url": "https://www.mintlify.com/blog/how-we-built-a-virtual-filesystem-for-our-assistant",
-      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.mintlify.com/blog/...",
-      "score": 55
-    },
-    {
-      "type": "HackerNews",
-      "title": "Samsung Magician disk utility takes 18 steps and two reboots to uninstall",
-      "url": "https://chalmovsky.com/2026/03/29/samsung-magician.html",
-      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://chalmovsky.com/2026/03...",
-      "score": 272
-    },
-    {
-      "type": "HackerNews",
-      "title": "The Technocracy Movement of the 1930s",
-      "url": "https://donotresearch.substack.com/p/welcome-to-the-technocracy",
-      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://donotresearch.substack...",
-      "score": 37
+      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.mintlify.com/blog/...",
+      "score": 154
     },
     {
       "type": "HackerNews",
       "title": "Go on Embedded Systems and WebAssembly",
       "url": "https://tinygo.org/",
       "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://tinygo.org/...",
-      "score": 26
-    },
-    {
-      "type": "HackerNews",
-      "title": "Understanding young news audiences at a time of rapid change",
-      "url": "https://reutersinstitute.politics.ox.ac.uk/understanding-young-news-audiences-time-rapid-change",
-      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://reutersinstitute.polit...",
-      "score": 27
-    },
-    {
-      "type": "HackerNews",
-      "title": "Show HN: An evidence-rated encyclopedia of peptides",
-      "url": "https://www.whatthepeptide.org/",
-      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.whatthepeptide.org...",
-      "score": 9
+      "score": 93
     }
   ]
 }
