@@ -1,61 +1,61 @@
 {
-  "last_updated": "2026-04-03 05:05:21",
+  "last_updated": "2026-04-03 07:09:59",
   "news": [
     {
       "type": "HackerNews",
       "title": "Google releases Gemma 4 open models",
       "url": "https://deepmind.google/models/gemma/gemma-4/",
-      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://deepmind.google/models...",
-      "score": 1263
+      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://deepmind.google/models...",
+      "score": 1364
     },
     {
       "type": "HackerNews",
       "title": "Decisions that eroded trust in Azure – by a former Azure Core engineer",
       "url": "https://isolveproblems.substack.com/p/how-microsoft-vaporized-a-trillion",
-      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://isolveproblems.substac...",
-      "score": 494
+      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://isolveproblems.substac...",
+      "score": 622
     },
     {
       "type": "HackerNews",
       "title": "Tailscale's new macOS home",
       "url": "https://tailscale.com/blog/macos-notch-escape",
-      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://tailscale.com/blog/mac...",
-      "score": 377
+      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://tailscale.com/blog/mac...",
+      "score": 422
     },
     {
       "type": "HackerNews",
       "title": "C89cc.sh – standalone C89/ELF64 compiler in pure portable shell",
       "url": "https://gist.github.com/alganet/2b89c4368f8d23d033961d8a3deb5c19",
-      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://gist.github.com/algane...",
-      "score": 70
-    },
-    {
-      "type": "HackerNews",
-      "title": "Artemis II's toilet is a moon mission milestone",
-      "url": "https://www.scientificamerican.com/article/artemis-iis-toilet-is-a-moon-mission-milestone/",
-      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.scientificamerican...",
-      "score": 181
-    },
-    {
-      "type": "HackerNews",
-      "title": "Show HN: Home Maker: Declare Your Dev Tools in a Makefile",
-      "url": "https://thottingal.in/blog/2026/03/29/home-maker/",
-      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://thottingal.in/blog/202...",
-      "score": 10
+      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://gist.github.com/algane...",
+      "score": 105
     },
     {
       "type": "HackerNews",
       "title": "Cursor 3",
       "url": "https://cursor.com/blog/cursor-3",
-      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://cursor.com/blog/cursor...",
-      "score": 338
+      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://cursor.com/blog/cursor...",
+      "score": 374
+    },
+    {
+      "type": "HackerNews",
+      "title": "Artemis II's toilet is a moon mission milestone",
+      "url": "https://www.scientificamerican.com/article/artemis-iis-toilet-is-a-moon-mission-milestone/",
+      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.scientificamerican...",
+      "score": 216
     },
     {
       "type": "HackerNews",
       "title": "Qwen3.6-Plus: Towards real world agents",
       "url": "https://qwen.ai/blog?id=qwen3.6",
       "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://qwen.ai/blog?id=qwen3....",
-      "score": 468
+      "score": 497
+    },
+    {
+      "type": "HackerNews",
+      "title": "Good ideas do not need lots of lies in order to gain public acceptance (2008)",
+      "url": "https://blog.danieldavies.com/2004/05/d-squared-digest-one-minute-mba.html",
+      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://blog.danieldavies.com/...",
+      "score": 232
     }
   ]
 }
