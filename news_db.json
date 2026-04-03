@@ -1,61 +1,61 @@
 {
-  "last_updated": "2026-04-03 13:05:33",
+  "last_updated": "2026-04-03 15:38:55",
   "news": [
     {
       "type": "HackerNews",
-      "title": "Show HN: Apfel – The free AI already on your Mac",
-      "url": "https://apfel.franzai.com",
-      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://apfel.franzai.com...",
-      "score": 251
+      "title": "Solar and batteries can power the world",
+      "url": "https://nworbmot.org/blog/solar-battery-world.html",
+      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://nworbmot.org/blog/sola...",
+      "score": 81
     },
     {
       "type": "HackerNews",
       "title": "Show HN: I built a frontpage for personal blogs",
       "url": "https://text.blogosphere.app/",
-      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://text.blogosphere.app/...",
+      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://text.blogosphere.app/...",
+      "score": 236
+    },
+    {
+      "type": "HackerNews",
+      "title": "Marc Andreessen is wrong about introspection",
+      "url": "https://www.joanwestenberg.com/marc-andreessen-is-wrong-about-introspection/",
+      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.joanwestenberg.com...",
+      "score": 121
+    },
+    {
+      "type": "HackerNews",
+      "title": "Big-Endian Testing with QEMU",
+      "url": "https://www.hanshq.net/big-endian-qemu.html",
+      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.hanshq.net/big-end...",
       "score": 26
-    },
-    {
-      "type": "HackerNews",
-      "title": "April 2026 TLDR Setup for Ollama and Gemma 4 26B on a Mac mini",
-      "url": "https://gist.github.com/greenstevester/fc49b4e60a4fef9effc79066c1033ae5",
-      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://gist.github.com/greens...",
-      "score": 87
-    },
-    {
-      "type": "HackerNews",
-      "title": "TDF ejects its core developers",
-      "url": "https://meeksfamily.uk/~michael/blog/2026-04-02-tdf-ejects-core-devs.html",
-      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://meeksfamily.uk/~michae...",
-      "score": 18
-    },
-    {
-      "type": "HackerNews",
-      "title": "Google releases Gemma 4 open models",
-      "url": "https://deepmind.google/models/gemma/gemma-4/",
-      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://deepmind.google/models...",
-      "score": 1578
     },
     {
       "type": "HackerNews",
       "title": "Samsung Magician disk utility takes 18 steps and two reboots to uninstall",
       "url": "https://chalmovsky.com/2026/03/29/samsung-magician.html",
-      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://chalmovsky.com/2026/03...",
-      "score": 30
+      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://chalmovsky.com/2026/03...",
+      "score": 137
     },
     {
       "type": "HackerNews",
-      "title": "Decisions that eroded trust in Azure – by a former Azure Core engineer",
-      "url": "https://isolveproblems.substack.com/p/how-microsoft-vaporized-a-trillion",
-      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://isolveproblems.substac...",
-      "score": 910
+      "title": "Show HN: ctx – an Agentic Development Environment (ADE)",
+      "url": "https://ctx.rs",
+      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://ctx.rs...",
+      "score": 33
     },
     {
       "type": "HackerNews",
-      "title": "ESP32-S31: Dual-Core RISC-V SoC with Wi-Fi 6, Bluetooth 5.4, and Advanced HMI",
-      "url": "https://www.espressif.com/en/news/ESP32_S31_Release",
-      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.espressif.com/en/n...",
-      "score": 94
+      "title": "April 2026 TLDR Setup for Ollama and Gemma 4 26B on a Mac mini",
+      "url": "https://gist.github.com/greenstevester/fc49b4e60a4fef9effc79066c1033ae5",
+      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://gist.github.com/greens...",
+      "score": 163
+    },
+    {
+      "type": "HackerNews",
+      "title": "A Recipe for Steganogravy",
+      "url": "https://theo.lol/python/ai/steganography/seo/recipes/2026/03/27/a-recipe-for-steganogravy.html",
+      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://theo.lol/python/ai/ste...",
+      "score": 47
     }
   ]
 }
