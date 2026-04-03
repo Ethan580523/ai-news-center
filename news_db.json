@@ -1,61 +1,61 @@
 {
-  "last_updated": "2026-04-03 07:09:59",
+  "last_updated": "2026-04-03 09:54:16",
   "news": [
+    {
+      "type": "HackerNews",
+      "title": "Proton Meet Isn't What They Told You It Was",
+      "url": "https://www.sambent.com/proton-meet-isnt-what-they-told-you/",
+      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.sambent.com/proton...",
+      "score": 56
+    },
     {
       "type": "HackerNews",
       "title": "Google releases Gemma 4 open models",
       "url": "https://deepmind.google/models/gemma/gemma-4/",
       "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://deepmind.google/models...",
-      "score": 1364
+      "score": 1479
+    },
+    {
+      "type": "HackerNews",
+      "title": "ESP32-S31: 320MHz 2C RV32IMAFCP+CLIC, 512KB SRAM, GbE, 802.11ax, 61 GPIO",
+      "url": "https://www.espressif.com/en/news/ESP32_S31_Release",
+      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.espressif.com/en/n...",
+      "score": 43
     },
     {
       "type": "HackerNews",
       "title": "Decisions that eroded trust in Azure – by a former Azure Core engineer",
       "url": "https://isolveproblems.substack.com/p/how-microsoft-vaporized-a-trillion",
-      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://isolveproblems.substac...",
-      "score": 622
+      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://isolveproblems.substac...",
+      "score": 778
+    },
+    {
+      "type": "HackerNews",
+      "title": "The True Shape of Io's Steeple Mountain",
+      "url": "https://www.weareinquisitive.com/news/hidden-in-the-shadow",
+      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.weareinquisitive.c...",
+      "score": 46
     },
     {
       "type": "HackerNews",
       "title": "Tailscale's new macOS home",
       "url": "https://tailscale.com/blog/macos-notch-escape",
       "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://tailscale.com/blog/mac...",
-      "score": 422
-    },
-    {
-      "type": "HackerNews",
-      "title": "C89cc.sh – standalone C89/ELF64 compiler in pure portable shell",
-      "url": "https://gist.github.com/alganet/2b89c4368f8d23d033961d8a3deb5c19",
-      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://gist.github.com/algane...",
-      "score": 105
+      "score": 460
     },
     {
       "type": "HackerNews",
       "title": "Cursor 3",
       "url": "https://cursor.com/blog/cursor-3",
       "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://cursor.com/blog/cursor...",
-      "score": 374
+      "score": 421
     },
     {
       "type": "HackerNews",
       "title": "Artemis II's toilet is a moon mission milestone",
       "url": "https://www.scientificamerican.com/article/artemis-iis-toilet-is-a-moon-mission-milestone/",
       "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.scientificamerican...",
-      "score": 216
-    },
-    {
-      "type": "HackerNews",
-      "title": "Qwen3.6-Plus: Towards real world agents",
-      "url": "https://qwen.ai/blog?id=qwen3.6",
-      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://qwen.ai/blog?id=qwen3....",
-      "score": 497
-    },
-    {
-      "type": "HackerNews",
-      "title": "Good ideas do not need lots of lies in order to gain public acceptance (2008)",
-      "url": "https://blog.danieldavies.com/2004/05/d-squared-digest-one-minute-mba.html",
-      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://blog.danieldavies.com/...",
-      "score": 232
+      "score": 252
     }
   ]
 }
