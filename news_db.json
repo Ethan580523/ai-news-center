@@ -1,61 +1,61 @@
 {
-  "last_updated": "2026-04-04 12:57:12",
+  "last_updated": "2026-04-04 15:32:32",
   "news": [
     {
       "type": "HackerNews",
-      "title": "Apple: Embarrassingly Simple Self-Distillation Improves Code Generation",
+      "title": "Simple self-distillation improves code generation",
       "url": "https://arxiv.org/abs/2604.01193",
-      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://arxiv.org/abs/2604.011...",
-      "score": 139
+      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://arxiv.org/abs/2604.011...",
+      "score": 273
     },
     {
       "type": "HackerNews",
       "title": "Tell HN: Anthropic no longer allowing Claude Code subscriptions to use OpenClaw",
       "url": null,
-      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：...",
-      "score": 809
+      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：...",
+      "score": 877
     },
     {
       "type": "HackerNews",
       "title": "Some Unusual Trees",
       "url": "https://thoughts.wyounas.com/p/some-unusual-trees",
-      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://thoughts.wyounas.com/p...",
-      "score": 72
+      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://thoughts.wyounas.com/p...",
+      "score": 126
     },
     {
       "type": "HackerNews",
-      "title": "The CMS is dead. Long live the CMS",
-      "url": "https://next.jazzsequence.com/posts/the-cms-is-dead-long-live-the-cms",
-      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://next.jazzsequence.com/...",
-      "score": 19
+      "title": "Author of \"Careless People\" banned from saying anything negative about Meta",
+      "url": "https://www.thetimes.com/uk/technology-uk/article/sarah-wynn-williams-careless-people-meta-nrffdfpmf",
+      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.thetimes.com/uk/te...",
+      "score": 61
     },
     {
       "type": "HackerNews",
       "title": "Artemis II crew take “spectacular” image of Earth",
       "url": "https://www.bbc.com/news/articles/ce8jzr423p9o",
-      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.bbc.com/news/artic...",
-      "score": 832
+      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.bbc.com/news/artic...",
+      "score": 894
     },
     {
       "type": "HackerNews",
       "title": "The Cathedral, the Bazaar, and the Winchester Mystery House",
       "url": "https://www.dbreunig.com/2026/03/26/winchester-mystery-house.html",
       "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.dbreunig.com/2026/...",
-      "score": 14
+      "score": 78
     },
     {
       "type": "HackerNews",
-      "title": "iNaturalist",
-      "url": "https://www.inaturalist.org/",
-      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.inaturalist.org/...",
-      "score": 456
+      "title": "Show HN: TurboQuant-WASM – Google's vector quantization in the browser",
+      "url": "https://github.com/teamchong/turboquant-wasm",
+      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://github.com/teamchong/t...",
+      "score": 4
     },
     {
       "type": "HackerNews",
-      "title": "Mbodi AI (YC P25) Is Hiring",
-      "url": "https://www.ycombinator.com/companies/mbodi-ai/jobs/mf9L3sy-senior-robotics-engineer-systems-controls",
-      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.ycombinator.com/co...",
-      "score": 1
+      "title": "Components of a Coding Agent",
+      "url": "https://magazine.sebastianraschka.com/p/components-of-a-coding-agent",
+      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://magazine.sebastianrasc...",
+      "score": 9
     }
   ]
 }
