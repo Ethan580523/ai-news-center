@@ -1,61 +1,61 @@
 {
-  "last_updated": "2026-04-04 15:32:32",
+  "last_updated": "2026-04-04 18:43:10",
   "news": [
+    {
+      "type": "HackerNews",
+      "title": "Show HN: A game where you build a GPU",
+      "url": "https://jaso1024.com/mvidia/",
+      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://jaso1024.com/mvidia/...",
+      "score": 161
+    },
     {
       "type": "HackerNews",
       "title": "Simple self-distillation improves code generation",
       "url": "https://arxiv.org/abs/2604.01193",
-      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://arxiv.org/abs/2604.011...",
-      "score": 273
-    },
-    {
-      "type": "HackerNews",
-      "title": "Tell HN: Anthropic no longer allowing Claude Code subscriptions to use OpenClaw",
-      "url": null,
-      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：...",
-      "score": 877
-    },
-    {
-      "type": "HackerNews",
-      "title": "Some Unusual Trees",
-      "url": "https://thoughts.wyounas.com/p/some-unusual-trees",
-      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://thoughts.wyounas.com/p...",
-      "score": 126
-    },
-    {
-      "type": "HackerNews",
-      "title": "Author of \"Careless People\" banned from saying anything negative about Meta",
-      "url": "https://www.thetimes.com/uk/technology-uk/article/sarah-wynn-williams-careless-people-meta-nrffdfpmf",
-      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.thetimes.com/uk/te...",
-      "score": 61
-    },
-    {
-      "type": "HackerNews",
-      "title": "Artemis II crew take “spectacular” image of Earth",
-      "url": "https://www.bbc.com/news/articles/ce8jzr423p9o",
-      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.bbc.com/news/artic...",
-      "score": 894
-    },
-    {
-      "type": "HackerNews",
-      "title": "The Cathedral, the Bazaar, and the Winchester Mystery House",
-      "url": "https://www.dbreunig.com/2026/03/26/winchester-mystery-house.html",
-      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.dbreunig.com/2026/...",
-      "score": 78
+      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://arxiv.org/abs/2604.011...",
+      "score": 385
     },
     {
       "type": "HackerNews",
       "title": "Show HN: TurboQuant-WASM – Google's vector quantization in the browser",
       "url": "https://github.com/teamchong/turboquant-wasm",
       "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://github.com/teamchong/t...",
-      "score": 4
+      "score": 66
     },
     {
       "type": "HackerNews",
-      "title": "Components of a Coding Agent",
-      "url": "https://magazine.sebastianraschka.com/p/components-of-a-coding-agent",
-      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://magazine.sebastianrasc...",
-      "score": 9
+      "title": "Scientists observe an immune signaling complex forming inside cells",
+      "url": "https://news.stanford.edu/stories/2026/03/immune-response-inside-cells-inflammation-research",
+      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://news.stanford.edu/stor...",
+      "score": 33
+    },
+    {
+      "type": "HackerNews",
+      "title": "Show HN: sllm – Split a GPU node with other developers, unlimited tokens",
+      "url": "https://sllm.cloud",
+      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://sllm.cloud...",
+      "score": 46
+    },
+    {
+      "type": "HackerNews",
+      "title": "Author of \"Careless People\" banned from saying anything negative about Meta",
+      "url": "https://www.thetimes.com/uk/technology-uk/article/sarah-wynn-williams-careless-people-meta-nrffdfpmf",
+      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.thetimes.com/uk/te...",
+      "score": 419
+    },
+    {
+      "type": "HackerNews",
+      "title": "Apple approves driver that lets Nvidia eGPUs work with Arm Macs",
+      "url": "https://www.theverge.com/tech/907003/apple-approves-driver-that-lets-nvidia-egpus-work-with-arm-macs",
+      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.theverge.com/tech/...",
+      "score": 115
+    },
+    {
+      "type": "HackerNews",
+      "title": "Tell HN: Anthropic no longer allowing Claude Code subscriptions to use OpenClaw",
+      "url": null,
+      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：...",
+      "score": 951
     }
   ]
 }
