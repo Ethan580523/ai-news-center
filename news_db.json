@@ -1,61 +1,61 @@
 {
-  "last_updated": "2026-04-04 04:50:23",
+  "last_updated": "2026-04-04 07:02:03",
   "news": [
     {
       "type": "HackerNews",
       "title": "Tell HN: Anthropic no longer allowing Claude Code subscriptions to use OpenClaw",
       "url": null,
-      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：...",
-      "score": 431
+      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：...",
+      "score": 539
     },
     {
       "type": "HackerNews",
       "title": "Artemis II crew take “spectacular” image of Earth",
       "url": "https://www.bbc.com/news/articles/ce8jzr423p9o",
-      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.bbc.com/news/artic...",
-      "score": 600
+      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.bbc.com/news/artic...",
+      "score": 674
     },
     {
       "type": "HackerNews",
-      "title": "Delve removed from Y Combinator",
-      "url": "https://www.ycombinator.com/companies/delve",
-      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.ycombinator.com/co...",
-      "score": 121
+      "title": "Emotion concepts and their function in a large language model",
+      "url": "https://www.anthropic.com/research/emotion-concepts-function",
+      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.anthropic.com/rese...",
+      "score": 11
     },
     {
       "type": "HackerNews",
       "title": "iNaturalist",
       "url": "https://www.inaturalist.org/",
-      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.inaturalist.org/...",
-      "score": 367
+      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.inaturalist.org/...",
+      "score": 392
     },
     {
       "type": "HackerNews",
-      "title": "Show HN: Travel Hacking Toolkit – Points search and trip planning with AI",
-      "url": "https://github.com/borski/travel-hacking-toolkit",
-      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://github.com/borski/trav...",
-      "score": 36
+      "title": "Delve removed from Y Combinator",
+      "url": "https://www.ycombinator.com/companies/delve",
+      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.ycombinator.com/co...",
+      "score": 225
+    },
+    {
+      "type": "HackerNews",
+      "title": "OpenClaw privilege escalation vulnerability",
+      "url": "https://nvd.nist.gov/vuln/detail/CVE-2026-33579",
+      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://nvd.nist.gov/vuln/deta...",
+      "score": 331
     },
     {
       "type": "HackerNews",
       "title": "Herbie: Automatically improve imprecise floating point formulas",
       "url": "https://herbie.uwplse.org/doc/latest/tutorial.html",
       "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://herbie.uwplse.org/doc/...",
-      "score": 59
+      "score": 83
     },
     {
       "type": "HackerNews",
-      "title": "OpenClaw privilege escalation vulnerability",
-      "url": "https://nvd.nist.gov/vuln/detail/CVE-2026-33579",
-      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://nvd.nist.gov/vuln/deta...",
-      "score": 285
-    },
-    {
-      "type": "HackerNews",
-      "title": "What changes when you turn a Linux box into a router",
-      "url": "https://patrickmccanna.net/7-configuration-changes-that-turn-a-multi-homed-host-into-a-switch-router/",
-      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://patrickmccanna.net/7-c...",
-      "score": 128
+      "title": "Run Linux containers on Android, no root required",
+      "url": "https://github.com/ExTV/Podroid",
+      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://github.com/ExTV/Podroi...",
+      "score": 81
     }
   ]
 }
