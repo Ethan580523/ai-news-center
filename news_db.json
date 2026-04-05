@@ -1,61 +1,61 @@
 {
-  "last_updated": "2026-04-05 15:33:32",
+  "last_updated": "2026-04-05 18:45:32",
   "news": [
     {
       "type": "HackerNews",
       "title": "Artemis II crew see first glimpse of far side of Moon [video]",
       "url": "https://www.bbc.com/news/videos/ce3d5gkd2geo",
-      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.bbc.com/news/video...",
-      "score": 26
+      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.bbc.com/news/video...",
+      "score": 246
     },
     {
       "type": "HackerNews",
       "title": "Eight years of wanting, three months of building with AI",
       "url": "https://lalitm.com/post/building-syntaqlite-ai/",
-      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://lalitm.com/post/buildi...",
-      "score": 77
+      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://lalitm.com/post/buildi...",
+      "score": 332
     },
     {
       "type": "HackerNews",
-      "title": "A Claude Code skill that makes Claude talk like a caveman, cutting token use",
+      "title": "Caveman: Why use many token when few token do trick",
       "url": "https://github.com/JuliusBrussee/caveman",
-      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://github.com/JuliusBruss...",
-      "score": 292
+      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://github.com/JuliusBruss...",
+      "score": 494
     },
     {
       "type": "HackerNews",
-      "title": "Someone at BrowserStack Is Leaking Users' Email Address",
-      "url": "https://shkspr.mobi/blog/2026/04/someone-at-browserstack-is-leaking-users-email-address/",
-      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://shkspr.mobi/blog/2026/...",
-      "score": 225
+      "title": "A tail-call interpreter in (nightly) Rust",
+      "url": "https://www.mattkeeter.com/blog/2026-04-05-tailcall/",
+      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.mattkeeter.com/blo...",
+      "score": 68
+    },
+    {
+      "type": "HackerNews",
+      "title": "Computational Physics (2nd Edition)",
+      "url": "https://websites.umich.edu/~mejn/cp2/",
+      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://websites.umich.edu/~me...",
+      "score": 40
+    },
+    {
+      "type": "HackerNews",
+      "title": "Just 'English with Hanzi'",
+      "url": "https://www.oldnorthwhale.com/p/why-modern-chinese-is-just-english",
+      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.oldnorthwhale.com/...",
+      "score": 30
+    },
+    {
+      "type": "HackerNews",
+      "title": "Gender Equality and Work",
+      "url": "https://www.oecd.org/en/topics/gender-equality-and-work.html",
+      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.oecd.org/en/topics...",
+      "score": 6
     },
     {
       "type": "HackerNews",
       "title": "Finnish sauna heat exposure induces stronger immune cell than cytokine responses",
       "url": "https://www.tandfonline.com/doi/full/10.1080/23328940.2026.2645467#abstract",
-      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.tandfonline.com/do...",
-      "score": 115
-    },
-    {
-      "type": "HackerNews",
-      "title": "Japanese, French and Omani Vessels Cross Strait of Hormuz",
-      "url": "https://japantoday.com/category/politics/japanese-french-and-omani-vessels-cross-the-strait-of-hormuz",
-      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://japantoday.com/categor...",
-      "score": 57
-    },
-    {
-      "type": "HackerNews",
-      "title": "The threat is comfortable drift toward not understanding what you're doing",
-      "url": "https://ergosphere.blog/posts/the-machines-are-fine/",
-      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://ergosphere.blog/posts/...",
-      "score": 480
-    },
-    {
-      "type": "HackerNews",
-      "title": "Lisette a little language inspired by Rust that compiles to Go",
-      "url": "https://lisette.run/",
-      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://lisette.run/...",
-      "score": 174
+      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.tandfonline.com/do...",
+      "score": 220
     }
   ]
 }
