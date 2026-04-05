@@ -1,61 +1,61 @@
 {
-  "last_updated": "2026-04-05 05:12:27",
+  "last_updated": "2026-04-05 07:07:43",
   "news": [
     {
       "type": "HackerNews",
-      "title": "Introduction to Computer Music [pdf]",
+      "title": "GabeN Is Shitting Yacht Money into Flatpak and You're Still Arguing Init Systems",
+      "url": "https://s3kshun8.games/blog/flatpak-won/",
+      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://s3kshun8.games/blog/fl...",
+      "score": 24
+    },
+    {
+      "type": "HackerNews",
+      "title": "Introduction to Computer Music (2009) [pdf]",
       "url": "https://composerprogrammer.com/introductiontocomputermusic.pdf",
       "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://composerprogrammer.com...",
-      "score": 84
+      "score": 122
     },
     {
       "type": "HackerNews",
       "title": "Show HN: A game where you build a GPU",
       "url": "https://jaso1024.com/mvidia/",
       "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://jaso1024.com/mvidia/...",
-      "score": 583
-    },
-    {
-      "type": "HackerNews",
-      "title": "Writing Lisp is AI resistant and I'm sad",
-      "url": "https://blog.djhaskin.com/blog/writing-lisp-is-ai-resistant-and-im-sad/",
-      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://blog.djhaskin.com/blog...",
-      "score": 47
-    },
-    {
-      "type": "HackerNews",
-      "title": "Isseven",
-      "url": "https://isseven.app/",
-      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://isseven.app/...",
-      "score": 79
+      "score": 639
     },
     {
       "type": "HackerNews",
       "title": "OpenScreen is an open-source alternative to Screen Studio",
       "url": "https://github.com/siddharthvaddem/openscreen",
-      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://github.com/siddharthva...",
-      "score": 167
+      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://github.com/siddharthva...",
+      "score": 213
     },
     {
       "type": "HackerNews",
-      "title": "Advice to Young People, the Lies I Tell Myself (2024)",
-      "url": "https://jxnl.co/writing/2024/06/01/advice-to-young-people/",
-      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://jxnl.co/writing/2024/0...",
-      "score": 74
-    },
-    {
-      "type": "HackerNews",
-      "title": "What if the browser built the UI for you?",
-      "url": "https://jonno.nz/posts/what-if-your-browser-built-the-ui-for-you/",
-      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://jonno.nz/posts/what-if...",
-      "score": 6
+      "title": "German implementation of eIDAS will require an Apple/Google account to function",
+      "url": "https://bmi.usercontent.opencode.de/eudi-wallet/wallet-development-documentation-public/latest/architecture-concept/06-mobile-devices/02-mdvm/",
+      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://bmi.usercontent.openco...",
+      "score": 124
     },
     {
       "type": "HackerNews",
       "title": "LLM Wiki – example of an \"idea file\"",
       "url": "https://gist.github.com/karpathy/442a6bf555914893e9891c11519de94f",
-      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://gist.github.com/karpat...",
-      "score": 115
+      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://gist.github.com/karpat...",
+      "score": 146
+    },
+    {
+      "type": "HackerNews",
+      "title": "Rubysyn: Clarifying Ruby's Syntax and Semantics",
+      "url": "https://github.com/squadette/rubysyn/blob/master/README.md",
+      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://github.com/squadette/r...",
+      "score": 24
+    },
+    {
+      "type": "HackerNews",
+      "title": "Zml-smi: universal monitoring tool for GPUs, TPUs and NPUs",
+      "url": "https://zml.ai/posts/zml-smi/",
+      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://zml.ai/posts/zml-smi/...",
+      "score": 18
     }
   ]
 }
