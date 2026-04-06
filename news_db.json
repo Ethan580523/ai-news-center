@@ -1,61 +1,61 @@
 {
-  "last_updated": "2026-04-06 07:44:42",
+  "last_updated": "2026-04-06 10:09:28",
   "news": [
-    {
-      "type": "HackerNews",
-      "title": "SideX – A Tauri-based port of Visual Studio Code",
-      "url": "https://github.com/Sidenai/sidex",
-      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://github.com/Sidenai/sid...",
-      "score": 43
-    },
     {
       "type": "HackerNews",
       "title": "Show HN: I built a tiny LLM to demystify how language models work",
       "url": "https://github.com/arman-bd/guppylm",
       "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://github.com/arman-bd/gu...",
-      "score": 354
+      "score": 481
     },
     {
       "type": "HackerNews",
       "title": "Gemma 4 on iPhone",
       "url": "https://apps.apple.com/nl/app/google-ai-edge-gallery/id6749645337",
-      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://apps.apple.com/nl/app/...",
-      "score": 584
-    },
-    {
-      "type": "HackerNews",
-      "title": "An open-source 240-antenna array to bounce signals off the Moon",
-      "url": "https://moonrf.com/",
-      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://moonrf.com/...",
-      "score": 74
+      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://apps.apple.com/nl/app/...",
+      "score": 642
     },
     {
       "type": "HackerNews",
       "title": "Microsoft hasn't had a coherent GUI strategy since Petzold",
       "url": "https://www.jsnover.com/blog/2026/03/13/microsoft-hasnt-had-a-coherent-gui-strategy-since-petzold/",
-      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.jsnover.com/blog/2...",
-      "score": 378
+      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.jsnover.com/blog/2...",
+      "score": 460
     },
     {
       "type": "HackerNews",
-      "title": "Show HN: Real-time AI (audio/video in, voice out) on an M3 Pro with Gemma E2B",
-      "url": "https://github.com/fikrikarim/parlor",
-      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://github.com/fikrikarim/...",
-      "score": 53
+      "title": "An open-source 240-antenna array to bounce signals off the Moon",
+      "url": "https://moonrf.com/",
+      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://moonrf.com/...",
+      "score": 110
+    },
+    {
+      "type": "HackerNews",
+      "title": "France pulls last gold held in US for $15B gain",
+      "url": "https://www.mining.com/france-pulls-last-gold-held-in-us-for-15b-gain/",
+      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.mining.com/france-...",
+      "score": 95
     },
     {
       "type": "HackerNews",
       "title": "The 1987 game “The Last Ninja” was 40 kilobytes",
       "url": "https://twitter.com/exQUIZitely/status/2040777977521398151",
-      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://twitter.com/exQUIZitel...",
-      "score": 67
+      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://twitter.com/exQUIZitel...",
+      "score": 120
+    },
+    {
+      "type": "HackerNews",
+      "title": "LÖVE: 2D Game Framework for Lua",
+      "url": "https://github.com/love2d/love",
+      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://github.com/love2d/love...",
+      "score": 312
     },
     {
       "type": "HackerNews",
       "title": "Show HN: I made a YouTube search form with advanced filters",
       "url": "https://playlists.at/youtube/search/",
-      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://playlists.at/youtube/s...",
-      "score": 202
+      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://playlists.at/youtube/s...",
+      "score": 226
     }
   ]
 }
