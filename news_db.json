@@ -1,61 +1,61 @@
 {
-  "last_updated": "2026-04-06 15:48:56",
+  "last_updated": "2026-04-06 19:01:35",
   "news": [
     {
       "type": "HackerNews",
-      "title": "I Won't Download Your App. The Web Version Is A-OK",
-      "url": "https://www.0xsid.com/blog/wont-download-your-app",
-      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.0xsid.com/blog/won...",
-      "score": 277
+      "title": "Battle for Wesnoth: open-source, turn-based strategy game",
+      "url": "https://www.wesnoth.org",
+      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.wesnoth.org...",
+      "score": 117
+    },
+    {
+      "type": "HackerNews",
+      "title": "The Cult of Vibe Coding Is Insane",
+      "url": "https://bramcohen.com/p/the-cult-of-vibe-coding-is-insane",
+      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://bramcohen.com/p/the-cu...",
+      "score": 55
+    },
+    {
+      "type": "HackerNews",
+      "title": "Launch HN: Freestyle: Sandboxes for AI Coding Agents",
+      "url": "https://www.freestyle.sh",
+      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.freestyle.sh...",
+      "score": 91
+    },
+    {
+      "type": "HackerNews",
+      "title": "A cryptography engineer's perspective on quantum computing timelines",
+      "url": "https://words.filippo.io/crqc-timeline/",
+      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://words.filippo.io/crqc-...",
+      "score": 137
     },
     {
       "type": "HackerNews",
       "title": "Germany Doxes \"UNKN,\" Head of RU Ransomware Gangs REvil, GandCrab",
       "url": "https://krebsonsecurity.com/2026/04/germany-doxes-unkn-head-of-ru-ransomware-gangs-revil-gandcrab/",
-      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://krebsonsecurity.com/20...",
-      "score": 80
+      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://krebsonsecurity.com/20...",
+      "score": 194
     },
     {
       "type": "HackerNews",
-      "title": "Book Review: There Is No Antimemetics Division",
+      "title": "Sc-im: Spreadsheets in your terminal",
+      "url": "https://github.com/andmarti1424/sc-im",
+      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://github.com/andmarti142...",
+      "score": 77
+    },
+    {
+      "type": "HackerNews",
+      "title": "Book review: There is no antimemetics division",
       "url": "https://www.stephendiehl.com/posts/no_antimimetics/",
-      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.stephendiehl.com/p...",
-      "score": 52
+      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.stephendiehl.com/p...",
+      "score": 133
     },
     {
       "type": "HackerNews",
-      "title": "What Being Ripped Off Taught Me",
-      "url": "https://belief.horse/notes/what-being-ripped-off-taught-me/",
-      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://belief.horse/notes/wha...",
-      "score": 160
-    },
-    {
-      "type": "HackerNews",
-      "title": "Claude Code Down",
-      "url": null,
-      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：...",
-      "score": 29
-    },
-    {
-      "type": "HackerNews",
-      "title": "Show HN: I built a tiny LLM to demystify how language models work",
-      "url": "https://github.com/arman-bd/guppylm",
-      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://github.com/arman-bd/gu...",
-      "score": 720
-    },
-    {
-      "type": "HackerNews",
-      "title": "Microsoft hasn't had a coherent GUI strategy since Petzold",
-      "url": "https://www.jsnover.com/blog/2026/03/13/microsoft-hasnt-had-a-coherent-gui-strategy-since-petzold/",
-      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.jsnover.com/blog/2...",
-      "score": 673
-    },
-    {
-      "type": "HackerNews",
-      "title": "Gemma 4 on iPhone",
-      "url": "https://apps.apple.com/nl/app/google-ai-edge-gallery/id6749645337",
-      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://apps.apple.com/nl/app/...",
-      "score": 760
+      "title": "Show HN: GovAuctions lets you browse government auctions at once",
+      "url": "https://www.govauctions.app/",
+      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.govauctions.app/...",
+      "score": 50
     }
   ]
 }
