@@ -1,61 +1,61 @@
 {
-  "last_updated": "2026-04-07 02:29:37",
+  "last_updated": "2026-04-07 05:10:02",
   "news": [
-    {
-      "type": "HackerNews",
-      "title": "Netflix Void Model: Video Object and Interaction Deletion",
-      "url": "https://github.com/Netflix/void-model",
-      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://github.com/Netflix/voi...",
-      "score": 55
-    },
     {
       "type": "HackerNews",
       "title": "Solod – A Subset of Go That Translates to C",
       "url": "https://github.com/solod-dev/solod",
-      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://github.com/solod-dev/s...",
-      "score": 26
+      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://github.com/solod-dev/s...",
+      "score": 67
     },
     {
       "type": "HackerNews",
       "title": "Show HN: Ghost Pepper – Local hold-to-talk speech-to-text for macOS",
       "url": "https://github.com/matthartman/ghost-pepper",
-      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://github.com/matthartman...",
-      "score": 243
+      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://github.com/matthartman...",
+      "score": 301
     },
     {
       "type": "HackerNews",
       "title": "Launch HN: Freestyle – Sandboxes for Coding Agents",
       "url": "https://www.freestyle.sh/",
-      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.freestyle.sh/...",
-      "score": 207
+      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.freestyle.sh/...",
+      "score": 237
     },
     {
       "type": "HackerNews",
       "title": "A cryptography engineer's perspective on quantum computing timelines",
       "url": "https://words.filippo.io/crqc-timeline/",
-      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://words.filippo.io/crqc-...",
-      "score": 344
+      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://words.filippo.io/crqc-...",
+      "score": 396
     },
     {
       "type": "HackerNews",
-      "title": "Anthropic expands partnership with Google and Broadcom for next-gen compute",
-      "url": "https://www.anthropic.com/news/google-broadcom-partnership-compute",
-      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.anthropic.com/news...",
-      "score": 149
+      "title": "Issue: Claude Code is unusable for complex engineering tasks with Feb updates",
+      "url": "https://github.com/anthropics/claude-code/issues/42796",
+      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://github.com/anthropics/...",
+      "score": 881
+    },
+    {
+      "type": "HackerNews",
+      "title": "Sam Altman may control our future – can he be trusted?",
+      "url": "https://www.newyorker.com/magazine/2026/04/13/sam-altman-may-control-our-future-can-he-be-trusted",
+      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.newyorker.com/maga...",
+      "score": 1113
     },
     {
       "type": "HackerNews",
       "title": "German police name alleged leaders of GandCrab and REvil ransomware groups",
       "url": "https://krebsonsecurity.com/2026/04/germany-doxes-unkn-head-of-ru-ransomware-gangs-revil-gandcrab/",
       "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://krebsonsecurity.com/20...",
-      "score": 265
+      "score": 275
     },
     {
       "type": "HackerNews",
       "title": "Show HN: GovAuctions lets you browse government auctions at once",
       "url": "https://www.govauctions.app/",
-      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.govauctions.app/...",
-      "score": 220
+      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.govauctions.app/...",
+      "score": 251
     }
   ]
 }
