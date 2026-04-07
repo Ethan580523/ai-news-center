@@ -1,61 +1,61 @@
 {
-  "last_updated": "2026-04-07 13:20:48",
+  "last_updated": "2026-04-07 16:10:32",
   "news": [
-    {
-      "type": "HackerNews",
-      "title": "We found an undocumented bug in the Apollo 11 guidance computer code",
-      "url": "https://www.juxt.pro/blog/a-bug-on-the-dark-side-of-the-moon/",
-      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.juxt.pro/blog/a-bu...",
-      "score": 135
-    },
     {
       "type": "HackerNews",
       "title": "Show HN: Brutalist Concrete Laptop Stand (2024)",
       "url": "https://sam-burns.com/posts/concrete-laptop-stand/",
-      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://sam-burns.com/posts/co...",
-      "score": 72
+      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://sam-burns.com/posts/co...",
+      "score": 382
+    },
+    {
+      "type": "HackerNews",
+      "title": "Good Taste the Only Real Moat Left",
+      "url": "https://rajnandan.com/posts/taste-in-the-age-of-ai-and-llms/",
+      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://rajnandan.com/posts/ta...",
+      "score": 11
+    },
+    {
+      "type": "HackerNews",
+      "title": "Cloudflare targets 2029 for full post-quantum security",
+      "url": "https://blog.cloudflare.com/post-quantum-roadmap/",
+      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://blog.cloudflare.com/po...",
+      "score": 49
+    },
+    {
+      "type": "HackerNews",
+      "title": "We found an undocumented bug in the Apollo 11 guidance computer code",
+      "url": "https://www.juxt.pro/blog/a-bug-on-the-dark-side-of-the-moon/",
+      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.juxt.pro/blog/a-bu...",
+      "score": 273
+    },
+    {
+      "type": "HackerNews",
+      "title": "Moving fast in hardware: lessons from lab to $100M ARR",
+      "url": "https://blog.zacka.io/p/simplify-then-add-lightness-bc4",
+      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://blog.zacka.io/p/simpli...",
+      "score": 22
+    },
+    {
+      "type": "HackerNews",
+      "title": "Claude Code is locking people out for hours",
+      "url": "https://github.com/anthropics/claude-code/issues/44257",
+      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://github.com/anthropics/...",
+      "score": 135
+    },
+    {
+      "type": "HackerNews",
+      "title": "Dropping Cloudflare for Bunny.net",
+      "url": "https://jola.dev/posts/dropping-cloudflare",
+      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://jola.dev/posts/droppin...",
+      "score": 213
     },
     {
       "type": "HackerNews",
       "title": "Show HN: A cartographer's attempt to realistically map Tolkien's world",
       "url": "https://www.intofarlands.com/atlasofarda",
       "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.intofarlands.com/a...",
-      "score": 26
-    },
-    {
-      "type": "HackerNews",
-      "title": "AI may be making us think and write more alike",
-      "url": "https://dornsife.usc.edu/news/stories/ai-may-be-making-us-think-and-write-more-alike/",
-      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://dornsife.usc.edu/news/...",
-      "score": 87
-    },
-    {
-      "type": "HackerNews",
-      "title": "Identify a London Underground Line just by listening to it",
-      "url": "https://tubesoundquiz.com/",
-      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://tubesoundquiz.com/...",
-      "score": 69
-    },
-    {
-      "type": "HackerNews",
-      "title": "Show HN: Pion/handoff – Move WebRTC out of browser and into Go",
-      "url": "https://github.com/pion/handoff",
-      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://github.com/pion/handof...",
-      "score": 18
-    },
-    {
-      "type": "HackerNews",
-      "title": "Blackholing My Email",
-      "url": "https://www.johnsto.co.uk/blog/blackholing-my-email/",
-      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.johnsto.co.uk/blog...",
-      "score": 72
-    },
-    {
-      "type": "HackerNews",
-      "title": "Breaking the console: a brief history of video game security",
-      "url": "https://sergioprado.blog/breaking-the-console-a-brief-history-of-video-game-security/",
-      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://sergioprado.blog/break...",
-      "score": 42
+      "score": 91
     }
   ]
 }
