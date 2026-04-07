@@ -1,61 +1,61 @@
 {
-  "last_updated": "2026-04-07 05:10:02",
+  "last_updated": "2026-04-07 07:18:36",
   "news": [
     {
       "type": "HackerNews",
-      "title": "Solod – A Subset of Go That Translates to C",
-      "url": "https://github.com/solod-dev/solod",
-      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://github.com/solod-dev/s...",
-      "score": 67
+      "title": "My Experience as a Rice Farmer",
+      "url": "https://xd009642.github.io/2026/04/01/My-Experience-as-a-Rice-Farmer.html",
+      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://xd009642.github.io/202...",
+      "score": 39
     },
     {
       "type": "HackerNews",
       "title": "Show HN: Ghost Pepper – Local hold-to-talk speech-to-text for macOS",
       "url": "https://github.com/matthartman/ghost-pepper",
-      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://github.com/matthartman...",
-      "score": 301
+      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://github.com/matthartman...",
+      "score": 349
     },
     {
       "type": "HackerNews",
-      "title": "Launch HN: Freestyle – Sandboxes for Coding Agents",
-      "url": "https://www.freestyle.sh/",
-      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.freestyle.sh/...",
-      "score": 237
-    },
-    {
-      "type": "HackerNews",
-      "title": "A cryptography engineer's perspective on quantum computing timelines",
-      "url": "https://words.filippo.io/crqc-timeline/",
-      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://words.filippo.io/crqc-...",
-      "score": 396
+      "title": "Solod – A subset of Go that translates to C",
+      "url": "https://github.com/solod-dev/solod",
+      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://github.com/solod-dev/s...",
+      "score": 104
     },
     {
       "type": "HackerNews",
       "title": "Issue: Claude Code is unusable for complex engineering tasks with Feb updates",
       "url": "https://github.com/anthropics/claude-code/issues/42796",
       "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://github.com/anthropics/...",
-      "score": 881
+      "score": 989
+    },
+    {
+      "type": "HackerNews",
+      "title": "Launch HN: Freestyle – Sandboxes for Coding Agents",
+      "url": "https://www.freestyle.sh/",
+      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.freestyle.sh/...",
+      "score": 257
     },
     {
       "type": "HackerNews",
       "title": "Sam Altman may control our future – can he be trusted?",
       "url": "https://www.newyorker.com/magazine/2026/04/13/sam-altman-may-control-our-future-can-he-be-trusted",
-      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.newyorker.com/maga...",
-      "score": 1113
+      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.newyorker.com/maga...",
+      "score": 1255
     },
     {
       "type": "HackerNews",
-      "title": "German police name alleged leaders of GandCrab and REvil ransomware groups",
-      "url": "https://krebsonsecurity.com/2026/04/germany-doxes-unkn-head-of-ru-ransomware-gangs-revil-gandcrab/",
-      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://krebsonsecurity.com/20...",
-      "score": 275
+      "title": "A cryptography engineer's perspective on quantum computing timelines",
+      "url": "https://words.filippo.io/crqc-timeline/",
+      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://words.filippo.io/crqc-...",
+      "score": 436
     },
     {
       "type": "HackerNews",
-      "title": "Show HN: GovAuctions lets you browse government auctions at once",
-      "url": "https://www.govauctions.app/",
-      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.govauctions.app/...",
-      "score": 251
+      "title": "Apollo Guidance Computer restoration videos",
+      "url": "https://www.curiousmarc.com/space/apollo-guidance-computer",
+      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.curiousmarc.com/sp...",
+      "score": 32
     }
   ]
 }
