@@ -1,61 +1,61 @@
 {
-  "last_updated": "2026-04-07 10:07:47",
+  "last_updated": "2026-04-07 13:20:48",
   "news": [
     {
       "type": "HackerNews",
-      "title": "Every GPU That Mattered",
-      "url": "https://sheets.works/data-viz/every-gpu",
-      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://sheets.works/data-viz/...",
-      "score": 76
+      "title": "We found an undocumented bug in the Apollo 11 guidance computer code",
+      "url": "https://www.juxt.pro/blog/a-bug-on-the-dark-side-of-the-moon/",
+      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.juxt.pro/blog/a-bu...",
+      "score": 135
     },
     {
       "type": "HackerNews",
-      "title": "My Experience as a Rice Farmer",
-      "url": "https://xd009642.github.io/2026/04/01/My-Experience-as-a-Rice-Farmer.html",
-      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://xd009642.github.io/202...",
-      "score": 158
+      "title": "Show HN: Brutalist Concrete Laptop Stand (2024)",
+      "url": "https://sam-burns.com/posts/concrete-laptop-stand/",
+      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://sam-burns.com/posts/co...",
+      "score": 72
     },
     {
       "type": "HackerNews",
-      "title": "Show HN: Ghost Pepper – Local hold-to-talk speech-to-text for macOS",
-      "url": "https://github.com/matthartman/ghost-pepper",
-      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://github.com/matthartman...",
-      "score": 382
+      "title": "Show HN: A cartographer's attempt to realistically map Tolkien's world",
+      "url": "https://www.intofarlands.com/atlasofarda",
+      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.intofarlands.com/a...",
+      "score": 26
     },
     {
       "type": "HackerNews",
-      "title": "Solod – A subset of Go that translates to C",
-      "url": "https://github.com/solod-dev/solod",
-      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://github.com/solod-dev/s...",
-      "score": 136
+      "title": "AI may be making us think and write more alike",
+      "url": "https://dornsife.usc.edu/news/stories/ai-may-be-making-us-think-and-write-more-alike/",
+      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://dornsife.usc.edu/news/...",
+      "score": 87
     },
     {
       "type": "HackerNews",
-      "title": "Issue: Claude Code is unusable for complex engineering tasks with Feb updates",
-      "url": "https://github.com/anthropics/claude-code/issues/42796",
-      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://github.com/anthropics/...",
-      "score": 1110
+      "title": "Identify a London Underground Line just by listening to it",
+      "url": "https://tubesoundquiz.com/",
+      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://tubesoundquiz.com/...",
+      "score": 69
     },
     {
       "type": "HackerNews",
-      "title": "Sam Altman may control our future – can he be trusted?",
-      "url": "https://www.newyorker.com/magazine/2026/04/13/sam-altman-may-control-our-future-can-he-be-trusted",
-      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.newyorker.com/maga...",
-      "score": 1420
+      "title": "Show HN: Pion/handoff – Move WebRTC out of browser and into Go",
+      "url": "https://github.com/pion/handoff",
+      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://github.com/pion/handof...",
+      "score": 18
     },
     {
       "type": "HackerNews",
-      "title": "Three hundred synths, 3 hardware projects, and one app",
-      "url": "https://midi.guide/blog/three-hunded-synths-one-app/",
-      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://midi.guide/blog/three-...",
-      "score": 35
+      "title": "Blackholing My Email",
+      "url": "https://www.johnsto.co.uk/blog/blackholing-my-email/",
+      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.johnsto.co.uk/blog...",
+      "score": 72
     },
     {
       "type": "HackerNews",
-      "title": "Launch HN: Freestyle – Sandboxes for Coding Agents",
-      "url": "https://www.freestyle.sh/",
-      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.freestyle.sh/...",
-      "score": 278
+      "title": "Breaking the console: a brief history of video game security",
+      "url": "https://sergioprado.blog/breaking-the-console-a-brief-history-of-video-game-security/",
+      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://sergioprado.blog/break...",
+      "score": 42
     }
   ]
 }
