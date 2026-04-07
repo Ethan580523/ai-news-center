@@ -1,61 +1,61 @@
 {
-  "last_updated": "2026-04-07 16:10:32",
+  "last_updated": "2026-04-07 19:05:07",
   "news": [
+    {
+      "type": "HackerNews",
+      "title": "Project Glasswing: Securing critical software for the AI era",
+      "url": "https://www.anthropic.com/glasswing",
+      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.anthropic.com/glas...",
+      "score": 169
+    },
+    {
+      "type": "HackerNews",
+      "title": "System Card: Claude Mythos Preview [pdf]",
+      "url": "https://www-cdn.anthropic.com/53566bf5440a10affd749724787c8913a2ae0841.pdf",
+      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www-cdn.anthropic.com/...",
+      "score": 124
+    },
+    {
+      "type": "HackerNews",
+      "title": "GLM-5.1: Towards Long-Horizon Tasks",
+      "url": "https://z.ai/blog/glm-5.1",
+      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://z.ai/blog/glm-5.1...",
+      "score": 224
+    },
+    {
+      "type": "HackerNews",
+      "title": "Cambodia unveils a statue of famous landmine-sniffing rat Magawa",
+      "url": "https://www.bbc.com/news/articles/c0rx7xzd10xo",
+      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.bbc.com/news/artic...",
+      "score": 103
+    },
+    {
+      "type": "HackerNews",
+      "title": "Assessing Claude Mythos Preview's cybersecurity capabilities",
+      "url": "https://red.anthropic.com/2026/mythos-preview/",
+      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://red.anthropic.com/2026...",
+      "score": 52
+    },
     {
       "type": "HackerNews",
       "title": "Show HN: Brutalist Concrete Laptop Stand (2024)",
       "url": "https://sam-burns.com/posts/concrete-laptop-stand/",
-      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://sam-burns.com/posts/co...",
-      "score": 382
+      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://sam-burns.com/posts/co...",
+      "score": 590
     },
     {
       "type": "HackerNews",
-      "title": "Good Taste the Only Real Moat Left",
-      "url": "https://rajnandan.com/posts/taste-in-the-age-of-ai-and-llms/",
-      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://rajnandan.com/posts/ta...",
-      "score": 11
+      "title": "Rescuing old printers with an in-browser Linux VM bridged to WebUSB over USB/IP",
+      "url": "https://printervention.app/details",
+      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://printervention.app/det...",
+      "score": 66
     },
     {
       "type": "HackerNews",
       "title": "Cloudflare targets 2029 for full post-quantum security",
       "url": "https://blog.cloudflare.com/post-quantum-roadmap/",
       "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://blog.cloudflare.com/po...",
-      "score": 49
-    },
-    {
-      "type": "HackerNews",
-      "title": "We found an undocumented bug in the Apollo 11 guidance computer code",
-      "url": "https://www.juxt.pro/blog/a-bug-on-the-dark-side-of-the-moon/",
-      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.juxt.pro/blog/a-bu...",
-      "score": 273
-    },
-    {
-      "type": "HackerNews",
-      "title": "Moving fast in hardware: lessons from lab to $100M ARR",
-      "url": "https://blog.zacka.io/p/simplify-then-add-lightness-bc4",
-      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://blog.zacka.io/p/simpli...",
-      "score": 22
-    },
-    {
-      "type": "HackerNews",
-      "title": "Claude Code is locking people out for hours",
-      "url": "https://github.com/anthropics/claude-code/issues/44257",
-      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://github.com/anthropics/...",
-      "score": 135
-    },
-    {
-      "type": "HackerNews",
-      "title": "Dropping Cloudflare for Bunny.net",
-      "url": "https://jola.dev/posts/dropping-cloudflare",
-      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://jola.dev/posts/droppin...",
-      "score": 213
-    },
-    {
-      "type": "HackerNews",
-      "title": "Show HN: A cartographer's attempt to realistically map Tolkien's world",
-      "url": "https://www.intofarlands.com/atlasofarda",
-      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.intofarlands.com/a...",
-      "score": 91
+      "score": 180
     }
   ]
 }
