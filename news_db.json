@@ -1,61 +1,61 @@
 {
-  "last_updated": "2026-04-08 10:08:33",
+  "last_updated": "2026-04-08 13:21:29",
   "news": [
     {
       "type": "HackerNews",
-      "title": "Veracrypt Project Update",
-      "url": "https://sourceforge.net/p/veracrypt/discussion/general/thread/9620d7a4b3/",
-      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://sourceforge.net/p/vera...",
-      "score": 222
-    },
-    {
-      "type": "HackerNews",
-      "title": "Revision Demoparty 2026: Razor1911 [video]",
-      "url": "https://www.youtube.com/watch?v=Lw4W9V57SKs&t=5716s",
-      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.youtube.com/watch?...",
-      "score": 165
-    },
-    {
-      "type": "HackerNews",
-      "title": "Project Glasswing: Securing critical software for the AI era",
-      "url": "https://www.anthropic.com/glasswing",
-      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.anthropic.com/glas...",
-      "score": 1292
-    },
-    {
-      "type": "HackerNews",
-      "title": "Lunar Flyby",
-      "url": "https://www.nasa.gov/gallery/lunar-flyby/",
-      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.nasa.gov/gallery/l...",
-      "score": 716
-    },
-    {
-      "type": "HackerNews",
-      "title": "Show HN: We built a camera only robot vacuum for less than 300$ (Well almost)",
-      "url": "https://indraneelpatil.github.io/blog/2026/robot-vacuum/",
-      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://indraneelpatil.github....",
-      "score": 24
-    },
-    {
-      "type": "HackerNews",
-      "title": "The Git Commands I Run Before Reading Any Code",
+      "title": "Git commands I run before reading any code",
       "url": "https://piechowski.io/post/git-commands-before-reading-code/",
       "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://piechowski.io/post/git...",
-      "score": 15
+      "score": 519
     },
     {
       "type": "HackerNews",
-      "title": "Protect your shed",
-      "url": "https://dylanbutler.dev/blog/protect-your-shed/",
-      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://dylanbutler.dev/blog/p...",
-      "score": 160
+      "title": "Veracrypt project update",
+      "url": "https://sourceforge.net/p/veracrypt/discussion/general/thread/9620d7a4b3/",
+      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://sourceforge.net/p/vera...",
+      "score": 540
+    },
+    {
+      "type": "HackerNews",
+      "title": "I've sold out",
+      "url": "https://mariozechner.at/posts/2026-04-08-ive-sold-out/",
+      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://mariozechner.at/posts/...",
+      "score": 176
+    },
+    {
+      "type": "HackerNews",
+      "title": "MegaTrain: Full Precision Training of 100B+ Parameter LLMs on a Single GPU",
+      "url": "https://arxiv.org/abs/2604.05091",
+      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://arxiv.org/abs/2604.050...",
+      "score": 26
     },
     {
       "type": "HackerNews",
       "title": "Škoda DuoBell: A bicycle bell that penetrates noise-cancelling headphones",
       "url": "https://www.skoda-storyboard.com/en/skoda-world/skoda-duobell-a-bicycle-bell-that-outsmarts-even-smart-headphones/",
-      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.skoda-storyboard.c...",
-      "score": 91
+      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.skoda-storyboard.c...",
+      "score": 161
+    },
+    {
+      "type": "HackerNews",
+      "title": "Revision Demoparty 2026: Razor1911 [video]",
+      "url": "https://www.youtube.com/watch?v=Lw4W9V57SKs&t=5716s",
+      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.youtube.com/watch?...",
+      "score": 239
+    },
+    {
+      "type": "HackerNews",
+      "title": "Project Glasswing: Securing critical software for the AI era",
+      "url": "https://www.anthropic.com/glasswing",
+      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.anthropic.com/glas...",
+      "score": 1359
+    },
+    {
+      "type": "HackerNews",
+      "title": "Audio Reactive LED Strips Are Diabolically Hard",
+      "url": "https://scottlawsonbc.com/post/audio-led",
+      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://scottlawsonbc.com/post...",
+      "score": 50
     }
   ]
 }
