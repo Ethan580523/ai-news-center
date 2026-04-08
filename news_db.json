@@ -1,60 +1,60 @@
 {
-  "last_updated": "2026-04-08 05:11:34",
+  "last_updated": "2026-04-08 07:20:55",
   "news": [
+    {
+      "type": "HackerNews",
+      "title": "Sonnet 4.6 Elevated Rate of Errors",
+      "url": "https://status.claude.com/incidents/lhws0phdvzz3",
+      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://status.claude.com/inci...",
+      "score": 34
+    },
     {
       "type": "HackerNews",
       "title": "Project Glasswing: Securing critical software for the AI era",
       "url": "https://www.anthropic.com/glasswing",
-      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.anthropic.com/glas...",
-      "score": 1066
+      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.anthropic.com/glas...",
+      "score": 1195
     },
     {
       "type": "HackerNews",
       "title": "Lunar Flyby",
       "url": "https://www.nasa.gov/gallery/lunar-flyby/",
-      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.nasa.gov/gallery/l...",
-      "score": 522
+      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.nasa.gov/gallery/l...",
+      "score": 633
     },
     {
       "type": "HackerNews",
-      "title": "Protect Your Shed",
+      "title": "Protect your shed",
       "url": "https://dylanbutler.dev/blog/protect-your-shed/",
       "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://dylanbutler.dev/blog/p...",
-      "score": 49
+      "score": 115
+    },
+    {
+      "type": "HackerNews",
+      "title": "Revision Demoparty 2026: Razor1911 [video]",
+      "url": "https://www.youtube.com/watch?v=Lw4W9V57SKs&t=5716s",
+      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.youtube.com/watch?...",
+      "score": 32
     },
     {
       "type": "HackerNews",
       "title": "Slightly safer vibecoding by adopting old hacker habits",
       "url": "http://addxorrol.blogspot.com/2026/03/slightly-safer-vibecoding-by-adopting.html",
-      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：http://addxorrol.blogspot.com/...",
-      "score": 43
+      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：http://addxorrol.blogspot.com/...",
+      "score": 84
     },
     {
       "type": "HackerNews",
       "title": "System Card: Claude Mythos Preview [pdf]",
       "url": "https://www-cdn.anthropic.com/53566bf5440a10affd749724787c8913a2ae0841.pdf",
-      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www-cdn.anthropic.com/...",
-      "score": 611
+      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www-cdn.anthropic.com/...",
+      "score": 647
     },
     {
       "type": "HackerNews",
-      "title": "Native Americans had dice 12,000 years ago",
+      "title": "Native Americans had dice 12k years ago",
       "url": "https://www.nbcnews.com/science/science-news/native-americans-dice-games-probability-study-rcna266426",
-      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.nbcnews.com/scienc...",
-      "score": 22
-    },
-    {
-      "type": "HackerNews",
-      "title": "GLM-5.1: Towards Long-Horizon Tasks",
-      "url": "https://z.ai/blog/glm-5.1",
-      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://z.ai/blog/glm-5.1...",
-      "score": 470
-    },
-    {
-      "type": "HackerNews",
-      "title": "Binary obfuscation used in AAA Games",
-      "url": "https://blog.farzon.org/2026/04/binary-obfuscation-that-doesnt-kill-lto.html",
-      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://blog.farzon.org/2026/0...",
+      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.nbcnews.com/scienc...",
       "score": 48
     }
   ]
