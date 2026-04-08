@@ -1,61 +1,61 @@
 {
-  "last_updated": "2026-04-08 02:30:29",
+  "last_updated": "2026-04-08 05:11:34",
   "news": [
     {
       "type": "HackerNews",
       "title": "Project Glasswing: Securing critical software for the AI era",
       "url": "https://www.anthropic.com/glasswing",
       "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.anthropic.com/glas...",
-      "score": 935
-    },
-    {
-      "type": "HackerNews",
-      "title": "US and Iran agree to provisional ceasefire",
-      "url": "https://www.theguardian.com/us-news/2026/apr/07/trump-iran-war-ceasefire",
-      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.theguardian.com/us...",
-      "score": 203
+      "score": 1066
     },
     {
       "type": "HackerNews",
       "title": "Lunar Flyby",
       "url": "https://www.nasa.gov/gallery/lunar-flyby/",
-      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.nasa.gov/gallery/l...",
-      "score": 412
+      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.nasa.gov/gallery/l...",
+      "score": 522
+    },
+    {
+      "type": "HackerNews",
+      "title": "Protect Your Shed",
+      "url": "https://dylanbutler.dev/blog/protect-your-shed/",
+      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://dylanbutler.dev/blog/p...",
+      "score": 49
+    },
+    {
+      "type": "HackerNews",
+      "title": "Slightly safer vibecoding by adopting old hacker habits",
+      "url": "http://addxorrol.blogspot.com/2026/03/slightly-safer-vibecoding-by-adopting.html",
+      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：http://addxorrol.blogspot.com/...",
+      "score": 43
     },
     {
       "type": "HackerNews",
       "title": "System Card: Claude Mythos Preview [pdf]",
       "url": "https://www-cdn.anthropic.com/53566bf5440a10affd749724787c8913a2ae0841.pdf",
-      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www-cdn.anthropic.com/...",
-      "score": 550
+      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www-cdn.anthropic.com/...",
+      "score": 611
+    },
+    {
+      "type": "HackerNews",
+      "title": "Native Americans had dice 12,000 years ago",
+      "url": "https://www.nbcnews.com/science/science-news/native-americans-dice-games-probability-study-rcna266426",
+      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.nbcnews.com/scienc...",
+      "score": 22
     },
     {
       "type": "HackerNews",
       "title": "GLM-5.1: Towards Long-Horizon Tasks",
       "url": "https://z.ai/blog/glm-5.1",
-      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://z.ai/blog/glm-5.1...",
-      "score": 427
+      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://z.ai/blog/glm-5.1...",
+      "score": 470
     },
     {
       "type": "HackerNews",
-      "title": "How to get better at guitar",
-      "url": "https://www.jakeworth.com/posts/how-to-get-better-at-guitar/",
-      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.jakeworth.com/post...",
-      "score": 206
-    },
-    {
-      "type": "HackerNews",
-      "title": "S3 Files",
-      "url": "https://www.allthingsdistributed.com/2026/04/s3-files-and-the-changing-face-of-s3.html",
-      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.allthingsdistribut...",
-      "score": 211
-    },
-    {
-      "type": "HackerNews",
-      "title": "Cambodia unveils statue to honour famous landmine-sniffing rat",
-      "url": "https://www.bbc.com/news/articles/c0rx7xzd10xo",
-      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.bbc.com/news/artic...",
-      "score": 286
+      "title": "Binary obfuscation used in AAA Games",
+      "url": "https://blog.farzon.org/2026/04/binary-obfuscation-that-doesnt-kill-lto.html",
+      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://blog.farzon.org/2026/0...",
+      "score": 48
     }
   ]
 }
