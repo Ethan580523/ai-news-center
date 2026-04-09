@@ -1,61 +1,61 @@
 {
-  "last_updated": "2026-04-09 07:23:52",
+  "last_updated": "2026-04-09 10:13:40",
   "news": [
+    {
+      "type": "HackerNews",
+      "title": "Claude mixes up who said what and that's not OK",
+      "url": "https://dwyer.co.za/static/claude-mixes-up-who-said-what-and-thats-not-ok.html",
+      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://dwyer.co.za/static/cla...",
+      "score": 28
+    },
     {
       "type": "HackerNews",
       "title": "LittleSnitch for Linux",
       "url": "https://obdev.at/products/littlesnitch-linux/index.html",
-      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://obdev.at/products/litt...",
-      "score": 546
+      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://obdev.at/products/litt...",
+      "score": 746
     },
     {
       "type": "HackerNews",
       "title": "Open Source Security at Astral",
       "url": "https://astral.sh/blog/open-source-security-at-astral",
-      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://astral.sh/blog/open-so...",
-      "score": 118
+      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://astral.sh/blog/open-so...",
+      "score": 191
     },
     {
       "type": "HackerNews",
       "title": "I ported Mac OS X to the Nintendo Wii",
       "url": "https://bryankeller.github.io/2026/04/08/porting-mac-os-x-nintendo-wii.html",
       "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://bryankeller.github.io/...",
-      "score": 1485
+      "score": 1589
     },
     {
       "type": "HackerNews",
-      "title": "The Importance of Being Idle",
-      "url": "https://theamericanscholar.org/the-importance-of-being-idle/",
-      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://theamericanscholar.org...",
-      "score": 137
+      "title": "Creating the Futurescape for the Fifth Element [2019]",
+      "url": "https://theasc.com/articles/fantastic-voyage-creating-the-futurescape-for-the-fifth-element",
+      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://theasc.com/articles/fa...",
+      "score": 19
     },
     {
       "type": "HackerNews",
       "title": "Haunted Paper Toys",
       "url": "http://ravensblight.com/papertoys.html",
-      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：http://ravensblight.com/papert...",
-      "score": 25
+      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：http://ravensblight.com/papert...",
+      "score": 91
     },
     {
       "type": "HackerNews",
-      "title": "Process Manager for Autonomous AI Agents",
-      "url": "https://botctl.dev/",
-      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://botctl.dev/...",
-      "score": 11
+      "title": "C# in Unity 2026: Features Most Developers Still Don't Use",
+      "url": "https://darkounity.com/blog/c-in-unity-2026-features-most-developers-still-dont-use",
+      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://darkounity.com/blog/c-...",
+      "score": 21
     },
     {
       "type": "HackerNews",
-      "title": "USB for Software Developers: An introduction to writing userspace USB drivers",
-      "url": "https://werwolv.net/posts/usb_for_sw_devs/",
-      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://werwolv.net/posts/usb_...",
-      "score": 272
-    },
-    {
-      "type": "HackerNews",
-      "title": "Understanding the Kalman filter with a simple radar example",
-      "url": "https://kalmanfilter.net",
-      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://kalmanfilter.net...",
-      "score": 313
+      "title": "Help Keep Thunderbird Alive",
+      "url": "https://updates.thunderbird.net/en-US/thunderbird/140.0/apr26-1e/donate/",
+      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://updates.thunderbird.ne...",
+      "score": 38
     }
   ]
 }
