@@ -1,61 +1,61 @@
 {
-  "last_updated": "2026-04-09 05:10:06",
+  "last_updated": "2026-04-09 07:23:52",
   "news": [
     {
       "type": "HackerNews",
       "title": "LittleSnitch for Linux",
       "url": "https://obdev.at/products/littlesnitch-linux/index.html",
       "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://obdev.at/products/litt...",
-      "score": 356
+      "score": 546
     },
     {
       "type": "HackerNews",
       "title": "Open Source Security at Astral",
       "url": "https://astral.sh/blog/open-source-security-at-astral",
-      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://astral.sh/blog/open-so...",
-      "score": 34
+      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://astral.sh/blog/open-so...",
+      "score": 118
     },
     {
       "type": "HackerNews",
       "title": "I ported Mac OS X to the Nintendo Wii",
       "url": "https://bryankeller.github.io/2026/04/08/porting-mac-os-x-nintendo-wii.html",
-      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://bryankeller.github.io/...",
-      "score": 1392
+      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://bryankeller.github.io/...",
+      "score": 1485
     },
     {
       "type": "HackerNews",
       "title": "The Importance of Being Idle",
       "url": "https://theamericanscholar.org/the-importance-of-being-idle/",
-      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://theamericanscholar.org...",
-      "score": 78
+      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://theamericanscholar.org...",
+      "score": 137
+    },
+    {
+      "type": "HackerNews",
+      "title": "Haunted Paper Toys",
+      "url": "http://ravensblight.com/papertoys.html",
+      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：http://ravensblight.com/papert...",
+      "score": 25
+    },
+    {
+      "type": "HackerNews",
+      "title": "Process Manager for Autonomous AI Agents",
+      "url": "https://botctl.dev/",
+      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://botctl.dev/...",
+      "score": 11
     },
     {
       "type": "HackerNews",
       "title": "USB for Software Developers: An introduction to writing userspace USB drivers",
       "url": "https://werwolv.net/posts/usb_for_sw_devs/",
       "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://werwolv.net/posts/usb_...",
-      "score": 235
+      "score": 272
     },
     {
       "type": "HackerNews",
       "title": "Understanding the Kalman filter with a simple radar example",
       "url": "https://kalmanfilter.net",
-      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://kalmanfilter.net...",
-      "score": 277
-    },
-    {
-      "type": "HackerNews",
-      "title": "Six (and a half) intuitions for KL divergence",
-      "url": "https://www.perfectlynormal.co.uk/blog-kl-divergence",
-      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.perfectlynormal.co...",
-      "score": 43
-    },
-    {
-      "type": "HackerNews",
-      "title": "They're made out of meat (1991)",
-      "url": "http://www.terrybisson.com/theyre-made-out-of-meat-2/",
-      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：http://www.terrybisson.com/the...",
-      "score": 456
+      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://kalmanfilter.net...",
+      "score": 313
     }
   ]
 }
