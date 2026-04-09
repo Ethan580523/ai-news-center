@@ -1,61 +1,61 @@
 {
-  "last_updated": "2026-04-08 21:41:12",
+  "last_updated": "2026-04-09 02:25:31",
   "news": [
+    {
+      "type": "HackerNews",
+      "title": "LittleSnitch for Linux",
+      "url": "https://obdev.at/products/littlesnitch-linux/index.html",
+      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://obdev.at/products/litt...",
+      "score": 165
+    },
     {
       "type": "HackerNews",
       "title": "I ported Mac OS X to the Nintendo Wii",
       "url": "https://bryankeller.github.io/2026/04/08/porting-mac-os-x-nintendo-wii.html",
-      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://bryankeller.github.io/...",
-      "score": 951
+      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://bryankeller.github.io/...",
+      "score": 1276
     },
     {
       "type": "HackerNews",
       "title": "USB for Software Developers: An introduction to writing userspace USB drivers",
       "url": "https://werwolv.net/posts/usb_for_sw_devs/",
       "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://werwolv.net/posts/usb_...",
-      "score": 86
+      "score": 190
     },
     {
       "type": "HackerNews",
-      "title": "Git commands I run before reading any code",
-      "url": "https://piechowski.io/post/git-commands-before-reading-code/",
-      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://piechowski.io/post/git...",
-      "score": 1606
+      "title": "What does it mean to “write like you talk”?",
+      "url": "https://arjunpanickssery.substack.com/p/what-does-it-mean-to-write-like-you",
+      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://arjunpanickssery.subst...",
+      "score": 30
     },
     {
       "type": "HackerNews",
       "title": "Understanding the Kalman filter with a simple radar example",
       "url": "https://kalmanfilter.net",
       "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://kalmanfilter.net...",
-      "score": 137
-    },
-    {
-      "type": "HackerNews",
-      "title": "Muse Spark: Scaling towards personal superintelligence",
-      "url": "https://ai.meta.com/blog/introducing-muse-spark-msl/?_fb_noscript=1",
-      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://ai.meta.com/blog/intro...",
-      "score": 199
-    },
-    {
-      "type": "HackerNews",
-      "title": "Expanding Swift's IDE Support",
-      "url": "https://swift.org/blog/expanding-swift-ide-support/",
-      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://swift.org/blog/expandi...",
-      "score": 40
-    },
-    {
-      "type": "HackerNews",
-      "title": "Pgit: I Imported the Linux Kernel into PostgreSQL",
-      "url": "https://oseifert.ch/blog/linux-kernel-pgit",
-      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://oseifert.ch/blog/linux...",
-      "score": 36
+      "score": 237
     },
     {
       "type": "HackerNews",
       "title": "They're made out of meat (1991)",
       "url": "http://www.terrybisson.com/theyre-made-out-of-meat-2/",
-      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：http://www.terrybisson.com/the...",
-      "score": 326
+      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：http://www.terrybisson.com/the...",
+      "score": 419
+    },
+    {
+      "type": "HackerNews",
+      "title": "Muse Spark: Scaling towards personal superintelligence",
+      "url": "https://ai.meta.com/blog/introducing-muse-spark-msl/?_fb_noscript=1",
+      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://ai.meta.com/blog/intro...",
+      "score": 276
+    },
+    {
+      "type": "HackerNews",
+      "title": "Six (and a half) intuitions for KL divergence",
+      "url": "https://www.perfectlynormal.co.uk/blog-kl-divergence",
+      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.perfectlynormal.co...",
+      "score": 14
     }
   ]
 }
