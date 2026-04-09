@@ -1,61 +1,61 @@
 {
-  "last_updated": "2026-04-09 10:13:40",
+  "last_updated": "2026-04-09 13:42:23",
   "news": [
     {
       "type": "HackerNews",
-      "title": "Claude mixes up who said what and that's not OK",
-      "url": "https://dwyer.co.za/static/claude-mixes-up-who-said-what-and-thats-not-ok.html",
-      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://dwyer.co.za/static/cla...",
+      "title": "Show HN: 41 years sea surface temperature anomalies",
+      "url": "https://ssta.willhelps.org",
+      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://ssta.willhelps.org...",
       "score": 28
     },
     {
       "type": "HackerNews",
       "title": "LittleSnitch for Linux",
       "url": "https://obdev.at/products/littlesnitch-linux/index.html",
-      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://obdev.at/products/litt...",
-      "score": 746
+      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://obdev.at/products/litt...",
+      "score": 964
     },
     {
       "type": "HackerNews",
-      "title": "Open Source Security at Astral",
-      "url": "https://astral.sh/blog/open-source-security-at-astral",
-      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://astral.sh/blog/open-so...",
-      "score": 191
+      "title": "Am I German or Autistic?",
+      "url": "https://german.millermanschool.com/",
+      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://german.millermanschool...",
+      "score": 66
+    },
+    {
+      "type": "HackerNews",
+      "title": "Wit, unker, Git: The lost medieval pronouns of English intimacy",
+      "url": "https://www.bbc.com/future/article/20260408-the-extinct-english-words-for-just-the-two-of-us",
+      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.bbc.com/future/art...",
+      "score": 63
     },
     {
       "type": "HackerNews",
       "title": "I ported Mac OS X to the Nintendo Wii",
       "url": "https://bryankeller.github.io/2026/04/08/porting-mac-os-x-nintendo-wii.html",
-      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://bryankeller.github.io/...",
-      "score": 1589
-    },
-    {
-      "type": "HackerNews",
-      "title": "Creating the Futurescape for the Fifth Element [2019]",
-      "url": "https://theasc.com/articles/fantastic-voyage-creating-the-futurescape-for-the-fifth-element",
-      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://theasc.com/articles/fa...",
-      "score": 19
-    },
-    {
-      "type": "HackerNews",
-      "title": "Haunted Paper Toys",
-      "url": "http://ravensblight.com/papertoys.html",
-      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：http://ravensblight.com/papert...",
-      "score": 91
-    },
-    {
-      "type": "HackerNews",
-      "title": "C# in Unity 2026: Features Most Developers Still Don't Use",
-      "url": "https://darkounity.com/blog/c-in-unity-2026-features-most-developers-still-dont-use",
-      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://darkounity.com/blog/c-...",
-      "score": 21
+      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://bryankeller.github.io/...",
+      "score": 1711
     },
     {
       "type": "HackerNews",
       "title": "Help Keep Thunderbird Alive",
       "url": "https://updates.thunderbird.net/en-US/thunderbird/140.0/apr26-1e/donate/",
       "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://updates.thunderbird.ne...",
-      "score": 38
+      "score": 233
+    },
+    {
+      "type": "HackerNews",
+      "title": "Introduction to Nintendo DS Programming",
+      "url": "https://www.patater.com/files/projects/manual/manual.html",
+      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.patater.com/files/...",
+      "score": 42
+    },
+    {
+      "type": "HackerNews",
+      "title": "How Pizza Tycoon simulated traffic on a 25 MHz CPU",
+      "url": "https://pizzalegacy.nl/blog/traffic-system.html",
+      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://pizzalegacy.nl/blog/tr...",
+      "score": 37
     }
   ]
 }
