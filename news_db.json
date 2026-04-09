@@ -1,61 +1,61 @@
 {
-  "last_updated": "2026-04-09 19:08:04",
+  "last_updated": "2026-04-09 21:45:34",
   "news": [
     {
       "type": "HackerNews",
-      "title": "What Game Engines Know About Data That Databases Forgot",
-      "url": "https://nockawa.github.io/blog/what-game-engines-know-about-data/",
-      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://nockawa.github.io/blog...",
-      "score": 30
+      "title": "Native Instant Space Switching on macOS",
+      "url": "https://arhan.sh/blog/native-instant-space-switching-on-macos/",
+      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://arhan.sh/blog/native-i...",
+      "score": 134
+    },
+    {
+      "type": "HackerNews",
+      "title": "Reverse engineering Gemini's SynthID detection",
+      "url": "https://github.com/aloshdenny/reverse-SynthID",
+      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://github.com/aloshdenny/...",
+      "score": 50
+    },
+    {
+      "type": "HackerNews",
+      "title": "Charcuterie – Visual similarity Unicode explorer",
+      "url": "https://charcuterie.elastiq.ch/",
+      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://charcuterie.elastiq.ch...",
+      "score": 29
+    },
+    {
+      "type": "HackerNews",
+      "title": "PicoZ80 – Drop-In Z80 Replacement",
+      "url": "https://eaw.app/picoz80/",
+      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://eaw.app/picoz80/...",
+      "score": 79
+    },
+    {
+      "type": "HackerNews",
+      "title": "Old laptops in a colo as low cost servers",
+      "url": "https://colaptop.pages.dev/",
+      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://colaptop.pages.dev/...",
+      "score": 81
     },
     {
       "type": "HackerNews",
       "title": "Hegel, a universal property-based testing protocol and family of PBT libraries",
       "url": "https://hegel.dev",
-      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://hegel.dev...",
-      "score": 12
+      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://hegel.dev...",
+      "score": 57
     },
     {
       "type": "HackerNews",
-      "title": "Show HN: I built a Cargo-like build tool for C/C++",
-      "url": "https://github.com/randerson112/craft",
-      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://github.com/randerson11...",
-      "score": 64
+      "title": "How Microsoft Abuses Its Users",
+      "url": "https://lzon.ca/posts/other/microsoft-user-abuse/",
+      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://lzon.ca/posts/other/mi...",
+      "score": 10
     },
     {
       "type": "HackerNews",
       "title": "Research-Driven Agents: What Happens When Your Agent Reads Before It Codes",
       "url": "https://blog.skypilot.co/research-driven-agents/",
-      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://blog.skypilot.co/resea...",
-      "score": 33
-    },
-    {
-      "type": "HackerNews",
-      "title": "EFF is leaving X",
-      "url": "https://www.eff.org/deeplinks/2026/04/eff-leaving-x",
-      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.eff.org/deeplinks/...",
-      "score": 536
-    },
-    {
-      "type": "HackerNews",
-      "title": "Where does all the milk go?",
-      "url": "https://www.dhanishsemar.com/writing/dairy-production-process",
-      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.dhanishsemar.com/w...",
-      "score": 28
-    },
-    {
-      "type": "HackerNews",
-      "title": "Top laptops to use with FreeBSD",
-      "url": "https://freebsdfoundation.github.io/freebsd-laptop-testing/",
-      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://freebsdfoundation.gith...",
-      "score": 196
-    },
-    {
-      "type": "HackerNews",
-      "title": "Reallocating $100/Month Claude Code Spend to Zed and OpenRouter",
-      "url": "https://braw.dev/blog/2026-04-06-reallocating-100-month-claude-spend/",
-      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://braw.dev/blog/2026-04-...",
-      "score": 207
+      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://blog.skypilot.co/resea...",
+      "score": 84
     }
   ]
 }
