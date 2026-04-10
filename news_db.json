@@ -1,61 +1,61 @@
 {
-  "last_updated": "2026-04-09 21:45:34",
+  "last_updated": "2026-04-10 02:36:36",
   "news": [
     {
       "type": "HackerNews",
       "title": "Native Instant Space Switching on macOS",
       "url": "https://arhan.sh/blog/native-instant-space-switching-on-macos/",
       "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://arhan.sh/blog/native-i...",
-      "score": 134
+      "score": 333
     },
     {
       "type": "HackerNews",
-      "title": "Reverse engineering Gemini's SynthID detection",
-      "url": "https://github.com/aloshdenny/reverse-SynthID",
-      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://github.com/aloshdenny/...",
-      "score": 50
+      "title": "How NASA built Artemis II’s fault-tolerant computer",
+      "url": "https://cacm.acm.org/news/how-nasa-built-artemis-iis-fault-tolerant-computer/",
+      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://cacm.acm.org/news/how-...",
+      "score": 101
     },
     {
       "type": "HackerNews",
       "title": "Charcuterie – Visual similarity Unicode explorer",
       "url": "https://charcuterie.elastiq.ch/",
-      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://charcuterie.elastiq.ch...",
-      "score": 29
+      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://charcuterie.elastiq.ch...",
+      "score": 136
     },
     {
       "type": "HackerNews",
       "title": "PicoZ80 – Drop-In Z80 Replacement",
       "url": "https://eaw.app/picoz80/",
-      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://eaw.app/picoz80/...",
-      "score": 79
+      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://eaw.app/picoz80/...",
+      "score": 156
     },
     {
       "type": "HackerNews",
-      "title": "Old laptops in a colo as low cost servers",
-      "url": "https://colaptop.pages.dev/",
-      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://colaptop.pages.dev/...",
-      "score": 81
+      "title": "Generative Art over the Years",
+      "url": "https://blog.veitheller.de/Generative_art_over_the_years.html",
+      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://blog.veitheller.de/Gen...",
+      "score": 13
     },
     {
       "type": "HackerNews",
-      "title": "Hegel, a universal property-based testing protocol and family of PBT libraries",
-      "url": "https://hegel.dev",
-      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://hegel.dev...",
-      "score": 57
+      "title": "RAM Has a Design Flaw from 1966. I Bypassed It [video]",
+      "url": "https://www.youtube.com/watch?v=KKbgulTp3FE",
+      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.youtube.com/watch?...",
+      "score": 16
     },
     {
       "type": "HackerNews",
-      "title": "How Microsoft Abuses Its Users",
-      "url": "https://lzon.ca/posts/other/microsoft-user-abuse/",
-      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://lzon.ca/posts/other/mi...",
-      "score": 10
+      "title": "Reverse engineering Gemini's SynthID detection",
+      "url": "https://github.com/aloshdenny/reverse-SynthID",
+      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://github.com/aloshdenny/...",
+      "score": 116
     },
     {
       "type": "HackerNews",
-      "title": "Research-Driven Agents: What Happens When Your Agent Reads Before It Codes",
-      "url": "https://blog.skypilot.co/research-driven-agents/",
-      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://blog.skypilot.co/resea...",
-      "score": 84
+      "title": "Will I ever own a zettaflop?",
+      "url": "https://geohot.github.io//blog/jekyll/update/2026/01/26/own-a-zettaflop.html",
+      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://geohot.github.io//blog...",
+      "score": 58
     }
   ]
 }
