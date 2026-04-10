@@ -1,61 +1,61 @@
 {
-  "last_updated": "2026-04-10 13:12:26",
+  "last_updated": "2026-04-10 15:54:15",
   "news": [
     {
       "type": "HackerNews",
-      "title": "Microsoft suspends dev accounts for high-profile open source projects",
-      "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-suspends-dev-accounts-for-high-profile-open-source-projects/",
-      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.bleepingcomputer.c...",
-      "score": 260
+      "title": "You can't trust macOS Privacy and Security settings",
+      "url": "https://eclecticlight.co/2026/04/10/why-you-cant-trust-privacy-security/",
+      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://eclecticlight.co/2026/...",
+      "score": 10
     },
     {
       "type": "HackerNews",
-      "title": "Intel 486 CPU announced April 10, 1989",
-      "url": "https://dfarq.homeip.net/intel-486-cpu-announced-april-10-1989/",
-      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://dfarq.homeip.net/intel...",
+      "title": "Code is run more than read (2023)",
+      "url": "https://olano.dev/blog/code-is-run-more-than-read/",
+      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://olano.dev/blog/code-is...",
       "score": 46
     },
     {
       "type": "HackerNews",
-      "title": "France Launches Government Linux Desktop Plan as Windows Exit Begins",
-      "url": "https://www.numerique.gouv.fr/sinformer/espace-presse/souverainete-numerique-reduction-dependances-extra-europeennes/",
-      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.numerique.gouv.fr/...",
-      "score": 631
+      "title": "Mysteries of Dropbox: Testing of a Distributed Sync Service (2016) [pdf]",
+      "url": "https://www.cis.upenn.edu/~bcpierce/papers/mysteriesofdropbox.pdf",
+      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.cis.upenn.edu/~bcp...",
+      "score": 64
     },
     {
       "type": "HackerNews",
-      "title": "How NASA built Artemis II’s fault-tolerant computer",
-      "url": "https://cacm.acm.org/news/how-nasa-built-artemis-iis-fault-tolerant-computer/",
-      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://cacm.acm.org/news/how-...",
-      "score": 462
+      "title": "CPU-Z and HWMonitor Compromised",
+      "url": "https://old.reddit.com/r/pcmasterrace/comments/1sh4e5l/warning_hwmonitor_163_download_on_the_official/",
+      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://old.reddit.com/r/pcmas...",
+      "score": 112
     },
     {
       "type": "HackerNews",
-      "title": "ETH Zurich demonstrates 17,000 qubit array with 99.91% fidelity",
-      "url": "https://ethz.ch/en/news-and-events/eth-news/news/2026/04/a-new-trick-brings-stability-to-quantum-operations.html",
-      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://ethz.ch/en/news-and-ev...",
-      "score": 161
+      "title": "Helium Is Hard to Replace",
+      "url": "https://www.construction-physics.com/p/helium-is-hard-to-replace",
+      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.construction-physi...",
+      "score": 9
     },
     {
       "type": "HackerNews",
       "title": "FBI used iPhone notification data to retrieve deleted Signal messages",
       "url": "https://9to5mac.com/2026/04/09/fbi-used-iphone-notification-data-to-retrieve-deleted-signal-messages/",
       "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://9to5mac.com/2026/04/09...",
-      "score": 103
+      "score": 326
     },
     {
       "type": "HackerNews",
-      "title": "Show HN: Keeper – embedded secret store for Go (help me break it)",
-      "url": "https://github.com/agberohq/keeper",
-      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://github.com/agberohq/ke...",
-      "score": 39
+      "title": "How NASA built Artemis II’s fault-tolerant computer",
+      "url": "https://cacm.acm.org/news/how-nasa-built-artemis-iis-fault-tolerant-computer/",
+      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://cacm.acm.org/news/how-...",
+      "score": 524
     },
     {
       "type": "HackerNews",
-      "title": "I still prefer MCP over skills",
-      "url": "https://david.coffee/i-still-prefer-mcp-over-skills/",
-      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://david.coffee/i-still-p...",
-      "score": 275
+      "title": "A new trick brings stability to quantum operations",
+      "url": "https://ethz.ch/en/news-and-events/eth-news/news/2026/04/a-new-trick-brings-stability-to-quantum-operations.html",
+      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://ethz.ch/en/news-and-ev...",
+      "score": 193
     }
   ]
 }
