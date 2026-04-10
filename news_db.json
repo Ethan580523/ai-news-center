@@ -1,61 +1,61 @@
 {
-  "last_updated": "2026-04-10 15:54:15",
+  "last_updated": "2026-04-10 18:54:45",
   "news": [
     {
       "type": "HackerNews",
       "title": "You can't trust macOS Privacy and Security settings",
       "url": "https://eclecticlight.co/2026/04/10/why-you-cant-trust-privacy-security/",
-      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://eclecticlight.co/2026/...",
-      "score": 10
+      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://eclecticlight.co/2026/...",
+      "score": 289
     },
     {
       "type": "HackerNews",
-      "title": "Code is run more than read (2023)",
-      "url": "https://olano.dev/blog/code-is-run-more-than-read/",
-      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://olano.dev/blog/code-is...",
-      "score": 46
+      "title": "WireGuard makes new Windows release following Microsoft signing resolution",
+      "url": "https://lists.zx2c4.com/pipermail/wireguard/2026-April/009561.html",
+      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://lists.zx2c4.com/piperm...",
+      "score": 214
     },
     {
       "type": "HackerNews",
-      "title": "Mysteries of Dropbox: Testing of a Distributed Sync Service (2016) [pdf]",
-      "url": "https://www.cis.upenn.edu/~bcpierce/papers/mysteriesofdropbox.pdf",
-      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.cis.upenn.edu/~bcp...",
-      "score": 64
+      "title": "1D Chess",
+      "url": "https://rowan441.github.io/1dchess/chess.html",
+      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://rowan441.github.io/1dc...",
+      "score": 264
     },
     {
       "type": "HackerNews",
-      "title": "CPU-Z and HWMonitor Compromised",
-      "url": "https://old.reddit.com/r/pcmasterrace/comments/1sh4e5l/warning_hwmonitor_163_download_on_the_official/",
-      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://old.reddit.com/r/pcmas...",
-      "score": 112
+      "title": "Industrial design files for Keychron keyboards and mice",
+      "url": "https://github.com/Keychron/Keychron-Keyboards-Hardware-Design",
+      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://github.com/Keychron/Ke...",
+      "score": 133
     },
     {
       "type": "HackerNews",
       "title": "Helium Is Hard to Replace",
       "url": "https://www.construction-physics.com/p/helium-is-hard-to-replace",
       "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.construction-physi...",
-      "score": 9
+      "score": 134
     },
     {
       "type": "HackerNews",
-      "title": "FBI used iPhone notification data to retrieve deleted Signal messages",
-      "url": "https://9to5mac.com/2026/04/09/fbi-used-iphone-notification-data-to-retrieve-deleted-signal-messages/",
-      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://9to5mac.com/2026/04/09...",
-      "score": 326
+      "title": "CPU-Z and HWMonitor compromised",
+      "url": "https://www.theregister.com/2026/04/10/cpuid_site_hijacked/",
+      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.theregister.com/20...",
+      "score": 132
     },
     {
       "type": "HackerNews",
-      "title": "How NASA built Artemis II’s fault-tolerant computer",
-      "url": "https://cacm.acm.org/news/how-nasa-built-artemis-iis-fault-tolerant-computer/",
-      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://cacm.acm.org/news/how-...",
-      "score": 524
+      "title": "Bluesky April 2026 Outage Post-Mortem",
+      "url": "https://pckt.blog/b/jcalabro/april-2026-outage-post-mortem-219ebg2",
+      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://pckt.blog/b/jcalabro/a...",
+      "score": 78
     },
     {
       "type": "HackerNews",
-      "title": "A new trick brings stability to quantum operations",
-      "url": "https://ethz.ch/en/news-and-events/eth-news/news/2026/04/a-new-trick-brings-stability-to-quantum-operations.html",
-      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://ethz.ch/en/news-and-ev...",
-      "score": 193
+      "title": "A compelling title that is cryptic enough to get you to take action on it",
+      "url": "https://ericwbailey.website/published/a-compelling-title-that-is-cryptic-enough-to-get-you-to-take-action-on-it/",
+      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://ericwbailey.website/pu...",
+      "score": 49
     }
   ]
 }
