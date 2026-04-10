@@ -1,61 +1,61 @@
 {
-  "last_updated": "2026-04-10 05:25:46",
+  "last_updated": "2026-04-10 07:43:02",
   "news": [
     {
       "type": "HackerNews",
       "title": "How NASA built Artemis II’s fault-tolerant computer",
       "url": "https://cacm.acm.org/news/how-nasa-built-artemis-iis-fault-tolerant-computer/",
-      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://cacm.acm.org/news/how-...",
-      "score": 202
-    },
-    {
-      "type": "HackerNews",
-      "title": "Apple's New iPhone Update Is Restricting Internet Freedom in the UK",
-      "url": "https://bigbrotherwatch.org.uk/blog/apples-new-iphone-update-is-restricting-internet-freedom-in-the-uk/",
-      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://bigbrotherwatch.org.uk...",
-      "score": 125
+      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://cacm.acm.org/news/how-...",
+      "score": 301
     },
     {
       "type": "HackerNews",
       "title": "Native Instant Space Switching on macOS",
       "url": "https://arhan.sh/blog/native-instant-space-switching-on-macos/",
-      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://arhan.sh/blog/native-i...",
-      "score": 399
+      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://arhan.sh/blog/native-i...",
+      "score": 458
     },
     {
       "type": "HackerNews",
-      "title": "The Raft Consensus Algorithm Explained Through \"Mean Girls\"",
-      "url": "https://www.cockroachlabs.com/blog/raft-is-so-fetch/",
-      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.cockroachlabs.com/...",
-      "score": 29
+      "title": "I still prefer MCP over skills",
+      "url": "https://david.coffee/i-still-prefer-mcp-over-skills/",
+      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://david.coffee/i-still-p...",
+      "score": 100
     },
     {
       "type": "HackerNews",
       "title": "Generative art over the years",
       "url": "https://blog.veitheller.de/Generative_art_over_the_years.html",
-      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://blog.veitheller.de/Gen...",
-      "score": 70
+      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://blog.veitheller.de/Gen...",
+      "score": 118
     },
     {
       "type": "HackerNews",
-      "title": "Hip-hop pioneer, Afrika Bambaataa, dies aged 68",
-      "url": "https://www.bbc.co.uk/news/articles/c2evppm30p7o",
-      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.bbc.co.uk/news/art...",
-      "score": 45
+      "title": "We've raised $17M to build what comes after Git",
+      "url": "https://blog.gitbutler.com/series-a",
+      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://blog.gitbutler.com/ser...",
+      "score": 79
+    },
+    {
+      "type": "HackerNews",
+      "title": "RAM Has a Design Flaw from 1966. I Bypassed It [video]",
+      "url": "https://www.youtube.com/watch?v=KKbgulTp3FE",
+      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.youtube.com/watch?...",
+      "score": 172
     },
     {
       "type": "HackerNews",
       "title": "Charcuterie – Visual similarity Unicode explorer",
       "url": "https://charcuterie.elastiq.ch/",
-      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://charcuterie.elastiq.ch...",
-      "score": 175
+      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://charcuterie.elastiq.ch...",
+      "score": 204
     },
     {
       "type": "HackerNews",
-      "title": "CollectWise (YC F24) Is Hiring",
-      "url": "https://www.ycombinator.com/companies/collectwise/jobs/Ktc6m6o-ai-agent-engineer",
-      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.ycombinator.com/co...",
-      "score": 1
+      "title": "Principles of Mechanical Sympathy",
+      "url": "https://martinfowler.com/articles/mechanical-sympathy-principles.html",
+      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://martinfowler.com/artic...",
+      "score": 44
     }
   ]
 }
