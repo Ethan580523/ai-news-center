@@ -1,61 +1,61 @@
 {
-  "last_updated": "2026-04-11 18:45:59",
+  "last_updated": "2026-04-11 21:33:56",
   "news": [
     {
       "type": "HackerNews",
       "title": "Small models also found the vulnerabilities that Mythos found",
       "url": "https://aisle.com/blog/ai-cybersecurity-after-mythos-the-jagged-frontier",
-      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://aisle.com/blog/ai-cybe...",
-      "score": 292
+      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://aisle.com/blog/ai-cybe...",
+      "score": 569
     },
     {
       "type": "HackerNews",
-      "title": "Every plane you see in the sky – you can now follow it from the cockpit in 3D",
-      "url": "https://flight-viz.com/cockpit.html?lat=40.64&lon=-73.78&alt=3000&hdg=220&spd=130&cs=DAL123",
-      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://flight-viz.com/cockpit...",
-      "score": 49
+      "title": "Apple Silicon and Virtual Machines: Beating the 2 VM Limit (2023)",
+      "url": "https://khronokernel.com/macos/2023/08/08/AS-VM.html",
+      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://khronokernel.com/macos...",
+      "score": 37
+    },
+    {
+      "type": "HackerNews",
+      "title": "How We Broke Top AI Agent Benchmarks: And What Comes Next",
+      "url": "https://rdi.berkeley.edu/blog/trustworthy-benchmarks-cont/",
+      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://rdi.berkeley.edu/blog/...",
+      "score": 87
+    },
+    {
+      "type": "HackerNews",
+      "title": "447 TB/cm² at zero retention energy – atomic-scale memory on fluorographane",
+      "url": "https://zenodo.org/records/19513269",
+      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://zenodo.org/records/195...",
+      "score": 25
+    },
+    {
+      "type": "HackerNews",
+      "title": "Dark Castle",
+      "url": "https://darkcastle.co.uk/",
+      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://darkcastle.co.uk/...",
+      "score": 27
     },
     {
       "type": "HackerNews",
       "title": "Advanced Mac Substitute is an API-level reimplementation of 1980s-era Mac OS",
       "url": "https://www.v68k.org/advanced-mac-substitute/",
       "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.v68k.org/advanced-...",
-      "score": 104
+      "score": 148
+    },
+    {
+      "type": "HackerNews",
+      "title": "How to build a `Git diff` driver",
+      "url": "https://www.jvt.me/posts/2026/04/11/how-git-diff-driver/",
+      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.jvt.me/posts/2026/...",
+      "score": 41
     },
     {
       "type": "HackerNews",
       "title": "Cirrus Labs to join OpenAI",
       "url": "https://cirruslabs.org/",
-      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://cirruslabs.org/...",
-      "score": 184
-    },
-    {
-      "type": "HackerNews",
-      "title": "Keeping a Postgres Queue Healthy",
-      "url": "https://planetscale.com/blog/keeping-a-postgres-queue-healthy",
-      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://planetscale.com/blog/k...",
-      "score": 37
-    },
-    {
-      "type": "HackerNews",
-      "title": "Surelock: Deadlock-Free Mutexes for Rust",
-      "url": "https://notes.brooklynzelenka.com/Blog/Surelock",
-      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://notes.brooklynzelenka....",
-      "score": 104
-    },
-    {
-      "type": "HackerNews",
-      "title": "Filing the corners off my MacBooks",
-      "url": "https://kentwalters.com/posts/corners/",
-      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://kentwalters.com/posts/...",
-      "score": 1203
-    },
-    {
-      "type": "HackerNews",
-      "title": "Phone Trips",
-      "url": "http://www.wideweb.com/phonetrips/",
-      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：http://www.wideweb.com/phonetr...",
-      "score": 24
+      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://cirruslabs.org/...",
+      "score": 209
     }
   ]
 }
