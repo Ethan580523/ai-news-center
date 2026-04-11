@@ -1,61 +1,61 @@
 {
-  "last_updated": "2026-04-10 21:37:55",
+  "last_updated": "2026-04-11 02:22:04",
   "news": [
     {
       "type": "HackerNews",
-      "title": "1D Chess",
-      "url": "https://rowan441.github.io/1dchess/chess.html",
-      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://rowan441.github.io/1dc...",
-      "score": 514
+      "title": "Filing the corners off my MacBooks",
+      "url": "https://kentwalters.com/posts/corners/",
+      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://kentwalters.com/posts/...",
+      "score": 378
+    },
+    {
+      "type": "HackerNews",
+      "title": "Artemis II safely splashes down",
+      "url": "https://www.cbsnews.com/live-updates/artemis-ii-splashdown-return/",
+      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.cbsnews.com/live-u...",
+      "score": 388
     },
     {
       "type": "HackerNews",
       "title": "Chimpanzees in Uganda locked in eight-year 'civil war', say researchers",
       "url": "https://www.bbc.com/news/articles/cr71lkzv49po",
-      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.bbc.com/news/artic...",
-      "score": 111
+      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.bbc.com/news/artic...",
+      "score": 245
+    },
+    {
+      "type": "HackerNews",
+      "title": "1D Chess",
+      "url": "https://rowan441.github.io/1dchess/chess.html",
+      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://rowan441.github.io/1dc...",
+      "score": 666
+    },
+    {
+      "type": "HackerNews",
+      "title": "Installing Every* Firefox Extension",
+      "url": "https://jack.cab/blog/every-firefox-extension",
+      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://jack.cab/blog/every-fi...",
+      "score": 146
     },
     {
       "type": "HackerNews",
       "title": "WireGuard makes new Windows release following Microsoft signing resolution",
       "url": "https://lists.zx2c4.com/pipermail/wireguard/2026-April/009561.html",
       "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://lists.zx2c4.com/piperm...",
-      "score": 320
+      "score": 408
     },
     {
       "type": "HackerNews",
       "title": "Industrial design files for Keychron keyboards and mice",
       "url": "https://github.com/Keychron/Keychron-Keyboards-Hardware-Design",
-      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://github.com/Keychron/Ke...",
-      "score": 222
+      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://github.com/Keychron/Ke...",
+      "score": 313
     },
     {
       "type": "HackerNews",
-      "title": "JSON Formatter Chrome Plugin Now Closed and Injecting Adware",
-      "url": "https://github.com/callumlocke/json-formatter",
-      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://github.com/callumlocke...",
-      "score": 81
-    },
-    {
-      "type": "HackerNews",
-      "title": "Watgo – A WebAssembly Toolkit for Go",
-      "url": "https://eli.thegreenplace.net/2026/watgo-a-webassembly-toolkit-for-go/",
-      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://eli.thegreenplace.net/...",
-      "score": 47
-    },
-    {
-      "type": "HackerNews",
-      "title": "Show HN: FluidCAD – Parametric CAD with JavaScript",
-      "url": "https://fluidcad.io/",
-      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://fluidcad.io/...",
-      "score": 68
-    },
-    {
-      "type": "HackerNews",
-      "title": "Helium Is Hard to Replace",
-      "url": "https://www.construction-physics.com/p/helium-is-hard-to-replace",
-      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.construction-physi...",
-      "score": 204
+      "title": "Investigating Split Locks on x86-64",
+      "url": "https://chipsandcheese.com/p/investigating-split-locks-on-x86",
+      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://chipsandcheese.com/p/i...",
+      "score": 12
     }
   ]
 }
