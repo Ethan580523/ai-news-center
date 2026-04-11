@@ -1,61 +1,61 @@
 {
-  "last_updated": "2026-04-11 15:34:21",
+  "last_updated": "2026-04-11 18:45:59",
   "news": [
+    {
+      "type": "HackerNews",
+      "title": "Small models also found the vulnerabilities that Mythos found",
+      "url": "https://aisle.com/blog/ai-cybersecurity-after-mythos-the-jagged-frontier",
+      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://aisle.com/blog/ai-cybe...",
+      "score": 292
+    },
+    {
+      "type": "HackerNews",
+      "title": "Every plane you see in the sky – you can now follow it from the cockpit in 3D",
+      "url": "https://flight-viz.com/cockpit.html?lat=40.64&lon=-73.78&alt=3000&hdg=220&spd=130&cs=DAL123",
+      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://flight-viz.com/cockpit...",
+      "score": 49
+    },
+    {
+      "type": "HackerNews",
+      "title": "Advanced Mac Substitute is an API-level reimplementation of 1980s-era Mac OS",
+      "url": "https://www.v68k.org/advanced-mac-substitute/",
+      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.v68k.org/advanced-...",
+      "score": 104
+    },
     {
       "type": "HackerNews",
       "title": "Cirrus Labs to join OpenAI",
       "url": "https://cirruslabs.org/",
       "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://cirruslabs.org/...",
-      "score": 96
+      "score": 184
     },
     {
       "type": "HackerNews",
-      "title": "The Problem That Built an Industry",
-      "url": "https://ajitem.com/blog/iron-core-part-1-the-problem-that-built-an-industry/",
-      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://ajitem.com/blog/iron-c...",
-      "score": 20
+      "title": "Keeping a Postgres Queue Healthy",
+      "url": "https://planetscale.com/blog/keeping-a-postgres-queue-healthy",
+      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://planetscale.com/blog/k...",
+      "score": 37
+    },
+    {
+      "type": "HackerNews",
+      "title": "Surelock: Deadlock-Free Mutexes for Rust",
+      "url": "https://notes.brooklynzelenka.com/Blog/Surelock",
+      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://notes.brooklynzelenka....",
+      "score": 104
     },
     {
       "type": "HackerNews",
       "title": "Filing the corners off my MacBooks",
       "url": "https://kentwalters.com/posts/corners/",
-      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://kentwalters.com/posts/...",
-      "score": 1098
+      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://kentwalters.com/posts/...",
+      "score": 1203
     },
     {
       "type": "HackerNews",
-      "title": "The Future of Everything Is Lies, I Guess: Annoyances",
-      "url": "https://aphyr.com/posts/415-the-future-of-everything-is-lies-i-guess-annoyances",
-      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://aphyr.com/posts/415-th...",
-      "score": 14
-    },
-    {
-      "type": "HackerNews",
-      "title": "Optimal Strategy for Connect 4",
-      "url": "https://2swap.github.io/WeakC4/explanation/",
-      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://2swap.github.io/WeakC4...",
-      "score": 169
-    },
-    {
-      "type": "HackerNews",
-      "title": "South Korea introduces universal basic mobile data access",
-      "url": "https://www.theregister.com/2026/04/10/south_korea_data_access_universal/",
-      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.theregister.com/20...",
-      "score": 81
-    },
-    {
-      "type": "HackerNews",
-      "title": "Show HN: Pardonned.com – A searchable database of US Pardons",
-      "url": null,
-      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：...",
-      "score": 151
-    },
-    {
-      "type": "HackerNews",
-      "title": "Cooperative Vectors Introduction",
-      "url": "https://www.evolvebenchmark.com/blog-posts/cooperative-vectors-introduction",
-      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.evolvebenchmark.co...",
-      "score": 18
+      "title": "Phone Trips",
+      "url": "http://www.wideweb.com/phonetrips/",
+      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：http://www.wideweb.com/phonetr...",
+      "score": 24
     }
   ]
 }
