@@ -1,61 +1,61 @@
 {
-  "last_updated": "2026-04-12 09:45:20",
+  "last_updated": "2026-04-12 13:02:56",
   "news": [
     {
       "type": "HackerNews",
-      "title": "AI Will Be Met with Violence, and Nothing Good Will Come of It",
-      "url": "https://www.thealgorithmicbridge.com/p/ai-will-be-met-with-violence-and",
-      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.thealgorithmicbrid...",
-      "score": 24
+      "title": "JVM Options Explorer",
+      "url": "https://chriswhocodes.com/vm-options-explorer.html",
+      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://chriswhocodes.com/vm-o...",
+      "score": 54
     },
     {
       "type": "HackerNews",
-      "title": "Small models also found the vulnerabilities that Mythos found",
-      "url": "https://aisle.com/blog/ai-cybersecurity-after-mythos-the-jagged-frontier",
-      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://aisle.com/blog/ai-cybe...",
-      "score": 1100
+      "title": "Why weekends are under threat",
+      "url": "https://thehustle.co/originals/why-weekends-are-under-threat",
+      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://thehustle.co/originals...",
+      "score": 13
     },
     {
       "type": "HackerNews",
-      "title": "I run multiple $10K MRR companies on a $20/month tech stack",
-      "url": "https://stevehanov.ca/blog/how-i-run-multiple-10k-mrr-companies-on-a-20month-tech-stack",
-      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://stevehanov.ca/blog/how...",
-      "score": 177
+      "title": "Happy Map",
+      "url": "https://pudding.cool/2026/02/happy-map/",
+      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://pudding.cool/2026/02/h...",
+      "score": 47
+    },
+    {
+      "type": "HackerNews",
+      "title": "Phyphox – Physical Experiments Using a Smartphone",
+      "url": "https://phyphox.org/",
+      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://phyphox.org/...",
+      "score": 59
     },
     {
       "type": "HackerNews",
       "title": "An Interview with Pat Gelsinger",
       "url": "https://morethanmoore.substack.com/p/an-interview-with-pat-gelsinger-2026",
-      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://morethanmoore.substack...",
-      "score": 21
+      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://morethanmoore.substack...",
+      "score": 63
     },
     {
       "type": "HackerNews",
-      "title": "Tofolli gates are all you need",
-      "url": "https://www.johndcook.com/blog/2026/04/06/tofolli-gates/",
-      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.johndcook.com/blog...",
+      "title": "The Miller Principle (2007)",
+      "url": "https://puredanger.github.io/tech.puredanger.com/2007/07/11/miller-principle/",
+      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://puredanger.github.io/t...",
       "score": 47
     },
     {
       "type": "HackerNews",
-      "title": "Apple update looks like Czech mate for locked-out iPhone user",
-      "url": "https://www.theregister.com/2026/04/12/ios_passcode_bug/",
-      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.theregister.com/20...",
-      "score": 49
+      "title": "AI Will Be Met with Violence, and Nothing Good Will Come of It",
+      "url": "https://www.thealgorithmicbridge.com/p/ai-will-be-met-with-violence-and",
+      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.thealgorithmicbrid...",
+      "score": 87
     },
     {
       "type": "HackerNews",
-      "title": "The End of Eleventy",
-      "url": "https://brennan.day/the-end-of-eleventy/",
-      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://brennan.day/the-end-of...",
-      "score": 163
-    },
-    {
-      "type": "HackerNews",
-      "title": "How We Broke Top AI Agent Benchmarks: And What Comes Next",
-      "url": "https://rdi.berkeley.edu/blog/trustworthy-benchmarks-cont/",
-      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://rdi.berkeley.edu/blog/...",
-      "score": 375
+      "title": "Anthropic downgraded cache TTL on March 6th",
+      "url": "https://github.com/anthropics/claude-code/issues/46829",
+      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://github.com/anthropics/...",
+      "score": 144
     }
   ]
 }
