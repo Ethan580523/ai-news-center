@@ -1,61 +1,61 @@
 {
-  "last_updated": "2026-04-12 05:24:16",
+  "last_updated": "2026-04-12 07:14:58",
   "news": [
     {
       "type": "HackerNews",
       "title": "The End of Eleventy",
       "url": "https://brennan.day/the-end-of-eleventy/",
-      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://brennan.day/the-end-of...",
-      "score": 93
+      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://brennan.day/the-end-of...",
+      "score": 134
     },
     {
       "type": "HackerNews",
       "title": "Small models also found the vulnerabilities that Mythos found",
       "url": "https://aisle.com/blog/ai-cybersecurity-after-mythos-the-jagged-frontier",
       "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://aisle.com/blog/ai-cybe...",
-      "score": 945
-    },
-    {
-      "type": "HackerNews",
-      "title": "Excellence Is a Habit",
-      "url": "https://www.flyingbarron.com/2026/04/excellence-is-habit.html",
-      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.flyingbarron.com/2...",
-      "score": 17
-    },
-    {
-      "type": "HackerNews",
-      "title": "How We Broke Top AI Agent Benchmarks: And What Comes Next",
-      "url": "https://rdi.berkeley.edu/blog/trustworthy-benchmarks-cont/",
-      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://rdi.berkeley.edu/blog/...",
-      "score": 300
-    },
-    {
-      "type": "HackerNews",
-      "title": "How Complex is my Code?",
-      "url": "https://philodev.one/posts/2026-04-code-complexity/",
-      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://philodev.one/posts/202...",
-      "score": 73
-    },
-    {
-      "type": "HackerNews",
-      "title": "447 TB/cm² at zero retention energy – atomic-scale memory on fluorographane",
-      "url": "https://zenodo.org/records/19513269",
-      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://zenodo.org/records/195...",
-      "score": 179
+      "score": 1003
     },
     {
       "type": "HackerNews",
       "title": "US appeals court declares 158-year-old home distilling ban unconstitutional",
       "url": "https://www.theguardian.com/law/2026/apr/11/appeals-court-ruling-home-distilling-ban-unconstitutional",
       "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.theguardian.com/la...",
-      "score": 17
+      "score": 85
+    },
+    {
+      "type": "HackerNews",
+      "title": "Tofolli gates are all you need",
+      "url": "https://www.johndcook.com/blog/2026/04/06/tofolli-gates/",
+      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.johndcook.com/blog...",
+      "score": 19
+    },
+    {
+      "type": "HackerNews",
+      "title": "How We Broke Top AI Agent Benchmarks: And What Comes Next",
+      "url": "https://rdi.berkeley.edu/blog/trustworthy-benchmarks-cont/",
+      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://rdi.berkeley.edu/blog/...",
+      "score": 343
+    },
+    {
+      "type": "HackerNews",
+      "title": "How Complex is my Code?",
+      "url": "https://philodev.one/posts/2026-04-code-complexity/",
+      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://philodev.one/posts/202...",
+      "score": 95
     },
     {
       "type": "HackerNews",
       "title": "Dark Castle",
       "url": "https://darkcastle.co.uk/",
       "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://darkcastle.co.uk/...",
-      "score": 158
+      "score": 172
+    },
+    {
+      "type": "HackerNews",
+      "title": "447 TB/cm² at zero retention energy – atomic-scale memory on fluorographane",
+      "url": "https://zenodo.org/records/19513269",
+      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://zenodo.org/records/195...",
+      "score": 195
     }
   ]
 }
