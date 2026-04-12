@@ -1,61 +1,61 @@
 {
-  "last_updated": "2026-04-12 18:51:45",
+  "last_updated": "2026-04-12 21:35:47",
   "news": [
     {
       "type": "HackerNews",
-      "title": "Show HN: boringBar – a taskbar-style dock replacement for macOS",
-      "url": "https://boringbar.app/",
-      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://boringbar.app/...",
-      "score": 69
+      "title": "The peril of laziness lost",
+      "url": "https://bcantrill.dtrace.org/2026/04/12/the-peril-of-laziness-lost/",
+      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://bcantrill.dtrace.org/2...",
+      "score": 121
     },
     {
       "type": "HackerNews",
       "title": "Bring Back Idiomatic Design",
       "url": "https://essays.johnloeber.com/p/4-bring-back-idiomatic-design",
-      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://essays.johnloeber.com/...",
-      "score": 265
+      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://essays.johnloeber.com/...",
+      "score": 367
     },
     {
       "type": "HackerNews",
       "title": "Most people can't juggle one ball",
       "url": "https://www.lesswrong.com/posts/jTGbKKGqs5EdyYoRc/most-people-can-t-juggle-one-ball",
-      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.lesswrong.com/post...",
-      "score": 46
+      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.lesswrong.com/post...",
+      "score": 157
+    },
+    {
+      "type": "HackerNews",
+      "title": "DIY Soft Drinks",
+      "url": "https://blinry.org/diy-soft-drinks/",
+      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://blinry.org/diy-soft-dr...",
+      "score": 107
+    },
+    {
+      "type": "HackerNews",
+      "title": "Google removes \"Doki Doki Literature Club\" from Google Play",
+      "url": "https://bsky.app/profile/serenityforge.com/post/3mj3r4nbiws2t",
+      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://bsky.app/profile/seren...",
+      "score": 103
+    },
+    {
+      "type": "HackerNews",
+      "title": "Show HN: Claudraband – Claude Code for the Power User",
+      "url": "https://github.com/halfwhey/claudraband",
+      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://github.com/halfwhey/cl...",
+      "score": 66
+    },
+    {
+      "type": "HackerNews",
+      "title": "Ask HN: What Are You Working On? (April 2026)",
+      "url": null,
+      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：...",
+      "score": 51
     },
     {
       "type": "HackerNews",
       "title": "I gave every train in New York an instrument",
       "url": "https://www.trainjazz.com/",
-      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.trainjazz.com/...",
-      "score": 86
-    },
-    {
-      "type": "HackerNews",
-      "title": "Show HN: Oberon System 3 runs natively on Raspberry Pi 3 (with ready SD card)",
-      "url": "https://github.com/rochus-keller/OberonSystem3Native/releases",
-      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://github.com/rochus-kell...",
-      "score": 104
-    },
-    {
-      "type": "HackerNews",
-      "title": "Seven countries now generate 100% of their electricity from renewable energy",
-      "url": "https://www.the-independent.com/tech/renewable-energy-solar-nepal-bhutan-iceland-b2533699.html",
-      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.the-independent.co...",
-      "score": 327
-    },
-    {
-      "type": "HackerNews",
-      "title": "Tell HN: docker pull fails in spain due to football cloudflare block",
-      "url": null,
-      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：...",
-      "score": 401
-    },
-    {
-      "type": "HackerNews",
-      "title": "JVM Options Explorer",
-      "url": "https://chriswhocodes.com/vm-options-explorer.html",
-      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://chriswhocodes.com/vm-o...",
-      "score": 136
+      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.trainjazz.com/...",
+      "score": 148
     }
   ]
 }
