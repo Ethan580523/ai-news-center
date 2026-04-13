@@ -1,61 +1,61 @@
 {
-  "last_updated": "2026-04-13 19:14:39",
+  "last_updated": "2026-04-13 21:51:10",
   "news": [
+    {
+      "type": "HackerNews",
+      "title": "GitHub Stacked PRs",
+      "url": "https://github.github.com/gh-stack/",
+      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://github.github.com/gh-s...",
+      "score": 209
+    },
     {
       "type": "HackerNews",
       "title": "Someone Bought 30 WordPress Plugins and Planted a Backdoor in All of Them",
       "url": "https://anchor.host/someone-bought-30-wordpress-plugins-and-planted-a-backdoor-in-all-of-them/",
-      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://anchor.host/someone-bo...",
-      "score": 186
+      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://anchor.host/someone-bo...",
+      "score": 475
+    },
+    {
+      "type": "HackerNews",
+      "title": "Stanford report highlights growing disconnect between AI insiders and everyone",
+      "url": "https://techcrunch.com/2026/04/13/stanford-report-highlights-growing-disconnect-between-ai-insiders-and-everyone-else/",
+      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://techcrunch.com/2026/04...",
+      "score": 43
     },
     {
       "type": "HackerNews",
       "title": "Nothing Ever Happens: Polymarket bot that always buys No on non-sports markets",
       "url": "https://github.com/sterlingcrispin/nothing-ever-happens",
       "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://github.com/sterlingcri...",
-      "score": 256
+      "score": 317
     },
     {
       "type": "HackerNews",
-      "title": "The Future of Everything Is Lies, I Guess: Safety",
-      "url": "https://aphyr.com/posts/417-the-future-of-everything-is-lies-i-guess-safety",
-      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://aphyr.com/posts/417-th...",
-      "score": 166
+      "title": "How to make Firefox builds 17% faster",
+      "url": "https://blog.farre.se/posts/2026/04/10/caching-webidl-codegen/",
+      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://blog.farre.se/posts/20...",
+      "score": 86
+    },
+    {
+      "type": "HackerNews",
+      "title": "An Introduction to Obsidian",
+      "url": "https://bryanhogan.com/blog/obsidian-introduction",
+      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://bryanhogan.com/blog/ob...",
+      "score": 78
     },
     {
       "type": "HackerNews",
       "title": "Building a CLI for All of Cloudflare",
       "url": "https://blog.cloudflare.com/cf-cli-local-explorer/",
-      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://blog.cloudflare.com/cf...",
-      "score": 160
+      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://blog.cloudflare.com/cf...",
+      "score": 220
     },
     {
       "type": "HackerNews",
       "title": "Servo is now available on crates.io",
       "url": "https://servo.org/blog/2026/04/13/servo-0.1.0-release/",
-      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://servo.org/blog/2026/04...",
-      "score": 320
-    },
-    {
-      "type": "HackerNews",
-      "title": "Tracking down a 25% Regression on LLVM RISC-V",
-      "url": "https://blog.kaving.me/blog/tracking-down-a-25-regression-on-llvm-risc-v/",
-      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://blog.kaving.me/blog/tr...",
-      "score": 43
-    },
-    {
-      "type": "HackerNews",
-      "title": "Make Tmux Pretty and Usable (2024)",
-      "url": "https://hamvocke.com/blog/a-guide-to-customizing-your-tmux-conf/",
-      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://hamvocke.com/blog/a-gu...",
-      "score": 216
-    },
-    {
-      "type": "HackerNews",
-      "title": "MEMS Array Chip Can Project Video the Size of a Grain of Sand",
-      "url": "https://spectrum.ieee.org/mems-photonics",
-      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://spectrum.ieee.org/mems...",
-      "score": 47
+      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://servo.org/blog/2026/04...",
+      "score": 376
     }
   ]
 }
