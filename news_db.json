@@ -1,61 +1,61 @@
 {
-  "last_updated": "2026-04-13 10:46:26",
+  "last_updated": "2026-04-13 13:27:17",
   "news": [
+    {
+      "type": "HackerNews",
+      "title": "Android now stops you sharing your location in photos",
+      "url": "https://shkspr.mobi/blog/2026/04/android-now-stops-you-sharing-your-location-in-photos/",
+      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://shkspr.mobi/blog/2026/...",
+      "score": 113
+    },
+    {
+      "type": "HackerNews",
+      "title": "AI could be the end of the digital wave, not the next big thing",
+      "url": "https://thenextwavefutures.wordpress.com/2026/04/07/ai-end-digital-wave-technology-innovation-perez/",
+      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://thenextwavefutures.wor...",
+      "score": 50
+    },
+    {
+      "type": "HackerNews",
+      "title": "I went to America's worst national parks so you don't have to",
+      "url": "https://substack.com/home/post/p-193626949",
+      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://substack.com/home/post...",
+      "score": 80
+    },
     {
       "type": "HackerNews",
       "title": "All elementary functions from a single binary operator",
       "url": "https://arxiv.org/abs/2603.21852",
-      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://arxiv.org/abs/2603.218...",
-      "score": 431
+      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://arxiv.org/abs/2603.218...",
+      "score": 579
     },
     {
       "type": "HackerNews",
-      "title": "The Economics of Software Teams: Why Most Engineering Orgs Are Flying Blind",
+      "title": "The economics of software teams: Why most engineering orgs are flying blind",
       "url": "https://www.viktorcessan.com/the-economics-of-software-teams/",
-      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.viktorcessan.com/t...",
-      "score": 155
+      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.viktorcessan.com/t...",
+      "score": 242
+    },
+    {
+      "type": "HackerNews",
+      "title": "Michigan 'digital age' bills pulled after privacy concerns raised",
+      "url": "https://www.thecentersquare.com/michigan/article_7ca4e268-4a68-42fb-9042-f9d8604ebd7f.html",
+      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.thecentersquare.co...",
+      "score": 29
+    },
+    {
+      "type": "HackerNews",
+      "title": "Point Cloud Allemansrätten",
+      "url": "https://digitalflapjack.com/weeknotes/point-cloud-allemansr%C3%A4tten/",
+      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://digitalflapjack.com/we...",
+      "score": 21
     },
     {
       "type": "HackerNews",
       "title": "Taking on CUDA with ROCm: 'One Step After Another'",
       "url": "https://www.eetimes.com/taking-on-cuda-with-rocm-one-step-after-another/",
-      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.eetimes.com/taking...",
-      "score": 179
-    },
-    {
-      "type": "HackerNews",
-      "title": "DIY Soft Drinks",
-      "url": "https://blinry.org/diy-soft-drinks/",
-      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://blinry.org/diy-soft-dr...",
-      "score": 468
-    },
-    {
-      "type": "HackerNews",
-      "title": "Bring Back Idiomatic Design (2023)",
-      "url": "https://essays.johnloeber.com/p/4-bring-back-idiomatic-design",
-      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://essays.johnloeber.com/...",
-      "score": 565
-    },
-    {
-      "type": "HackerNews",
-      "title": "Show HN: boringBar – a taskbar-style dock replacement for macOS",
-      "url": "https://boringbar.app/",
-      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://boringbar.app/...",
-      "score": 380
-    },
-    {
-      "type": "HackerNews",
-      "title": "Most people can't juggle one ball",
-      "url": "https://www.lesswrong.com/posts/jTGbKKGqs5EdyYoRc/most-people-can-t-juggle-one-ball",
-      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.lesswrong.com/post...",
-      "score": 369
-    },
-    {
-      "type": "HackerNews",
-      "title": "Ask HN: What Are You Working On? (April 2026)",
-      "url": null,
-      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：...",
-      "score": 229
+      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.eetimes.com/taking...",
+      "score": 209
     }
   ]
 }
