@@ -1,61 +1,61 @@
 {
-  "last_updated": "2026-04-13 02:43:34",
+  "last_updated": "2026-04-13 05:42:30",
   "news": [
+    {
+      "type": "HackerNews",
+      "title": "All elementary functions from a single binary operator",
+      "url": "https://arxiv.org/abs/2603.21852",
+      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://arxiv.org/abs/2603.218...",
+      "score": 182
+    },
+    {
+      "type": "HackerNews",
+      "title": "Haunt, the 70s text adventure game, is now playable on a website",
+      "url": "https://haunt.madebywindmill.com",
+      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://haunt.madebywindmill.c...",
+      "score": 35
+    },
     {
       "type": "HackerNews",
       "title": "Taking on CUDA with ROCm: 'One Step After Another'",
       "url": "https://www.eetimes.com/taking-on-cuda-with-rocm-one-step-after-another/",
       "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.eetimes.com/taking...",
-      "score": 66
+      "score": 117
     },
     {
       "type": "HackerNews",
-      "title": "Bring Back Idiomatic Design (2023)",
-      "url": "https://essays.johnloeber.com/p/4-bring-back-idiomatic-design",
-      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://essays.johnloeber.com/...",
-      "score": 472
+      "title": "Optimization of 32-bit Unsigned Division by Constants on 64-bit Targets",
+      "url": "https://arxiv.org/abs/2604.07902",
+      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://arxiv.org/abs/2604.079...",
+      "score": 50
     },
     {
       "type": "HackerNews",
       "title": "Show HN: boringBar – a taskbar-style dock replacement for macOS",
       "url": "https://boringbar.app/",
       "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://boringbar.app/...",
-      "score": 244
+      "score": 307
+    },
+    {
+      "type": "HackerNews",
+      "title": "Bring Back Idiomatic Design (2023)",
+      "url": "https://essays.johnloeber.com/p/4-bring-back-idiomatic-design",
+      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://essays.johnloeber.com/...",
+      "score": 502
     },
     {
       "type": "HackerNews",
       "title": "DIY Soft Drinks",
       "url": "https://blinry.org/diy-soft-drinks/",
       "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://blinry.org/diy-soft-dr...",
-      "score": 268
+      "score": 324
     },
     {
       "type": "HackerNews",
-      "title": "A Perfectable Programming Language",
-      "url": "https://alok.github.io/lean-pages/perfectable-lean/",
-      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://alok.github.io/lean-pa...",
-      "score": 62
-    },
-    {
-      "type": "HackerNews",
-      "title": "Ask HN: What Are You Working On? (April 2026)",
-      "url": null,
-      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：...",
-      "score": 140
-    },
-    {
-      "type": "HackerNews",
-      "title": "Most people can't juggle one ball",
-      "url": "https://www.lesswrong.com/posts/jTGbKKGqs5EdyYoRc/most-people-can-t-juggle-one-ball",
-      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.lesswrong.com/post...",
-      "score": 252
-    },
-    {
-      "type": "HackerNews",
-      "title": "I gave every train in New York an instrument",
-      "url": "https://www.trainjazz.com/",
-      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.trainjazz.com/...",
-      "score": 220
+      "title": "Apple's accidental moat: How the \"AI Loser\" may end up winning",
+      "url": "https://adlrocha.substack.com/p/adlrocha-how-the-ai-loser-may-end",
+      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://adlrocha.substack.com/...",
+      "score": 91
     }
   ]
 }
