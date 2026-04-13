@@ -1,61 +1,61 @@
 {
-  "last_updated": "2026-04-13 16:13:40",
+  "last_updated": "2026-04-13 19:14:39",
   "news": [
     {
       "type": "HackerNews",
-      "title": "Building a CLI for All of Cloudflare",
-      "url": "https://blog.cloudflare.com/cf-cli-local-explorer/",
-      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://blog.cloudflare.com/cf...",
-      "score": 20
-    },
-    {
-      "type": "HackerNews",
-      "title": "Servo is now available on crates.io",
-      "url": "https://servo.org/blog/2026/04/13/servo-0.1.0-release/",
-      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://servo.org/blog/2026/04...",
-      "score": 215
+      "title": "Someone Bought 30 WordPress Plugins and Planted a Backdoor in All of Them",
+      "url": "https://anchor.host/someone-bought-30-wordpress-plugins-and-planted-a-backdoor-in-all-of-them/",
+      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://anchor.host/someone-bo...",
+      "score": 186
     },
     {
       "type": "HackerNews",
       "title": "Nothing Ever Happens: Polymarket bot that always buys No on non-sports markets",
       "url": "https://github.com/sterlingcrispin/nothing-ever-happens",
-      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://github.com/sterlingcri...",
-      "score": 26
+      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://github.com/sterlingcri...",
+      "score": 256
     },
     {
       "type": "HackerNews",
-      "title": "Make Tmux Pretty and Usable",
+      "title": "The Future of Everything Is Lies, I Guess: Safety",
+      "url": "https://aphyr.com/posts/417-the-future-of-everything-is-lies-i-guess-safety",
+      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://aphyr.com/posts/417-th...",
+      "score": 166
+    },
+    {
+      "type": "HackerNews",
+      "title": "Building a CLI for All of Cloudflare",
+      "url": "https://blog.cloudflare.com/cf-cli-local-explorer/",
+      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://blog.cloudflare.com/cf...",
+      "score": 160
+    },
+    {
+      "type": "HackerNews",
+      "title": "Servo is now available on crates.io",
+      "url": "https://servo.org/blog/2026/04/13/servo-0.1.0-release/",
+      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://servo.org/blog/2026/04...",
+      "score": 320
+    },
+    {
+      "type": "HackerNews",
+      "title": "Tracking down a 25% Regression on LLVM RISC-V",
+      "url": "https://blog.kaving.me/blog/tracking-down-a-25-regression-on-llvm-risc-v/",
+      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://blog.kaving.me/blog/tr...",
+      "score": 43
+    },
+    {
+      "type": "HackerNews",
+      "title": "Make Tmux Pretty and Usable (2024)",
       "url": "https://hamvocke.com/blog/a-guide-to-customizing-your-tmux-conf/",
-      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://hamvocke.com/blog/a-gu...",
-      "score": 102
+      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://hamvocke.com/blog/a-gu...",
+      "score": 216
     },
     {
       "type": "HackerNews",
-      "title": "All elementary functions from a single binary operator",
-      "url": "https://arxiv.org/abs/2603.21852",
-      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://arxiv.org/abs/2603.218...",
-      "score": 678
-    },
-    {
-      "type": "HackerNews",
-      "title": "US appeals court declares 158-year-old home distilling ban unconstitutional",
-      "url": "https://nypost.com/2026/04/11/us-news/us-appeals-court-declares-158-year-old-home-distilling-ban-unconstitutional/",
-      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://nypost.com/2026/04/11/...",
-      "score": 142
-    },
-    {
-      "type": "HackerNews",
-      "title": "Microsoft isn't removing Copilot from Windows 11, it's just renaming it",
-      "url": "https://www.neowin.net/opinions/microsoft-isnt-removing-copilot-from-windows-11-its-just-renaming-it/",
-      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.neowin.net/opinion...",
-      "score": 87
-    },
-    {
-      "type": "HackerNews",
-      "title": "Initial mainline video capture and camera support for Rockchip RK3588",
-      "url": "https://www.collabora.com/news-and-blog/news-and-events/mainline-video-capture-and-camera-support-for-rockchip-rk3588.html",
-      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.collabora.com/news...",
-      "score": 23
+      "title": "MEMS Array Chip Can Project Video the Size of a Grain of Sand",
+      "url": "https://spectrum.ieee.org/mems-photonics",
+      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://spectrum.ieee.org/mems...",
+      "score": 47
     }
   ]
 }
