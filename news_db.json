@@ -1,61 +1,61 @@
 {
-  "last_updated": "2026-04-14 10:15:27",
+  "last_updated": "2026-04-14 13:27:58",
   "news": [
+    {
+      "type": "HackerNews",
+      "title": "What is jj and why should I care?",
+      "url": "https://steveklabnik.github.io/jujutsu-tutorial/introduction/what-is-jj-and-why-should-i-care.html",
+      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://steveklabnik.github.io...",
+      "score": 139
+    },
     {
       "type": "HackerNews",
       "title": "DaVinci Resolve – Photo",
       "url": "https://www.blackmagicdesign.com/products/davinciresolve/photo",
-      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.blackmagicdesign.c...",
-      "score": 573
+      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.blackmagicdesign.c...",
+      "score": 740
     },
     {
       "type": "HackerNews",
-      "title": "Backblaze has stopped backing up your data",
-      "url": "https://rareese.com/posts/backblaze/",
-      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://rareese.com/posts/back...",
-      "score": 97
+      "title": "NimConf 2026: Dates Announced, Registrations Open",
+      "url": "https://nim-lang.org/blog/2026/04/07/nimconf-2026.html",
+      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://nim-lang.org/blog/2026...",
+      "score": 38
     },
     {
       "type": "HackerNews",
       "title": "A new spam policy for “back button hijacking”",
       "url": "https://developers.google.com/search/blog/2026/04/back-button-hijacking",
-      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://developers.google.com/...",
-      "score": 368
+      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://developers.google.com/...",
+      "score": 513
+    },
+    {
+      "type": "HackerNews",
+      "title": "Backblaze has stopped backing up your data",
+      "url": "https://rareese.com/posts/backblaze/",
+      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://rareese.com/posts/back...",
+      "score": 374
     },
     {
       "type": "HackerNews",
       "title": "Someone bought 30 WordPress plugins and planted a backdoor in all of them",
       "url": "https://anchor.host/someone-bought-30-wordpress-plugins-and-planted-a-backdoor-in-all-of-them/",
       "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://anchor.host/someone-bo...",
-      "score": 955
-    },
-    {
-      "type": "HackerNews",
-      "title": "An AI Vibe Coding Horror Story",
-      "url": "https://www.tobru.ch/an-ai-vibe-coding-horror-story/",
-      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.tobru.ch/an-ai-vib...",
-      "score": 122
+      "score": 1039
     },
     {
       "type": "HackerNews",
       "title": "Introspective Diffusion Language Models",
       "url": "https://introspective-diffusion.github.io/",
-      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://introspective-diffusio...",
-      "score": 40
+      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://introspective-diffusio...",
+      "score": 107
     },
     {
       "type": "HackerNews",
       "title": "GitHub Stacked PRs",
       "url": "https://github.github.com/gh-stack/",
-      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://github.github.com/gh-s...",
-      "score": 716
-    },
-    {
-      "type": "HackerNews",
-      "title": "Distributed DuckDB Instance",
-      "url": "https://github.com/citguru/openduck",
-      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://github.com/citguru/ope...",
-      "score": 57
+      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://github.github.com/gh-s...",
+      "score": 777
     }
   ]
 }
