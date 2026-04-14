@@ -1,61 +1,61 @@
 {
-  "last_updated": "2026-04-14 05:24:35",
+  "last_updated": "2026-04-14 07:47:18",
   "news": [
     {
       "type": "HackerNews",
       "title": "DaVinci Resolve releases Photo Editor",
       "url": "https://www.blackmagicdesign.com/products/davinciresolve/photo",
       "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.blackmagicdesign.c...",
-      "score": 207
+      "score": 428
     },
     {
       "type": "HackerNews",
       "title": "A new spam policy for \"back button hijacking\"",
       "url": "https://developers.google.com/search/blog/2026/04/back-button-hijacking",
       "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://developers.google.com/...",
-      "score": 117
+      "score": 259
+    },
+    {
+      "type": "HackerNews",
+      "title": "Sometimes powerful people just do dumb shit",
+      "url": "https://www.joanwestenberg.com/sometimes-powerful-people-just-do-dumb-shit/",
+      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.joanwestenberg.com...",
+      "score": 177
     },
     {
       "type": "HackerNews",
       "title": "Someone bought 30 WordPress plugins and planted a backdoor in all of them",
       "url": "https://anchor.host/someone-bought-30-wordpress-plugins-and-planted-a-backdoor-in-all-of-them/",
       "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://anchor.host/someone-bo...",
-      "score": 814
+      "score": 898
+    },
+    {
+      "type": "HackerNews",
+      "title": "The Shinkansen",
+      "url": "https://www.worksinprogress.news/p/the-secret-behind-japans-railways",
+      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.worksinprogress.ne...",
+      "score": 18
+    },
+    {
+      "type": "HackerNews",
+      "title": "Roblox devs now need a subscription to share their games freely",
+      "url": "https://devforum.roblox.com/t/new-publishing-requirements-evaluation-process-for-games/4573166",
+      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://devforum.roblox.com/t/...",
+      "score": 31
     },
     {
       "type": "HackerNews",
       "title": "GitHub Stacked PRs",
       "url": "https://github.github.com/gh-stack/",
-      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://github.github.com/gh-s...",
-      "score": 579
+      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://github.github.com/gh-s...",
+      "score": 665
     },
     {
       "type": "HackerNews",
-      "title": "Lean proved this program correct; then I found a bug",
-      "url": "https://kirancodes.me/posts/log-who-watches-the-watchers.html",
-      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://kirancodes.me/posts/lo...",
-      "score": 172
-    },
-    {
-      "type": "HackerNews",
-      "title": "WiiFin – Jellyfin Client for Nintendo Wii",
-      "url": "https://github.com/fabienmillet/WiiFin",
-      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://github.com/fabienmille...",
-      "score": 109
-    },
-    {
-      "type": "HackerNews",
-      "title": "I shipped a transaction bug, so I built a linter",
-      "url": "https://leonh.fr/posts/go-transaction-linter/",
-      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://leonh.fr/posts/go-tran...",
-      "score": 22
-    },
-    {
-      "type": "HackerNews",
-      "title": "Design and implementation of DuckDB internals",
-      "url": "https://duckdb.org/library/design-and-implementation-of-duckdb-internals/",
-      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://duckdb.org/library/des...",
-      "score": 73
+      "title": "Distributed DuckDB Instance",
+      "url": "https://github.com/citguru/openduck",
+      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://github.com/citguru/ope...",
+      "score": 27
     }
   ]
 }
