@@ -1,61 +1,61 @@
 {
-  "last_updated": "2026-04-15 10:16:50",
+  "last_updated": "2026-04-15 13:25:58",
   "news": [
     {
       "type": "HackerNews",
       "title": "Want to Write a Compiler? Just Read These Two Papers (2008)",
       "url": "https://prog21.dadgum.com/30.html",
-      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://prog21.dadgum.com/30.h...",
-      "score": 33
+      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://prog21.dadgum.com/30.h...",
+      "score": 202
+    },
+    {
+      "type": "HackerNews",
+      "title": "Good Sleep, Good Learning (2012)",
+      "url": "https://super-memory.com/articles/sleep.htm",
+      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://super-memory.com/artic...",
+      "score": 137
+    },
+    {
+      "type": "HackerNews",
+      "title": "Costasiella kuroshimae – Solar Powered animals, that do indirect photosynthesis",
+      "url": "https://en.wikipedia.org/wiki/Costasiella_kuroshimae",
+      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://en.wikipedia.org/wiki/...",
+      "score": 61
     },
     {
       "type": "HackerNews",
       "title": "Fixing a 20-year-old bug in Enlightenment E16",
       "url": "https://iczelia.net/posts/e16-20-year-old-bug/",
       "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://iczelia.net/posts/e16-...",
-      "score": 145
+      "score": 190
     },
     {
       "type": "HackerNews",
-      "title": "Good Sleep, Good Learning (2012)",
-      "url": "https://super-memory.com/articles/sleep.htm",
-      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://super-memory.com/artic...",
-      "score": 19
+      "title": "Metro stop is Ancient Rome's new attraction",
+      "url": "https://www.bbc.com/travel/article/20260408-a-150-metro-ticket-to-ancient-rome",
+      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.bbc.com/travel/art...",
+      "score": 27
     },
     {
       "type": "HackerNews",
-      "title": "Wacli – WhatsApp CLI: sync, search, send",
-      "url": "https://github.com/steipete/wacli",
-      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://github.com/steipete/wa...",
-      "score": 100
+      "title": "Show HN: Every CEO and CFO change at US public companies, live from SEC",
+      "url": "https://tracksuccession.com/explore",
+      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://tracksuccession.com/ex...",
+      "score": 3
+    },
+    {
+      "type": "HackerNews",
+      "title": "Google Gemma 4 Runs Natively on iPhone with Full Offline AI Inference",
+      "url": "https://www.gizmoweek.com/gemma-4-runs-iphone/",
+      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.gizmoweek.com/gemm...",
+      "score": 111
     },
     {
       "type": "HackerNews",
       "title": "Claude Code Routines",
       "url": "https://code.claude.com/docs/en/routines",
       "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://code.claude.com/docs/e...",
-      "score": 613
-    },
-    {
-      "type": "HackerNews",
-      "title": "My AI-Assisted Workflow",
-      "url": "https://www.maiobarbero.dev/articles/ai-assisted-workflow/",
-      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.maiobarbero.dev/ar...",
-      "score": 35
-    },
-    {
-      "type": "HackerNews",
-      "title": "A communist Apple II and fourteen years of not knowing what you're testing",
-      "url": "https://llama.gs/blog/index.php/2026/04/10/friday-archaeology-a-communist-apple-ii-and-fourteen-years-of-not-knowing-what-youre-testing/",
-      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://llama.gs/blog/index.ph...",
-      "score": 174
-    },
-    {
-      "type": "HackerNews",
-      "title": "My adventure in designing API keys",
-      "url": "https://vjay15.github.io/blog/apikeys/",
-      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://vjay15.github.io/blog/...",
-      "score": 63
+      "score": 666
     }
   ]
 }
