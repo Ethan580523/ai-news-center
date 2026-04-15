@@ -1,61 +1,61 @@
 {
-  "last_updated": "2026-04-15 13:25:58",
+  "last_updated": "2026-04-15 16:05:52",
   "news": [
     {
       "type": "HackerNews",
-      "title": "Want to Write a Compiler? Just Read These Two Papers (2008)",
-      "url": "https://prog21.dadgum.com/30.html",
-      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://prog21.dadgum.com/30.h...",
-      "score": 202
-    },
-    {
-      "type": "HackerNews",
-      "title": "Good Sleep, Good Learning (2012)",
-      "url": "https://super-memory.com/articles/sleep.htm",
-      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://super-memory.com/artic...",
-      "score": 137
-    },
-    {
-      "type": "HackerNews",
-      "title": "Costasiella kuroshimae – Solar Powered animals, that do indirect photosynthesis",
-      "url": "https://en.wikipedia.org/wiki/Costasiella_kuroshimae",
-      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://en.wikipedia.org/wiki/...",
-      "score": 61
-    },
-    {
-      "type": "HackerNews",
-      "title": "Fixing a 20-year-old bug in Enlightenment E16",
-      "url": "https://iczelia.net/posts/e16-20-year-old-bug/",
-      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://iczelia.net/posts/e16-...",
-      "score": 190
-    },
-    {
-      "type": "HackerNews",
-      "title": "Metro stop is Ancient Rome's new attraction",
-      "url": "https://www.bbc.com/travel/article/20260408-a-150-metro-ticket-to-ancient-rome",
-      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.bbc.com/travel/art...",
-      "score": 27
+      "title": "God Sleeps in the Minerals",
+      "url": "https://wchambliss.wordpress.com/2026/03/03/god-sleeps-in-the-minerals/",
+      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://wchambliss.wordpress.c...",
+      "score": 186
     },
     {
       "type": "HackerNews",
       "title": "Show HN: Every CEO and CFO change at US public companies, live from SEC",
       "url": "https://tracksuccession.com/explore",
       "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://tracksuccession.com/ex...",
-      "score": 3
+      "score": 112
     },
     {
       "type": "HackerNews",
-      "title": "Google Gemma 4 Runs Natively on iPhone with Full Offline AI Inference",
-      "url": "https://www.gizmoweek.com/gemma-4-runs-iphone/",
-      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.gizmoweek.com/gemm...",
-      "score": 111
+      "title": "Want to Write a Compiler? Just Read These Two Papers (2008)",
+      "url": "https://prog21.dadgum.com/30.html",
+      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://prog21.dadgum.com/30.h...",
+      "score": 308
     },
     {
       "type": "HackerNews",
-      "title": "Claude Code Routines",
-      "url": "https://code.claude.com/docs/en/routines",
-      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://code.claude.com/docs/e...",
-      "score": 666
+      "title": "Good Sleep, Good Learning (2012)",
+      "url": "https://super-memory.com/articles/sleep.htm",
+      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://super-memory.com/artic...",
+      "score": 226
+    },
+    {
+      "type": "HackerNews",
+      "title": "The Future of Everything Is Lies, I Guess: New Jobs",
+      "url": "https://aphyr.com/posts/419-the-future-of-everything-is-lies-i-guess-new-jobs",
+      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://aphyr.com/posts/419-th...",
+      "score": 124
+    },
+    {
+      "type": "HackerNews",
+      "title": "Gemini Robotics-ER 1.6",
+      "url": "https://deepmind.google/blog/gemini-robotics-er-1-6/",
+      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://deepmind.google/blog/g...",
+      "score": 84
+    },
+    {
+      "type": "HackerNews",
+      "title": "Costasiella kuroshimae – Solar Powered animals, that do indirect photosynthesis",
+      "url": "https://en.wikipedia.org/wiki/Costasiella_kuroshimae",
+      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://en.wikipedia.org/wiki/...",
+      "score": 95
+    },
+    {
+      "type": "HackerNews",
+      "title": "Your Backpack Got Worse on Purpose",
+      "url": "https://www.worseonpurpose.com/p/your-backpack-got-worse-on-purpose",
+      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.worseonpurpose.com...",
+      "score": 176
     }
   ]
 }
