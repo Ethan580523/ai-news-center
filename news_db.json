@@ -1,61 +1,61 @@
 {
-  "last_updated": "2026-04-15 16:05:52",
+  "last_updated": "2026-04-15 19:18:48",
   "news": [
+    {
+      "type": "HackerNews",
+      "title": "AI-Assisted Cognition Endangers Human Development",
+      "url": "https://heidenstedt.org/posts/2026/ai-assisted-cognition-endangers-human-development/",
+      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://heidenstedt.org/posts/...",
+      "score": 99
+    },
+    {
+      "type": "HackerNews",
+      "title": "Open Source Isn't Dead. Cal.com Just Learned the Wrong Lesson",
+      "url": "https://www.strix.ai/blog/cal-com-is-closing-its-code-due-to-ai-threats",
+      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.strix.ai/blog/cal-...",
+      "score": 225
+    },
+    {
+      "type": "HackerNews",
+      "title": "Google Broke Its Promise to Me. Now ICE Has My Data",
+      "url": "https://www.eff.org/deeplinks/2026/04/google-broke-its-promise-me-now-ice-has-my-data",
+      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.eff.org/deeplinks/...",
+      "score": 344
+    },
     {
       "type": "HackerNews",
       "title": "God Sleeps in the Minerals",
       "url": "https://wchambliss.wordpress.com/2026/03/03/god-sleeps-in-the-minerals/",
-      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://wchambliss.wordpress.c...",
-      "score": 186
-    },
-    {
-      "type": "HackerNews",
-      "title": "Show HN: Every CEO and CFO change at US public companies, live from SEC",
-      "url": "https://tracksuccession.com/explore",
-      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://tracksuccession.com/ex...",
-      "score": 112
+      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://wchambliss.wordpress.c...",
+      "score": 350
     },
     {
       "type": "HackerNews",
       "title": "Want to Write a Compiler? Just Read These Two Papers (2008)",
       "url": "https://prog21.dadgum.com/30.html",
-      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://prog21.dadgum.com/30.h...",
-      "score": 308
+      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://prog21.dadgum.com/30.h...",
+      "score": 384
+    },
+    {
+      "type": "HackerNews",
+      "title": "Fix monitor that goes black, off or blinks due to static electricity in chair",
+      "url": "https://aalonso.dev/blog/2023/how-to-fix-monitor-that-goes-black-off-due-to-static-electricity-in-chair/",
+      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://aalonso.dev/blog/2023/...",
+      "score": 41
     },
     {
       "type": "HackerNews",
       "title": "Good Sleep, Good Learning (2012)",
       "url": "https://super-memory.com/articles/sleep.htm",
-      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://super-memory.com/artic...",
-      "score": 226
+      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://super-memory.com/artic...",
+      "score": 296
     },
     {
       "type": "HackerNews",
-      "title": "The Future of Everything Is Lies, I Guess: New Jobs",
-      "url": "https://aphyr.com/posts/419-the-future-of-everything-is-lies-i-guess-new-jobs",
-      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://aphyr.com/posts/419-th...",
-      "score": 124
-    },
-    {
-      "type": "HackerNews",
-      "title": "Gemini Robotics-ER 1.6",
-      "url": "https://deepmind.google/blog/gemini-robotics-er-1-6/",
-      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://deepmind.google/blog/g...",
-      "score": 84
-    },
-    {
-      "type": "HackerNews",
-      "title": "Costasiella kuroshimae – Solar Powered animals, that do indirect photosynthesis",
-      "url": "https://en.wikipedia.org/wiki/Costasiella_kuroshimae",
-      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://en.wikipedia.org/wiki/...",
-      "score": 95
-    },
-    {
-      "type": "HackerNews",
-      "title": "Your Backpack Got Worse on Purpose",
-      "url": "https://www.worseonpurpose.com/p/your-backpack-got-worse-on-purpose",
-      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.worseonpurpose.com...",
-      "score": 176
+      "title": "Kalshi CEO expects US DOJ to prosecute insider trading cases",
+      "url": "https://www.semafor.com/article/04/15/2026/kalshi-ceo-tarek-mansour-expects-us-doj-to-prosecute-insider-trading-cases",
+      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.semafor.com/articl...",
+      "score": 48
     }
   ]
 }
