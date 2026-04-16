@@ -1,61 +1,61 @@
 {
-  "last_updated": "2026-04-16 10:15:45",
+  "last_updated": "2026-04-16 13:45:55",
   "news": [
+    {
+      "type": "HackerNews",
+      "title": "€54k spike in 13h from unrestricted Firebase browser key accessing Gemini APIs",
+      "url": "https://discuss.ai.google.dev/t/unexpected-54k-billing-spike-in-13-hours-firebase-browser-key-without-api-restrictions-used-for-gemini-requests/140262",
+      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://discuss.ai.google.dev/...",
+      "score": 212
+    },
     {
       "type": "HackerNews",
       "title": "IPv6 traffic crosses the 50% mark",
       "url": "https://www.google.com/intl/en/ipv6/statistics.html?yzh=28197",
-      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.google.com/intl/en...",
-      "score": 256
+      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.google.com/intl/en...",
+      "score": 498
+    },
+    {
+      "type": "HackerNews",
+      "title": "Apple accelerates eco progress with highest-ever recycled materials",
+      "url": "https://www.apple.com/newsroom/2026/04/apple-accelerates-progress-with-highest-ever-recycled-material-in-its-products/",
+      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.apple.com/newsroom...",
+      "score": 44
+    },
+    {
+      "type": "HackerNews",
+      "title": "The Future of Everything Is Lies, I Guess: Where Do We Go from Here?",
+      "url": "https://aphyr.com/posts/420-the-future-of-everything-is-lies-i-guess-where-do-we-go-from-here",
+      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://aphyr.com/posts/420-th...",
+      "score": 8
+    },
+    {
+      "type": "HackerNews",
+      "title": "AI cybersecurity is not proof of work",
+      "url": "https://antirez.com/news/163",
+      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://antirez.com/news/163...",
+      "score": 54
     },
     {
       "type": "HackerNews",
       "title": "Darkbloom – Private inference on idle Macs",
       "url": "https://darkbloom.dev",
-      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://darkbloom.dev...",
-      "score": 247
+      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://darkbloom.dev...",
+      "score": 346
     },
     {
       "type": "HackerNews",
       "title": "FSF trying to contact Google about spammer sending 10k+ mails from Gmail account",
       "url": "https://daedal.io/@thomzane/116410863009847575",
       "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://daedal.io/@thomzane/11...",
-      "score": 163
+      "score": 238
     },
     {
       "type": "HackerNews",
-      "title": "Cybersecurity looks like proof of work now",
-      "url": "https://www.dbreunig.com/2026/04/14/cybersecurity-is-proof-of-work-now.html",
-      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.dbreunig.com/2026/...",
-      "score": 423
-    },
-    {
-      "type": "HackerNews",
-      "title": "The paper computer",
-      "url": "https://jsomers.net/blog/the-paper-computer",
-      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://jsomers.net/blog/the-p...",
-      "score": 148
-    },
-    {
-      "type": "HackerNews",
-      "title": "RedSun: System user access on Win 11/10 and Server with the April 2026 Update",
-      "url": "https://github.com/Nightmare-Eclipse/RedSun",
-      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://github.com/Nightmare-E...",
-      "score": 81
-    },
-    {
-      "type": "HackerNews",
-      "title": "A Look into NaviDial, Japan's Legacy Phone Service",
-      "url": "https://www.tokyodev.com/articles/a-look-into-navidial-japan-s-legacy-phone-service",
-      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.tokyodev.com/artic...",
-      "score": 52
-    },
-    {
-      "type": "HackerNews",
-      "title": "Too much discussion of the XOR swap trick",
-      "url": "https://heather.cafe/posts/too_much_xor_swap_trick/",
-      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://heather.cafe/posts/too...",
-      "score": 56
+      "title": "Show HN: 48 absurd web projects – one every month",
+      "url": null,
+      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：...",
+      "score": 31
     }
   ]
 }
