@@ -1,61 +1,61 @@
 {
-  "last_updated": "2026-04-16 07:47:56",
+  "last_updated": "2026-04-16 10:15:45",
   "news": [
-    {
-      "type": "HackerNews",
-      "title": "Darkbloom – Private inference on idle Macs",
-      "url": "https://darkbloom.dev",
-      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://darkbloom.dev...",
-      "score": 182
-    },
-    {
-      "type": "HackerNews",
-      "title": "Stop Using Ollama",
-      "url": "https://sleepingrobots.com/dreams/stop-using-ollama/",
-      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://sleepingrobots.com/dre...",
-      "score": 258
-    },
     {
       "type": "HackerNews",
       "title": "IPv6 traffic crosses the 50% mark",
       "url": "https://www.google.com/intl/en/ipv6/statistics.html?yzh=28197",
       "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.google.com/intl/en...",
-      "score": 76
+      "score": 256
+    },
+    {
+      "type": "HackerNews",
+      "title": "Darkbloom – Private inference on idle Macs",
+      "url": "https://darkbloom.dev",
+      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://darkbloom.dev...",
+      "score": 247
     },
     {
       "type": "HackerNews",
       "title": "FSF trying to contact Google about spammer sending 10k+ mails from Gmail account",
       "url": "https://daedal.io/@thomzane/116410863009847575",
       "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://daedal.io/@thomzane/11...",
-      "score": 112
+      "score": 163
     },
     {
       "type": "HackerNews",
-      "title": "RedSun: System user access on Win 11/10 and Server with the April 2026 Update",
-      "url": "https://github.com/Nightmare-Eclipse/RedSun",
-      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://github.com/Nightmare-E...",
-      "score": 58
+      "title": "Cybersecurity looks like proof of work now",
+      "url": "https://www.dbreunig.com/2026/04/14/cybersecurity-is-proof-of-work-now.html",
+      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.dbreunig.com/2026/...",
+      "score": 423
     },
     {
       "type": "HackerNews",
       "title": "The paper computer",
       "url": "https://jsomers.net/blog/the-paper-computer",
       "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://jsomers.net/blog/the-p...",
-      "score": 117
+      "score": 148
     },
     {
       "type": "HackerNews",
-      "title": "Cybersecurity looks like proof of work now",
-      "url": "https://www.dbreunig.com/2026/04/14/cybersecurity-is-proof-of-work-now.html",
-      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.dbreunig.com/2026/...",
-      "score": 371
+      "title": "RedSun: System user access on Win 11/10 and Server with the April 2026 Update",
+      "url": "https://github.com/Nightmare-Eclipse/RedSun",
+      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://github.com/Nightmare-E...",
+      "score": 81
     },
     {
       "type": "HackerNews",
-      "title": "RamAIn (YC W26) Is Hiring",
-      "url": "https://www.ycombinator.com/companies/ramain/jobs/bwtwd9W-founding-gtm-operations-lead",
-      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.ycombinator.com/co...",
-      "score": 1
+      "title": "A Look into NaviDial, Japan's Legacy Phone Service",
+      "url": "https://www.tokyodev.com/articles/a-look-into-navidial-japan-s-legacy-phone-service",
+      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.tokyodev.com/artic...",
+      "score": 52
+    },
+    {
+      "type": "HackerNews",
+      "title": "Too much discussion of the XOR swap trick",
+      "url": "https://heather.cafe/posts/too_much_xor_swap_trick/",
+      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://heather.cafe/posts/too...",
+      "score": 56
     }
   ]
 }
