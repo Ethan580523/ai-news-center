@@ -1,61 +1,61 @@
 {
-  "last_updated": "2026-04-16 13:45:55",
+  "last_updated": "2026-04-16 16:23:02",
   "news": [
     {
       "type": "HackerNews",
-      "title": "€54k spike in 13h from unrestricted Firebase browser key accessing Gemini APIs",
-      "url": "https://discuss.ai.google.dev/t/unexpected-54k-billing-spike-in-13-hours-firebase-browser-key-without-api-restrictions-used-for-gemini-requests/140262",
-      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://discuss.ai.google.dev/...",
-      "score": 212
+      "title": "Claude Opus 4.7",
+      "url": "https://www.anthropic.com/news/claude-opus-4-7",
+      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.anthropic.com/news...",
+      "score": 551
+    },
+    {
+      "type": "HackerNews",
+      "title": "Cloudflare Email Service",
+      "url": "https://blog.cloudflare.com/email-for-agents/",
+      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://blog.cloudflare.com/em...",
+      "score": 207
+    },
+    {
+      "type": "HackerNews",
+      "title": "Mozilla Thunderbolt",
+      "url": "https://www.thunderbolt.io/",
+      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.thunderbolt.io/...",
+      "score": 175
+    },
+    {
+      "type": "HackerNews",
+      "title": "Qwen3.6-35B-A3B: Agentic Coding Power, Now Open to All",
+      "url": "https://qwen.ai/blog?id=qwen3.6-35b-a3b",
+      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://qwen.ai/blog?id=qwen3....",
+      "score": 409
+    },
+    {
+      "type": "HackerNews",
+      "title": "Launch HN: Kampala (YC W26) – Reverse-Engineer Apps into APIs",
+      "url": "https://www.zatanna.ai/kampala",
+      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.zatanna.ai/kampala...",
+      "score": 19
     },
     {
       "type": "HackerNews",
       "title": "IPv6 traffic crosses the 50% mark",
       "url": "https://www.google.com/intl/en/ipv6/statistics.html?yzh=28197",
-      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.google.com/intl/en...",
-      "score": 498
+      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.google.com/intl/en...",
+      "score": 619
     },
     {
       "type": "HackerNews",
-      "title": "Apple accelerates eco progress with highest-ever recycled materials",
-      "url": "https://www.apple.com/newsroom/2026/04/apple-accelerates-progress-with-highest-ever-recycled-material-in-its-products/",
-      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.apple.com/newsroom...",
-      "score": 44
+      "title": "Cloudflare's AI Platform: an inference layer designed for agents",
+      "url": "https://blog.cloudflare.com/ai-platform/",
+      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://blog.cloudflare.com/ai...",
+      "score": 90
     },
     {
       "type": "HackerNews",
-      "title": "The Future of Everything Is Lies, I Guess: Where Do We Go from Here?",
+      "title": "The future of everything is lies, I guess: Where do we go from here?",
       "url": "https://aphyr.com/posts/420-the-future-of-everything-is-lies-i-guess-where-do-we-go-from-here",
-      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://aphyr.com/posts/420-th...",
-      "score": 8
-    },
-    {
-      "type": "HackerNews",
-      "title": "AI cybersecurity is not proof of work",
-      "url": "https://antirez.com/news/163",
-      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://antirez.com/news/163...",
-      "score": 54
-    },
-    {
-      "type": "HackerNews",
-      "title": "Darkbloom – Private inference on idle Macs",
-      "url": "https://darkbloom.dev",
-      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://darkbloom.dev...",
-      "score": 346
-    },
-    {
-      "type": "HackerNews",
-      "title": "FSF trying to contact Google about spammer sending 10k+ mails from Gmail account",
-      "url": "https://daedal.io/@thomzane/116410863009847575",
-      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://daedal.io/@thomzane/11...",
-      "score": 238
-    },
-    {
-      "type": "HackerNews",
-      "title": "Show HN: 48 absurd web projects – one every month",
-      "url": null,
-      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：...",
-      "score": 31
+      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://aphyr.com/posts/420-th...",
+      "score": 205
     }
   ]
 }
