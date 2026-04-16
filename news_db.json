@@ -1,61 +1,61 @@
 {
-  "last_updated": "2026-04-15 21:53:08",
+  "last_updated": "2026-04-16 02:42:08",
   "news": [
-    {
-      "type": "HackerNews",
-      "title": "Does Gas Town 'steal' usage from users' LLM credits to improve itself?",
-      "url": "https://github.com/gastownhall/gastown/issues/3649",
-      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://github.com/gastownhall...",
-      "score": 100
-    },
     {
       "type": "HackerNews",
       "title": "Cybersecurity looks like proof of work now",
       "url": "https://www.dbreunig.com/2026/04/14/cybersecurity-is-proof-of-work-now.html",
-      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.dbreunig.com/2026/...",
-      "score": 77
+      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.dbreunig.com/2026/...",
+      "score": 266
     },
     {
       "type": "HackerNews",
-      "title": "Ask HN: Who is using OpenClaw?",
-      "url": null,
-      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：...",
-      "score": 88
+      "title": "Arguing with Agents",
+      "url": "https://blowmage.com/2026/04/14/arguing-with-agents/",
+      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://blowmage.com/2026/04/1...",
+      "score": 8
+    },
+    {
+      "type": "HackerNews",
+      "title": "I made a terminal pager",
+      "url": "https://theleo.zone/posts/pager/",
+      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://theleo.zone/posts/page...",
+      "score": 68
     },
     {
       "type": "HackerNews",
       "title": "Google broke its promise to me – now ICE has my data",
       "url": "https://www.eff.org/deeplinks/2026/04/google-broke-its-promise-me-now-ice-has-my-data",
-      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.eff.org/deeplinks/...",
-      "score": 834
-    },
-    {
-      "type": "HackerNews",
-      "title": "PiCore - Raspberry Pi Port of Tiny Core Linux",
-      "url": "http://tinycorelinux.net/5.x/armv6/releases/README",
-      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：http://tinycorelinux.net/5.x/a...",
-      "score": 37
+      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.eff.org/deeplinks/...",
+      "score": 1142
     },
     {
       "type": "HackerNews",
       "title": "Cal.com is going closed source",
       "url": "https://cal.com/blog/cal-com-goes-closed-source-why",
       "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://cal.com/blog/cal-com-g...",
-      "score": 141
+      "score": 224
     },
     {
       "type": "HackerNews",
       "title": "God sleeps in the minerals",
       "url": "https://wchambliss.wordpress.com/2026/03/03/god-sleeps-in-the-minerals/",
-      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://wchambliss.wordpress.c...",
-      "score": 403
+      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://wchambliss.wordpress.c...",
+      "score": 468
     },
     {
       "type": "HackerNews",
-      "title": "Live Nation illegally monopolized ticketing market, jury finds",
-      "url": "https://www.bloomberg.com/news/articles/2026-04-15/live-nation-illegally-monopolized-ticketing-market-jury-finds",
-      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.bloomberg.com/news...",
-      "score": 232
+      "title": "Introduction to Spherical Harmonics for Graphics Programmers",
+      "url": "https://gpfault.net/posts/sph.html",
+      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://gpfault.net/posts/sph....",
+      "score": 16
+    },
+    {
+      "type": "HackerNews",
+      "title": "Amazon AI Cancelling Webcomics",
+      "url": "http://www.kleefeldoncomics.com/2026/04/amazon-ai-cancelling-webcomics.html",
+      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：http://www.kleefeldoncomics.co...",
+      "score": 9
     }
   ]
 }
