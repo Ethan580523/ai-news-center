@@ -1,61 +1,61 @@
 {
-  "last_updated": "2026-04-16 16:23:02",
+  "last_updated": "2026-04-16 19:15:59",
   "news": [
     {
       "type": "HackerNews",
       "title": "Claude Opus 4.7",
       "url": "https://www.anthropic.com/news/claude-opus-4-7",
-      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.anthropic.com/news...",
-      "score": 551
+      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.anthropic.com/news...",
+      "score": 1018
     },
     {
       "type": "HackerNews",
-      "title": "Cloudflare Email Service",
-      "url": "https://blog.cloudflare.com/email-for-agents/",
-      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://blog.cloudflare.com/em...",
-      "score": 207
+      "title": "Codex for Almost Everything",
+      "url": "https://openai.com/index/codex-for-almost-everything/",
+      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://openai.com/index/codex...",
+      "score": 295
     },
     {
       "type": "HackerNews",
-      "title": "Mozilla Thunderbolt",
-      "url": "https://www.thunderbolt.io/",
-      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.thunderbolt.io/...",
-      "score": 175
+      "title": "PCI Express over Fiber [video]",
+      "url": "https://www.youtube.com/watch?v=XaDa9bBucEI",
+      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.youtube.com/watch?...",
+      "score": 36
     },
     {
       "type": "HackerNews",
-      "title": "Qwen3.6-35B-A3B: Agentic Coding Power, Now Open to All",
+      "title": "Qwen3.6-35B-A3B: Agentic coding power, now open to all",
       "url": "https://qwen.ai/blog?id=qwen3.6-35b-a3b",
       "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://qwen.ai/blog?id=qwen3....",
-      "score": 409
-    },
-    {
-      "type": "HackerNews",
-      "title": "Launch HN: Kampala (YC W26) – Reverse-Engineer Apps into APIs",
-      "url": "https://www.zatanna.ai/kampala",
-      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.zatanna.ai/kampala...",
-      "score": 19
-    },
-    {
-      "type": "HackerNews",
-      "title": "IPv6 traffic crosses the 50% mark",
-      "url": "https://www.google.com/intl/en/ipv6/statistics.html?yzh=28197",
-      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.google.com/intl/en...",
-      "score": 619
+      "score": 656
     },
     {
       "type": "HackerNews",
       "title": "Cloudflare's AI Platform: an inference layer designed for agents",
       "url": "https://blog.cloudflare.com/ai-platform/",
       "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://blog.cloudflare.com/ai...",
-      "score": 90
+      "score": 167
     },
     {
       "type": "HackerNews",
       "title": "The future of everything is lies, I guess: Where do we go from here?",
       "url": "https://aphyr.com/posts/420-the-future-of-everything-is-lies-i-guess-where-do-we-go-from-here",
-      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://aphyr.com/posts/420-th...",
-      "score": 205
+      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://aphyr.com/posts/420-th...",
+      "score": 354
+    },
+    {
+      "type": "HackerNews",
+      "title": "Launch HN: Kampala (YC W26) – Reverse-Engineer Apps into APIs",
+      "url": "https://www.zatanna.ai/kampala",
+      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.zatanna.ai/kampala...",
+      "score": 38
+    },
+    {
+      "type": "HackerNews",
+      "title": "Six Characters",
+      "url": "https://ajitem.com/blog/iron-core-part-2-six-characters/",
+      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://ajitem.com/blog/iron-c...",
+      "score": 51
     }
   ]
 }
