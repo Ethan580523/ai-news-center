@@ -1,61 +1,61 @@
 {
-  "last_updated": "2026-04-17 10:14:29",
+  "last_updated": "2026-04-17 13:21:27",
   "news": [
+    {
+      "type": "HackerNews",
+      "title": "Isaac Asimov: The Last Question",
+      "url": "https://hex.ooo/library/last_question.html",
+      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://hex.ooo/library/last_q...",
+      "score": 80
+    },
     {
       "type": "HackerNews",
       "title": "Ada, Its Design, and the Language That Built the Languages",
       "url": "https://www.iqiipi.com/the-quiet-colossus.html",
-      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.iqiipi.com/the-qui...",
-      "score": 50
+      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.iqiipi.com/the-qui...",
+      "score": 139
     },
     {
       "type": "HackerNews",
       "title": "Claude Opus 4.7",
       "url": "https://www.anthropic.com/news/claude-opus-4-7",
-      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.anthropic.com/news...",
-      "score": 1756
-    },
-    {
-      "type": "HackerNews",
-      "title": "Codex for almost everything",
-      "url": "https://openai.com/index/codex-for-almost-everything/",
-      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://openai.com/index/codex...",
-      "score": 882
+      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.anthropic.com/news...",
+      "score": 1829
     },
     {
       "type": "HackerNews",
       "title": "FIM – Linux framebuffer image viewer",
       "url": "https://www.nongnu.org/fbi-improved/",
       "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.nongnu.org/fbi-imp...",
-      "score": 46
+      "score": 91
     },
     {
       "type": "HackerNews",
-      "title": "A Python Interpreter Written in Python",
-      "url": "https://aosabook.org/en/500L/a-python-interpreter-written-in-python.html",
-      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://aosabook.org/en/500L/a...",
-      "score": 66
+      "title": "Codex for almost everything",
+      "url": "https://openai.com/index/codex-for-almost-everything/",
+      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://openai.com/index/codex...",
+      "score": 921
     },
     {
       "type": "HackerNews",
-      "title": "30 Years of HPC: many hardware advances, little adoption of new languages",
-      "url": "https://chapel-lang.org/blog/posts/30years/",
-      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://chapel-lang.org/blog/p...",
-      "score": 54
+      "title": "Average Is All You Need",
+      "url": "https://rawquery.dev/blog/average-is-all-you-need",
+      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://rawquery.dev/blog/aver...",
+      "score": 38
+    },
+    {
+      "type": "HackerNews",
+      "title": "How Silicon Valley Is Turning Scientists into Exploited Gig Workers",
+      "url": "https://www.thenation.com/article/society/ai-silicon-valley-andreesen-thiel-stem/",
+      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.thenation.com/arti...",
+      "score": 63
     },
     {
       "type": "HackerNews",
       "title": "CadQuery is an open-source Python library for building 3D CAD models",
       "url": "https://cadquery.github.io/",
-      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://cadquery.github.io/...",
-      "score": 142
-    },
-    {
-      "type": "HackerNews",
-      "title": "Guy builds AI driven hardware hacker arm from duct tape, old cam and CNC machine",
-      "url": "https://github.com/gainsec/autoprober",
-      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://github.com/gainsec/aut...",
-      "score": 180
+      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://cadquery.github.io/...",
+      "score": 171
     }
   ]
 }
