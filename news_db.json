@@ -1,61 +1,61 @@
 {
-  "last_updated": "2026-04-17 13:21:27",
+  "last_updated": "2026-04-17 16:01:39",
   "news": [
     {
       "type": "HackerNews",
-      "title": "Isaac Asimov: The Last Question",
+      "title": "Claude Design",
+      "url": "https://www.anthropic.com/news/claude-design-anthropic-labs",
+      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.anthropic.com/news...",
+      "score": 170
+    },
+    {
+      "type": "HackerNews",
+      "title": "Isaac Asimov: The Last Question (1956)",
       "url": "https://hex.ooo/library/last_question.html",
-      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://hex.ooo/library/last_q...",
-      "score": 80
+      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://hex.ooo/library/last_q...",
+      "score": 362
     },
     {
       "type": "HackerNews",
-      "title": "Ada, Its Design, and the Language That Built the Languages",
-      "url": "https://www.iqiipi.com/the-quiet-colossus.html",
-      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.iqiipi.com/the-qui...",
-      "score": 139
+      "title": "Middle schooler finds coin from Troy in Berlin",
+      "url": "https://www.thehistoryblog.com/archives/75848",
+      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.thehistoryblog.com...",
+      "score": 50
     },
     {
       "type": "HackerNews",
-      "title": "Claude Opus 4.7",
-      "url": "https://www.anthropic.com/news/claude-opus-4-7",
-      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.anthropic.com/news...",
-      "score": 1829
+      "title": "NIST gives up enriching most CVEs",
+      "url": "https://risky.biz/risky-bulletin-nist-gives-up-enriching-most-cves/",
+      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://risky.biz/risky-bullet...",
+      "score": 23
     },
     {
       "type": "HackerNews",
-      "title": "FIM – Linux framebuffer image viewer",
-      "url": "https://www.nongnu.org/fbi-improved/",
-      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.nongnu.org/fbi-imp...",
-      "score": 91
+      "title": "Healthchecks.io Now Uses Self-Hosted Object Storage",
+      "url": "https://blog.healthchecks.io/2026/04/healthchecks-io-now-uses-self-hosted-object-storage/",
+      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://blog.healthchecks.io/2...",
+      "score": 46
     },
     {
       "type": "HackerNews",
-      "title": "Codex for almost everything",
-      "url": "https://openai.com/index/codex-for-almost-everything/",
-      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://openai.com/index/codex...",
-      "score": 921
+      "title": "It Is Time to Ban the Sale of Precise Geolocation",
+      "url": "https://www.lawfaremedia.org/article/it-is-time-to-ban-the-sale-of-precise-geolocation",
+      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.lawfaremedia.org/a...",
+      "score": 191
     },
     {
       "type": "HackerNews",
-      "title": "Average Is All You Need",
-      "url": "https://rawquery.dev/blog/average-is-all-you-need",
-      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://rawquery.dev/blog/aver...",
-      "score": 38
+      "title": "Iceye Open Data",
+      "url": "https://www.iceye.com/open-data-initiative",
+      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.iceye.com/open-dat...",
+      "score": 27
     },
     {
       "type": "HackerNews",
-      "title": "How Silicon Valley Is Turning Scientists into Exploited Gig Workers",
-      "url": "https://www.thenation.com/article/society/ai-silicon-valley-andreesen-thiel-stem/",
-      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.thenation.com/arti...",
-      "score": 63
-    },
-    {
-      "type": "HackerNews",
-      "title": "CadQuery is an open-source Python library for building 3D CAD models",
-      "url": "https://cadquery.github.io/",
-      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://cadquery.github.io/...",
-      "score": 171
+      "title": "Claude Opus 4.7 costs 20–30% more per session",
+      "url": "https://www.claudecodecamp.com/p/i-measured-claude-4-7-s-new-tokenizer-here-s-what-it-costs-you",
+      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.claudecodecamp.com...",
+      "score": 6
     }
   ]
 }
