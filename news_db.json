@@ -1,61 +1,61 @@
 {
-  "last_updated": "2026-04-16 21:43:33",
+  "last_updated": "2026-04-17 02:37:29",
   "news": [
+    {
+      "type": "HackerNews",
+      "title": "Claude Opus 4.7",
+      "url": "https://www.anthropic.com/news/claude-opus-4-7",
+      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.anthropic.com/news...",
+      "score": 1507
+    },
     {
       "type": "HackerNews",
       "title": "Codex for almost everything",
       "url": "https://openai.com/index/codex-for-almost-everything/",
       "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://openai.com/index/codex...",
-      "score": 538
+      "score": 696
     },
     {
       "type": "HackerNews",
-      "title": "Claude Opus 4.7",
-      "url": "https://www.anthropic.com/news/claude-opus-4-7",
-      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.anthropic.com/news...",
-      "score": 1248
+      "title": "Everything we like is a psyop",
+      "url": "https://techcrunch.com/2026/04/16/everything-we-like-is-a-psyop/",
+      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://techcrunch.com/2026/04...",
+      "score": 135
+    },
+    {
+      "type": "HackerNews",
+      "title": "CadQuery is an open-source Python library for building 3D CAD models",
+      "url": "https://cadquery.github.io/",
+      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://cadquery.github.io/...",
+      "score": 45
+    },
+    {
+      "type": "HackerNews",
+      "title": "Guy builds AI driven hardware hacker arm from duct tape, old cam and CNC machine",
+      "url": "https://github.com/gainsec/autoprober",
+      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://github.com/gainsec/aut...",
+      "score": 99
     },
     {
       "type": "HackerNews",
       "title": "A Better R Programming Experience Thanks to Tree-sitter",
       "url": "https://ropensci.org/blog/2026/04/02/tree-sitter-overview/",
-      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://ropensci.org/blog/2026...",
-      "score": 14
-    },
-    {
-      "type": "HackerNews",
-      "title": "PCI Express over Fiber [video]",
-      "url": "https://www.youtube.com/watch?v=XaDa9bBucEI",
-      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.youtube.com/watch?...",
-      "score": 103
-    },
-    {
-      "type": "HackerNews",
-      "title": "The Beginning of Scarcity in AI",
-      "url": "https://tomtunguz.com/ai-compute-crisis-2026/",
-      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://tomtunguz.com/ai-compu...",
-      "score": 14
-    },
-    {
-      "type": "HackerNews",
-      "title": "TigerBeetle: A Trillion Transactions [video]",
-      "url": "https://www.youtube.com/watch?v=y2_BqkKTbD8",
-      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.youtube.com/watch?...",
-      "score": 57
-    },
-    {
-      "type": "HackerNews",
-      "title": "Join Akkari's Founding Team (YC P26) as an Engineer",
-      "url": null,
-      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：...",
-      "score": 1
+      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://ropensci.org/blog/2026...",
+      "score": 87
     },
     {
       "type": "HackerNews",
       "title": "Android CLI: Build Android apps 3x faster using any agent",
       "url": "https://android-developers.googleblog.com/2026/04/build-android-apps-3x-faster-using-any-agent.html",
-      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://android-developers.goo...",
-      "score": 33
+      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://android-developers.goo...",
+      "score": 133
+    },
+    {
+      "type": "HackerNews",
+      "title": "Show HN: Spice simulation → oscilloscope → verification with Claude Code",
+      "url": "https://lucasgerads.com/blog/lecroy-mcp-spice-demo/",
+      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://lucasgerads.com/blog/l...",
+      "score": 18
     }
   ]
 }
