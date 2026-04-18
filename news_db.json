@@ -1,61 +1,61 @@
 {
-  "last_updated": "2026-04-18 13:03:47",
+  "last_updated": "2026-04-18 15:37:48",
   "news": [
+    {
+      "type": "HackerNews",
+      "title": "Migrating from DigitalOcean to Hetzner: From $1,432 to $233 With Zero Downtime",
+      "url": "https://isayeter.com/posts/digitalocean-to-hetzner-migration/",
+      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://isayeter.com/posts/dig...",
+      "score": 260
+    },
     {
       "type": "HackerNews",
       "title": "State of Kdenlive",
       "url": "https://kdenlive.org/news/2026/state-2026/",
-      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://kdenlive.org/news/2026...",
-      "score": 34
+      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://kdenlive.org/news/2026...",
+      "score": 155
     },
     {
       "type": "HackerNews",
-      "title": "Michael Rabin Has Died",
+      "title": "Why Japan has such good railways",
+      "url": "https://worksinprogress.co/issue/why-japan-has-such-good-railways/",
+      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://worksinprogress.co/iss...",
+      "score": 122
+    },
+    {
+      "type": "HackerNews",
+      "title": "Michael Rabin has died",
       "url": "https://en.wikipedia.org/wiki/Michael_O._Rabin",
       "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://en.wikipedia.org/wiki/...",
-      "score": 167
+      "score": 244
+    },
+    {
+      "type": "HackerNews",
+      "title": "Amiga Graphics Archive",
+      "url": "https://amiga.lychesis.net/",
+      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://amiga.lychesis.net/...",
+      "score": 170
     },
     {
       "type": "HackerNews",
       "title": "Category Theory Illustrated – Orders",
       "url": "https://abuseofnotation.github.io/category-theory-illustrated/04_order/",
-      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://abuseofnotation.github...",
-      "score": 129
+      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://abuseofnotation.github...",
+      "score": 155
     },
     {
       "type": "HackerNews",
-      "title": "Amiga Graphics",
-      "url": "https://amiga.lychesis.net/",
-      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://amiga.lychesis.net/...",
-      "score": 136
+      "title": "Show HN: Solyto – a free, open-source all-in-one personal management app",
+      "url": "https://solyto.app",
+      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://solyto.app...",
+      "score": 6
     },
     {
       "type": "HackerNews",
       "title": "Claude Design",
       "url": "https://www.anthropic.com/news/claude-design-anthropic-labs",
-      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.anthropic.com/news...",
-      "score": 1086
-    },
-    {
-      "type": "HackerNews",
-      "title": "It's OK to compare floating-points for equality",
-      "url": "https://lisyarus.github.io/blog/posts/its-ok-to-compare-floating-points-for-equality.html",
-      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://lisyarus.github.io/blo...",
-      "score": 49
-    },
-    {
-      "type": "HackerNews",
-      "title": "Show HN: I made a calculator that works over disjoint sets of intervals",
-      "url": "https://victorpoughon.github.io/interval-calculator/",
-      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://victorpoughon.github.i...",
-      "score": 198
-    },
-    {
-      "type": "HackerNews",
-      "title": "Measuring Claude 4.7's tokenizer costs",
-      "url": "https://www.claudecodecamp.com/p/i-measured-claude-4-7-s-new-tokenizer-here-s-what-it-costs-you",
-      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.claudecodecamp.com...",
-      "score": 628
+      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.anthropic.com/news...",
+      "score": 1122
     }
   ]
 }
