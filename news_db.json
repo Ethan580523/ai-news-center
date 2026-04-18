@@ -1,61 +1,61 @@
 {
-  "last_updated": "2026-04-18 15:37:48",
+  "last_updated": "2026-04-18 18:52:53",
   "news": [
     {
       "type": "HackerNews",
-      "title": "Migrating from DigitalOcean to Hetzner: From $1,432 to $233 With Zero Downtime",
+      "title": "The electromechanical angle computer inside the B-52 bomber's star tracker",
+      "url": "https://www.righto.com/2026/04/B-52-star-tracker-angle-computer.html",
+      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.righto.com/2026/04...",
+      "score": 89
+    },
+    {
+      "type": "HackerNews",
+      "title": "Migrating from DigitalOcean to Hetzner",
       "url": "https://isayeter.com/posts/digitalocean-to-hetzner-migration/",
-      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://isayeter.com/posts/dig...",
-      "score": 260
+      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://isayeter.com/posts/dig...",
+      "score": 487
     },
     {
       "type": "HackerNews",
       "title": "State of Kdenlive",
       "url": "https://kdenlive.org/news/2026/state-2026/",
       "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://kdenlive.org/news/2026...",
-      "score": 155
+      "score": 243
     },
     {
       "type": "HackerNews",
-      "title": "Why Japan has such good railways",
-      "url": "https://worksinprogress.co/issue/why-japan-has-such-good-railways/",
-      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://worksinprogress.co/iss...",
-      "score": 122
+      "title": "Opus 4.7 to 4.6 Inflation is ~45%",
+      "url": "https://tokens.billchambers.me/leaderboard",
+      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://tokens.billchambers.me...",
+      "score": 241
     },
     {
       "type": "HackerNews",
-      "title": "Michael Rabin has died",
-      "url": "https://en.wikipedia.org/wiki/Michael_O._Rabin",
-      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://en.wikipedia.org/wiki/...",
-      "score": 244
+      "title": "Fuzix OS",
+      "url": "https://www.fuzix.org/",
+      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.fuzix.org/...",
+      "score": 34
     },
     {
       "type": "HackerNews",
-      "title": "Amiga Graphics Archive",
-      "url": "https://amiga.lychesis.net/",
-      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://amiga.lychesis.net/...",
-      "score": 170
+      "title": "Scientists discover \"cleaner ants\" that groom giant ants in Arizona desert",
+      "url": "https://www.sciencedaily.com/releases/2026/04/260414075641.htm",
+      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.sciencedaily.com/r...",
+      "score": 40
     },
     {
       "type": "HackerNews",
-      "title": "Category Theory Illustrated – Orders",
-      "url": "https://abuseofnotation.github.io/category-theory-illustrated/04_order/",
-      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://abuseofnotation.github...",
-      "score": 155
+      "title": "Show HN: MDV – a Markdown superset for docs, dashboards, and slides with data",
+      "url": "https://github.com/drasimwagan/mdv",
+      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://github.com/drasimwagan...",
+      "score": 32
     },
     {
       "type": "HackerNews",
-      "title": "Show HN: Solyto – a free, open-source all-in-one personal management app",
-      "url": "https://solyto.app",
-      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://solyto.app...",
-      "score": 6
-    },
-    {
-      "type": "HackerNews",
-      "title": "Claude Design",
-      "url": "https://www.anthropic.com/news/claude-design-anthropic-labs",
-      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.anthropic.com/news...",
-      "score": 1122
+      "title": "Sumida Aquarium Posts 2026 Penguin Relationship Chart, with Drama and Breakups",
+      "url": "https://www.sumida-aquarium.com/special/sokanzu/en/2026/",
+      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.sumida-aquarium.co...",
+      "score": 98
     }
   ]
 }
