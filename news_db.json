@@ -1,61 +1,61 @@
 {
-  "last_updated": "2026-04-18 02:28:41",
+  "last_updated": "2026-04-18 05:06:52",
   "news": [
     {
       "type": "HackerNews",
       "title": "Claude Design",
       "url": "https://www.anthropic.com/news/claude-design-anthropic-labs",
       "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.anthropic.com/news...",
-      "score": 857
+      "score": 929
     },
     {
       "type": "HackerNews",
-      "title": "A simplified model of Fil-C",
-      "url": "https://www.corsix.org/content/simplified-model-of-fil-c",
-      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.corsix.org/content...",
-      "score": 118
+      "title": "Towards trust in Emacs",
+      "url": "https://eshelyaron.com/posts/2026-04-15-towards-trust-in-emacs.html",
+      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://eshelyaron.com/posts/2...",
+      "score": 60
+    },
+    {
+      "type": "HackerNews",
+      "title": "Show HN: I made a calculator that works over disjoint sets of intervals",
+      "url": "https://victorpoughon.github.io/interval-calculator/",
+      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://victorpoughon.github.i...",
+      "score": 17
     },
     {
       "type": "HackerNews",
       "title": "All 12 moonwalkers had \"lunar hay fever\" from dust smelling like gunpowder (2018)",
       "url": "https://www.esa.int/Science_Exploration/Human_and_Robotic_Exploration/The_toxic_side_of_the_Moon",
-      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.esa.int/Science_Ex...",
-      "score": 239
+      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.esa.int/Science_Ex...",
+      "score": 285
     },
     {
       "type": "HackerNews",
-      "title": "Measuring Claude 4.7's tokenizer costs",
-      "url": "https://www.claudecodecamp.com/p/i-measured-claude-4-7-s-new-tokenizer-here-s-what-it-costs-you",
-      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.claudecodecamp.com...",
-      "score": 545
+      "title": "A simplified model of Fil-C",
+      "url": "https://www.corsix.org/content/simplified-model-of-fil-c",
+      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.corsix.org/content...",
+      "score": 138
+    },
+    {
+      "type": "HackerNews",
+      "title": "Are the costs of AI agents also rising exponentially? (2025)",
+      "url": "https://www.tobyord.com/writing/hourly-costs-for-ai-agents",
+      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.tobyord.com/writin...",
+      "score": 151
     },
     {
       "type": "HackerNews",
       "title": "Isaac Asimov: The Last Question (1956)",
       "url": "https://hex.ooo/library/last_question.html",
       "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://hex.ooo/library/last_q...",
-      "score": 629
+      "score": 678
     },
     {
       "type": "HackerNews",
-      "title": "Are the costs of AI agents also rising exponentially? (2025)",
-      "url": "https://www.tobyord.com/writing/hourly-costs-for-ai-agents",
-      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.tobyord.com/writin...",
-      "score": 111
-    },
-    {
-      "type": "HackerNews",
-      "title": "Show HN: Smol machines – subsecond coldstart, portable virtual machines",
-      "url": "https://github.com/smol-machines/smolvm",
-      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://github.com/smol-machin...",
-      "score": 233
-    },
-    {
-      "type": "HackerNews",
-      "title": "Show HN: PanicLock – Close your MacBook lid disable TouchID –> password unlock",
-      "url": "https://github.com/paniclock/paniclock/",
-      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://github.com/paniclock/p...",
-      "score": 138
+      "title": "Measuring Claude 4.7's tokenizer costs",
+      "url": "https://www.claudecodecamp.com/p/i-measured-claude-4-7-s-new-tokenizer-here-s-what-it-costs-you",
+      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.claudecodecamp.com...",
+      "score": 571
     }
   ]
 }
