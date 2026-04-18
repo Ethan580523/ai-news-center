@@ -1,61 +1,61 @@
 {
-  "last_updated": "2026-04-18 18:52:53",
+  "last_updated": "2026-04-18 21:36:02",
   "news": [
+    {
+      "type": "HackerNews",
+      "title": "Thoughts and feelings around Claude Design",
+      "url": "https://samhenri.gold/blog/20260418-claude-design/",
+      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://samhenri.gold/blog/202...",
+      "score": 107
+    },
     {
       "type": "HackerNews",
       "title": "The electromechanical angle computer inside the B-52 bomber's star tracker",
       "url": "https://www.righto.com/2026/04/B-52-star-tracker-angle-computer.html",
       "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.righto.com/2026/04...",
-      "score": 89
+      "score": 195
+    },
+    {
+      "type": "HackerNews",
+      "title": "College instructor turns to typewriters to curb AI-written work",
+      "url": "https://sentinelcolorado.com/uncategorized/a-college-instructor-turns-to-typewriters-to-curb-ai-written-work-and-teach-life-lessons/",
+      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://sentinelcolorado.com/u...",
+      "score": 48
     },
     {
       "type": "HackerNews",
       "title": "Migrating from DigitalOcean to Hetzner",
       "url": "https://isayeter.com/posts/digitalocean-to-hetzner-migration/",
-      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://isayeter.com/posts/dig...",
-      "score": 487
+      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://isayeter.com/posts/dig...",
+      "score": 602
     },
     {
       "type": "HackerNews",
       "title": "State of Kdenlive",
       "url": "https://kdenlive.org/news/2026/state-2026/",
       "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://kdenlive.org/news/2026...",
-      "score": 243
-    },
-    {
-      "type": "HackerNews",
-      "title": "Opus 4.7 to 4.6 Inflation is ~45%",
-      "url": "https://tokens.billchambers.me/leaderboard",
-      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://tokens.billchambers.me...",
-      "score": 241
-    },
-    {
-      "type": "HackerNews",
-      "title": "Fuzix OS",
-      "url": "https://www.fuzix.org/",
-      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.fuzix.org/...",
-      "score": 34
-    },
-    {
-      "type": "HackerNews",
-      "title": "Scientists discover \"cleaner ants\" that groom giant ants in Arizona desert",
-      "url": "https://www.sciencedaily.com/releases/2026/04/260414075641.htm",
-      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.sciencedaily.com/r...",
-      "score": 40
+      "score": 298
     },
     {
       "type": "HackerNews",
       "title": "Show HN: MDV – a Markdown superset for docs, dashboards, and slides with data",
       "url": "https://github.com/drasimwagan/mdv",
-      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://github.com/drasimwagan...",
-      "score": 32
+      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://github.com/drasimwagan...",
+      "score": 65
     },
     {
       "type": "HackerNews",
-      "title": "Sumida Aquarium Posts 2026 Penguin Relationship Chart, with Drama and Breakups",
-      "url": "https://www.sumida-aquarium.com/special/sokanzu/en/2026/",
-      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.sumida-aquarium.co...",
-      "score": 98
+      "title": "Floating Point Fun on Cortex-M Processors",
+      "url": "https://danielmangum.com/posts/floating-point-cortex-m/",
+      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://danielmangum.com/posts...",
+      "score": 12
+    },
+    {
+      "type": "HackerNews",
+      "title": "Michael Rabin has died",
+      "url": "https://en.wikipedia.org/wiki/Michael_O._Rabin",
+      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://en.wikipedia.org/wiki/...",
+      "score": 359
     }
   ]
 }
