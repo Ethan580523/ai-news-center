@@ -1,61 +1,61 @@
 {
-  "last_updated": "2026-04-18 09:50:09",
+  "last_updated": "2026-04-18 13:03:47",
   "news": [
     {
       "type": "HackerNews",
-      "title": "Category Theory Illustrated – Orders",
-      "url": "https://abuseofnotation.github.io/category-theory-illustrated/04_order/",
-      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://abuseofnotation.github...",
-      "score": 64
-    },
-    {
-      "type": "HackerNews",
-      "title": "Amiga Graphics",
-      "url": "https://amiga.lychesis.net/",
-      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://amiga.lychesis.net/...",
-      "score": 67
+      "title": "State of Kdenlive",
+      "url": "https://kdenlive.org/news/2026/state-2026/",
+      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://kdenlive.org/news/2026...",
+      "score": 34
     },
     {
       "type": "HackerNews",
       "title": "Michael Rabin Has Died",
       "url": "https://en.wikipedia.org/wiki/Michael_O._Rabin",
       "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://en.wikipedia.org/wiki/...",
-      "score": 39
+      "score": 167
+    },
+    {
+      "type": "HackerNews",
+      "title": "Category Theory Illustrated – Orders",
+      "url": "https://abuseofnotation.github.io/category-theory-illustrated/04_order/",
+      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://abuseofnotation.github...",
+      "score": 129
+    },
+    {
+      "type": "HackerNews",
+      "title": "Amiga Graphics",
+      "url": "https://amiga.lychesis.net/",
+      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://amiga.lychesis.net/...",
+      "score": 136
     },
     {
       "type": "HackerNews",
       "title": "Claude Design",
       "url": "https://www.anthropic.com/news/claude-design-anthropic-labs",
-      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.anthropic.com/news...",
-      "score": 1047
+      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.anthropic.com/news...",
+      "score": 1086
+    },
+    {
+      "type": "HackerNews",
+      "title": "It's OK to compare floating-points for equality",
+      "url": "https://lisyarus.github.io/blog/posts/its-ok-to-compare-floating-points-for-equality.html",
+      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://lisyarus.github.io/blo...",
+      "score": 49
     },
     {
       "type": "HackerNews",
       "title": "Show HN: I made a calculator that works over disjoint sets of intervals",
       "url": "https://victorpoughon.github.io/interval-calculator/",
-      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://victorpoughon.github.i...",
-      "score": 155
-    },
-    {
-      "type": "HackerNews",
-      "title": "America Lost the Mandate of Heaven",
-      "url": "https://geohot.github.io//blog/jekyll/update/2026/04/18/america-mandate-of-heaven.html",
-      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://geohot.github.io//blog...",
-      "score": 14
-    },
-    {
-      "type": "HackerNews",
-      "title": "The simple geometry behind any road",
-      "url": "https://sandboxspirit.com/blog/simple-geometry-of-roads/",
-      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://sandboxspirit.com/blog...",
-      "score": 31
+      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://victorpoughon.github.i...",
+      "score": 198
     },
     {
       "type": "HackerNews",
       "title": "Measuring Claude 4.7's tokenizer costs",
       "url": "https://www.claudecodecamp.com/p/i-measured-claude-4-7-s-new-tokenizer-here-s-what-it-costs-you",
-      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.claudecodecamp.com...",
-      "score": 611
+      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.claudecodecamp.com...",
+      "score": 628
     }
   ]
 }
