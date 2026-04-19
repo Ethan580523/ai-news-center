@@ -1,61 +1,61 @@
 {
-  "last_updated": "2026-04-19 18:52:53",
+  "last_updated": "2026-04-19 21:36:58",
   "news": [
     {
       "type": "HackerNews",
-      "title": "Vercel Says Internal Systems Hit in Breach",
-      "url": "https://decipher.sc/2026/04/19/vercel-says-internal-systems-hit-in-breach/",
-      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://decipher.sc/2026/04/19...",
-      "score": 283
+      "title": "The Bromine Chokepoint: How Strife Could Halt Production of World’s Memory Chips",
+      "url": "https://warontherocks.com/cogs-of-war/the-bromine-chokepoint-how-strife-in-the-middle-east-could-halt-production-of-the-worlds-memory-chips/",
+      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://warontherocks.com/cogs...",
+      "score": 94
     },
     {
       "type": "HackerNews",
-      "title": "Archive of Byte magazine, starting with issue #1 in 1975",
-      "url": "https://archive.org/details/byte-magazine-1975-09",
-      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://archive.org/details/by...",
-      "score": 439
+      "title": "Vercel April 2026 security incident",
+      "url": "https://www.bleepingcomputer.com/news/security/vercel-confirms-breach-as-hackers-claim-to-be-selling-stolen-data/",
+      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.bleepingcomputer.c...",
+      "score": 371
+    },
+    {
+      "type": "HackerNews",
+      "title": "A. J. Ayer – ‘What I Saw When I Was Dead’ (1988)",
+      "url": "https://www.philosopher.eu/others-writings/a-j-ayer-what-i-saw-when-i-was-dead/",
+      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.philosopher.eu/oth...",
+      "score": 35
+    },
+    {
+      "type": "HackerNews",
+      "title": "Swiss authorities want to reduce dependency on Microsoft",
+      "url": "https://www.swissinfo.ch/eng/swiss-ai/swiss-authorities-want-to-reduce-dependency-on-microsoft/91280532",
+      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.swissinfo.ch/eng/s...",
+      "score": 76
     },
     {
       "type": "HackerNews",
       "title": "Show HN: Faceoff – A terminal UI for following NHL games",
       "url": "https://www.vincentgregoire.com/faceoff/",
       "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.vincentgregoire.co...",
-      "score": 21
+      "score": 62
     },
     {
       "type": "HackerNews",
-      "title": "The Bromine Chokepoint: How Strife Could Halt Production of World’s Memory Chips",
-      "url": "https://warontherocks.com/cogs-of-war/the-bromine-chokepoint-how-strife-in-the-middle-east-could-halt-production-of-the-worlds-memory-chips/",
-      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://warontherocks.com/cogs...",
-      "score": 6
+      "title": "I learned Unity the wrong way",
+      "url": "https://darkounity.com/blog/how-i-learned-unity-the-wrong-way",
+      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://darkounity.com/blog/ho...",
+      "score": 53
     },
     {
       "type": "HackerNews",
-      "title": "Notion leaks email addresses of all editors of any public page",
-      "url": "https://twitter.com/weezerOSINT/status/2045849358462222720",
-      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://twitter.com/weezerOSIN...",
-      "score": 173
+      "title": "I wrote a CHIP-8 emulator in my own programming language",
+      "url": "https://github.com/navid-m/chip8emu",
+      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://github.com/navid-m/chi...",
+      "score": 27
     },
     {
       "type": "HackerNews",
-      "title": "Nanopass Framework: Clean Compiler Creation Language",
-      "url": "https://nanopass.org/",
-      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://nanopass.org/...",
-      "score": 88
-    },
-    {
-      "type": "HackerNews",
-      "title": "Game devs explain the tricks involved with letting you pause a game",
-      "url": "https://kotaku.com/video-game-devs-explain-how-pausing-works-and-sometimes-it-gets-weird-2000686339",
-      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://kotaku.com/video-game-...",
-      "score": 342
-    },
-    {
-      "type": "HackerNews",
-      "title": "The seven programming ur-languages (2022)",
-      "url": "https://madhadron.com/programming/seven_ur_languages.html",
-      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://madhadron.com/programm...",
-      "score": 199
+      "title": "Changes in the system prompt between Claude Opus 4.6 and 4.7",
+      "url": "https://simonwillison.net/2026/Apr/18/opus-system-prompt/",
+      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://simonwillison.net/2026...",
+      "score": 110
     }
   ]
 }
