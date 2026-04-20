@@ -1,61 +1,61 @@
 {
-  "last_updated": "2026-04-20 13:43:50",
+  "last_updated": "2026-04-20 16:09:55",
   "news": [
     {
       "type": "HackerNews",
-      "title": "GitHub's Fake Star Economy",
-      "url": "https://awesomeagents.ai/news/github-fake-stars-investigation/",
-      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://awesomeagents.ai/news/...",
-      "score": 338
+      "title": "Qwen3.6-Max-Preview: Smarter, Sharper, Still Evolving",
+      "url": "https://qwen.ai/blog?id=qwen3.6-max-preview",
+      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://qwen.ai/blog?id=qwen3....",
+      "score": 155
+    },
+    {
+      "type": "HackerNews",
+      "title": "Atlassian Enables Default Data Collection to Train AI",
+      "url": "https://letsdatascience.com/news/atlassian-enables-default-data-collection-to-train-ai-f71343d8",
+      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://letsdatascience.com/ne...",
+      "score": 204
+    },
+    {
+      "type": "HackerNews",
+      "title": "I prompted ChatGPT, Claude, Perplexity, and Gemini and watched my Nginx logs",
+      "url": "https://surfacedby.com/blog/nginx-logs-ai-traffic-vs-referral-traffic",
+      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://surfacedby.com/blog/ng...",
+      "score": 45
+    },
+    {
+      "type": "HackerNews",
+      "title": "All phones sold in the EU to have replaceable batteries from 2027",
+      "url": "https://www.theolivepress.es/spain-news/2026/04/20/eu-to-force-replaceable-batteries-in-phones-and-tablets-from-2027/",
+      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.theolivepress.es/s...",
+      "score": 425
     },
     {
       "type": "HackerNews",
       "title": "ggsql: A Grammar of Graphics for SQL",
       "url": "https://opensource.posit.co/blog/2026-04-20_ggsql_alpha_release/",
       "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://opensource.posit.co/bl...",
-      "score": 53
+      "score": 151
     },
     {
       "type": "HackerNews",
-      "title": "M 7.4 earthquake – 100 km ENE of Miyako, Japan",
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000sri7/",
-      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://earthquake.usgs.gov/ea...",
-      "score": 102
+      "title": "GitHub's Fake Star Economy",
+      "url": "https://awesomeagents.ai/news/github-fake-stars-investigation/",
+      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://awesomeagents.ai/news/...",
+      "score": 455
     },
     {
       "type": "HackerNews",
       "title": "10 years ago, someone wrote a test for servo that included an expiry in 2026",
       "url": "https://mastodon.social/@jdm_/116429380667467307",
       "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://mastodon.social/@jdm_/...",
-      "score": 13
+      "score": 84
     },
     {
       "type": "HackerNews",
-      "title": "NSA is using Anthropic's Mythos despite blacklist",
-      "url": "https://www.axios.com/2026/04/19/nsa-anthropic-mythos-pentagon",
-      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.axios.com/2026/04/...",
-      "score": 183
-    },
-    {
-      "type": "HackerNews",
-      "title": "Focused microwaves allow 3D printers to fuse circuits onto almost anything",
-      "url": "https://newatlas.com/electronics/meta-nfc-focused-microwaves-circuits/",
-      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://newatlas.com/electroni...",
-      "score": 73
-    },
-    {
-      "type": "HackerNews",
-      "title": "Up to 8M Bees Are Living in an Underground Network Beneath This Cemetery",
-      "url": "https://www.discovermagazine.com/up-to-8-million-bees-are-living-in-an-underground-network-beneath-this-cemetery-48977",
-      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.discovermagazine.c...",
-      "score": 108
-    },
-    {
-      "type": "HackerNews",
-      "title": "WebUSB Extension for Firefox",
-      "url": "https://github.com/ArcaneNibble/awawausb",
-      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://github.com/ArcaneNibbl...",
-      "score": 10
+      "title": "Sauna effect on heart rate",
+      "url": "https://tryterra.co/research/sauna-effect-on-heart-rate",
+      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://tryterra.co/research/s...",
+      "score": 210
     }
   ]
 }
