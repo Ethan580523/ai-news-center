@@ -1,61 +1,61 @@
 {
-  "last_updated": "2026-04-20 08:08:19",
+  "last_updated": "2026-04-20 10:48:38",
   "news": [
+    {
+      "type": "HackerNews",
+      "title": "GitHub's Fake Star Economy",
+      "url": "https://awesomeagents.ai/news/github-fake-stars-investigation/",
+      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://awesomeagents.ai/news/...",
+      "score": 119
+    },
+    {
+      "type": "HackerNews",
+      "title": "OpenClaw isn't fooling me. I remember MS-DOS",
+      "url": "https://www.flyingpenguin.com/build-an-openclaw-free-secure-always-on-local-ai-agent/",
+      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.flyingpenguin.com/...",
+      "score": 103
+    },
+    {
+      "type": "HackerNews",
+      "title": "Up to 8M Bees Are Living in an Underground Network Beneath This Cemetery",
+      "url": "https://www.discovermagazine.com/up-to-8-million-bees-are-living-in-an-underground-network-beneath-this-cemetery-48977",
+      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.discovermagazine.c...",
+      "score": 62
+    },
     {
       "type": "HackerNews",
       "title": "SDF Public Access Unix System",
       "url": "https://sdf.org/?ssh",
-      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://sdf.org/?ssh...",
-      "score": 44
-    },
-    {
-      "type": "HackerNews",
-      "title": "Stripe's Payment APIs: the first 10 years (2020)",
-      "url": "https://stripe.dev/blog/payment-api-design",
-      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://stripe.dev/blog/paymen...",
-      "score": 27
-    },
-    {
-      "type": "HackerNews",
-      "title": "Ben Lerner's Big Feelings",
-      "url": "https://www.vulture.com/article/ben-lerner-transcription-interview.html",
-      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.vulture.com/articl...",
-      "score": 18
+      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://sdf.org/?ssh...",
+      "score": 77
     },
     {
       "type": "HackerNews",
       "title": "Vercel April 2026 security incident",
       "url": "https://www.bleepingcomputer.com/news/security/vercel-confirms-breach-as-hackers-claim-to-be-selling-stolen-data/",
-      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.bleepingcomputer.c...",
-      "score": 719
-    },
-    {
-      "type": "HackerNews",
-      "title": "Zero-copy protobuf and ConnectRPC for Rust",
-      "url": "https://medium.com/@iainmcgin/zero-copy-protobuf-and-connectrpc-for-rust-69bda8ac0f02",
-      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://medium.com/@iainmcgin/...",
-      "score": 37
-    },
-    {
-      "type": "HackerNews",
-      "title": "A Brief History of Fish Sauce",
-      "url": "https://www.legalnomads.com/fish-sauce/",
-      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.legalnomads.com/fi...",
-      "score": 170
+      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.bleepingcomputer.c...",
+      "score": 757
     },
     {
       "type": "HackerNews",
       "title": "Claude Token Counter, now with model comparisons",
       "url": "https://simonwillison.net/2026/Apr/20/claude-token-counts/",
-      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://simonwillison.net/2026...",
-      "score": 90
+      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://simonwillison.net/2026...",
+      "score": 118
     },
     {
       "type": "HackerNews",
-      "title": "Monumental ship burial beneath ancient Norwegian mound predates the Viking Age",
-      "url": "https://phys.org/news/2026-04-monumental-ship-burial-beneath-ancient.html",
-      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://phys.org/news/2026-04-...",
-      "score": 45
+      "title": "Stripe's Payment APIs: the first 10 years (2020)",
+      "url": "https://stripe.dev/blog/payment-api-design",
+      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://stripe.dev/blog/paymen...",
+      "score": 53
+    },
+    {
+      "type": "HackerNews",
+      "title": "Ben Lerner's Big Feelings",
+      "url": "https://www.vulture.com/article/ben-lerner-transcription-interview.html",
+      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.vulture.com/articl...",
+      "score": 30
     }
   ]
 }
