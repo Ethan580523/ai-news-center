@@ -1,61 +1,61 @@
 {
-  "last_updated": "2026-04-20 19:09:54",
+  "last_updated": "2026-04-20 21:48:31",
   "news": [
+    {
+      "type": "HackerNews",
+      "title": "Tim Cook to become Apple Executive Chairman. John Ternus to become CEO",
+      "url": "https://www.apple.com/newsroom/2026/04/tim-cook-to-become-apple-executive-chairman-john-ternus-to-become-apple-ceo/",
+      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.apple.com/newsroom...",
+      "score": 559
+    },
     {
       "type": "HackerNews",
       "title": "Qwen3.6-Max-Preview: Smarter, Sharper, Still Evolving",
       "url": "https://qwen.ai/blog?id=qwen3.6-max-preview",
       "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://qwen.ai/blog?id=qwen3....",
-      "score": 349
+      "score": 457
     },
     {
       "type": "HackerNews",
-      "title": "At long last, InfoWars is ours",
-      "url": "https://theonion.com/at-long-last-infowars-is-ours/",
-      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://theonion.com/at-long-l...",
-      "score": 357
+      "title": "Kimi vendor verifier – verify accuracy of inference providers",
+      "url": "https://www.kimi.com/blog/kimi-vendor-verifier",
+      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.kimi.com/blog/kimi...",
+      "score": 84
+    },
+    {
+      "type": "HackerNews",
+      "title": "We got 207 tok/s with Qwen3.5-27B on an RTX 3090",
+      "url": "https://github.com/Luce-Org/lucebox-hub",
+      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://github.com/Luce-Org/lu...",
+      "score": 107
+    },
+    {
+      "type": "HackerNews",
+      "title": "GitHub's fake star economy",
+      "url": "https://awesomeagents.ai/news/github-fake-stars-investigation/",
+      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://awesomeagents.ai/news/...",
+      "score": 669
     },
     {
       "type": "HackerNews",
       "title": "ggsql: A Grammar of Graphics for SQL",
       "url": "https://opensource.posit.co/blog/2026-04-20_ggsql_alpha_release/",
-      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://opensource.posit.co/bl...",
-      "score": 258
+      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://opensource.posit.co/bl...",
+      "score": 316
     },
     {
       "type": "HackerNews",
-      "title": "GitHub's Fake Star Economy",
-      "url": "https://awesomeagents.ai/news/github-fake-stars-investigation/",
-      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://awesomeagents.ai/news/...",
-      "score": 577
+      "title": "AI Resistance: some recent anti-AI stuff that’s worth discussing",
+      "url": "https://stephvee.ca/blog/artificial%20intelligence/ai-resistance-is-growing/",
+      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://stephvee.ca/blog/artif...",
+      "score": 222
     },
     {
       "type": "HackerNews",
-      "title": "The Theory of Interstellar Trade [pdf] (1978)",
-      "url": "https://www.princeton.edu/~pkrugman/interstellar.pdf",
-      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.princeton.edu/~pkr...",
-      "score": 56
-    },
-    {
-      "type": "HackerNews",
-      "title": "Anduril, Palantir and SpaceX are changing how America wages war",
-      "url": "https://www.economist.com/business/2026/04/20/anduril-palantir-and-spacex-are-changing-how-america-wages-war",
-      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.economist.com/busi...",
-      "score": 7
-    },
-    {
-      "type": "HackerNews",
-      "title": "Kimi K2.6: Advancing Open-Source Coding",
-      "url": "https://www.kimi.com/blog/kimi-k2-6",
-      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.kimi.com/blog/kimi...",
-      "score": 358
-    },
-    {
-      "type": "HackerNews",
-      "title": "We accepted surveillance as default",
-      "url": "https://vivianvoss.net/blog/why-we-accepted-surveillance",
-      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://vivianvoss.net/blog/wh...",
-      "score": 147
+      "title": "Deezer says 44% of songs uploaded to its platform daily are AI-generated",
+      "url": "https://techcrunch.com/2026/04/20/deezer-says-44-of-songs-uploaded-to-its-platform-daily-are-ai-generated/",
+      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://techcrunch.com/2026/04...",
+      "score": 239
     }
   ]
 }
