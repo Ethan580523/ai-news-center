@@ -1,61 +1,61 @@
 {
-  "last_updated": "2026-04-20 16:09:55",
+  "last_updated": "2026-04-20 19:09:54",
   "news": [
     {
       "type": "HackerNews",
       "title": "Qwen3.6-Max-Preview: Smarter, Sharper, Still Evolving",
       "url": "https://qwen.ai/blog?id=qwen3.6-max-preview",
-      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://qwen.ai/blog?id=qwen3....",
-      "score": 155
+      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://qwen.ai/blog?id=qwen3....",
+      "score": 349
     },
     {
       "type": "HackerNews",
-      "title": "Atlassian Enables Default Data Collection to Train AI",
-      "url": "https://letsdatascience.com/news/atlassian-enables-default-data-collection-to-train-ai-f71343d8",
-      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://letsdatascience.com/ne...",
-      "score": 204
-    },
-    {
-      "type": "HackerNews",
-      "title": "I prompted ChatGPT, Claude, Perplexity, and Gemini and watched my Nginx logs",
-      "url": "https://surfacedby.com/blog/nginx-logs-ai-traffic-vs-referral-traffic",
-      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://surfacedby.com/blog/ng...",
-      "score": 45
-    },
-    {
-      "type": "HackerNews",
-      "title": "All phones sold in the EU to have replaceable batteries from 2027",
-      "url": "https://www.theolivepress.es/spain-news/2026/04/20/eu-to-force-replaceable-batteries-in-phones-and-tablets-from-2027/",
-      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.theolivepress.es/s...",
-      "score": 425
+      "title": "At long last, InfoWars is ours",
+      "url": "https://theonion.com/at-long-last-infowars-is-ours/",
+      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://theonion.com/at-long-l...",
+      "score": 357
     },
     {
       "type": "HackerNews",
       "title": "ggsql: A Grammar of Graphics for SQL",
       "url": "https://opensource.posit.co/blog/2026-04-20_ggsql_alpha_release/",
       "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://opensource.posit.co/bl...",
-      "score": 151
+      "score": 258
     },
     {
       "type": "HackerNews",
       "title": "GitHub's Fake Star Economy",
       "url": "https://awesomeagents.ai/news/github-fake-stars-investigation/",
-      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://awesomeagents.ai/news/...",
-      "score": 455
+      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://awesomeagents.ai/news/...",
+      "score": 577
     },
     {
       "type": "HackerNews",
-      "title": "10 years ago, someone wrote a test for servo that included an expiry in 2026",
-      "url": "https://mastodon.social/@jdm_/116429380667467307",
-      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://mastodon.social/@jdm_/...",
-      "score": 84
+      "title": "The Theory of Interstellar Trade [pdf] (1978)",
+      "url": "https://www.princeton.edu/~pkrugman/interstellar.pdf",
+      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.princeton.edu/~pkr...",
+      "score": 56
     },
     {
       "type": "HackerNews",
-      "title": "Sauna effect on heart rate",
-      "url": "https://tryterra.co/research/sauna-effect-on-heart-rate",
-      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://tryterra.co/research/s...",
-      "score": 210
+      "title": "Anduril, Palantir and SpaceX are changing how America wages war",
+      "url": "https://www.economist.com/business/2026/04/20/anduril-palantir-and-spacex-are-changing-how-america-wages-war",
+      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.economist.com/busi...",
+      "score": 7
+    },
+    {
+      "type": "HackerNews",
+      "title": "Kimi K2.6: Advancing Open-Source Coding",
+      "url": "https://www.kimi.com/blog/kimi-k2-6",
+      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.kimi.com/blog/kimi...",
+      "score": 358
+    },
+    {
+      "type": "HackerNews",
+      "title": "We accepted surveillance as default",
+      "url": "https://vivianvoss.net/blog/why-we-accepted-surveillance",
+      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://vivianvoss.net/blog/wh...",
+      "score": 147
     }
   ]
 }
