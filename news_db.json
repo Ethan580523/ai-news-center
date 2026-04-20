@@ -1,61 +1,61 @@
 {
-  "last_updated": "2026-04-20 10:48:38",
+  "last_updated": "2026-04-20 13:43:50",
   "news": [
     {
       "type": "HackerNews",
       "title": "GitHub's Fake Star Economy",
       "url": "https://awesomeagents.ai/news/github-fake-stars-investigation/",
-      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://awesomeagents.ai/news/...",
-      "score": 119
+      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://awesomeagents.ai/news/...",
+      "score": 338
     },
     {
       "type": "HackerNews",
-      "title": "OpenClaw isn't fooling me. I remember MS-DOS",
-      "url": "https://www.flyingpenguin.com/build-an-openclaw-free-secure-always-on-local-ai-agent/",
-      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.flyingpenguin.com/...",
-      "score": 103
+      "title": "ggsql: A Grammar of Graphics for SQL",
+      "url": "https://opensource.posit.co/blog/2026-04-20_ggsql_alpha_release/",
+      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://opensource.posit.co/bl...",
+      "score": 53
+    },
+    {
+      "type": "HackerNews",
+      "title": "M 7.4 earthquake – 100 km ENE of Miyako, Japan",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000sri7/",
+      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://earthquake.usgs.gov/ea...",
+      "score": 102
+    },
+    {
+      "type": "HackerNews",
+      "title": "10 years ago, someone wrote a test for servo that included an expiry in 2026",
+      "url": "https://mastodon.social/@jdm_/116429380667467307",
+      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://mastodon.social/@jdm_/...",
+      "score": 13
+    },
+    {
+      "type": "HackerNews",
+      "title": "NSA is using Anthropic's Mythos despite blacklist",
+      "url": "https://www.axios.com/2026/04/19/nsa-anthropic-mythos-pentagon",
+      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.axios.com/2026/04/...",
+      "score": 183
+    },
+    {
+      "type": "HackerNews",
+      "title": "Focused microwaves allow 3D printers to fuse circuits onto almost anything",
+      "url": "https://newatlas.com/electronics/meta-nfc-focused-microwaves-circuits/",
+      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://newatlas.com/electroni...",
+      "score": 73
     },
     {
       "type": "HackerNews",
       "title": "Up to 8M Bees Are Living in an Underground Network Beneath This Cemetery",
       "url": "https://www.discovermagazine.com/up-to-8-million-bees-are-living-in-an-underground-network-beneath-this-cemetery-48977",
-      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.discovermagazine.c...",
-      "score": 62
+      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.discovermagazine.c...",
+      "score": 108
     },
     {
       "type": "HackerNews",
-      "title": "SDF Public Access Unix System",
-      "url": "https://sdf.org/?ssh",
-      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://sdf.org/?ssh...",
-      "score": 77
-    },
-    {
-      "type": "HackerNews",
-      "title": "Vercel April 2026 security incident",
-      "url": "https://www.bleepingcomputer.com/news/security/vercel-confirms-breach-as-hackers-claim-to-be-selling-stolen-data/",
-      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.bleepingcomputer.c...",
-      "score": 757
-    },
-    {
-      "type": "HackerNews",
-      "title": "Claude Token Counter, now with model comparisons",
-      "url": "https://simonwillison.net/2026/Apr/20/claude-token-counts/",
-      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://simonwillison.net/2026...",
-      "score": 118
-    },
-    {
-      "type": "HackerNews",
-      "title": "Stripe's Payment APIs: the first 10 years (2020)",
-      "url": "https://stripe.dev/blog/payment-api-design",
-      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://stripe.dev/blog/paymen...",
-      "score": 53
-    },
-    {
-      "type": "HackerNews",
-      "title": "Ben Lerner's Big Feelings",
-      "url": "https://www.vulture.com/article/ben-lerner-transcription-interview.html",
-      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.vulture.com/articl...",
-      "score": 30
+      "title": "WebUSB Extension for Firefox",
+      "url": "https://github.com/ArcaneNibble/awawausb",
+      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://github.com/ArcaneNibbl...",
+      "score": 10
     }
   ]
 }
