@@ -1,61 +1,61 @@
 {
-  "last_updated": "2026-04-20 21:48:31",
+  "last_updated": "2026-04-21 02:38:27",
   "news": [
     {
       "type": "HackerNews",
-      "title": "Tim Cook to become Apple Executive Chairman. John Ternus to become CEO",
+      "title": "John Ternus to become Apple CEO",
       "url": "https://www.apple.com/newsroom/2026/04/tim-cook-to-become-apple-executive-chairman-john-ternus-to-become-apple-ceo/",
       "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.apple.com/newsroom...",
-      "score": 559
+      "score": 1267
+    },
+    {
+      "type": "HackerNews",
+      "title": "How to Make a Fast Dynamic Language Interpreter",
+      "url": "https://zef-lang.dev/implementation",
+      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://zef-lang.dev/implement...",
+      "score": 46
+    },
+    {
+      "type": "HackerNews",
+      "title": "Jujutsu megamerges for fun and profit",
+      "url": "https://isaaccorbrey.com/notes/jujutsu-megamerges-for-fun-and-profit",
+      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://isaaccorbrey.com/notes...",
+      "score": 142
     },
     {
       "type": "HackerNews",
       "title": "Qwen3.6-Max-Preview: Smarter, Sharper, Still Evolving",
       "url": "https://qwen.ai/blog?id=qwen3.6-max-preview",
-      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://qwen.ai/blog?id=qwen3....",
-      "score": 457
+      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://qwen.ai/blog?id=qwen3....",
+      "score": 552
     },
     {
       "type": "HackerNews",
       "title": "Kimi vendor verifier – verify accuracy of inference providers",
       "url": "https://www.kimi.com/blog/kimi-vendor-verifier",
-      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.kimi.com/blog/kimi...",
-      "score": 84
+      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.kimi.com/blog/kimi...",
+      "score": 176
     },
     {
       "type": "HackerNews",
-      "title": "We got 207 tok/s with Qwen3.5-27B on an RTX 3090",
-      "url": "https://github.com/Luce-Org/lucebox-hub",
-      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://github.com/Luce-Org/lu...",
-      "score": 107
+      "title": "Ternary Bonsai: Top Intelligence at 1.58 Bits",
+      "url": "https://prismml.com/news/ternary-bonsai",
+      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://prismml.com/news/terna...",
+      "score": 60
     },
     {
       "type": "HackerNews",
-      "title": "GitHub's fake star economy",
-      "url": "https://awesomeagents.ai/news/github-fake-stars-investigation/",
-      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://awesomeagents.ai/news/...",
-      "score": 669
+      "title": "Soul Player C64 – A real transformer running on a 1 MHz Commodore 64",
+      "url": "https://github.com/gizmo64k/soulplayer-c64",
+      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://github.com/gizmo64k/so...",
+      "score": 82
     },
     {
       "type": "HackerNews",
-      "title": "ggsql: A Grammar of Graphics for SQL",
-      "url": "https://opensource.posit.co/blog/2026-04-20_ggsql_alpha_release/",
-      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://opensource.posit.co/bl...",
-      "score": 316
-    },
-    {
-      "type": "HackerNews",
-      "title": "AI Resistance: some recent anti-AI stuff that’s worth discussing",
-      "url": "https://stephvee.ca/blog/artificial%20intelligence/ai-resistance-is-growing/",
-      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://stephvee.ca/blog/artif...",
-      "score": 222
-    },
-    {
-      "type": "HackerNews",
-      "title": "Deezer says 44% of songs uploaded to its platform daily are AI-generated",
-      "url": "https://techcrunch.com/2026/04/20/deezer-says-44-of-songs-uploaded-to-its-platform-daily-are-ai-generated/",
-      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://techcrunch.com/2026/04...",
-      "score": 239
+      "title": "KV Cache Compression 900000x Beyond TurboQuant and Per-Vector Shannon Limit",
+      "url": "https://arxiv.org/abs/2604.15356",
+      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://arxiv.org/abs/2604.153...",
+      "score": 5
     }
   ]
 }
