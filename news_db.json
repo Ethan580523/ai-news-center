@@ -1,61 +1,61 @@
 {
-  "last_updated": "2026-04-21 02:38:27",
+  "last_updated": "2026-04-21 05:27:55",
   "news": [
     {
       "type": "HackerNews",
       "title": "John Ternus to become Apple CEO",
       "url": "https://www.apple.com/newsroom/2026/04/tim-cook-to-become-apple-executive-chairman-john-ternus-to-become-apple-ceo/",
-      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.apple.com/newsroom...",
-      "score": 1267
+      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.apple.com/newsroom...",
+      "score": 1482
     },
     {
       "type": "HackerNews",
-      "title": "How to Make a Fast Dynamic Language Interpreter",
+      "title": "A Roblox cheat and one AI tool brought down Vercel's platform",
+      "url": "https://webmatrices.com/post/how-a-roblox-cheat-and-one-ai-tool-brought-down-vercel-s-entire-platform",
+      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://webmatrices.com/post/h...",
+      "score": 49
+    },
+    {
+      "type": "HackerNews",
+      "title": "How to make a fast dynamic language interpreter",
       "url": "https://zef-lang.dev/implementation",
       "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://zef-lang.dev/implement...",
-      "score": 46
+      "score": 106
+    },
+    {
+      "type": "HackerNews",
+      "title": "Anthropic says OpenClaw-style Claude CLI usage is allowed again",
+      "url": "https://docs.openclaw.ai/providers/anthropic",
+      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://docs.openclaw.ai/provi...",
+      "score": 12
     },
     {
       "type": "HackerNews",
       "title": "Jujutsu megamerges for fun and profit",
       "url": "https://isaaccorbrey.com/notes/jujutsu-megamerges-for-fun-and-profit",
-      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://isaaccorbrey.com/notes...",
-      "score": 142
+      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://isaaccorbrey.com/notes...",
+      "score": 191
     },
     {
       "type": "HackerNews",
       "title": "Qwen3.6-Max-Preview: Smarter, Sharper, Still Evolving",
       "url": "https://qwen.ai/blog?id=qwen3.6-max-preview",
       "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://qwen.ai/blog?id=qwen3....",
-      "score": 552
+      "score": 581
     },
     {
       "type": "HackerNews",
-      "title": "Kimi vendor verifier – verify accuracy of inference providers",
-      "url": "https://www.kimi.com/blog/kimi-vendor-verifier",
-      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.kimi.com/blog/kimi...",
-      "score": 176
+      "title": "Show HN: Mediator.ai – Using Nash bargaining and LLMs to systematize fairness",
+      "url": "https://mediator.ai/",
+      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://mediator.ai/...",
+      "score": 14
     },
     {
       "type": "HackerNews",
-      "title": "Ternary Bonsai: Top Intelligence at 1.58 Bits",
-      "url": "https://prismml.com/news/ternary-bonsai",
-      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://prismml.com/news/terna...",
-      "score": 60
-    },
-    {
-      "type": "HackerNews",
-      "title": "Soul Player C64 – A real transformer running on a 1 MHz Commodore 64",
-      "url": "https://github.com/gizmo64k/soulplayer-c64",
-      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://github.com/gizmo64k/so...",
-      "score": 82
-    },
-    {
-      "type": "HackerNews",
-      "title": "KV Cache Compression 900000x Beyond TurboQuant and Per-Vector Shannon Limit",
-      "url": "https://arxiv.org/abs/2604.15356",
-      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://arxiv.org/abs/2604.153...",
-      "score": 5
+      "title": "How a subsea cable is repaired",
+      "url": "https://www.onesteppower.com/post/subsea-cable-repair",
+      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.onesteppower.com/p...",
+      "score": 26
     }
   ]
 }
