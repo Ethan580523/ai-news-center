@@ -1,61 +1,61 @@
 {
-  "last_updated": "2026-04-21 16:10:30",
+  "last_updated": "2026-04-21 19:13:05",
   "news": [
+    {
+      "type": "HackerNews",
+      "title": "The Vercel breach: OAuth attack exposes risk in platform environment variables",
+      "url": "https://www.trendmicro.com/en_us/research/26/d/vercel-breach-oauth-supply-chain.html",
+      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.trendmicro.com/en_...",
+      "score": 104
+    },
+    {
+      "type": "HackerNews",
+      "title": "Britannica11.org – a structured edition of the 1911 Encyclopædia Britannica",
+      "url": "https://britannica11.org/",
+      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://britannica11.org/...",
+      "score": 69
+    },
+    {
+      "type": "HackerNews",
+      "title": "Framework Laptop 13 Pro",
+      "url": "https://frame.work/laptop13pro",
+      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://frame.work/laptop13pro...",
+      "score": 226
+    },
+    {
+      "type": "HackerNews",
+      "title": "Cal.diy: open-source community edition of cal.com",
+      "url": "https://github.com/calcom/cal.diy",
+      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://github.com/calcom/cal....",
+      "score": 21
+    },
     {
       "type": "HackerNews",
       "title": "Laws of Software Engineering",
       "url": "https://lawsofsoftwareengineering.com",
       "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://lawsofsoftwareengineer...",
-      "score": 431
+      "score": 665
     },
     {
       "type": "HackerNews",
-      "title": "Original GrapheneOS responses to WIRED fact checker",
-      "url": "https://discuss.grapheneos.org/d/34369-original-grapheneos-responses-to-wired-fact-checker",
-      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://discuss.grapheneos.org...",
-      "score": 41
+      "title": "A Periodic Map of Cheese",
+      "url": "https://cheesemap.netlify.app/",
+      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://cheesemap.netlify.app/...",
+      "score": 75
     },
     {
       "type": "HackerNews",
-      "title": "As Oceans Warm, Great White Sharks Are Overheating",
-      "url": "https://e360.yale.edu/digest/great-white-sharks-climate",
-      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://e360.yale.edu/digest/g...",
-      "score": 78
+      "title": "Show HN: GoModel – an open-source AI gateway in Go",
+      "url": "https://github.com/ENTERPILOT/GOModel/",
+      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://github.com/ENTERPILOT/...",
+      "score": 113
     },
     {
       "type": "HackerNews",
       "title": "Fusion Power Plant Simulator",
       "url": "https://www.fusionenergybase.com/fusion-power-plant-simulator",
       "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.fusionenergybase.c...",
-      "score": 41
-    },
-    {
-      "type": "HackerNews",
-      "title": "Tim Cook's Impeccable Timing",
-      "url": "https://stratechery.com/2026/tim-cooks-impeccable-timing/",
-      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://stratechery.com/2026/t...",
-      "score": 143
-    },
-    {
-      "type": "HackerNews",
-      "title": "John Ternus to become Apple CEO",
-      "url": "https://www.apple.com/newsroom/2026/04/tim-cook-to-become-apple-executive-chairman-john-ternus-to-become-apple-ceo/",
-      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.apple.com/newsroom...",
-      "score": 2089
-    },
-    {
-      "type": "HackerNews",
-      "title": "Show HN: GoModel – an open-source AI gateway in Go; 44x lighter than LiteLLM",
-      "url": "https://github.com/ENTERPILOT/GOModel/",
-      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://github.com/ENTERPILOT/...",
-      "score": 42
-    },
-    {
-      "type": "HackerNews",
-      "title": "Show HN: VidStudio, a browser based video editor that doesn't upload your files",
-      "url": "https://vidstudio.app/video-editor",
-      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://vidstudio.app/video-ed...",
-      "score": 155
+      "score": 101
     }
   ]
 }
