@@ -1,61 +1,61 @@
 {
-  "last_updated": "2026-04-22 07:48:44",
+  "last_updated": "2026-04-22 10:19:01",
   "news": [
+    {
+      "type": "HackerNews",
+      "title": "Windows 9x Subsystem for Linux",
+      "url": "https://social.hails.org/@hailey/116446826733136456",
+      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://social.hails.org/@hail...",
+      "score": 48
+    },
     {
       "type": "HackerNews",
       "title": "Making RAM at Home [video]",
       "url": "https://www.youtube.com/watch?v=h6GWikWlAQA",
-      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.youtube.com/watch?...",
-      "score": 245
-    },
-    {
-      "type": "HackerNews",
-      "title": "XOR'ing a register with itself is the idiom for zeroing it out. Why not sub?",
-      "url": "https://devblogs.microsoft.com/oldnewthing/20260421-00/?p=112247",
-      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://devblogs.microsoft.com...",
-      "score": 26
+      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.youtube.com/watch?...",
+      "score": 352
     },
     {
       "type": "HackerNews",
       "title": "ChatGPT Images 2.0",
       "url": "https://openai.com/index/introducing-chatgpt-images-2-0/",
-      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://openai.com/index/intro...",
-      "score": 744
+      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://openai.com/index/intro...",
+      "score": 827
     },
     {
       "type": "HackerNews",
-      "title": "Acetaminophen vs. ibuprofen",
-      "url": "https://asteriskmag.com/issues/14/the-mystery-in-the-medicine-cabinet",
-      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://asteriskmag.com/issues...",
-      "score": 299
+      "title": "All your agents are going async",
+      "url": "https://zknill.io/posts/all-your-agents-are-going-async/",
+      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://zknill.io/posts/all-yo...",
+      "score": 18
     },
     {
       "type": "HackerNews",
-      "title": "Diverse organic molecules on Mars revealed by the first SAM TMAH experiment",
-      "url": "https://www.courthousenews.com/preserved-for-billions-of-years-organic-compounds-found-on-mars/",
-      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.courthousenews.com...",
-      "score": 62
-    },
-    {
-      "type": "HackerNews",
-      "title": "Laws of Software Engineering",
-      "url": "https://lawsofsoftwareengineering.com",
-      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://lawsofsoftwareengineer...",
-      "score": 953
+      "title": "How the Heck Does GPS Work?",
+      "url": "https://perthirtysix.com/how-the-heck-does-gps-work",
+      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://perthirtysix.com/how-t...",
+      "score": 4
     },
     {
       "type": "HackerNews",
       "title": "Garbage Collection Without Unsafe Code",
       "url": "https://fitzgen.com/2024/02/06/safe-gc.html",
       "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://fitzgen.com/2024/02/06...",
-      "score": 21
+      "score": 53
     },
     {
       "type": "HackerNews",
-      "title": "SpaceX says it has agreement to acquire Cursor for $60B",
-      "url": "https://twitter.com/spacex/status/2046713419978453374",
-      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://twitter.com/spacex/sta...",
-      "score": 540
+      "title": "Contact Lens Uses Microfluidics to Monitor and Treat Glaucoma",
+      "url": "https://spectrum.ieee.org/smart-contact-lens-glaucoma-microfluidics",
+      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://spectrum.ieee.org/smar...",
+      "score": 34
+    },
+    {
+      "type": "HackerNews",
+      "title": "Laws of Software Engineering",
+      "url": "https://lawsofsoftwareengineering.com",
+      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://lawsofsoftwareengineer...",
+      "score": 1019
     }
   ]
 }
