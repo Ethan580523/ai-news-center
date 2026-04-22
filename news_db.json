@@ -1,61 +1,61 @@
 {
-  "last_updated": "2026-04-22 10:19:01",
+  "last_updated": "2026-04-22 13:28:48",
   "news": [
     {
       "type": "HackerNews",
       "title": "Windows 9x Subsystem for Linux",
       "url": "https://social.hails.org/@hailey/116446826733136456",
       "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://social.hails.org/@hail...",
+      "score": 311
+    },
+    {
+      "type": "HackerNews",
+      "title": "3.4M Solar Panels",
+      "url": "https://tech.marksblogg.com/american-solar-farms-v2.html",
+      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://tech.marksblogg.com/am...",
+      "score": 72
+    },
+    {
+      "type": "HackerNews",
+      "title": "GitHub CLI now collects pseudoanonymous telemetry",
+      "url": "https://cli.github.com/telemetry",
+      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://cli.github.com/telemet...",
+      "score": 87
+    },
+    {
+      "type": "HackerNews",
+      "title": "Our eighth generation TPUs: two chips for the agentic era",
+      "url": "https://blog.google/innovation-and-ai/infrastructure-and-cloud/google-cloud/eighth-generation-tpu-agentic-era/",
+      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://blog.google/innovation...",
       "score": 48
+    },
+    {
+      "type": "HackerNews",
+      "title": "The eighth-generation TPU: An architecture deep dive",
+      "url": "https://cloud.google.com/blog/products/compute/tpu-8t-and-tpu-8i-technical-deep-dive",
+      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://cloud.google.com/blog/...",
+      "score": 8
+    },
+    {
+      "type": "HackerNews",
+      "title": "Another Day Has Come",
+      "url": "https://daringfireball.net/2026/04/another_day_has_come",
+      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://daringfireball.net/202...",
+      "score": 9
+    },
+    {
+      "type": "HackerNews",
+      "title": "How the heck does GPS work?",
+      "url": "https://perthirtysix.com/how-the-heck-does-gps-work",
+      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://perthirtysix.com/how-t...",
+      "score": 88
     },
     {
       "type": "HackerNews",
       "title": "Making RAM at Home [video]",
       "url": "https://www.youtube.com/watch?v=h6GWikWlAQA",
-      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.youtube.com/watch?...",
-      "score": 352
-    },
-    {
-      "type": "HackerNews",
-      "title": "ChatGPT Images 2.0",
-      "url": "https://openai.com/index/introducing-chatgpt-images-2-0/",
-      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://openai.com/index/intro...",
-      "score": 827
-    },
-    {
-      "type": "HackerNews",
-      "title": "All your agents are going async",
-      "url": "https://zknill.io/posts/all-your-agents-are-going-async/",
-      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://zknill.io/posts/all-yo...",
-      "score": 18
-    },
-    {
-      "type": "HackerNews",
-      "title": "How the Heck Does GPS Work?",
-      "url": "https://perthirtysix.com/how-the-heck-does-gps-work",
-      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://perthirtysix.com/how-t...",
-      "score": 4
-    },
-    {
-      "type": "HackerNews",
-      "title": "Garbage Collection Without Unsafe Code",
-      "url": "https://fitzgen.com/2024/02/06/safe-gc.html",
-      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://fitzgen.com/2024/02/06...",
-      "score": 53
-    },
-    {
-      "type": "HackerNews",
-      "title": "Contact Lens Uses Microfluidics to Monitor and Treat Glaucoma",
-      "url": "https://spectrum.ieee.org/smart-contact-lens-glaucoma-microfluidics",
-      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://spectrum.ieee.org/smar...",
-      "score": 34
-    },
-    {
-      "type": "HackerNews",
-      "title": "Laws of Software Engineering",
-      "url": "https://lawsofsoftwareengineering.com",
-      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://lawsofsoftwareengineer...",
-      "score": 1019
+      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.youtube.com/watch?...",
+      "score": 452
     }
   ]
 }
