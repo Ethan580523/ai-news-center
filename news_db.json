@@ -1,61 +1,61 @@
 {
-  "last_updated": "2026-04-22 13:28:48",
+  "last_updated": "2026-04-22 16:08:48",
   "news": [
     {
       "type": "HackerNews",
       "title": "Windows 9x Subsystem for Linux",
       "url": "https://social.hails.org/@hailey/116446826733136456",
       "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://social.hails.org/@hail...",
-      "score": 311
+      "score": 568
+    },
+    {
+      "type": "HackerNews",
+      "title": "Our eighth generation TPUs: two chips for the agentic era",
+      "url": "https://blog.google/innovation-and-ai/infrastructure-and-cloud/google-cloud/eighth-generation-tpu-agentic-era/",
+      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://blog.google/innovation...",
+      "score": 203
     },
     {
       "type": "HackerNews",
       "title": "3.4M Solar Panels",
       "url": "https://tech.marksblogg.com/american-solar-farms-v2.html",
-      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://tech.marksblogg.com/am...",
-      "score": 72
+      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://tech.marksblogg.com/am...",
+      "score": 184
+    },
+    {
+      "type": "HackerNews",
+      "title": "Qwen3.6-27B: Flagship-Level Coding in a 27B Dense Model",
+      "url": "https://qwen.ai/blog?id=qwen3.6-27b",
+      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://qwen.ai/blog?id=qwen3....",
+      "score": 125
+    },
+    {
+      "type": "HackerNews",
+      "title": "Treetops glowing during storms captured on film for first time",
+      "url": "https://www.psu.edu/news/earth-and-mineral-sciences/story/treetops-glowing-during-storms-captured-film-first-time",
+      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.psu.edu/news/earth...",
+      "score": 92
     },
     {
       "type": "HackerNews",
       "title": "GitHub CLI now collects pseudoanonymous telemetry",
       "url": "https://cli.github.com/telemetry",
       "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://cli.github.com/telemet...",
-      "score": 87
+      "score": 232
     },
     {
       "type": "HackerNews",
-      "title": "Our eighth generation TPUs: two chips for the agentic era",
-      "url": "https://blog.google/innovation-and-ai/infrastructure-and-cloud/google-cloud/eighth-generation-tpu-agentic-era/",
-      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://blog.google/innovation...",
-      "score": 48
+      "title": "Show HN submissions tripled and now mostly have the same vibe-coded look",
+      "url": "https://www.adriankrebs.ch/blog/design-slop/",
+      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.adriankrebs.ch/blo...",
+      "score": 140
     },
     {
       "type": "HackerNews",
-      "title": "The eighth-generation TPU: An architecture deep dive",
-      "url": "https://cloud.google.com/blog/products/compute/tpu-8t-and-tpu-8i-technical-deep-dive",
-      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://cloud.google.com/blog/...",
-      "score": 8
-    },
-    {
-      "type": "HackerNews",
-      "title": "Another Day Has Come",
-      "url": "https://daringfireball.net/2026/04/another_day_has_come",
-      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://daringfireball.net/202...",
-      "score": 9
-    },
-    {
-      "type": "HackerNews",
-      "title": "How the heck does GPS work?",
-      "url": "https://perthirtysix.com/how-the-heck-does-gps-work",
-      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://perthirtysix.com/how-t...",
-      "score": 88
-    },
-    {
-      "type": "HackerNews",
-      "title": "Making RAM at Home [video]",
-      "url": "https://www.youtube.com/watch?v=h6GWikWlAQA",
-      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.youtube.com/watch?...",
-      "score": 452
+      "title": "Columnar Storage Is Normalization",
+      "url": "https://buttondown.com/jaffray/archive/columnar-storage-is-normalization/",
+      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://buttondown.com/jaffray...",
+      "score": 51
     }
   ]
 }
