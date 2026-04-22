@@ -1,61 +1,61 @@
 {
-  "last_updated": "2026-04-21 21:46:00",
+  "last_updated": "2026-04-22 02:36:54",
   "news": [
     {
       "type": "HackerNews",
-      "title": "I don't want your PRs anymore",
-      "url": "https://dpc.pw/posts/i-dont-want-your-prs-anymore/",
-      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://dpc.pw/posts/i-dont-wa...",
-      "score": 69
+      "title": "ChatGPT Images 2.0",
+      "url": "https://openai.com/index/introducing-chatgpt-images-2-0/",
+      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://openai.com/index/intro...",
+      "score": 480
+    },
+    {
+      "type": "HackerNews",
+      "title": "Windows Server 2025 Runs Better on ARM",
+      "url": "https://jasoneckert.github.io/myblog/server-2025-arm64/",
+      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://jasoneckert.github.io/...",
+      "score": 55
+    },
+    {
+      "type": "HackerNews",
+      "title": "SpaceX says it has agreement to acquire Cursor for $60B",
+      "url": "https://twitter.com/spacex/status/2046713419978453374",
+      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://twitter.com/spacex/sta...",
+      "score": 294
     },
     {
       "type": "HackerNews",
       "title": "The Vercel breach: OAuth attack exposes risk in platform environment variables",
       "url": "https://www.trendmicro.com/en_us/research/26/d/vercel-breach-oauth-supply-chain.html",
       "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.trendmicro.com/en_...",
-      "score": 206
+      "score": 268
+    },
+    {
+      "type": "HackerNews",
+      "title": "CrabTrap: An LLM-as-a-judge HTTP proxy to secure agents in production",
+      "url": "https://www.brex.com/crabtrap",
+      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.brex.com/crabtrap...",
+      "score": 84
+    },
+    {
+      "type": "HackerNews",
+      "title": "I'm Sick of AI Everything",
+      "url": null,
+      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：...",
+      "score": 81
     },
     {
       "type": "HackerNews",
       "title": "Britannica11.org – a structured edition of the 1911 Encyclopædia Britannica",
       "url": "https://britannica11.org/",
-      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://britannica11.org/...",
-      "score": 159
+      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://britannica11.org/...",
+      "score": 232
     },
     {
       "type": "HackerNews",
-      "title": "California has more money than projected after admin miscalculated state budget",
-      "url": "https://www.kcra.com/article/california-more-money-than-projected-newsom-miscalculated-budget/71056376",
-      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.kcra.com/article/c...",
-      "score": 33
-    },
-    {
-      "type": "HackerNews",
-      "title": "10 years: Stephen's Sausage Roll still one of the most influential puzzle games",
+      "title": "Stephen's Sausage Roll remains one of the most influential puzzle games",
       "url": "https://thinkygames.com/features/10-years-of-grilling-stephens-sausage-roll-remains-one-of-the-most-influential-puzzle-games-ever-created/",
-      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://thinkygames.com/featur...",
-      "score": 63
-    },
-    {
-      "type": "HackerNews",
-      "title": "Cal.diy: open-source community edition of cal.com",
-      "url": "https://github.com/calcom/cal.diy",
-      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://github.com/calcom/cal....",
-      "score": 103
-    },
-    {
-      "type": "HackerNews",
-      "title": "Framework Laptop 13 Pro",
-      "url": "https://frame.work/laptop13pro",
-      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://frame.work/laptop13pro...",
-      "score": 649
-    },
-    {
-      "type": "HackerNews",
-      "title": "Laws of Software Engineering",
-      "url": "https://lawsofsoftwareengineering.com",
-      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://lawsofsoftwareengineer...",
-      "score": 750
+      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://thinkygames.com/featur...",
+      "score": 141
     }
   ]
 }
