@@ -1,61 +1,61 @@
 {
-  "last_updated": "2026-04-22 05:26:24",
+  "last_updated": "2026-04-22 07:48:44",
   "news": [
     {
       "type": "HackerNews",
       "title": "Making RAM at Home [video]",
       "url": "https://www.youtube.com/watch?v=h6GWikWlAQA",
-      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.youtube.com/watch?...",
-      "score": 122
+      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.youtube.com/watch?...",
+      "score": 245
+    },
+    {
+      "type": "HackerNews",
+      "title": "XOR'ing a register with itself is the idiom for zeroing it out. Why not sub?",
+      "url": "https://devblogs.microsoft.com/oldnewthing/20260421-00/?p=112247",
+      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://devblogs.microsoft.com...",
+      "score": 26
     },
     {
       "type": "HackerNews",
       "title": "ChatGPT Images 2.0",
       "url": "https://openai.com/index/introducing-chatgpt-images-2-0/",
       "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://openai.com/index/intro...",
-      "score": 632
+      "score": 744
     },
     {
       "type": "HackerNews",
       "title": "Acetaminophen vs. ibuprofen",
       "url": "https://asteriskmag.com/issues/14/the-mystery-in-the-medicine-cabinet",
       "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://asteriskmag.com/issues...",
-      "score": 155
+      "score": 299
     },
     {
       "type": "HackerNews",
       "title": "Diverse organic molecules on Mars revealed by the first SAM TMAH experiment",
       "url": "https://www.courthousenews.com/preserved-for-billions-of-years-organic-compounds-found-on-mars/",
-      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.courthousenews.com...",
-      "score": 36
+      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.courthousenews.com...",
+      "score": 62
+    },
+    {
+      "type": "HackerNews",
+      "title": "Laws of Software Engineering",
+      "url": "https://lawsofsoftwareengineering.com",
+      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://lawsofsoftwareengineer...",
+      "score": 953
+    },
+    {
+      "type": "HackerNews",
+      "title": "Garbage Collection Without Unsafe Code",
+      "url": "https://fitzgen.com/2024/02/06/safe-gc.html",
+      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://fitzgen.com/2024/02/06...",
+      "score": 21
     },
     {
       "type": "HackerNews",
       "title": "SpaceX says it has agreement to acquire Cursor for $60B",
       "url": "https://twitter.com/spacex/status/2046713419978453374",
-      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://twitter.com/spacex/sta...",
-      "score": 444
-    },
-    {
-      "type": "HackerNews",
-      "title": "Drunk post: Things I've learned as a senior engineer (2021)",
-      "url": "https://luminousmen.substack.com/p/drunk-post-things-ive-learned-as",
-      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://luminousmen.substack.c...",
-      "score": 89
-    },
-    {
-      "type": "HackerNews",
-      "title": "The Vercel breach: OAuth attack exposes risk in platform environment variables",
-      "url": "https://www.trendmicro.com/en_us/research/26/d/vercel-breach-oauth-supply-chain.html",
-      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.trendmicro.com/en_...",
-      "score": 298
-    },
-    {
-      "type": "HackerNews",
-      "title": "A printing press for biological data",
-      "url": "https://www.owlposting.com/p/the-printing-press-for-biological",
-      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.owlposting.com/p/t...",
-      "score": 13
+      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://twitter.com/spacex/sta...",
+      "score": 540
     }
   ]
 }
