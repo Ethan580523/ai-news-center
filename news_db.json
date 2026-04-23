@@ -1,61 +1,61 @@
 {
-  "last_updated": "2026-04-23 13:43:52",
+  "last_updated": "2026-04-23 16:28:27",
   "news": [
     {
       "type": "HackerNews",
-      "title": "Surveillance vendors caught abusing access to telcos to track people's locations",
-      "url": "https://techcrunch.com/2026/04/23/surveillance-vendors-caught-abusing-access-to-telcos-to-track-peoples-phone-locations-researchers-say/",
-      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://techcrunch.com/2026/04...",
-      "score": 131
+      "title": "Bitwarden CLI Compromised in Ongoing Checkmarx Supply Chain Campaign",
+      "url": "https://socket.dev/blog/bitwarden-cli-compromised",
+      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://socket.dev/blog/bitwar...",
+      "score": 225
+    },
+    {
+      "type": "HackerNews",
+      "title": "France confirms data breach at government agency that manages citizens' IDs",
+      "url": "https://techcrunch.com/2026/04/22/france-confirms-data-breach-at-government-agency-that-manages-citizens-ids/",
+      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://techcrunch.com/2026/04...",
+      "score": 53
+    },
+    {
+      "type": "HackerNews",
+      "title": "If America's So Rich, How'd It Get So Sad?",
+      "url": "https://www.derekthompson.org/p/if-americas-so-rich-howd-it-get-so",
+      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.derekthompson.org/...",
+      "score": 35
+    },
+    {
+      "type": "HackerNews",
+      "title": "I am building a cloud",
+      "url": "https://crawshaw.io/blog/building-a-cloud",
+      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://crawshaw.io/blog/build...",
+      "score": 769
     },
     {
       "type": "HackerNews",
       "title": "Show HN: Honker – Postgres NOTIFY/LISTEN Semantics for SQLite",
       "url": "https://github.com/russellromney/honker",
       "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://github.com/russellromn...",
-      "score": 67
-    },
-    {
-      "type": "HackerNews",
-      "title": "Sneaky spam in conversational replies to blog posts",
-      "url": "https://shkspr.mobi/blog/2026/04/sneaky-spam-in-conversational-replies-to-blog-posts/",
-      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://shkspr.mobi/blog/2026/...",
-      "score": 44
-    },
-    {
-      "type": "HackerNews",
-      "title": "I am building a cloud",
-      "url": "https://crawshaw.io/blog/building-a-cloud",
-      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://crawshaw.io/blog/build...",
-      "score": 586
-    },
-    {
-      "type": "HackerNews",
-      "title": "Alberta startup sells no-tech tractors for half price",
-      "url": "https://wheelfront.com/this-alberta-startup-sells-no-tech-tractors-for-half-price/",
-      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://wheelfront.com/this-al...",
-      "score": 1901
+      "score": 135
     },
     {
       "type": "HackerNews",
       "title": "Your hex editor should color-code bytes",
       "url": "https://simonomi.dev/blog/color-code-your-bytes/",
       "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://simonomi.dev/blog/colo...",
-      "score": 227
+      "score": 355
+    },
+    {
+      "type": "HackerNews",
+      "title": "Alberta startup sells no-tech tractors for half price",
+      "url": "https://wheelfront.com/this-alberta-startup-sells-no-tech-tractors-for-half-price/",
+      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://wheelfront.com/this-al...",
+      "score": 2011
     },
     {
       "type": "HackerNews",
       "title": "Apple fixes bug that cops used to extract deleted chat messages from iPhones",
       "url": "https://techcrunch.com/2026/04/22/apple-fixes-bug-that-cops-used-to-extract-deleted-chat-messages-from-iphones/",
-      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://techcrunch.com/2026/04...",
-      "score": 674
-    },
-    {
-      "type": "HackerNews",
-      "title": "Writing a C Compiler, in Zig",
-      "url": "https://ar-ms.me/thoughts/c-compiler-1-zig/",
-      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://ar-ms.me/thoughts/c-co...",
-      "score": 49
+      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://techcrunch.com/2026/04...",
+      "score": 752
     }
   ]
 }
