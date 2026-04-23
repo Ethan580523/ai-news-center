@@ -1,61 +1,61 @@
 {
-  "last_updated": "2026-04-22 21:51:34",
+  "last_updated": "2026-04-23 02:40:23",
   "news": [
     {
       "type": "HackerNews",
       "title": "Alberta startup sells no-tech tractors for half price",
       "url": "https://wheelfront.com/this-alberta-startup-sells-no-tech-tractors-for-half-price/",
-      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://wheelfront.com/this-al...",
-      "score": 981
+      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://wheelfront.com/this-al...",
+      "score": 1371
     },
     {
       "type": "HackerNews",
       "title": "Apple fixes bug that cops used to extract deleted chat messages from iPhones",
       "url": "https://techcrunch.com/2026/04/22/apple-fixes-bug-that-cops-used-to-extract-deleted-chat-messages-from-iphones/",
-      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://techcrunch.com/2026/04...",
-      "score": 106
-    },
-    {
-      "type": "HackerNews",
-      "title": "Over-editing refers to a model modifying code beyond what is necessary",
-      "url": "https://nrehiew.github.io/blog/minimal_editing/",
-      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://nrehiew.github.io/blog...",
-      "score": 229
+      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://techcrunch.com/2026/04...",
+      "score": 389
     },
     {
       "type": "HackerNews",
       "title": "We found a stable Firefox identifier linking all your private Tor identities",
       "url": "https://fingerprint.com/blog/firefox-tor-indexeddb-privacy-vulnerability/",
       "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://fingerprint.com/blog/f...",
-      "score": 232
+      "score": 459
+    },
+    {
+      "type": "HackerNews",
+      "title": "Tempest vs. Tempest: The Making and Remaking of Atari's Iconic Video Game",
+      "url": "https://tempest.homemade.systems",
+      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://tempest.homemade.syste...",
+      "score": 22
     },
     {
       "type": "HackerNews",
       "title": "Qwen3.6-27B: Flagship-Level Coding in a 27B Dense Model",
       "url": "https://qwen.ai/blog?id=qwen3.6-27b",
       "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://qwen.ai/blog?id=qwen3....",
-      "score": 557
+      "score": 723
     },
     {
       "type": "HackerNews",
       "title": "5x5 Pixel font for tiny screens",
       "url": "https://maurycyz.com/projects/mcufont/",
       "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://maurycyz.com/projects/...",
-      "score": 304
+      "score": 449
     },
     {
       "type": "HackerNews",
-      "title": "Windows 9x Subsystem for Linux",
-      "url": "https://social.hails.org/@hailey/116446826733136456",
-      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://social.hails.org/@hail...",
-      "score": 825
+      "title": "Over-editing refers to a model modifying code beyond what is necessary",
+      "url": "https://nrehiew.github.io/blog/minimal_editing/",
+      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://nrehiew.github.io/blog...",
+      "score": 300
     },
     {
       "type": "HackerNews",
-      "title": "The Illuminated Man: an unconventional portrait of JG Ballard",
-      "url": "https://www.theguardian.com/books/2026/apr/20/the-illuminated-man-by-christopher-priest-and-nina-allan-review-an-unconventional-portrait-of-jg-ballard",
-      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.theguardian.com/bo...",
-      "score": 22
+      "title": "Website streamed live directly from a model",
+      "url": "https://flipbook.page/",
+      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://flipbook.page/...",
+      "score": 165
     }
   ]
 }
