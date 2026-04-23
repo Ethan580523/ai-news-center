@@ -1,61 +1,61 @@
 {
-  "last_updated": "2026-04-23 19:09:10",
+  "last_updated": "2026-04-23 21:46:44",
   "news": [
     {
       "type": "HackerNews",
       "title": "GPT-5.5",
       "url": "https://openai.com/index/introducing-gpt-5-5/",
-      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://openai.com/index/intro...",
-      "score": 407
-    },
-    {
-      "type": "HackerNews",
-      "title": "An update on recent Claude Code quality reports",
-      "url": "https://www.anthropic.com/engineering/april-23-postmortem",
-      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.anthropic.com/engi...",
-      "score": 223
+      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://openai.com/index/intro...",
+      "score": 843
     },
     {
       "type": "HackerNews",
       "title": "Bitwarden CLI compromised in ongoing Checkmarx supply chain campaign",
       "url": "https://socket.dev/blog/bitwarden-cli-compromised",
       "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://socket.dev/blog/bitwar...",
-      "score": 424
+      "score": 534
+    },
+    {
+      "type": "HackerNews",
+      "title": "An update on recent Claude Code quality reports",
+      "url": "https://www.anthropic.com/engineering/april-23-postmortem",
+      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.anthropic.com/engi...",
+      "score": 440
+    },
+    {
+      "type": "HackerNews",
+      "title": "Using the internet like it's 1999",
+      "url": "https://joshblais.com/blog/using-the-internet-like-its-1999/",
+      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://joshblais.com/blog/usi...",
+      "score": 45
     },
     {
       "type": "HackerNews",
       "title": "MeshCore development team splits over trademark dispute and AI-generated code",
       "url": "https://blog.meshcore.io/2026/04/23/the-split",
-      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://blog.meshcore.io/2026/...",
-      "score": 53
+      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://blog.meshcore.io/2026/...",
+      "score": 107
+    },
+    {
+      "type": "HackerNews",
+      "title": "Girl, 10, finds rare Mexican axolotl under Welsh bridge",
+      "url": "https://www.bbc.com/news/articles/c9d4zgnqpqeo",
+      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.bbc.com/news/artic...",
+      "score": 126
     },
     {
       "type": "HackerNews",
       "title": "Incident with multple GitHub services",
       "url": "https://www.githubstatus.com/incidents/myrbk7jvvs6p",
-      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.githubstatus.com/i...",
-      "score": 107
+      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.githubstatus.com/i...",
+      "score": 157
     },
     {
       "type": "HackerNews",
-      "title": "French government agency confirms breach as hacker offers to sell data",
-      "url": "https://www.bleepingcomputer.com/news/security/french-govt-agency-confirms-breach-as-hacker-offers-to-sell-data/",
-      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.bleepingcomputer.c...",
-      "score": 295
-    },
-    {
-      "type": "HackerNews",
-      "title": "I am building a cloud",
-      "url": "https://crawshaw.io/blog/building-a-cloud",
-      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://crawshaw.io/blog/build...",
-      "score": 867
-    },
-    {
-      "type": "HackerNews",
-      "title": "A DIY Watch You Can Actually Wear",
-      "url": "https://www.hackster.io/news/a-diy-watch-you-can-actually-wear-8f91c2dac682",
-      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.hackster.io/news/a...",
-      "score": 74
+      "title": "Astronomers find the edge of the Milky Way",
+      "url": "https://skyandtelescope.org/astronomy-news/astronomers-find-the-edge-of-the-milky-way/",
+      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://skyandtelescope.org/as...",
+      "score": 48
     }
   ]
 }
