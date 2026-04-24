@@ -1,61 +1,61 @@
 {
-  "last_updated": "2026-04-24 18:53:38",
+  "last_updated": "2026-04-24 21:48:37",
   "news": [
+    {
+      "type": "HackerNews",
+      "title": "My audio interface has SSH enabled by default",
+      "url": "https://hhh.hn/rodecaster-duo-fw/",
+      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://hhh.hn/rodecaster-duo-...",
+      "score": 74
+    },
+    {
+      "type": "HackerNews",
+      "title": "Google Plans to Invest Up to $40B in Anthropic",
+      "url": "https://www.bloomberg.com/news/articles/2026-04-24/google-plans-to-invest-up-to-40-billion-in-anthropic",
+      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.bloomberg.com/news...",
+      "score": 42
+    },
+    {
+      "type": "HackerNews",
+      "title": "Iliad fragment found in Roman-era mummy",
+      "url": "https://www.thehistoryblog.com/archives/75877",
+      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.thehistoryblog.com...",
+      "score": 29
+    },
     {
       "type": "HackerNews",
       "title": "Sabotaging projects by overthinking, scope creep, and structural diffing",
       "url": "https://kevinlynagh.com/newsletter/2026_04_overthinking/",
-      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://kevinlynagh.com/newsle...",
-      "score": 243
+      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://kevinlynagh.com/newsle...",
+      "score": 320
     },
     {
       "type": "HackerNews",
-      "title": "SDL Now Supports DOS",
-      "url": "https://github.com/libsdl-org/SDL/pull/15377",
-      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://github.com/libsdl-org/...",
-      "score": 115
+      "title": "The Classic American Diner",
+      "url": "https://blogs.loc.gov/picturethis/2026/04/the-classic-american-diner/",
+      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://blogs.loc.gov/picturet...",
+      "score": 87
     },
     {
       "type": "HackerNews",
-      "title": "I Cancelled Claude: Token Issues, Declining Quality, and Poor Support",
-      "url": "https://nickyreinert.de/en/2026/2026-04-24-claude-critics/",
-      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://nickyreinert.de/en/202...",
-      "score": 449
+      "title": "Work with the garage door up",
+      "url": "https://notes.andymatuschak.org/Work_with_the_garage_door_up",
+      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://notes.andymatuschak.or...",
+      "score": 64
     },
     {
       "type": "HackerNews",
-      "title": "DeepSeek v4",
-      "url": "https://api-docs.deepseek.com/",
-      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://api-docs.deepseek.com/...",
-      "score": 1646
+      "title": "Tell HN: Claude 4.7 is ignoring stop hooks",
+      "url": null,
+      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：...",
+      "score": 19
     },
     {
       "type": "HackerNews",
-      "title": "SFO Quiet Airport (2025)",
-      "url": "https://viewfromthewing.com/san-francisco-airport-removed-90-minutes-of-daily-noise-travelers-say-it-changed-everything/",
-      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://viewfromthewing.com/sa...",
-      "score": 10
-    },
-    {
-      "type": "HackerNews",
-      "title": "OpenAI releases GPT-5.5 and GPT-5.5 Pro in the API",
-      "url": "https://developers.openai.com/api/docs/changelog",
-      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://developers.openai.com/...",
-      "score": 12
-    },
-    {
-      "type": "HackerNews",
-      "title": "Different Language Models Learn Similar Number Representations",
-      "url": "https://arxiv.org/abs/2604.20817",
-      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://arxiv.org/abs/2604.208...",
-      "score": 66
-    },
-    {
-      "type": "HackerNews",
-      "title": "How to be anti-social – a guide to incoherent and isolating social experiences",
-      "url": "https://nate.leaflet.pub/3mk4xkaxobc2p",
-      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://nate.leaflet.pub/3mk4x...",
-      "score": 211
+      "title": "Diatec, known for its mechanical keyboard brand FILCO, has ceased operations",
+      "url": "https://gigazine.net/gsc_news/en/20260424-filco-diatec/",
+      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://gigazine.net/gsc_news/...",
+      "score": 69
     }
   ]
 }
