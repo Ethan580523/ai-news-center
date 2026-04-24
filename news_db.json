@@ -1,61 +1,61 @@
 {
-  "last_updated": "2026-04-24 13:25:06",
+  "last_updated": "2026-04-24 16:04:48",
   "news": [
     {
       "type": "HackerNews",
-      "title": "UK Biobank leak: Health details of 500 000 people are offered for sale",
-      "url": "https://www.bmj.com/content/393/bmj.s781",
-      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.bmj.com/content/39...",
-      "score": 122
+      "title": "Sabotaging projects by overthinking, scope creep, and structural diffing",
+      "url": "https://kevinlynagh.com/newsletter/2026_04_overthinking/",
+      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://kevinlynagh.com/newsle...",
+      "score": 109
     },
     {
       "type": "HackerNews",
-      "title": "S. Korea police arrest man over AI image of runaway wolf that misled authorities",
-      "url": "https://www.bbc.com/news/articles/c4gx1n0dl9no",
-      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.bbc.com/news/artic...",
-      "score": 150
+      "title": "Different Language Models Learn Similar Number Representations",
+      "url": "https://arxiv.org/abs/2604.20817",
+      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://arxiv.org/abs/2604.208...",
+      "score": 33
     },
     {
       "type": "HackerNews",
-      "title": "The operating cost of adult and gambling startups",
-      "url": "https://orchidfiles.com/stigma-is-a-tax-on-every-operational-decision/",
-      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://orchidfiles.com/stigma...",
-      "score": 38
+      "title": "Norway Set to Become Latest Country to Ban Social Media for Under 16s",
+      "url": "https://www.bloomberg.com/news/articles/2026-04-24/norway-wants-kids-to-be-kids-with-social-media-ban-for-under-16s",
+      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.bloomberg.com/news...",
+      "score": 107
     },
     {
       "type": "HackerNews",
-      "title": "Aspartame is not that bad?",
-      "url": "https://dynomight.net/aspartame/",
-      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://dynomight.net/aspartam...",
-      "score": 41
+      "title": "Refuse to let your doctor record you",
+      "url": "https://buttondown.com/maiht3k/archive/why-you-should-refuse-to-let-your-doctor-record/",
+      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://buttondown.com/maiht3k...",
+      "score": 6
+    },
+    {
+      "type": "HackerNews",
+      "title": "Why I'm Done Making Desktop Applications",
+      "url": "https://www.kalzumeus.com/2009/09/05/desktop-aps-versus-web-apps/",
+      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.kalzumeus.com/2009...",
+      "score": 6
     },
     {
       "type": "HackerNews",
       "title": "Spinel: Ruby AOT Native Compiler",
       "url": "https://github.com/matz/spinel",
-      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://github.com/matz/spinel...",
-      "score": 125
+      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://github.com/matz/spinel...",
+      "score": 220
     },
     {
       "type": "HackerNews",
-      "title": "How to be anti-social – a guide to incoherent and isolating social experiences",
-      "url": "https://nate.leaflet.pub/3mk4xkaxobc2p",
-      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://nate.leaflet.pub/3mk4x...",
-      "score": 89
+      "title": "Hear your agent suffer through your code",
+      "url": "https://github.com/AndrewVos/endless-toil",
+      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://github.com/AndrewVos/e...",
+      "score": 107
     },
     {
       "type": "HackerNews",
-      "title": "DeepSeek v4",
-      "url": "https://api-docs.deepseek.com/",
-      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://api-docs.deepseek.com/...",
-      "score": 1248
-    },
-    {
-      "type": "HackerNews",
-      "title": "Mounting tar archives as a filesystem in WebAssembly",
-      "url": "https://jeroen.github.io/notes/webassembly-tar/",
-      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://jeroen.github.io/notes...",
-      "score": 31
+      "title": "US special forces soldier arrested after allegedly winning $400k on Maduro raid",
+      "url": "https://www.cnn.com/2026/04/23/politics/us-special-forces-soldier-arrested-maduro-raid-trade",
+      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.cnn.com/2026/04/23...",
+      "score": 494
     }
   ]
 }
