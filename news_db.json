@@ -1,61 +1,61 @@
 {
-  "last_updated": "2026-04-24 10:22:17",
+  "last_updated": "2026-04-24 13:25:06",
   "news": [
+    {
+      "type": "HackerNews",
+      "title": "UK Biobank leak: Health details of 500 000 people are offered for sale",
+      "url": "https://www.bmj.com/content/393/bmj.s781",
+      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.bmj.com/content/39...",
+      "score": 122
+    },
     {
       "type": "HackerNews",
       "title": "S. Korea police arrest man over AI image of runaway wolf that misled authorities",
       "url": "https://www.bbc.com/news/articles/c4gx1n0dl9no",
-      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.bbc.com/news/artic...",
+      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.bbc.com/news/artic...",
+      "score": 150
+    },
+    {
+      "type": "HackerNews",
+      "title": "The operating cost of adult and gambling startups",
+      "url": "https://orchidfiles.com/stigma-is-a-tax-on-every-operational-decision/",
+      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://orchidfiles.com/stigma...",
       "score": 38
     },
     {
       "type": "HackerNews",
-      "title": "DeepSeek v4",
-      "url": "https://api-docs.deepseek.com/",
-      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://api-docs.deepseek.com/...",
-      "score": 987
+      "title": "Aspartame is not that bad?",
+      "url": "https://dynomight.net/aspartame/",
+      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://dynomight.net/aspartam...",
+      "score": 41
     },
     {
       "type": "HackerNews",
       "title": "Spinel: Ruby AOT Native Compiler",
       "url": "https://github.com/matz/spinel",
-      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://github.com/matz/spinel...",
-      "score": 45
+      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://github.com/matz/spinel...",
+      "score": 125
     },
     {
       "type": "HackerNews",
-      "title": "Why I Write (1946)",
-      "url": "https://www.orwellfoundation.com/the-orwell-foundation/orwell/essays-and-other-works/why-i-write/",
-      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.orwellfoundation.c...",
-      "score": 172
+      "title": "How to be anti-social – a guide to incoherent and isolating social experiences",
+      "url": "https://nate.leaflet.pub/3mk4xkaxobc2p",
+      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://nate.leaflet.pub/3mk4x...",
+      "score": 89
     },
     {
       "type": "HackerNews",
-      "title": "Composition Shouldn't be this Hard",
-      "url": "https://www.cambra.dev/blog/announcement/",
-      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.cambra.dev/blog/an...",
-      "score": 55
+      "title": "DeepSeek v4",
+      "url": "https://api-docs.deepseek.com/",
+      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://api-docs.deepseek.com/...",
+      "score": 1248
     },
     {
       "type": "HackerNews",
-      "title": "Show HN: How LLMs Work – Interactive visual guide based on Karpathy's lecture",
-      "url": "https://ynarwal.github.io/how-llms-work/",
-      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://ynarwal.github.io/how-...",
-      "score": 46
-    },
-    {
-      "type": "HackerNews",
-      "title": "An update on recent Claude Code quality reports",
-      "url": "https://www.anthropic.com/engineering/april-23-postmortem",
-      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.anthropic.com/engi...",
-      "score": 746
-    },
-    {
-      "type": "HackerNews",
-      "title": "GPT-5.5",
-      "url": "https://openai.com/index/introducing-gpt-5-5/",
-      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://openai.com/index/intro...",
-      "score": 1381
+      "title": "Mounting tar archives as a filesystem in WebAssembly",
+      "url": "https://jeroen.github.io/notes/webassembly-tar/",
+      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://jeroen.github.io/notes...",
+      "score": 31
     }
   ]
 }
