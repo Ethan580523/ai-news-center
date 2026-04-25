@@ -1,61 +1,61 @@
 {
-  "last_updated": "2026-04-25 09:53:38",
+  "last_updated": "2026-04-25 13:05:55",
   "news": [
-    {
-      "type": "HackerNews",
-      "title": "Show HN: A Karpathy-style LLM wiki your agents maintain (Markdown and Git)",
-      "url": "https://github.com/nex-crm/wuphf",
-      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://github.com/nex-crm/wup...",
-      "score": 42
-    },
     {
       "type": "HackerNews",
       "title": "New 10 GbE USB adapters are cooler, smaller, cheaper",
       "url": "https://www.jeffgeerling.com/blog/2026/new-10-gbe-usb-adapters-cooler-smaller-cheaper/",
       "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.jeffgeerling.com/b...",
-      "score": 155
+      "score": 294
     },
     {
       "type": "HackerNews",
       "title": "Google plans to invest up to $40B in Anthropic",
       "url": "https://www.bloomberg.com/news/articles/2026-04-24/google-plans-to-invest-up-to-40-billion-in-anthropic",
-      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.bloomberg.com/news...",
-      "score": 583
+      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.bloomberg.com/news...",
+      "score": 646
+    },
+    {
+      "type": "HackerNews",
+      "title": "How to Implement an FPS Counter",
+      "url": "https://vplesko.com/posts/how_to_implement_an_fps_counter.html",
+      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://vplesko.com/posts/how_...",
+      "score": 59
     },
     {
       "type": "HackerNews",
       "title": "A 3D Body from Eight Questions – No Photo, No GPU",
       "url": "https://clad.you/blog/posts/questionnaire-mlp/",
-      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://clad.you/blog/posts/qu...",
-      "score": 62
+      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://clad.you/blog/posts/qu...",
+      "score": 89
     },
     {
       "type": "HackerNews",
-      "title": "A Powerful New 'QR Code' Untangles Math's Knottiest Knots",
-      "url": "https://www.quantamagazine.org/a-powerful-new-qr-code-untangles-maths-knottiest-knots-20260422/",
-      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.quantamagazine.org...",
-      "score": 20
+      "title": "Lambda Calculus Benchmark for AI",
+      "url": "https://victortaelin.github.io/lambench/",
+      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://victortaelin.github.io...",
+      "score": 15
     },
     {
       "type": "HackerNews",
-      "title": "Paraloid B-72",
-      "url": "https://en.wikipedia.org/wiki/Paraloid_B-72",
-      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://en.wikipedia.org/wiki/...",
-      "score": 186
+      "title": "Show HN: A Karpathy-style LLM wiki your agents maintain (Markdown and Git)",
+      "url": "https://github.com/nex-crm/wuphf",
+      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://github.com/nex-crm/wup...",
+      "score": 115
     },
     {
       "type": "HackerNews",
-      "title": "Humpback whales are forming super-groups",
-      "url": "https://www.bbc.com/future/article/20260416-the-humpback-super-groups-swarming-the-seas",
-      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.bbc.com/future/art...",
-      "score": 107
+      "title": "1-Bit Hokusai's \"The Great Wave\"",
+      "url": "https://www.hypertalking.com/2023/05/08/1-bit-pixel-art-of-hokusais-the-great-wave-off-kanagawa/",
+      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.hypertalking.com/2...",
+      "score": 11
     },
     {
       "type": "HackerNews",
-      "title": "My audio interface has SSH enabled by default",
-      "url": "https://hhh.hn/rodecaster-duo-fw/",
-      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://hhh.hn/rodecaster-duo-...",
-      "score": 244
+      "title": "Plain text has been around for decades and it’s here to stay",
+      "url": "https://unsung.aresluna.org/plain-text-has-been-around-for-decades-and-its-here-to-stay/",
+      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://unsung.aresluna.org/pl...",
+      "score": 143
     }
   ]
 }
