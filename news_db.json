@@ -1,61 +1,61 @@
 {
-  "last_updated": "2026-04-25 15:39:41",
+  "last_updated": "2026-04-25 18:54:08",
   "news": [
     {
       "type": "HackerNews",
       "title": "1-Bit Hokusai's \"The Great Wave\" (2023)",
       "url": "https://www.hypertalking.com/2023/05/08/1-bit-pixel-art-of-hokusais-the-great-wave-off-kanagawa/",
-      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.hypertalking.com/2...",
-      "score": 206
+      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.hypertalking.com/2...",
+      "score": 366
+    },
+    {
+      "type": "HackerNews",
+      "title": "The Free Universal Construction Kit",
+      "url": "https://fffff.at/free-universal-construction-kit/",
+      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://fffff.at/free-universa...",
+      "score": 61
     },
     {
       "type": "HackerNews",
       "title": "New 10 GbE USB adapters are cooler, smaller, cheaper",
       "url": "https://www.jeffgeerling.com/blog/2026/new-10-gbe-usb-adapters-cooler-smaller-cheaper/",
       "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.jeffgeerling.com/b...",
-      "score": 378
+      "score": 450
     },
     {
       "type": "HackerNews",
       "title": "Martin Galway's music source files from 1980's Commodore 64 games",
       "url": "https://github.com/MartinGalway/C64_music",
-      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://github.com/MartinGalwa...",
-      "score": 73
+      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://github.com/MartinGalwa...",
+      "score": 121
     },
     {
       "type": "HackerNews",
       "title": "Google plans to invest up to $40B in Anthropic",
       "url": "https://www.bloomberg.com/news/articles/2026-04-24/google-plans-to-invest-up-to-40-billion-in-anthropic",
       "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.bloomberg.com/news...",
-      "score": 698
+      "score": 760
     },
     {
       "type": "HackerNews",
-      "title": "GPT 5.5 biosafety bounty",
-      "url": "https://openai.com/index/gpt-5-5-bio-bug-bounty/",
-      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://openai.com/index/gpt-5...",
-      "score": 10
+      "title": "Desmond Morris, 98, Dies; Zoologist Saw Links Between Humans and Apes",
+      "url": "https://www.nytimes.com/2026/04/20/science/desmond-morris-dead.html",
+      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.nytimes.com/2026/0...",
+      "score": 55
     },
     {
       "type": "HackerNews",
-      "title": "Lambda Calculus Benchmark for AI",
-      "url": "https://victortaelin.github.io/lambench/",
-      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://victortaelin.github.io...",
-      "score": 67
+      "title": "Hokusai and Tesselations",
+      "url": "https://dl.ndl.go.jp/pid/1899550/1/11/",
+      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://dl.ndl.go.jp/pid/18995...",
+      "score": 16
     },
     {
       "type": "HackerNews",
-      "title": "Commenting and Approving Pull Requests",
-      "url": "https://www.jakeworth.com/posts/on-commenting-and-approving-pull-requests/",
-      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.jakeworth.com/post...",
-      "score": 28
-    },
-    {
-      "type": "HackerNews",
-      "title": "Insights into firewood use by early Middle Pleistocene hominins",
-      "url": "https://www.sciencedirect.com/science/article/pii/S0277379126001824",
-      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.sciencedirect.com/...",
-      "score": 8
+      "title": "Framework Laptop 13 Pro: Major Upgrades and Linux Front and Center",
+      "url": "https://boilingsteam.com/framework-laptop-13-pro-announced/",
+      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://boilingsteam.com/frame...",
+      "score": 58
     }
   ]
 }
