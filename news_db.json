@@ -1,61 +1,61 @@
 {
-  "last_updated": "2026-04-26 15:41:55",
+  "last_updated": "2026-04-26 18:56:02",
   "news": [
+    {
+      "type": "HackerNews",
+      "title": "GoDaddy Gave a Domain to a Stranger Without Any Documentation",
+      "url": "https://anchor.host/godaddy-gave-a-domain-to-a-stranger-without-any-documentation/",
+      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://anchor.host/godaddy-ga...",
+      "score": 82
+    },
     {
       "type": "HackerNews",
       "title": "Asahi Linux Progress Linux 7.0",
       "url": "https://asahilinux.org/2026/04/progress-report-7-0/",
-      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://asahilinux.org/2026/04...",
-      "score": 310
+      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://asahilinux.org/2026/04...",
+      "score": 488
+    },
+    {
+      "type": "HackerNews",
+      "title": "Dillo Browser Release 3.3.0",
+      "url": "https://dillo-browser.org/release/3.3.0/",
+      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://dillo-browser.org/rele...",
+      "score": 26
+    },
+    {
+      "type": "HackerNews",
+      "title": "Clay PCB Tutorial",
+      "url": "https://feministhackerspaces.cargo.site/Clay-PCB-Tutorial",
+      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://feministhackerspaces.c...",
+      "score": 123
     },
     {
       "type": "HackerNews",
       "title": "Why SWE-bench Verified no longer measures frontier coding capabilities",
       "url": "https://openai.com/index/why-we-no-longer-evaluate-swe-bench-verified/",
       "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://openai.com/index/why-w...",
-      "score": 44
+      "score": 148
+    },
+    {
+      "type": "HackerNews",
+      "title": "The Visible Zorker: Zork 1",
+      "url": "https://eblong.com/infocom/visi/zork1/",
+      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://eblong.com/infocom/vis...",
+      "score": 30
+    },
+    {
+      "type": "HackerNews",
+      "title": "Free Textbook on Engineering Thermodynamics",
+      "url": "https://thermodynamicsbook.com/",
+      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://thermodynamicsbook.com...",
+      "score": 43
     },
     {
       "type": "HackerNews",
       "title": "Statecharts: hierarchical state machines",
       "url": "https://statecharts.dev/",
       "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://statecharts.dev/...",
-      "score": 164
-    },
-    {
-      "type": "HackerNews",
-      "title": "Amateur armed with ChatGPT solves an Erdős problem",
-      "url": "https://www.scientificamerican.com/article/amateur-armed-with-chatgpt-vibe-maths-a-60-year-old-problem/",
-      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.scientificamerican...",
-      "score": 554
-    },
-    {
-      "type": "HackerNews",
-      "title": "The Nintendo Switch Switch (2019)",
-      "url": "https://blog.cynthia.re/post/nintendo-switch-ethernet-switch",
-      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://blog.cynthia.re/post/n...",
-      "score": 34
-    },
-    {
-      "type": "HackerNews",
-      "title": "Show HN: Turning a Gaussian Splat into a videogame",
-      "url": "https://blog.playcanvas.com/turning-a-gaussian-splat-into-a-videogame/",
-      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://blog.playcanvas.com/tu...",
-      "score": 107
-    },
-    {
-      "type": "HackerNews",
-      "title": "Why has there been so little progress on Alzheimer's disease?",
-      "url": "https://freakonomics.com/podcast/why-has-there-been-so-little-progress-on-alzheimers-disease/",
-      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://freakonomics.com/podca...",
-      "score": 319
-    },
-    {
-      "type": "HackerNews",
-      "title": "The West forgot how to make things, now it’s forgetting how to code",
-      "url": "https://techtrenches.dev/p/the-west-forgot-how-to-make-things",
-      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://techtrenches.dev/p/the...",
-      "score": 784
+      "score": 235
     }
   ]
 }
