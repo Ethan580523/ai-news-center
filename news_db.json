@@ -1,61 +1,61 @@
 {
-  "last_updated": "2026-04-26 07:40:21",
+  "last_updated": "2026-04-26 09:54:10",
   "news": [
     {
       "type": "HackerNews",
       "title": "The West Forgot How to Make Things. Now It's Forgetting How to Code",
       "url": "https://techtrenches.dev/p/the-west-forgot-how-to-make-things",
-      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://techtrenches.dev/p/the...",
-      "score": 89
+      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://techtrenches.dev/p/the...",
+      "score": 347
+    },
+    {
+      "type": "HackerNews",
+      "title": "Why has there been so little progress on Alzheimer's disease?",
+      "url": "https://freakonomics.com/podcast/why-has-there-been-so-little-progress-on-alzheimers-disease/",
+      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://freakonomics.com/podca...",
+      "score": 230
     },
     {
       "type": "HackerNews",
       "title": "Amateur armed with ChatGPT solves an Erdős problem",
       "url": "https://www.scientificamerican.com/article/amateur-armed-with-chatgpt-vibe-maths-a-60-year-old-problem/",
       "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.scientificamerican...",
-      "score": 313
-    },
-    {
-      "type": "HackerNews",
-      "title": "Why has there been so little progress on Alzheimer's disease?",
-      "url": "https://freakonomics.com/podcast/why-has-there-been-so-little-progress-on-alzheimers-disease/",
-      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://freakonomics.com/podca...",
-      "score": 199
+      "score": 376
     },
     {
       "type": "HackerNews",
       "title": "USB Cheat Sheet (2022)",
       "url": "https://fabiensanglard.net/usbcheat/index.html",
-      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://fabiensanglard.net/usb...",
-      "score": 271
+      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://fabiensanglard.net/usb...",
+      "score": 320
     },
     {
       "type": "HackerNews",
       "title": "Tell HN: An app is silently installing itself on my iPhone every day",
       "url": null,
-      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：...",
-      "score": 206
+      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：...",
+      "score": 271
+    },
+    {
+      "type": "HackerNews",
+      "title": "Statecharts: hierarchical state machines",
+      "url": "https://statecharts.dev/",
+      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://statecharts.dev/...",
+      "score": 3
     },
     {
       "type": "HackerNews",
       "title": "GnuPG – post-quantum crypto landing in mainline",
       "url": "https://lists.gnupg.org/pipermail/gnupg-announce/2026q2/000504.html",
-      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://lists.gnupg.org/piperm...",
-      "score": 39
+      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://lists.gnupg.org/piperm...",
+      "score": 68
     },
     {
       "type": "HackerNews",
-      "title": "Terra API (YC W21) Hiring: Applied AI Strategist(Health Intelligence)",
-      "url": "https://www.ycombinator.com/companies/terra-api/jobs/DY7BCZU-applied-ai-strategist-market-intelligence-health",
-      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.ycombinator.com/co...",
-      "score": 1
-    },
-    {
-      "type": "HackerNews",
-      "title": "Mahjong: A Visual Guide",
-      "url": "https://themahjong.guide/",
-      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://themahjong.guide/...",
-      "score": 71
+      "title": "Tip: Web requests should not be measured in Hz [Hertz]",
+      "url": "https://mastodon.catgirl.cloud/@sophie/116467789133733136",
+      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://mastodon.catgirl.cloud...",
+      "score": 17
     }
   ]
 }
