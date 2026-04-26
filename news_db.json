@@ -1,61 +1,61 @@
 {
-  "last_updated": "2026-04-25 21:37:17",
+  "last_updated": "2026-04-26 02:46:39",
   "news": [
+    {
+      "type": "HackerNews",
+      "title": "Why has there been so little progress on Alzheimer's disease?",
+      "url": "https://freakonomics.com/podcast/why-has-there-been-so-little-progress-on-alzheimers-disease/",
+      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://freakonomics.com/podca...",
+      "score": 91
+    },
+    {
+      "type": "HackerNews",
+      "title": "Amateur armed with ChatGPT solves an Erdős problem",
+      "url": "https://www.scientificamerican.com/article/amateur-armed-with-chatgpt-vibe-maths-a-60-year-old-problem/",
+      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.scientificamerican...",
+      "score": 35
+    },
+    {
+      "type": "HackerNews",
+      "title": "USB Cheat Sheet (2022)",
+      "url": "https://fabiensanglard.net/usbcheat/index.html",
+      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://fabiensanglard.net/usb...",
+      "score": 178
+    },
     {
       "type": "HackerNews",
       "title": "The Free Universal Construction Kit",
       "url": "https://fffff.at/free-universal-construction-kit/",
       "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://fffff.at/free-universa...",
-      "score": 181
+      "score": 281
+    },
+    {
+      "type": "HackerNews",
+      "title": "OpenAI Privacy Filter",
+      "url": "https://openai.com/index/introducing-openai-privacy-filter/",
+      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://openai.com/index/intro...",
+      "score": 115
+    },
+    {
+      "type": "HackerNews",
+      "title": "Flickr: The first and last great photo platform",
+      "url": "https://petapixel.com/2026/04/22/flickr-the-first-and-last-great-photo-platform/",
+      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://petapixel.com/2026/04/...",
+      "score": 51
     },
     {
       "type": "HackerNews",
       "title": "1-Bit Hokusai's \"The Great Wave\" (2023)",
       "url": "https://www.hypertalking.com/2023/05/08/1-bit-pixel-art-of-hokusais-the-great-wave-off-kanagawa/",
       "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.hypertalking.com/2...",
-      "score": 461
-    },
-    {
-      "type": "HackerNews",
-      "title": "The AI Industry Is Discovering That the Public Hates It",
-      "url": "https://newrepublic.com/article/209163/ai-industry-discovering-public-backlash",
-      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://newrepublic.com/articl...",
-      "score": 56
-    },
-    {
-      "type": "HackerNews",
-      "title": "Can you stop beans from making you gassy?",
-      "url": "https://www.seriouseats.com/how-to-reduce-bean-gas-tested-11883862",
-      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.seriouseats.com/ho...",
-      "score": 19
+      "score": 528
     },
     {
       "type": "HackerNews",
       "title": "Using coding assistance tools to revive projects you never were going to finish",
       "url": "https://blog.matthewbrunelle.com/its-ok-to-use-coding-assistance-tools-to-revive-the-projects-you-never-were-going-to-finish/",
       "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://blog.matthewbrunelle.c...",
-      "score": 86
-    },
-    {
-      "type": "HackerNews",
-      "title": "New 10 GbE USB adapters are cooler, smaller, cheaper",
-      "url": "https://www.jeffgeerling.com/blog/2026/new-10-gbe-usb-adapters-cooler-smaller-cheaper/",
-      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.jeffgeerling.com/b...",
-      "score": 502
-    },
-    {
-      "type": "HackerNews",
-      "title": "Simulacrum of Knowledge Work",
-      "url": "https://blog.happyfellow.dev/simulacrum-of-knowledge-work/",
-      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://blog.happyfellow.dev/s...",
-      "score": 43
-    },
-    {
-      "type": "HackerNews",
-      "title": "Desmond Morris has died",
-      "url": "https://www.bbc.com/news/articles/c51y797v200o",
-      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.bbc.com/news/artic...",
-      "score": 71
+      "score": 193
     }
   ]
 }
