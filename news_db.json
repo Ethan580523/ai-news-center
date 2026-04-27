@@ -1,61 +1,61 @@
 {
-  "last_updated": "2026-04-27 16:26:30",
+  "last_updated": "2026-04-27 19:23:13",
   "news": [
+    {
+      "type": "HackerNews",
+      "title": "United Wizards of the Coast",
+      "url": "https://unitedwizardsofthecoast.com/news/announcing-united-wizards-coast-cwa",
+      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://unitedwizardsofthecoas...",
+      "score": 75
+    },
     {
       "type": "HackerNews",
       "title": "Microsoft and OpenAI end their exclusive and revenue-sharing deal",
       "url": "https://www.bloomberg.com/news/articles/2026-04-27/microsoft-to-stop-sharing-revenue-with-main-ai-partner-openai",
       "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.bloomberg.com/news...",
-      "score": 221
+      "score": 524
     },
     {
       "type": "HackerNews",
-      "title": "\"Why not just use Lean?\"",
+      "title": "Open-Source KiCad PCBs for Common Arduino, ESP32, RP2040 Boards",
+      "url": "https://github.com/Hanqaqa/Easyduino",
+      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://github.com/Hanqaqa/Eas...",
+      "score": 68
+    },
+    {
+      "type": "HackerNews",
+      "title": "China blocks Meta's acquisition of AI startup Manus",
+      "url": "https://www.cnbc.com/2026/04/27/meta-manus-china-blocks-acquisition-ai-startup.html",
+      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.cnbc.com/2026/04/2...",
+      "score": 25
+    },
+    {
+      "type": "HackerNews",
+      "title": "“Why not just use Lean?”",
       "url": "https://lawrencecpaulson.github.io//2026/04/23/Why_not_Lean.html",
       "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://lawrencecpaulson.githu...",
-      "score": 105
+      "score": 196
     },
     {
       "type": "HackerNews",
-      "title": "The Woes of Sanitizing SVGs",
-      "url": "https://muffin.ink/blog/scratch-svg-sanitization/",
-      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://muffin.ink/blog/scratc...",
-      "score": 41
-    },
-    {
-      "type": "HackerNews",
-      "title": "Apple is dropping AFP/TimeCapsule support in macOS 27",
+      "title": "Networking changes coming in macOS 27",
       "url": "https://eclecticlight.co/2026/04/23/networking-changes-coming-in-macos-27/",
-      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://eclecticlight.co/2026/...",
-      "score": 38
+      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://eclecticlight.co/2026/...",
+      "score": 129
     },
     {
       "type": "HackerNews",
-      "title": "Show HN: OSS Agent I built topped the TerminalBench on Gemini-3-flash-preview",
-      "url": "https://github.com/dirac-run/dirac",
-      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://github.com/dirac-run/d...",
-      "score": 170
+      "title": "Super ZSNES – GPU Powered SNES Emulator",
+      "url": "https://zsnes.com/",
+      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://zsnes.com/...",
+      "score": 77
     },
     {
       "type": "HackerNews",
-      "title": "Pgbackrest is no longer being maintained",
-      "url": "https://github.com/pgbackrest/pgbackrest",
-      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://github.com/pgbackrest/...",
-      "score": 315
-    },
-    {
-      "type": "HackerNews",
-      "title": "4TB of voice samples just stolen from 40k AI contractors at Mercor",
-      "url": "https://app.oravys.com/blog/mercor-breach-2026",
-      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://app.oravys.com/blog/me...",
-      "score": 214
-    },
-    {
-      "type": "HackerNews",
-      "title": "Fully Featured Audio DSP Firmware for the Raspberry Pi Pico",
-      "url": "https://github.com/WeebLabs/DSPi",
-      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://github.com/WeebLabs/DS...",
-      "score": 180
+      "title": "GitHub is having issues now",
+      "url": "https://www.githubstatus.com",
+      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.githubstatus.com...",
+      "score": 168
     }
   ]
 }
