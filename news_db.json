@@ -1,61 +1,61 @@
 {
-  "last_updated": "2026-04-27 19:23:13",
+  "last_updated": "2026-04-27 21:53:40",
   "news": [
-    {
-      "type": "HackerNews",
-      "title": "United Wizards of the Coast",
-      "url": "https://unitedwizardsofthecoast.com/news/announcing-united-wizards-coast-cwa",
-      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://unitedwizardsofthecoas...",
-      "score": 75
-    },
     {
       "type": "HackerNews",
       "title": "Microsoft and OpenAI end their exclusive and revenue-sharing deal",
       "url": "https://www.bloomberg.com/news/articles/2026-04-27/microsoft-to-stop-sharing-revenue-with-main-ai-partner-openai",
-      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.bloomberg.com/news...",
-      "score": 524
+      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.bloomberg.com/news...",
+      "score": 650
     },
     {
       "type": "HackerNews",
-      "title": "Open-Source KiCad PCBs for Common Arduino, ESP32, RP2040 Boards",
+      "title": "Is my blue your blue?",
+      "url": "https://ismy.blue/",
+      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://ismy.blue/...",
+      "score": 106
+    },
+    {
+      "type": "HackerNews",
+      "title": "NPM Website Is Down",
+      "url": "https://status.npmjs.org",
+      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://status.npmjs.org...",
+      "score": 12
+    },
+    {
+      "type": "HackerNews",
+      "title": "Easyduino: Open Source PCB Devboards for KiCad",
       "url": "https://github.com/Hanqaqa/Easyduino",
       "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://github.com/Hanqaqa/Eas...",
-      "score": 68
+      "score": 134
+    },
+    {
+      "type": "HackerNews",
+      "title": "Three men are facing 44 charges in Toronto SMS Blaster arrests",
+      "url": "https://www.tps.ca/media-centre/stories/unprecedented-sms-blaster-arrests/",
+      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.tps.ca/media-centr...",
+      "score": 28
+    },
+    {
+      "type": "HackerNews",
+      "title": "Spanish archaeologists discover trove of ancient shipwrecks in Bay of Gibraltar",
+      "url": "https://www.theguardian.com/science/2026/apr/15/hidden-treasures-spanish-archaeologists-discover-trove-of-ancient-shipwrecks-in-bay-of-gibraltar",
+      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.theguardian.com/sc...",
+      "score": 51
     },
     {
       "type": "HackerNews",
       "title": "China blocks Meta's acquisition of AI startup Manus",
       "url": "https://www.cnbc.com/2026/04/27/meta-manus-china-blocks-acquisition-ai-startup.html",
       "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.cnbc.com/2026/04/2...",
-      "score": 25
+      "score": 206
     },
     {
       "type": "HackerNews",
-      "title": "“Why not just use Lean?”",
-      "url": "https://lawrencecpaulson.github.io//2026/04/23/Why_not_Lean.html",
-      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://lawrencecpaulson.githu...",
-      "score": 196
-    },
-    {
-      "type": "HackerNews",
-      "title": "Networking changes coming in macOS 27",
-      "url": "https://eclecticlight.co/2026/04/23/networking-changes-coming-in-macos-27/",
-      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://eclecticlight.co/2026/...",
-      "score": 129
-    },
-    {
-      "type": "HackerNews",
-      "title": "Super ZSNES – GPU Powered SNES Emulator",
-      "url": "https://zsnes.com/",
-      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://zsnes.com/...",
-      "score": 77
-    },
-    {
-      "type": "HackerNews",
-      "title": "GitHub is having issues now",
-      "url": "https://www.githubstatus.com",
-      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.githubstatus.com...",
-      "score": 168
+      "title": "The quiet resurgence of RF engineering",
+      "url": "https://atempleton.bearblog.dev/quiet-resurgence-of-rf-engineering/",
+      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://atempleton.bearblog.de...",
+      "score": 68
     }
   ]
 }
