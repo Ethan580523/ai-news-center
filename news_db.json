@@ -1,61 +1,61 @@
 {
-  "last_updated": "2026-04-28 16:52:12",
+  "last_updated": "2026-04-28 19:42:04",
   "news": [
+    {
+      "type": "HackerNews",
+      "title": "DOOM running in ChatGPT and Claude",
+      "url": "https://chrisnager.com/blog/doom-runs-in-chatgpt-and-claude/",
+      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://chrisnager.com/blog/do...",
+      "score": 35
+    },
     {
       "type": "HackerNews",
       "title": "Localsend: An open-source cross-platform alternative to AirDrop",
       "url": "https://github.com/localsend/localsend",
       "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://github.com/localsend/l...",
-      "score": 458
+      "score": 644
     },
     {
       "type": "HackerNews",
-      "title": "AI uncovers 38 vulnerabilities in largest open source medical record software",
-      "url": "https://aisle.com/blog/aisle-discovers-38-critical-security-vulnerabilities-in-healthcare-software-used-by-100000-providers",
-      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://aisle.com/blog/aisle-d...",
-      "score": 34
+      "title": "Interview with OpenAI and AWS CEOs about Bedrock Managed Agents",
+      "url": "https://stratechery.com/2026/an-interview-with-openai-ceo-sam-altman-and-aws-ceo-matt-garman-about-bedrock-managed-agents/",
+      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://stratechery.com/2026/a...",
+      "score": 12
     },
     {
       "type": "HackerNews",
       "title": "Microsoft VibeVoice: Open-Source Frontier Voice AI",
       "url": "https://github.com/microsoft/VibeVoice",
       "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://github.com/microsoft/V...",
-      "score": 197
+      "score": 272
     },
     {
       "type": "HackerNews",
-      "title": "Google and Pentagon reportedly agree on deal for 'any lawful' use of AI",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/919494/google-pentagon-classified-ai-deal",
-      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.theverge.com/ai-ar...",
-      "score": 81
+      "title": "GitHub RCE Vulnerability: CVE-2026-3854 Breakdown",
+      "url": "https://www.wiz.io/blog/github-rce-vulnerability-cve-2026-3854",
+      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.wiz.io/blog/github...",
+      "score": 97
     },
     {
       "type": "HackerNews",
-      "title": "Show HN: Live Sun and Moon Dashboard with NASA Footage",
-      "url": "https://www.lumara-space.app/",
-      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.lumara-space.app/...",
-      "score": 81
+      "title": "Claude.ai unavailable and elevated errors on the API",
+      "url": "https://status.claude.com/incidents/9l93x2ht4s5w",
+      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://status.claude.com/inci...",
+      "score": 154
     },
     {
       "type": "HackerNews",
-      "title": "Your phone is about to stop being yours",
-      "url": "https://keepandroidopen.org/en/",
-      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://keepandroidopen.org/en...",
-      "score": 177
+      "title": "Patch applies fake diffs from commit messages",
+      "url": "https://samizdat.dev/phantom-patch/",
+      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://samizdat.dev/phantom-p...",
+      "score": 17
     },
     {
       "type": "HackerNews",
-      "title": "Anthropic Joins the Blender Development Fund as Corporate Patron",
-      "url": "https://www.blender.org/press/anthropic-joins-the-blender-development-fund-as-corporate-patron/",
-      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.blender.org/press/...",
-      "score": 112
-    },
-    {
-      "type": "HackerNews",
-      "title": "FCC Funding Application Notes Paramount Will Be 49.5% Foreign-Owned Post-Merger",
-      "url": "https://deadline.com/2026/04/paramount-fcc-request-wbd-merger-middle-east-1236873732/",
-      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://deadline.com/2026/04/p...",
-      "score": 47
+      "title": "AISLE Discovers 38 CVEs in OpenEMR Healthcare Software",
+      "url": "https://aisle.com/blog/aisle-discovers-38-critical-security-vulnerabilities-in-healthcare-software-used-by-100000-providers",
+      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://aisle.com/blog/aisle-d...",
+      "score": 148
     }
   ]
 }
