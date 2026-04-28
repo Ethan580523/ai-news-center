@@ -1,61 +1,61 @@
 {
-  "last_updated": "2026-04-28 19:42:04",
+  "last_updated": "2026-04-28 21:58:23",
   "news": [
     {
       "type": "HackerNews",
-      "title": "DOOM running in ChatGPT and Claude",
-      "url": "https://chrisnager.com/blog/doom-runs-in-chatgpt-and-claude/",
-      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://chrisnager.com/blog/do...",
-      "score": 35
+      "title": "Ghostty is leaving GitHub",
+      "url": "https://mitchellh.com/writing/ghostty-leaving-github",
+      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://mitchellh.com/writing/...",
+      "score": 1071
     },
     {
       "type": "HackerNews",
-      "title": "Localsend: An open-source cross-platform alternative to AirDrop",
-      "url": "https://github.com/localsend/localsend",
-      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://github.com/localsend/l...",
-      "score": 644
+      "title": "Before GitHub",
+      "url": "https://lucumr.pocoo.org/2026/4/28/before-github/",
+      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://lucumr.pocoo.org/2026/...",
+      "score": 47
     },
     {
       "type": "HackerNews",
-      "title": "Interview with OpenAI and AWS CEOs about Bedrock Managed Agents",
+      "title": "OpenAI models coming to Amazon Bedrock: Interview with OpenAI and AWS CEOs",
       "url": "https://stratechery.com/2026/an-interview-with-openai-ceo-sam-altman-and-aws-ceo-matt-garman-about-bedrock-managed-agents/",
-      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://stratechery.com/2026/a...",
-      "score": 12
+      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://stratechery.com/2026/a...",
+      "score": 112
     },
     {
       "type": "HackerNews",
-      "title": "Microsoft VibeVoice: Open-Source Frontier Voice AI",
-      "url": "https://github.com/microsoft/VibeVoice",
-      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://github.com/microsoft/V...",
-      "score": 272
+      "title": "Warp is now Open-Source",
+      "url": "https://github.com/warpdotdev/warp",
+      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://github.com/warpdotdev/...",
+      "score": 159
     },
     {
       "type": "HackerNews",
-      "title": "GitHub RCE Vulnerability: CVE-2026-3854 Breakdown",
-      "url": "https://www.wiz.io/blog/github-rce-vulnerability-cve-2026-3854",
-      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.wiz.io/blog/github...",
-      "score": 97
+      "title": "Intel Arc Pro B70 Review",
+      "url": "https://www.pugetsystems.com/labs/articles/intel-arc-pro-b70-review/",
+      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.pugetsystems.com/l...",
+      "score": 51
     },
     {
       "type": "HackerNews",
-      "title": "Claude.ai unavailable and elevated errors on the API",
-      "url": "https://status.claude.com/incidents/9l93x2ht4s5w",
-      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://status.claude.com/inci...",
-      "score": 154
+      "title": "I won a championship that doesn't exist",
+      "url": "https://ron.stoner.com/How_I_Won_a_Championship_That_Doesnt_Exist/",
+      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://ron.stoner.com/How_I_W...",
+      "score": 36
     },
     {
       "type": "HackerNews",
-      "title": "Patch applies fake diffs from commit messages",
-      "url": "https://samizdat.dev/phantom-patch/",
-      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://samizdat.dev/phantom-p...",
-      "score": 17
+      "title": "A playable DOOM MCP app",
+      "url": "https://chrisnager.com/blog/doom-runs-in-chatgpt-and-claude/",
+      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://chrisnager.com/blog/do...",
+      "score": 66
     },
     {
       "type": "HackerNews",
-      "title": "AISLE Discovers 38 CVEs in OpenEMR Healthcare Software",
-      "url": "https://aisle.com/blog/aisle-discovers-38-critical-security-vulnerabilities-in-healthcare-software-used-by-100000-providers",
-      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://aisle.com/blog/aisle-d...",
-      "score": 148
+      "title": "CJIT: C, Just in Time",
+      "url": "https://dyne.org/cjit/",
+      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://dyne.org/cjit/...",
+      "score": 55
     }
   ]
 }
