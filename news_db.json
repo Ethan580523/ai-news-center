@@ -1,61 +1,61 @@
 {
-  "last_updated": "2026-04-28 02:56:20",
+  "last_updated": "2026-04-28 06:09:35",
   "news": [
-    {
-      "type": "HackerNews",
-      "title": "Microsoft and OpenAI end their exclusive and revenue-sharing deal",
-      "url": "https://www.bloomberg.com/news/articles/2026-04-27/microsoft-to-stop-sharing-revenue-with-main-ai-partner-openai",
-      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.bloomberg.com/news...",
-      "score": 771
-    },
     {
       "type": "HackerNews",
       "title": "Talkie: a 13B vintage language model from 1930",
       "url": "https://talkie-lm.com/introducing-talkie",
       "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://talkie-lm.com/introduc...",
-      "score": 107
+      "score": 263
     },
     {
       "type": "HackerNews",
-      "title": "Integrated by Design",
-      "url": "https://vivianvoss.net/blog/integrated-by-design-launch",
-      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://vivianvoss.net/blog/in...",
-      "score": 72
+      "title": "San Francisco, AI capital of the world, is an economic laggard",
+      "url": "https://www.economist.com/finance-and-economics/2026/04/26/san-francisco-ai-capital-of-the-world-is-an-economic-laggard",
+      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.economist.com/fina...",
+      "score": 32
     },
     {
       "type": "HackerNews",
-      "title": "Meetings are forcing functions",
-      "url": "https://www.mooreds.com/wordpress/archives/3734",
-      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.mooreds.com/wordpr...",
-      "score": 60
+      "title": "Microsoft and OpenAI end their exclusive and revenue-sharing deal",
+      "url": "https://www.bloomberg.com/news/articles/2026-04-27/microsoft-to-stop-sharing-revenue-with-main-ai-partner-openai",
+      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.bloomberg.com/news...",
+      "score": 830
+    },
+    {
+      "type": "HackerNews",
+      "title": "Pgrx: Build Postgres Extensions with Rust",
+      "url": "https://github.com/pgcentralfoundation/pgrx",
+      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://github.com/pgcentralfo...",
+      "score": 35
+    },
+    {
+      "type": "HackerNews",
+      "title": "Mo RAM, Mo Problems (2025)",
+      "url": "https://fabiensanglard.net/curse/",
+      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://fabiensanglard.net/cur...",
+      "score": 87
+    },
+    {
+      "type": "HackerNews",
+      "title": "Ted Nyman – High Performance Git",
+      "url": "https://gitperf.com/",
+      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://gitperf.com/...",
+      "score": 79
+    },
+    {
+      "type": "HackerNews",
+      "title": "LingBot-Map: Streaming 3D reconstruction with geometric context transformer",
+      "url": "https://technology.robbyant.com/lingbot-map",
+      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://technology.robbyant.co...",
+      "score": 16
     },
     {
       "type": "HackerNews",
       "title": "Three men are facing charges in Toronto SMS Blaster arrests",
       "url": "https://www.tps.ca/media-centre/stories/unprecedented-sms-blaster-arrests/",
       "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.tps.ca/media-centr...",
-      "score": 109
-    },
-    {
-      "type": "HackerNews",
-      "title": "Is my blue your blue?",
-      "url": "https://ismy.blue/",
-      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://ismy.blue/...",
-      "score": 366
-    },
-    {
-      "type": "HackerNews",
-      "title": "Mo RAM, Mo Problems (2025)",
-      "url": "https://fabiensanglard.net/curse/",
-      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://fabiensanglard.net/cur...",
-      "score": 20
-    },
-    {
-      "type": "HackerNews",
-      "title": "Ted Nyman – High Performance Git",
-      "url": "https://gitperf.com/",
-      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://gitperf.com/...",
-      "score": 21
+      "score": 138
     }
   ]
 }
