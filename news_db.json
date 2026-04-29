@@ -1,61 +1,61 @@
 {
-  "last_updated": "2026-04-29 02:54:41",
+  "last_updated": "2026-04-29 05:55:27",
   "news": [
     {
       "type": "HackerNews",
       "title": "Ghostty is leaving GitHub",
       "url": "https://mitchellh.com/writing/ghostty-leaving-github",
-      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://mitchellh.com/writing/...",
-      "score": 1812
+      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://mitchellh.com/writing/...",
+      "score": 2130
     },
     {
       "type": "HackerNews",
-      "title": "Claude system prompt bug wastes user money and bricks managed agents",
-      "url": "https://github.com/anthropics/claude-code/issues/49363",
-      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://github.com/anthropics/...",
-      "score": 139
-    },
-    {
-      "type": "HackerNews",
-      "title": "How ChatGPT serves ads",
-      "url": "https://www.buchodi.com/how-chatgpt-serves-ads-heres-the-full-attribution-loop/",
-      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.buchodi.com/how-ch...",
-      "score": 176
+      "title": "Bugs Rust won't catch",
+      "url": "https://corrode.dev/blog/bugs-rust-wont-catch/",
+      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://corrode.dev/blog/bugs-...",
+      "score": 105
     },
     {
       "type": "HackerNews",
       "title": "Before GitHub",
       "url": "https://lucumr.pocoo.org/2026/4/28/before-github/",
-      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://lucumr.pocoo.org/2026/...",
-      "score": 282
+      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://lucumr.pocoo.org/2026/...",
+      "score": 361
+    },
+    {
+      "type": "HackerNews",
+      "title": "How ChatGPT serves ads",
+      "url": "https://www.buchodi.com/how-chatgpt-serves-ads-heres-the-full-attribution-loop/",
+      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.buchodi.com/how-ch...",
+      "score": 240
+    },
+    {
+      "type": "HackerNews",
+      "title": "Show HN: Auto-Architecture: Karpathy's Loop, pointed at a CPU",
+      "url": "https://github.com/FeSens/auto-arch-tournament/blob/main/docs/auto-arch-tournament-blog-post.md",
+      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://github.com/FeSens/auto...",
+      "score": 65
     },
     {
       "type": "HackerNews",
       "title": "OpenAI models coming to Amazon Bedrock: Interview with OpenAI and AWS CEOs",
       "url": "https://stratechery.com/2026/an-interview-with-openai-ceo-sam-altman-and-aws-ceo-matt-garman-about-bedrock-managed-agents/",
-      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://stratechery.com/2026/a...",
-      "score": 192
+      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://stratechery.com/2026/a...",
+      "score": 223
     },
     {
       "type": "HackerNews",
-      "title": "We decreased our LLM costs with Opus",
-      "url": "https://www.mendral.com/blog/frontier-model-lower-costs",
-      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.mendral.com/blog/f...",
-      "score": 36
+      "title": "We still don't have a more precise value for \"Big G\"",
+      "url": "https://arstechnica.com/science/2026/04/we-still-dont-have-a-more-precise-value-for-big-g/",
+      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://arstechnica.com/scienc...",
+      "score": 29
     },
     {
       "type": "HackerNews",
-      "title": "I won a championship that doesn't exist",
-      "url": "https://ron.stoner.com/How_I_Won_a_Championship_That_Doesnt_Exist/",
-      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://ron.stoner.com/How_I_W...",
-      "score": 89
-    },
-    {
-      "type": "HackerNews",
-      "title": "Intel Arc Pro B70 Review",
-      "url": "https://www.pugetsystems.com/labs/articles/intel-arc-pro-b70-review/",
-      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.pugetsystems.com/l...",
-      "score": 120
+      "title": "Regression: malware reminder on every read still causes subagent refusals",
+      "url": "https://github.com/anthropics/claude-code/issues/49363",
+      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://github.com/anthropics/...",
+      "score": 186
     }
   ]
 }
