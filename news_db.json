@@ -1,61 +1,61 @@
 {
-  "last_updated": "2026-04-29 08:21:24",
+  "last_updated": "2026-04-29 10:56:39",
   "news": [
+    {
+      "type": "HackerNews",
+      "title": "Soft launch of open-source code platform for government",
+      "url": "https://www.nldigitalgovernment.nl/news/soft-launch-for-government-open-source-code-platform/",
+      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.nldigitalgovernmen...",
+      "score": 77
+    },
     {
       "type": "HackerNews",
       "title": "Ghostty is leaving GitHub",
       "url": "https://mitchellh.com/writing/ghostty-leaving-github",
       "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://mitchellh.com/writing/...",
-      "score": 2435
+      "score": 2677
+    },
+    {
+      "type": "HackerNews",
+      "title": "Show HN: Rip.so – a graveyard for dead internet things",
+      "url": "https://rip.so",
+      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://rip.so...",
+      "score": 46
     },
     {
       "type": "HackerNews",
       "title": "Bugs Rust won't catch",
       "url": "https://corrode.dev/blog/bugs-rust-wont-catch/",
       "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://corrode.dev/blog/bugs-...",
-      "score": 229
+      "score": 327
     },
     {
       "type": "HackerNews",
       "title": "HardenedBSD Is Now Officially on Radicle",
       "url": "https://hardenedbsd.org/article/shawn-webb/2026-04-26/hardenedbsd-officially-radicle",
       "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://hardenedbsd.org/articl...",
-      "score": 37
+      "score": 76
     },
     {
       "type": "HackerNews",
       "title": "How ChatGPT serves ads",
       "url": "https://www.buchodi.com/how-chatgpt-serves-ads-heres-the-full-attribution-loop/",
-      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.buchodi.com/how-ch...",
-      "score": 297
+      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.buchodi.com/how-ch...",
+      "score": 356
+    },
+    {
+      "type": "HackerNews",
+      "title": "Tell HN: An update from the new Tindie team",
+      "url": null,
+      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：...",
+      "score": 42
     },
     {
       "type": "HackerNews",
       "title": "Before GitHub",
       "url": "https://lucumr.pocoo.org/2026/4/28/before-github/",
-      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://lucumr.pocoo.org/2026/...",
-      "score": 440
-    },
-    {
-      "type": "HackerNews",
-      "title": "Show HN: Rocky – Rust SQL engine with branches, replay, column lineage",
-      "url": "https://github.com/rocky-data/rocky",
-      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://github.com/rocky-data/...",
-      "score": 26
-    },
-    {
-      "type": "HackerNews",
-      "title": "Withnail's Coat and I",
-      "url": "https://ontherow.substack.com/p/withnails-coat-and-i",
-      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://ontherow.substack.com/...",
-      "score": 52
-    },
-    {
-      "type": "HackerNews",
-      "title": "Show HN: Auto-Architecture: Karpathy's Loop, pointed at a CPU",
-      "url": "https://github.com/FeSens/auto-arch-tournament/blob/main/docs/auto-arch-tournament-blog-post.md",
-      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://github.com/FeSens/auto...",
-      "score": 126
+      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://lucumr.pocoo.org/2026/...",
+      "score": 486
     }
   ]
 }
