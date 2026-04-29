@@ -1,61 +1,61 @@
 {
-  "last_updated": "2026-04-29 16:28:07",
+  "last_updated": "2026-04-29 19:26:30",
   "news": [
     {
       "type": "HackerNews",
-      "title": "Zed is 1.0",
+      "title": "HERMES.md: Anthropic bug causes $200 extra charge, refuses refund",
+      "url": "https://github.com/anthropics/claude-code/issues/53262",
+      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://github.com/anthropics/...",
+      "score": 161
+    },
+    {
+      "type": "HackerNews",
+      "title": "Zed 1.0",
       "url": "https://zed.dev/blog/zed-1-0",
       "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://zed.dev/blog/zed-1-0...",
-      "score": 517
+      "score": 1075
     },
     {
       "type": "HackerNews",
-      "title": "Tangled – We need a federation of forges",
+      "title": "Copy Fail – CVE-2026-31431",
+      "url": "https://copy.fail/",
+      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://copy.fail/...",
+      "score": 146
+    },
+    {
+      "type": "HackerNews",
+      "title": "FastCGI: 30 years old and still the better protocol for reverse proxies",
+      "url": "https://www.agwa.name/blog/post/fastcgi_is_the_better_protocol_for_reverse_proxies",
+      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.agwa.name/blog/pos...",
+      "score": 125
+    },
+    {
+      "type": "HackerNews",
+      "title": "We need a federation of forges",
       "url": "https://blog.tangled.org/federation/",
-      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://blog.tangled.org/feder...",
-      "score": 261
+      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://blog.tangled.org/feder...",
+      "score": 424
     },
     {
       "type": "HackerNews",
-      "title": "Why AI companies want you to be afraid of them",
-      "url": "https://www.bbc.com/future/article/20260428-ai-companies-want-you-to-be-afraid-of-them",
-      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.bbc.com/future/art...",
-      "score": 101
+      "title": "Ramp's Sheets AI Exfiltrates Financials",
+      "url": "https://www.promptarmor.com/resources/ramps-sheets-ai-exfiltrates-financials",
+      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.promptarmor.com/re...",
+      "score": 39
     },
     {
       "type": "HackerNews",
-      "title": "Soft launch of open-source code platform for government",
-      "url": "https://www.nldigitalgovernment.nl/news/soft-launch-for-government-open-source-code-platform/",
-      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.nldigitalgovernmen...",
-      "score": 399
+      "title": "Cursor Camp",
+      "url": "https://neal.fun/cursor-camp/",
+      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://neal.fun/cursor-camp/...",
+      "score": 202
     },
     {
       "type": "HackerNews",
-      "title": "Ghostty is leaving GitHub",
-      "url": "https://mitchellh.com/writing/ghostty-leaving-github",
-      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://mitchellh.com/writing/...",
-      "score": 3134
-    },
-    {
-      "type": "HackerNews",
-      "title": "Mistral Medium 3.5",
-      "url": "https://mistral.ai/news/vibe-remote-agents-mistral-medium-3-5",
-      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://mistral.ai/news/vibe-r...",
-      "score": 117
-    },
-    {
-      "type": "HackerNews",
-      "title": "Online age verification is the hill to die on",
-      "url": "https://xcancel.com/GlennMeder/status/2049088498163216560",
-      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://xcancel.com/GlennMeder...",
-      "score": 51
-    },
-    {
-      "type": "HackerNews",
-      "title": "Improving ICU handovers by learning from Scuderia Ferrari F1 team",
-      "url": "https://healthmanagement.org/c/icu/IssueArticle/improving-handovers-by-learning-from-scuderia-ferrari",
-      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://healthmanagement.org/c...",
-      "score": 36
+      "title": "Laws of UX",
+      "url": "https://lawsofux.com/",
+      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://lawsofux.com/...",
+      "score": 52
     }
   ]
 }
