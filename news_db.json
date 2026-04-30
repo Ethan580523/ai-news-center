@@ -1,61 +1,61 @@
 {
-  "last_updated": "2026-04-30 19:22:29",
+  "last_updated": "2026-04-30 21:55:54",
   "news": [
+    {
+      "type": "HackerNews",
+      "title": "Rivian allows you to disable all internet connectivity",
+      "url": "https://rivian.com/support/article/can-i-disable-all-data-collection-from-my-vehicle",
+      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://rivian.com/support/art...",
+      "score": 205
+    },
+    {
+      "type": "HackerNews",
+      "title": "LinkedIn scans for 6,278 extensions and encrypts the results into every request",
+      "url": "https://404privacy.com/blog/linkedin-is-scanning-your-browser-extensions-this-is-how-they-use-the-data/",
+      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://404privacy.com/blog/li...",
+      "score": 166
+    },
     {
       "type": "HackerNews",
       "title": "How Mark Klein told the EFF about Room 641A [book excerpt]",
       "url": "https://thereader.mitpress.mit.edu/the-whistleblower-who-uncovered-the-nsas-big-brother-machine/",
-      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://thereader.mitpress.mit...",
-      "score": 234
+      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://thereader.mitpress.mit...",
+      "score": 342
     },
     {
       "type": "HackerNews",
       "title": "Shai-Hulud Themed Malware Found in the PyTorch Lightning AI Training Library",
       "url": "https://semgrep.dev/blog/2026/malicious-dependency-in-pytorch-lightning-used-for-ai-training/",
       "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://semgrep.dev/blog/2026/...",
-      "score": 187
+      "score": 271
+    },
+    {
+      "type": "HackerNews",
+      "title": "Apple reports second quarter results",
+      "url": "https://www.apple.com/newsroom/2026/04/apple-reports-second-quarter-results/",
+      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.apple.com/newsroom...",
+      "score": 42
     },
     {
       "type": "HackerNews",
       "title": "I built a Game Boy emulator in F#",
       "url": "https://nickkossolapov.github.io/fame-boy/building-a-game-boy-emulator-in-fsharp/",
-      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://nickkossolapov.github....",
-      "score": 89
-    },
-    {
-      "type": "HackerNews",
-      "title": "CopyFail Was Not Disclosed to Distros",
-      "url": "https://www.openwall.com/lists/oss-security/2026/04/30/10",
-      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.openwall.com/lists...",
-      "score": 152
-    },
-    {
-      "type": "HackerNews",
-      "title": "Belgium stops decommissioning nuclear power plants",
-      "url": "https://dpa-international.com/general-news/urn:newsml:dpa.com:20090101:260430-930-14717/",
-      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://dpa-international.com/...",
-      "score": 623
+      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://nickkossolapov.github....",
+      "score": 147
     },
     {
       "type": "HackerNews",
       "title": "Claude Code refuses requests or charges extra if your commits mention \"OpenClaw\"",
       "url": "https://twitter.com/theo/status/2049645973350363168",
       "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://twitter.com/theo/statu...",
-      "score": 564
+      "score": 795
     },
     {
       "type": "HackerNews",
-      "title": "How an Oil Refinery Works",
-      "url": "https://www.construction-physics.com/p/how-an-oil-refinery-works",
-      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.construction-physi...",
-      "score": 220
-    },
-    {
-      "type": "HackerNews",
-      "title": "Durable queues, streams, pub/sub, and a cron scheduler – inside your SQLite file",
-      "url": "https://honker.dev/",
-      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://honker.dev/...",
-      "score": 101
+      "title": "CopyFail was not disclosed to Gentoo developer",
+      "url": "https://www.openwall.com/lists/oss-security/2026/04/30/10",
+      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.openwall.com/lists...",
+      "score": 280
     }
   ]
 }
