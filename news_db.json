@@ -1,61 +1,61 @@
 {
-  "last_updated": "2026-04-30 02:56:23",
+  "last_updated": "2026-04-30 06:08:02",
   "news": [
+    {
+      "type": "HackerNews",
+      "title": "Where the goblins came from",
+      "url": "https://openai.com/index/where-the-goblins-came-from/",
+      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://openai.com/index/where...",
+      "score": 332
+    },
     {
       "type": "HackerNews",
       "title": "Craig Venter has died",
       "url": "https://www.jcvi.org/media-center/j-craig-venter-genomics-pioneer-and-founder-jcvi-and-diploid-genomics-inc-dies-79",
-      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.jcvi.org/media-cen...",
-      "score": 75
+      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.jcvi.org/media-cen...",
+      "score": 181
+    },
+    {
+      "type": "HackerNews",
+      "title": "Alignment whack-a-mole: Finetuning activates recall of copyrighted books in LLMs",
+      "url": "https://github.com/cauchy221/Alignment-Whack-a-Mole-Code",
+      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://github.com/cauchy221/A...",
+      "score": 82
     },
     {
       "type": "HackerNews",
       "title": "Zed 1.0",
       "url": "https://zed.dev/blog/zed-1-0",
       "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://zed.dev/blog/zed-1-0...",
-      "score": 1578
+      "score": 1705
     },
     {
       "type": "HackerNews",
-      "title": "Copy Fail",
-      "url": "https://copy.fail/",
-      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://copy.fail/...",
-      "score": 644
+      "title": "Noctua releases official 3D CAD models for its cooling fans",
+      "url": "https://www.noctua.at/en/3d-cad-models",
+      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.noctua.at/en/3d-ca...",
+      "score": 77
     },
     {
       "type": "HackerNews",
-      "title": "Joby Kicks Off NYC Electric Air Taxi Demos with Historic JFK Flight",
-      "url": "https://www.flyingmag.com/joby-nyc-electric-air-taxi-jfk-airport/",
-      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.flyingmag.com/joby...",
-      "score": 18
+      "title": "The Zig project's rationale for their firm anti-AI contribution policy",
+      "url": "https://simonwillison.net/2026/Apr/30/zig-anti-ai/",
+      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://simonwillison.net/2026...",
+      "score": 114
     },
     {
       "type": "HackerNews",
-      "title": "Cursor Camp",
-      "url": "https://neal.fun/cursor-camp/",
-      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://neal.fun/cursor-camp/...",
-      "score": 690
+      "title": "Functional programmers need to take a look at Zig",
+      "url": "https://pure-systems.org/posts/2026-04-29-functional-programmers-need-to-take-a-look-at-zig.html",
+      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://pure-systems.org/posts...",
+      "score": 55
     },
     {
       "type": "HackerNews",
-      "title": "OpenTrafficMap",
-      "url": "https://opentrafficmap.org/",
-      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://opentrafficmap.org/...",
-      "score": 162
-    },
-    {
-      "type": "HackerNews",
-      "title": "FastCGI: 30 years old and still the better protocol for reverse proxies",
-      "url": "https://www.agwa.name/blog/post/fastcgi_is_the_better_protocol_for_reverse_proxies",
-      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.agwa.name/blog/pos...",
-      "score": 262
-    },
-    {
-      "type": "HackerNews",
-      "title": "HERMES.md in commit messages causes requests to route to extra usage billing",
-      "url": "https://github.com/anthropics/claude-code/issues/53262",
-      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://github.com/anthropics/...",
-      "score": 1001
+      "title": "Biology is a Burrito: A text- and visual-based journey through a living cell",
+      "url": "https://burrito.bio/essays/biology-is-a-burrito",
+      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://burrito.bio/essays/bio...",
+      "score": 53
     }
   ]
 }
