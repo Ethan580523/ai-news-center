@@ -1,61 +1,61 @@
 {
-  "last_updated": "2026-04-30 10:55:58",
+  "last_updated": "2026-04-30 13:56:53",
   "news": [
+    {
+      "type": "HackerNews",
+      "title": "Belgium stops decommissioning nuclear power plants",
+      "url": "https://dpa-international.com/general-news/urn:newsml:dpa.com:20090101:260430-930-14717/",
+      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://dpa-international.com/...",
+      "score": 181
+    },
+    {
+      "type": "HackerNews",
+      "title": "Meta in row after workers who saw smart glasses users having sex lose jobs",
+      "url": "https://www.bbc.com/news/articles/c5y7yvgy0w6o",
+      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.bbc.com/news/artic...",
+      "score": 67
+    },
+    {
+      "type": "HackerNews",
+      "title": "I aggregated 28 US Government auction sites into one search",
+      "url": "https://bidprowl.com",
+      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://bidprowl.com...",
+      "score": 60
+    },
     {
       "type": "HackerNews",
       "title": "Granite 4.1: IBM's 8B Model Matching 32B MoE",
       "url": "https://firethering.com/granite-4-1-ibm-open-source-model-family/",
-      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://firethering.com/granit...",
-      "score": 16
+      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://firethering.com/granit...",
+      "score": 165
+    },
+    {
+      "type": "HackerNews",
+      "title": "Mozilla's Opposition to Chrome's Prompt API",
+      "url": "https://github.com/mozilla/standards-positions/issues/1213",
+      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://github.com/mozilla/sta...",
+      "score": 284
     },
     {
       "type": "HackerNews",
       "title": "Where the goblins came from",
       "url": "https://openai.com/index/where-the-goblins-came-from/",
       "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://openai.com/index/where...",
-      "score": 677
+      "score": 818
     },
     {
       "type": "HackerNews",
       "title": "Noctua releases official 3D CAD models for its cooling fans",
       "url": "https://www.noctua.at/en/3d-cad-models",
       "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.noctua.at/en/3d-ca...",
-      "score": 273
+      "score": 368
     },
     {
       "type": "HackerNews",
       "title": "Zed 1.0",
       "url": "https://zed.dev/blog/zed-1-0",
       "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://zed.dev/blog/zed-1-0...",
-      "score": 1878
-    },
-    {
-      "type": "HackerNews",
-      "title": "The Zig project's rationale for their anti-AI contribution policy",
-      "url": "https://simonwillison.net/2026/Apr/30/zig-anti-ai/",
-      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://simonwillison.net/2026...",
-      "score": 315
-    },
-    {
-      "type": "HackerNews",
-      "title": "Copy Fail",
-      "url": "https://copy.fail/",
-      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://copy.fail/...",
-      "score": 1016
-    },
-    {
-      "type": "HackerNews",
-      "title": "Craig Venter has died",
-      "url": "https://www.jcvi.org/media-center/j-craig-venter-genomics-pioneer-and-founder-jcvi-and-diploid-genomics-inc-dies-79",
-      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.jcvi.org/media-cen...",
-      "score": 241
-    },
-    {
-      "type": "HackerNews",
-      "title": "\"Parse, don't validate\" through the years with C++",
-      "url": "https://derekrodriguez.dev/parse-dont-validate-through-the-years-with-c-/",
-      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://derekrodriguez.dev/par...",
-      "score": 29
+      "score": 1973
     }
   ]
 }
