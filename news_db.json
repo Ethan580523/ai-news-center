@@ -1,61 +1,61 @@
 {
-  "last_updated": "2026-04-30 16:19:06",
+  "last_updated": "2026-04-30 19:22:29",
   "news": [
+    {
+      "type": "HackerNews",
+      "title": "How Mark Klein told the EFF about Room 641A [book excerpt]",
+      "url": "https://thereader.mitpress.mit.edu/the-whistleblower-who-uncovered-the-nsas-big-brother-machine/",
+      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://thereader.mitpress.mit...",
+      "score": 234
+    },
+    {
+      "type": "HackerNews",
+      "title": "Shai-Hulud Themed Malware Found in the PyTorch Lightning AI Training Library",
+      "url": "https://semgrep.dev/blog/2026/malicious-dependency-in-pytorch-lightning-used-for-ai-training/",
+      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://semgrep.dev/blog/2026/...",
+      "score": 187
+    },
+    {
+      "type": "HackerNews",
+      "title": "I built a Game Boy emulator in F#",
+      "url": "https://nickkossolapov.github.io/fame-boy/building-a-game-boy-emulator-in-fsharp/",
+      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://nickkossolapov.github....",
+      "score": 89
+    },
+    {
+      "type": "HackerNews",
+      "title": "CopyFail Was Not Disclosed to Distros",
+      "url": "https://www.openwall.com/lists/oss-security/2026/04/30/10",
+      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.openwall.com/lists...",
+      "score": 152
+    },
     {
       "type": "HackerNews",
       "title": "Belgium stops decommissioning nuclear power plants",
       "url": "https://dpa-international.com/general-news/urn:newsml:dpa.com:20090101:260430-930-14717/",
-      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://dpa-international.com/...",
-      "score": 450
+      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://dpa-international.com/...",
+      "score": 623
     },
     {
       "type": "HackerNews",
-      "title": "Meta in row after workers who saw smart glasses users having sex lose jobs",
-      "url": "https://www.bbc.com/news/articles/c5y7yvgy0w6o",
-      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.bbc.com/news/artic...",
-      "score": 378
+      "title": "Claude Code refuses requests or charges extra if your commits mention \"OpenClaw\"",
+      "url": "https://twitter.com/theo/status/2049645973350363168",
+      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://twitter.com/theo/statu...",
+      "score": 564
     },
     {
       "type": "HackerNews",
       "title": "How an Oil Refinery Works",
       "url": "https://www.construction-physics.com/p/how-an-oil-refinery-works",
-      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.construction-physi...",
-      "score": 121
+      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.construction-physi...",
+      "score": 220
     },
     {
       "type": "HackerNews",
-      "title": "I aggregated 28 US Government auction sites into one search",
-      "url": "https://bidprowl.com",
-      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://bidprowl.com...",
-      "score": 140
-    },
-    {
-      "type": "HackerNews",
-      "title": "You can beat the binary search",
-      "url": "https://lemire.me/blog/2026/04/27/you-can-beat-the-binary-search/",
-      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://lemire.me/blog/2026/04...",
-      "score": 82
-    },
-    {
-      "type": "HackerNews",
-      "title": "Spain's parliament will act against massive IP blockages by LaLiga",
-      "url": "https://www.democrata.es/en/politics/congress-and-senate/congress-will-act-against-massive-ip-blockages-by-laliga/",
-      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.democrata.es/en/po...",
-      "score": 14
-    },
-    {
-      "type": "HackerNews",
-      "title": "The FCC is about to ban 21% of its test labs today. I mapped them all",
-      "url": "https://markready.io/blog/fcc-accredited-test-labs-complete-guide",
-      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://markready.io/blog/fcc-...",
-      "score": 110
-    },
-    {
-      "type": "HackerNews",
-      "title": "Granite 4.1: IBM's 8B Model Matching 32B MoE",
-      "url": "https://firethering.com/granite-4-1-ibm-open-source-model-family/",
-      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://firethering.com/granit...",
-      "score": 215
+      "title": "Durable queues, streams, pub/sub, and a cron scheduler – inside your SQLite file",
+      "url": "https://honker.dev/",
+      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://honker.dev/...",
+      "score": 101
     }
   ]
 }
