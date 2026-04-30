@@ -1,61 +1,61 @@
 {
-  "last_updated": "2026-04-29 21:58:45",
+  "last_updated": "2026-04-30 02:56:23",
   "news": [
     {
       "type": "HackerNews",
-      "title": "HERMES.md: Anthropic bug causes $200 extra charge, refuses refund",
-      "url": "https://github.com/anthropics/claude-code/issues/53262",
-      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://github.com/anthropics/...",
-      "score": 824
+      "title": "Craig Venter has died",
+      "url": "https://www.jcvi.org/media-center/j-craig-venter-genomics-pioneer-and-founder-jcvi-and-diploid-genomics-inc-dies-79",
+      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.jcvi.org/media-cen...",
+      "score": 75
     },
     {
       "type": "HackerNews",
       "title": "Zed 1.0",
       "url": "https://zed.dev/blog/zed-1-0",
-      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://zed.dev/blog/zed-1-0...",
-      "score": 1314
+      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://zed.dev/blog/zed-1-0...",
+      "score": 1578
     },
     {
       "type": "HackerNews",
-      "title": "Copy Fail – CVE-2026-31431",
+      "title": "Copy Fail",
       "url": "https://copy.fail/",
-      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://copy.fail/...",
-      "score": 328
+      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://copy.fail/...",
+      "score": 644
+    },
+    {
+      "type": "HackerNews",
+      "title": "Joby Kicks Off NYC Electric Air Taxi Demos with Historic JFK Flight",
+      "url": "https://www.flyingmag.com/joby-nyc-electric-air-taxi-jfk-airport/",
+      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.flyingmag.com/joby...",
+      "score": 18
+    },
+    {
+      "type": "HackerNews",
+      "title": "Cursor Camp",
+      "url": "https://neal.fun/cursor-camp/",
+      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://neal.fun/cursor-camp/...",
+      "score": 690
     },
     {
       "type": "HackerNews",
       "title": "OpenTrafficMap",
       "url": "https://opentrafficmap.org/",
       "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://opentrafficmap.org/...",
-      "score": 76
-    },
-    {
-      "type": "HackerNews",
-      "title": "Gooseworks (YC W23) Is Hiring a Founding Growth Engineer",
-      "url": "https://www.ycombinator.com/companies/gooseworks/jobs/ztgY6bD-founding-growth-engineer",
-      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.ycombinator.com/co...",
-      "score": 1
+      "score": 162
     },
     {
       "type": "HackerNews",
       "title": "FastCGI: 30 years old and still the better protocol for reverse proxies",
       "url": "https://www.agwa.name/blog/post/fastcgi_is_the_better_protocol_for_reverse_proxies",
-      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.agwa.name/blog/pos...",
-      "score": 181
+      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.agwa.name/blog/pos...",
+      "score": 262
     },
     {
       "type": "HackerNews",
-      "title": "Cursor Camp",
-      "url": "https://neal.fun/cursor-camp/",
-      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://neal.fun/cursor-camp/...",
-      "score": 420
-    },
-    {
-      "type": "HackerNews",
-      "title": "Why I still reach for Lisp and Scheme instead of Haskell",
-      "url": "https://jointhefreeworld.org/blog/articles/lisps/why-i-still-reach-for-scheme-instead-of-haskell/index.html",
-      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://jointhefreeworld.org/b...",
-      "score": 119
+      "title": "HERMES.md in commit messages causes requests to route to extra usage billing",
+      "url": "https://github.com/anthropics/claude-code/issues/53262",
+      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://github.com/anthropics/...",
+      "score": 1001
     }
   ]
 }
