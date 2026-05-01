@@ -1,61 +1,61 @@
 {
-  "last_updated": "2026-04-30 21:55:54",
+  "last_updated": "2026-05-01 03:27:35",
   "news": [
     {
       "type": "HackerNews",
-      "title": "Rivian allows you to disable all internet connectivity",
-      "url": "https://rivian.com/support/article/can-i-disable-all-data-collection-from-my-vehicle",
-      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://rivian.com/support/art...",
-      "score": 205
-    },
-    {
-      "type": "HackerNews",
-      "title": "LinkedIn scans for 6,278 extensions and encrypts the results into every request",
-      "url": "https://404privacy.com/blog/linkedin-is-scanning-your-browser-extensions-this-is-how-they-use-the-data/",
-      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://404privacy.com/blog/li...",
-      "score": 166
+      "title": "OpenWarp",
+      "url": "https://openwarp.zerx.dev",
+      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://openwarp.zerx.dev...",
+      "score": 43
     },
     {
       "type": "HackerNews",
       "title": "How Mark Klein told the EFF about Room 641A [book excerpt]",
       "url": "https://thereader.mitpress.mit.edu/the-whistleblower-who-uncovered-the-nsas-big-brother-machine/",
-      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://thereader.mitpress.mit...",
-      "score": 342
+      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://thereader.mitpress.mit...",
+      "score": 464
+    },
+    {
+      "type": "HackerNews",
+      "title": "Opus 4.7 knows the real Kelsey",
+      "url": "https://www.theargumentmag.com/p/i-can-never-talk-to-an-ai-anonymously",
+      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.theargumentmag.com...",
+      "score": 209
+    },
+    {
+      "type": "HackerNews",
+      "title": "For Linux kernel vulnerabilities, there is no heads-up to distributions",
+      "url": "https://www.openwall.com/lists/oss-security/2026/04/30/10",
+      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.openwall.com/lists...",
+      "score": 400
     },
     {
       "type": "HackerNews",
       "title": "Shai-Hulud Themed Malware Found in the PyTorch Lightning AI Training Library",
       "url": "https://semgrep.dev/blog/2026/malicious-dependency-in-pytorch-lightning-used-for-ai-training/",
-      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://semgrep.dev/blog/2026/...",
-      "score": 271
+      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://semgrep.dev/blog/2026/...",
+      "score": 340
     },
     {
       "type": "HackerNews",
-      "title": "Apple reports second quarter results",
-      "url": "https://www.apple.com/newsroom/2026/04/apple-reports-second-quarter-results/",
-      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.apple.com/newsroom...",
-      "score": 42
+      "title": "Can I disable all data collection from my vehicle?",
+      "url": "https://rivian.com/support/article/can-i-disable-all-data-collection-from-my-vehicle",
+      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://rivian.com/support/art...",
+      "score": 532
     },
     {
       "type": "HackerNews",
-      "title": "I built a Game Boy emulator in F#",
-      "url": "https://nickkossolapov.github.io/fame-boy/building-a-game-boy-emulator-in-fsharp/",
-      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://nickkossolapov.github....",
-      "score": 147
+      "title": "CPanel and WHM Authentication Bypass – CVE-2026-41940",
+      "url": "https://labs.watchtowr.com/the-internet-is-falling-down-falling-down-falling-down-cpanel-whm-authentication-bypass-cve-2026-41940/",
+      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://labs.watchtowr.com/the...",
+      "score": 57
     },
     {
       "type": "HackerNews",
-      "title": "Claude Code refuses requests or charges extra if your commits mention \"OpenClaw\"",
-      "url": "https://twitter.com/theo/status/2049645973350363168",
-      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://twitter.com/theo/statu...",
-      "score": 795
-    },
-    {
-      "type": "HackerNews",
-      "title": "CopyFail was not disclosed to Gentoo developer",
-      "url": "https://www.openwall.com/lists/oss-security/2026/04/30/10",
-      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.openwall.com/lists...",
-      "score": 280
+      "title": "Maladaptive Frugality",
+      "url": "https://herbertlui.net/maladaptive-frugality/",
+      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://herbertlui.net/maladap...",
+      "score": 34
     }
   ]
 }
