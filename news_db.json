@@ -1,61 +1,61 @@
 {
-  "last_updated": "2026-05-01 13:19:14",
+  "last_updated": "2026-05-01 15:57:59",
   "news": [
+    {
+      "type": "HackerNews",
+      "title": "GhostBox – disposable little machines from the Global Free Tier.",
+      "url": "https://www.ghost.charity/",
+      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.ghost.charity/...",
+      "score": 77
+    },
+    {
+      "type": "HackerNews",
+      "title": "Ask HN: Who is hiring? (May 2026)",
+      "url": null,
+      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：...",
+      "score": 31
+    },
+    {
+      "type": "HackerNews",
+      "title": "whohas – Command-line utility for cross-distro, cross-repository package search",
+      "url": "https://github.com/whohas/whohas",
+      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://github.com/whohas/whoh...",
+      "score": 15
+    },
     {
       "type": "HackerNews",
       "title": "Your Website Is Not for You",
       "url": "https://websmith.studio/blog/your-website-is-not-for-you/",
-      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://websmith.studio/blog/y...",
-      "score": 88
+      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://websmith.studio/blog/y...",
+      "score": 186
     },
     {
       "type": "HackerNews",
       "title": "Running Adobe's 1991 PostScript Interpreter in the Browser",
       "url": "https://www.pagetable.com/?p=1854",
-      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.pagetable.com/?p=1...",
-      "score": 24
+      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.pagetable.com/?p=1...",
+      "score": 70
     },
     {
       "type": "HackerNews",
-      "title": "Show HN: Site Mogging",
-      "url": "https://sitemogging.com",
-      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://sitemogging.com...",
-      "score": 25
-    },
-    {
-      "type": "HackerNews",
-      "title": "Apple accidentally left Claude.md files Apple Support app",
-      "url": "https://xcancel.com/aaronp613/status/2049986504617820551",
-      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://xcancel.com/aaronp613/...",
-      "score": 94
-    },
-    {
-      "type": "HackerNews",
-      "title": "Show HN: Perfect Bluetooth MIDI for Windows",
+      "title": "I'm Peter Roberts, immigration attorney who does work for YC and startups. AMA",
       "url": null,
       "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：...",
-      "score": 52
+      "score": 22
     },
     {
       "type": "HackerNews",
-      "title": "How Mark Klein told the EFF about Room 641A [book excerpt]",
-      "url": "https://thereader.mitpress.mit.edu/the-whistleblower-who-uncovered-the-nsas-big-brother-machine/",
-      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://thereader.mitpress.mit...",
-      "score": 637
+      "title": "Ask HN: Who wants to be hired? (May 2026)",
+      "url": null,
+      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：...",
+      "score": 14
     },
     {
       "type": "HackerNews",
-      "title": "Show HN: WhatCable, a tiny menu bar app for inspecting USB-C cables",
-      "url": "https://github.com/darrylmorley/whatcable",
-      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://github.com/darrylmorle...",
-      "score": 184
-    },
-    {
-      "type": "HackerNews",
-      "title": "New copy of earliest poem in English, written 1,3k years ago, discovered in Rome",
-      "url": "https://www.tcd.ie/news_events/articles/2026/caedmons-hymn-discovery/",
-      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.tcd.ie/news_events...",
-      "score": 101
+      "title": "An open letter asking NHS England to keep its code open",
+      "url": "https://keepthingsopen.com",
+      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://keepthingsopen.com...",
+      "score": 30
     }
   ]
 }
