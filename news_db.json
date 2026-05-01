@@ -1,61 +1,61 @@
 {
-  "last_updated": "2026-05-01 08:11:45",
+  "last_updated": "2026-05-01 10:22:55",
   "news": [
+    {
+      "type": "HackerNews",
+      "title": "Show HN: WhatCable, a tiny menu bar app for inspecting USB-C cables",
+      "url": "https://github.com/darrylmorley/whatcable",
+      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://github.com/darrylmorle...",
+      "score": 51
+    },
+    {
+      "type": "HackerNews",
+      "title": "Auto Polo",
+      "url": "https://en.wikipedia.org/wiki/Auto_polo",
+      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://en.wikipedia.org/wiki/...",
+      "score": 45
+    },
+    {
+      "type": "HackerNews",
+      "title": "Show HN: Perfect Bluetooth MIDI for Windows",
+      "url": null,
+      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：...",
+      "score": 12
+    },
+    {
+      "type": "HackerNews",
+      "title": "If I could make my own GitHub",
+      "url": "https://matduggan.com/if-i-could-make-my-own-github/",
+      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://matduggan.com/if-i-cou...",
+      "score": 46
+    },
     {
       "type": "HackerNews",
       "title": "How Mark Klein told the EFF about Room 641A [book excerpt]",
       "url": "https://thereader.mitpress.mit.edu/the-whistleblower-who-uncovered-the-nsas-big-brother-machine/",
-      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://thereader.mitpress.mit...",
-      "score": 573
+      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://thereader.mitpress.mit...",
+      "score": 603
+    },
+    {
+      "type": "HackerNews",
+      "title": "The Rotary Un-Smartphone",
+      "url": "https://skysedge.com/telecom/RUSP/index.html",
+      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://skysedge.com/telecom/R...",
+      "score": 7
     },
     {
       "type": "HackerNews",
       "title": "New copy of earliest poem in English, written 1,3k years ago, discovered in Rome",
       "url": "https://www.tcd.ie/news_events/articles/2026/caedmons-hymn-discovery/",
       "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.tcd.ie/news_events...",
-      "score": 45
+      "score": 65
     },
     {
       "type": "HackerNews",
       "title": "For Linux kernel vulnerabilities, there is no heads-up to distributions",
       "url": "https://www.openwall.com/lists/oss-security/2026/04/30/10",
-      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.openwall.com/lists...",
-      "score": 473
-    },
-    {
-      "type": "HackerNews",
-      "title": "Opus 4.7 knows the real Kelsey",
-      "url": "https://www.theargumentmag.com/p/i-can-never-talk-to-an-ai-anonymously",
-      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.theargumentmag.com...",
-      "score": 330
-    },
-    {
-      "type": "HackerNews",
-      "title": "Shai-Hulud Themed Malware Found in the PyTorch Lightning AI Training Library",
-      "url": "https://semgrep.dev/blog/2026/malicious-dependency-in-pytorch-lightning-used-for-ai-training/",
-      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://semgrep.dev/blog/2026/...",
-      "score": 389
-    },
-    {
-      "type": "HackerNews",
-      "title": "Softmax, can you derive the Jacobian? And should you care?",
-      "url": "https://idlemachines.co.uk/essays/softmax",
-      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://idlemachines.co.uk/ess...",
-      "score": 27
-    },
-    {
-      "type": "HackerNews",
-      "title": "Roboticist-Turned-Teacher Built a Life-Size Replica of Eniac",
-      "url": "https://spectrum.ieee.org/roboticist-turned-teacher-eniac-replica",
-      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://spectrum.ieee.org/robo...",
-      "score": 26
-    },
-    {
-      "type": "HackerNews",
-      "title": "Apple Says Mac Studio and Mac Mini Will Be in Short Supply for Months",
-      "url": "https://www.macrumors.com/2026/04/30/mac-studio-mac-mini-constrained-months/",
-      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.macrumors.com/2026...",
-      "score": 63
+      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.openwall.com/lists...",
+      "score": 506
     }
   ]
 }
