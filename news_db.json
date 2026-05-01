@@ -1,61 +1,61 @@
 {
-  "last_updated": "2026-05-01 15:57:59",
+  "last_updated": "2026-05-01 19:12:45",
   "news": [
     {
       "type": "HackerNews",
-      "title": "GhostBox – disposable little machines from the Global Free Tier.",
-      "url": "https://www.ghost.charity/",
-      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.ghost.charity/...",
-      "score": 77
+      "title": "A statement about why RightsCon 2026 will not take place in Zambia",
+      "url": "https://www.rightscon.org/rc26-statement/",
+      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.rightscon.org/rc26...",
+      "score": 47
+    },
+    {
+      "type": "HackerNews",
+      "title": "AI Uses Less Water Than the Public Thinks",
+      "url": "https://californiawaterblog.com/2026/04/26/ai-water-use-distractions-and-lessons-for-california/",
+      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://californiawaterblog.co...",
+      "score": 95
+    },
+    {
+      "type": "HackerNews",
+      "title": "The Gay Jailbreak Technique",
+      "url": "https://github.com/Exocija/ZetaLib/blob/main/The%20Gay%20Jailbreak/The%20Gay%20Jailbreak.md",
+      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://github.com/Exocija/Zet...",
+      "score": 101
+    },
+    {
+      "type": "HackerNews",
+      "title": "Uber Torches 2026 AI Budget on Claude Code in Four Months",
+      "url": "https://www.briefs.co/news/uber-torches-entire-2026-ai-budget-on-claude-code-in-four-months/",
+      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.briefs.co/news/ube...",
+      "score": 323
     },
     {
       "type": "HackerNews",
       "title": "Ask HN: Who is hiring? (May 2026)",
       "url": null,
       "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：...",
-      "score": 31
+      "score": 145
     },
     {
       "type": "HackerNews",
       "title": "whohas – Command-line utility for cross-distro, cross-repository package search",
       "url": "https://github.com/whohas/whohas",
-      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://github.com/whohas/whoh...",
-      "score": 15
+      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://github.com/whohas/whoh...",
+      "score": 75
     },
     {
       "type": "HackerNews",
-      "title": "Your Website Is Not for You",
-      "url": "https://websmith.studio/blog/your-website-is-not-for-you/",
-      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://websmith.studio/blog/y...",
-      "score": 186
-    },
-    {
-      "type": "HackerNews",
-      "title": "Running Adobe's 1991 PostScript Interpreter in the Browser",
-      "url": "https://www.pagetable.com/?p=1854",
-      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.pagetable.com/?p=1...",
-      "score": 70
-    },
-    {
-      "type": "HackerNews",
-      "title": "I'm Peter Roberts, immigration attorney who does work for YC and startups. AMA",
-      "url": null,
-      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：...",
-      "score": 22
-    },
-    {
-      "type": "HackerNews",
-      "title": "Ask HN: Who wants to be hired? (May 2026)",
-      "url": null,
-      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：...",
-      "score": 14
-    },
-    {
-      "type": "HackerNews",
-      "title": "An open letter asking NHS England to keep its code open",
-      "url": "https://keepthingsopen.com",
-      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://keepthingsopen.com...",
+      "title": "Spotify adds 'Verified' badges to distinguish human artists from AI",
+      "url": "https://www.bbc.com/news/articles/c5yerr4m1yno",
+      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.bbc.com/news/artic...",
       "score": 30
+    },
+    {
+      "type": "HackerNews",
+      "title": "Flock cameras keep telling police a man who doesn't have a warrant has a warrant",
+      "url": "https://www.youtube.com/watch?v=nHwxV0Sd9V8",
+      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.youtube.com/watch?...",
+      "score": 135
     }
   ]
 }
