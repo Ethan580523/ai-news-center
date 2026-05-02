@@ -1,61 +1,61 @@
 {
-  "last_updated": "2026-05-02 19:00:17",
+  "last_updated": "2026-05-02 21:41:01",
   "news": [
+    {
+      "type": "HackerNews",
+      "title": "VS Code inserting 'Co-Authored-by Copilot' into commits regardless of usage",
+      "url": "https://github.com/microsoft/vscode/pull/310226",
+      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://github.com/microsoft/v...",
+      "score": 210
+    },
+    {
+      "type": "HackerNews",
+      "title": "Dav2d",
+      "url": "https://code.videolan.org/videolan/dav2d",
+      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://code.videolan.org/vide...",
+      "score": 238
+    },
+    {
+      "type": "HackerNews",
+      "title": "Do_not_track",
+      "url": "https://donottrack.sh/",
+      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://donottrack.sh/...",
+      "score": 105
+    },
+    {
+      "type": "HackerNews",
+      "title": "This Month in Ladybird - April 2026",
+      "url": "https://ladybird.org/newsletter/2026-04-30/",
+      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://ladybird.org/newslette...",
+      "score": 19
+    },
+    {
+      "type": "HackerNews",
+      "title": "Six Years Perfecting Maps on WatchOS",
+      "url": "https://www.david-smith.org/blog/2026/04/29/maps-on-watchos/",
+      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.david-smith.org/bl...",
+      "score": 9
+    },
+    {
+      "type": "HackerNews",
+      "title": "Inventions for battery reuse and recycling increase seven-fold in last decade",
+      "url": "https://www.epo.org/en/news-events/news/inventions-battery-reuse-and-recycling-increase-more-seven-fold-last-decade",
+      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.epo.org/en/news-ev...",
+      "score": 118
+    },
     {
       "type": "HackerNews",
       "title": "NetHack 5.0.0",
       "url": "https://nethack.org/v500/release.html",
       "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://nethack.org/v500/relea...",
-      "score": 145
+      "score": 287
     },
     {
       "type": "HackerNews",
-      "title": "Videolan Dav2d",
-      "url": "https://code.videolan.org/videolan/dav2d",
-      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://code.videolan.org/vide...",
-      "score": 64
-    },
-    {
-      "type": "HackerNews",
-      "title": "Uber wants to turn its drivers into a sensor grid for self-driving companies",
-      "url": "https://techcrunch.com/2026/05/01/uber-wants-to-turn-its-millions-of-drivers-into-a-sensor-grid-for-self-driving-companies/",
-      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://techcrunch.com/2026/05...",
-      "score": 80
-    },
-    {
-      "type": "HackerNews",
-      "title": "Inventions for battery reuse and recycling increase more than 7-fold in last 10y",
-      "url": "https://www.epo.org/en/news-events/news/inventions-battery-reuse-and-recycling-increase-more-seven-fold-last-decade",
-      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.epo.org/en/news-ev...",
-      "score": 67
-    },
-    {
-      "type": "HackerNews",
-      "title": "Flue is a TypeScript framework for building the next generation of agents",
-      "url": "https://flueframework.com/",
-      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://flueframework.com/...",
-      "score": 17
-    },
-    {
-      "type": "HackerNews",
-      "title": "California to begin ticketing driverless cars that violate traffic laws",
-      "url": "https://www.bbc.com/news/articles/clypjx3rg2go",
-      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.bbc.com/news/artic...",
-      "score": 64
-    },
-    {
-      "type": "HackerNews",
-      "title": "Unsigned Sizes: A Five Year Mistake",
-      "url": "https://c3-lang.org/blog/unsigned-sizes-a-five-year-mistake/",
-      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://c3-lang.org/blog/unsig...",
-      "score": 6
-    },
-    {
-      "type": "HackerNews",
-      "title": "Barman – Backup and Recovery Manager for PostgreSQL",
-      "url": "https://github.com/EnterpriseDB/barman",
-      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://github.com/EnterpriseD...",
-      "score": 99
+      "title": "Little Magazines Are Back",
+      "url": "https://wsjfreeexpression.substack.com/p/little-magazines-are-back",
+      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://wsjfreeexpression.subs...",
+      "score": 40
     }
   ]
 }
