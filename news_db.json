@@ -1,61 +1,61 @@
 {
-  "last_updated": "2026-05-02 13:12:58",
+  "last_updated": "2026-05-02 15:46:41",
   "news": [
+    {
+      "type": "HackerNews",
+      "title": "LLMs consistently pick resumes they generate over ones by humans or other models",
+      "url": "https://arxiv.org/abs/2509.00462",
+      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://arxiv.org/abs/2509.004...",
+      "score": 15
+    },
     {
       "type": "HackerNews",
       "title": "How fast is a macOS VM, and how small could it be?",
       "url": "https://eclecticlight.co/2026/05/02/how-fast-is-a-macos-vm-and-how-small-could-it-be/",
-      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://eclecticlight.co/2026/...",
-      "score": 76
+      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://eclecticlight.co/2026/...",
+      "score": 142
+    },
+    {
+      "type": "HackerNews",
+      "title": "Barman – Backup and Recovery Manager for PostgreSQL",
+      "url": "https://github.com/EnterpriseDB/barman",
+      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://github.com/EnterpriseD...",
+      "score": 27
     },
     {
       "type": "HackerNews",
       "title": "Why does it take so long to release black fan versions?",
       "url": "https://www.noctua.at/en/expertise/blog/how-can-it-take-so-long-to-release-black-fan-versions",
-      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.noctua.at/en/exper...",
-      "score": 365
+      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.noctua.at/en/exper...",
+      "score": 493
+    },
+    {
+      "type": "HackerNews",
+      "title": "Refusal in Language Models Is Mediated by a Single Direction",
+      "url": "https://arxiv.org/abs/2406.11717",
+      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://arxiv.org/abs/2406.117...",
+      "score": 19
     },
     {
       "type": "HackerNews",
       "title": "Why are there both TMP and TEMP environment variables? (2015)",
       "url": "https://devblogs.microsoft.com/oldnewthing/20150417-00/?p=44213",
-      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://devblogs.microsoft.com...",
-      "score": 77
-    },
-    {
-      "type": "HackerNews",
-      "title": "The Century-Long Pause in Fundamental Physics",
-      "url": "https://danieltan.weblog.lol/2026/05/the-century-long-pause-in-fundamental-physics",
-      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://danieltan.weblog.lol/2...",
-      "score": 15
+      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://devblogs.microsoft.com...",
+      "score": 117
     },
     {
       "type": "HackerNews",
       "title": "Open Design: Use Your Coding Agent as a Design Engine",
       "url": "https://github.com/nexu-io/open-design",
-      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://github.com/nexu-io/ope...",
-      "score": 10
+      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://github.com/nexu-io/ope...",
+      "score": 91
     },
     {
       "type": "HackerNews",
-      "title": "Show HN: DAC – open-source dashboard as code tool for agents and humans",
-      "url": "https://github.com/bruin-data/dac",
-      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://github.com/bruin-data/...",
-      "score": 42
-    },
-    {
-      "type": "HackerNews",
-      "title": "Dotcl: Common Lisp Implementation on .NET",
-      "url": "https://github.com/dotcl/dotcl",
-      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://github.com/dotcl/dotcl...",
-      "score": 54
-    },
-    {
-      "type": "HackerNews",
-      "title": "Ti-84 Evo",
-      "url": "https://education.ti.com/en/products/calculators/graphing-calculators/ti-84-evo",
-      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://education.ti.com/en/pr...",
-      "score": 483
+      "title": "Craig Venter of Human Genome Project Dies at 79",
+      "url": "https://www.economist.com/obituary/2026/05/01/craig-venter-raced-to-decode-the-human-genome",
+      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.economist.com/obit...",
+      "score": 28
     }
   ]
 }
