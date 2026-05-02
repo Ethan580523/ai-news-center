@@ -1,61 +1,61 @@
 {
-  "last_updated": "2026-05-02 15:46:41",
+  "last_updated": "2026-05-02 19:00:17",
   "news": [
     {
       "type": "HackerNews",
-      "title": "LLMs consistently pick resumes they generate over ones by humans or other models",
-      "url": "https://arxiv.org/abs/2509.00462",
-      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://arxiv.org/abs/2509.004...",
-      "score": 15
+      "title": "NetHack 5.0.0",
+      "url": "https://nethack.org/v500/release.html",
+      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://nethack.org/v500/relea...",
+      "score": 145
     },
     {
       "type": "HackerNews",
-      "title": "How fast is a macOS VM, and how small could it be?",
-      "url": "https://eclecticlight.co/2026/05/02/how-fast-is-a-macos-vm-and-how-small-could-it-be/",
-      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://eclecticlight.co/2026/...",
-      "score": 142
+      "title": "Videolan Dav2d",
+      "url": "https://code.videolan.org/videolan/dav2d",
+      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://code.videolan.org/vide...",
+      "score": 64
+    },
+    {
+      "type": "HackerNews",
+      "title": "Uber wants to turn its drivers into a sensor grid for self-driving companies",
+      "url": "https://techcrunch.com/2026/05/01/uber-wants-to-turn-its-millions-of-drivers-into-a-sensor-grid-for-self-driving-companies/",
+      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://techcrunch.com/2026/05...",
+      "score": 80
+    },
+    {
+      "type": "HackerNews",
+      "title": "Inventions for battery reuse and recycling increase more than 7-fold in last 10y",
+      "url": "https://www.epo.org/en/news-events/news/inventions-battery-reuse-and-recycling-increase-more-seven-fold-last-decade",
+      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.epo.org/en/news-ev...",
+      "score": 67
+    },
+    {
+      "type": "HackerNews",
+      "title": "Flue is a TypeScript framework for building the next generation of agents",
+      "url": "https://flueframework.com/",
+      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://flueframework.com/...",
+      "score": 17
+    },
+    {
+      "type": "HackerNews",
+      "title": "California to begin ticketing driverless cars that violate traffic laws",
+      "url": "https://www.bbc.com/news/articles/clypjx3rg2go",
+      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.bbc.com/news/artic...",
+      "score": 64
+    },
+    {
+      "type": "HackerNews",
+      "title": "Unsigned Sizes: A Five Year Mistake",
+      "url": "https://c3-lang.org/blog/unsigned-sizes-a-five-year-mistake/",
+      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://c3-lang.org/blog/unsig...",
+      "score": 6
     },
     {
       "type": "HackerNews",
       "title": "Barman – Backup and Recovery Manager for PostgreSQL",
       "url": "https://github.com/EnterpriseDB/barman",
-      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://github.com/EnterpriseD...",
-      "score": 27
-    },
-    {
-      "type": "HackerNews",
-      "title": "Why does it take so long to release black fan versions?",
-      "url": "https://www.noctua.at/en/expertise/blog/how-can-it-take-so-long-to-release-black-fan-versions",
-      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.noctua.at/en/exper...",
-      "score": 493
-    },
-    {
-      "type": "HackerNews",
-      "title": "Refusal in Language Models Is Mediated by a Single Direction",
-      "url": "https://arxiv.org/abs/2406.11717",
-      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://arxiv.org/abs/2406.117...",
-      "score": 19
-    },
-    {
-      "type": "HackerNews",
-      "title": "Why are there both TMP and TEMP environment variables? (2015)",
-      "url": "https://devblogs.microsoft.com/oldnewthing/20150417-00/?p=44213",
-      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://devblogs.microsoft.com...",
-      "score": 117
-    },
-    {
-      "type": "HackerNews",
-      "title": "Open Design: Use Your Coding Agent as a Design Engine",
-      "url": "https://github.com/nexu-io/open-design",
-      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://github.com/nexu-io/ope...",
-      "score": 91
-    },
-    {
-      "type": "HackerNews",
-      "title": "Craig Venter of Human Genome Project Dies at 79",
-      "url": "https://www.economist.com/obituary/2026/05/01/craig-venter-raced-to-decode-the-human-genome",
-      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.economist.com/obit...",
-      "score": 28
+      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://github.com/EnterpriseD...",
+      "score": 99
     }
   ]
 }
