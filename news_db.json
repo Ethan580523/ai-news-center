@@ -1,61 +1,61 @@
 {
-  "last_updated": "2026-05-02 02:44:01",
+  "last_updated": "2026-05-02 05:37:25",
   "news": [
+    {
+      "type": "HackerNews",
+      "title": "Ask.com has closed",
+      "url": "https://www.ask.com/",
+      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.ask.com/...",
+      "score": 129
+    },
     {
       "type": "HackerNews",
       "title": "Ti-84 Evo",
       "url": "https://education.ti.com/en/products/calculators/graphing-calculators/ti-84-evo",
-      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://education.ti.com/en/pr...",
-      "score": 319
+      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://education.ti.com/en/pr...",
+      "score": 391
+    },
+    {
+      "type": "HackerNews",
+      "title": "Job Postings for Software Engineers Are Rapidly Rising",
+      "url": "https://www.citadelsecurities.com/news-and-insights/2026-global-intelligence-crisis/",
+      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.citadelsecurities....",
+      "score": 81
     },
     {
       "type": "HackerNews",
       "title": "Artemis II Photo Timeline",
       "url": "https://artemistimeline.com/#artemis-ii-walkout-nhq202604010003",
-      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://artemistimeline.com/#a...",
-      "score": 80
-    },
-    {
-      "type": "HackerNews",
-      "title": "Good developers learn to program. Most courses teach a language",
-      "url": "https://evilgeniuslabs.ca/blog/good-developers-learn-to-program-not-a-language",
-      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://evilgeniuslabs.ca/blog...",
-      "score": 36
+      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://artemistimeline.com/#a...",
+      "score": 138
     },
     {
       "type": "HackerNews",
       "title": "New research suggests people can communicate and practice skills while dreaming",
       "url": "https://www.newyorker.com/culture/annals-of-inquiry/its-possible-to-learn-in-our-sleep-should-we",
-      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.newyorker.com/cult...",
-      "score": 260
+      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.newyorker.com/cult...",
+      "score": 296
     },
     {
       "type": "HackerNews",
-      "title": "The smelly baby problem",
-      "url": "https://www.worksinprogress.news/p/how-disposable-diapers-conquered",
-      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.worksinprogress.ne...",
-      "score": 117
+      "title": "LFM2-24B-A2B: Scaling Up the LFM2 Architecture",
+      "url": "https://www.liquid.ai/blog/lfm2-24b-a2b",
+      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.liquid.ai/blog/lfm...",
+      "score": 8
     },
     {
       "type": "HackerNews",
-      "title": "A Report on Burnout in Open Source Software Communities (2025) [pdf]",
-      "url": "https://mirandaheath.website/static/oss_burnout_report_mh_25.pdf",
-      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://mirandaheath.website/s...",
-      "score": 33
+      "title": "To Restore an Island Paradise, Add Fungi",
+      "url": "https://e360.yale.edu/digest/atoll-islands-sea-level-rise-fungi",
+      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://e360.yale.edu/digest/a...",
+      "score": 35
     },
     {
       "type": "HackerNews",
-      "title": "I'm Peter Roberts, immigration attorney who does work for YC and startups. AMA",
-      "url": null,
-      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：...",
-      "score": 127
-    },
-    {
-      "type": "HackerNews",
-      "title": "Direct electrochemical black coffee quality appraisal using cyclic voltammetry",
-      "url": "https://www.nature.com/articles/s41467-026-71526-5",
-      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.nature.com/article...",
-      "score": 14
+      "title": "CollectWise (YC F24) Is Hiring",
+      "url": "https://www.ycombinator.com/companies/collectwise/jobs/rEWfZ6R-senior-forward-deployed-engineer",
+      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.ycombinator.com/co...",
+      "score": 1
     }
   ]
 }
