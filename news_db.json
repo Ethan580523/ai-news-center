@@ -1,61 +1,61 @@
 {
-  "last_updated": "2026-05-01 21:53:31",
+  "last_updated": "2026-05-02 02:44:01",
   "news": [
-    {
-      "type": "HackerNews",
-      "title": "Credit cards are vulnerable to brute force attacks",
-      "url": "https://metin.nextc.org/posts/Credit_Cards_Are_Vulnerable_To_Brute_Force_Kind_Attacks.html",
-      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://metin.nextc.org/posts/...",
-      "score": 86
-    },
     {
       "type": "HackerNews",
       "title": "Ti-84 Evo",
       "url": "https://education.ti.com/en/products/calculators/graphing-calculators/ti-84-evo",
-      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://education.ti.com/en/pr...",
-      "score": 96
+      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://education.ti.com/en/pr...",
+      "score": 319
+    },
+    {
+      "type": "HackerNews",
+      "title": "Artemis II Photo Timeline",
+      "url": "https://artemistimeline.com/#artemis-ii-walkout-nhq202604010003",
+      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://artemistimeline.com/#a...",
+      "score": 80
+    },
+    {
+      "type": "HackerNews",
+      "title": "Good developers learn to program. Most courses teach a language",
+      "url": "https://evilgeniuslabs.ca/blog/good-developers-learn-to-program-not-a-language",
+      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://evilgeniuslabs.ca/blog...",
+      "score": 36
     },
     {
       "type": "HackerNews",
       "title": "New research suggests people can communicate and practice skills while dreaming",
       "url": "https://www.newyorker.com/culture/annals-of-inquiry/its-possible-to-learn-in-our-sleep-should-we",
-      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.newyorker.com/cult...",
-      "score": 130
+      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.newyorker.com/cult...",
+      "score": 260
     },
     {
       "type": "HackerNews",
-      "title": "Show HN: Destiny – Claude Code's fortune Teller skill",
-      "url": "https://github.com/xodn348/destiny",
-      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://github.com/xodn348/des...",
-      "score": 31
+      "title": "The smelly baby problem",
+      "url": "https://www.worksinprogress.news/p/how-disposable-diapers-conquered",
+      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.worksinprogress.ne...",
+      "score": 117
     },
     {
       "type": "HackerNews",
-      "title": "Ask HN: Who is hiring? (May 2026)",
+      "title": "A Report on Burnout in Open Source Software Communities (2025) [pdf]",
+      "url": "https://mirandaheath.website/static/oss_burnout_report_mh_25.pdf",
+      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://mirandaheath.website/s...",
+      "score": 33
+    },
+    {
+      "type": "HackerNews",
+      "title": "I'm Peter Roberts, immigration attorney who does work for YC and startups. AMA",
       "url": null,
-      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：...",
-      "score": 196
+      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：...",
+      "score": 127
     },
     {
       "type": "HackerNews",
-      "title": "Whimsical Animations Course Open House",
-      "url": "https://courses.joshwcomeau.com/wham/open-house/00-introduction",
-      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://courses.joshwcomeau.co...",
-      "score": 31
-    },
-    {
-      "type": "HackerNews",
-      "title": "whohas – Command-line utility for cross-distro, cross-repository package search",
-      "url": "https://github.com/whohas/whohas",
-      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://github.com/whohas/whoh...",
-      "score": 106
-    },
-    {
-      "type": "HackerNews",
-      "title": "City Learns Flock Accessed Cameras in Children's Gymnastics Room as a Sales Demo",
-      "url": "https://www.404media.co/city-learns-flock-accessed-cameras-in-childrens-gymnastics-room-as-a-sales-pitch-demo-renews-contract-anyway/",
-      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.404media.co/city-l...",
-      "score": 194
+      "title": "Direct electrochemical black coffee quality appraisal using cyclic voltammetry",
+      "url": "https://www.nature.com/articles/s41467-026-71526-5",
+      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.nature.com/article...",
+      "score": 14
     }
   ]
 }
