@@ -1,61 +1,61 @@
 {
-  "last_updated": "2026-05-03 15:48:28",
+  "last_updated": "2026-05-03 19:00:18",
   "news": [
     {
       "type": "HackerNews",
-      "title": "Embedded Rust or C Firmware? Lessons from an Industrial Microcontroller Use Case",
-      "url": "https://arxiv.org/abs/2604.25679",
-      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://arxiv.org/abs/2604.256...",
-      "score": 101
+      "title": "BYOMesh – New LoRa mesh radio offers 100x the bandwidth",
+      "url": "https://partyon.xyz/@nullagent/116499715071759135",
+      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://partyon.xyz/@nullagent...",
+      "score": 34
     },
     {
       "type": "HackerNews",
-      "title": "Alert-Driven Monitoring",
-      "url": "https://simpleobservability.com/docs/alert-driven-monitoring",
-      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://simpleobservability.co...",
-      "score": 24
+      "title": "Southwest Headquarters Tour",
+      "url": "https://katherinemichel.github.io/blog/travel/southwest-headquarters-tour-2026.html",
+      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://katherinemichel.github...",
+      "score": 78
     },
     {
       "type": "HackerNews",
       "title": "Mercedes-Benz commits to bringing back physical buttons",
       "url": "https://www.drive.com.au/news/mercedes-benz-commits-to-bringing-back-phycial-buttons/",
       "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.drive.com.au/news/...",
+      "score": 413
+    },
+    {
+      "type": "HackerNews",
+      "title": "A desktop made for one",
+      "url": "https://isene.org/2026/05/Audience-of-One.html",
+      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://isene.org/2026/05/Audi...",
       "score": 68
     },
     {
       "type": "HackerNews",
-      "title": "Automating Hermitage to see how transactions differ in MySQL and MariaDB",
-      "url": "https://theconsensus.dev/p/2026/05/02/automating-hermitage.html",
-      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://theconsensus.dev/p/202...",
-      "score": 11
+      "title": "How far behind is each major Chromium browser?",
+      "url": "https://chromium-drift.pages.dev/",
+      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://chromium-drift.pages.d...",
+      "score": 96
     },
     {
       "type": "HackerNews",
-      "title": "Show HN: Apple's Sharp Running in the Browser via ONNX Runtime Web",
-      "url": "https://github.com/bring-shrubbery/ml-sharp-web",
-      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://github.com/bring-shrub...",
-      "score": 106
+      "title": "Alert-driven monitoring",
+      "url": "https://simpleobservability.com/docs/alert-driven-monitoring",
+      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://simpleobservability.co...",
+      "score": 69
     },
     {
       "type": "HackerNews",
-      "title": "What Is Z-Angle Memory and Why Is Intel Developing It?",
-      "url": "https://www.hpcwire.com/2026/02/05/what-is-z-angle-memory-and-why-is-intel-developing-it/",
-      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.hpcwire.com/2026/0...",
-      "score": 8
+      "title": "Metal Gear Solid 2's source code has been leaked on 4chan",
+      "url": "https://www.thegamer.com/mgs2-hd-edition-source-code-massive-leak/",
+      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.thegamer.com/mgs2-...",
+      "score": 86
     },
     {
       "type": "HackerNews",
-      "title": "Group averages obscure how an individual's brain controls behavior: study",
-      "url": "https://med.stanford.edu/news/all-news/2026/04/brain-scans-individual-versus-group.html",
-      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://med.stanford.edu/news/...",
-      "score": 73
-    },
-    {
-      "type": "HackerNews",
-      "title": "A couple million lines of Haskell: Production engineering at Mercury",
-      "url": "https://blog.haskell.org/a-couple-million-lines-of-haskell/",
-      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://blog.haskell.org/a-cou...",
-      "score": 341
+      "title": "Bad Connection: Global telecom exploitation by covert surveillance actors",
+      "url": "https://citizenlab.ca/research/uncovering-global-telecom-exploitation-by-covert-surveillance-actors/",
+      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://citizenlab.ca/research...",
+      "score": 17
     }
   ]
 }
