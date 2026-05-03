@@ -1,61 +1,61 @@
 {
-  "last_updated": "2026-05-03 06:07:40",
+  "last_updated": "2026-05-03 10:04:52",
   "news": [
     {
       "type": "HackerNews",
-      "title": "Kimi K2.6 just beat Claude, GPT-5.5, and Gemini in a coding challenge",
-      "url": "https://thinkpol.ca/2026/04/30/an-open-weights-chinese-model-just-beat-claude-gpt-5-5-and-gemini-in-a-programming-challenge/",
-      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://thinkpol.ca/2026/04/30...",
-      "score": 147
-    },
-    {
-      "type": "HackerNews",
-      "title": "Clandestine network smuggling Starlink tech into Iran to beat internet blackout",
-      "url": "https://www.bbc.com/news/articles/cvgzk91leweo",
-      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.bbc.com/news/artic...",
-      "score": 125
-    },
-    {
-      "type": "HackerNews",
-      "title": "A Couple Million Lines of Haskell: Production Engineering at Mercury",
+      "title": "A couple million lines of Haskell: Production engineering at Mercury",
       "url": "https://blog.haskell.org/a-couple-million-lines-of-haskell/",
-      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://blog.haskell.org/a-cou...",
-      "score": 130
+      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://blog.haskell.org/a-cou...",
+      "score": 214
     },
     {
       "type": "HackerNews",
-      "title": "This Month in Ladybird - April 2026",
+      "title": "This Month in Ladybird – April 2026",
       "url": "https://ladybird.org/newsletter/2026-04-30/",
-      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://ladybird.org/newslette...",
-      "score": 241
+      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://ladybird.org/newslette...",
+      "score": 327
     },
     {
       "type": "HackerNews",
-      "title": "The IBM Granite 4.1 family of models",
-      "url": "https://research.ibm.com/blog/granite-4-1-ai-foundation-models",
-      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://research.ibm.com/blog/...",
-      "score": 34
-    },
-    {
-      "type": "HackerNews",
-      "title": "Six Years Perfecting Maps on WatchOS",
-      "url": "https://www.david-smith.org/blog/2026/04/29/maps-on-watchos/",
-      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.david-smith.org/bl...",
-      "score": 240
+      "title": "Unverified Evaluations in Dusk's PLONK",
+      "url": "https://osec.io/blog/2026-04-30-unverified-evaluations-dusk-plonk/",
+      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://osec.io/blog/2026-04-3...",
+      "score": 20
     },
     {
       "type": "HackerNews",
       "title": "Dav2d",
       "url": "https://code.videolan.org/videolan/dav2d",
       "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://code.videolan.org/vide...",
-      "score": 417
+      "score": 477
     },
     {
       "type": "HackerNews",
-      "title": "Neanderthals ran 'fat factories' 125,000 years ago (2025)",
-      "url": "https://www.universiteitleiden.nl/en/news/2025/07/neanderthals-ran-fat-factories-125000-years-ago",
-      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.universiteitleiden...",
-      "score": 147
+      "title": "Six Years Perfecting Maps on WatchOS",
+      "url": "https://www.david-smith.org/blog/2026/04/29/maps-on-watchos/",
+      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.david-smith.org/bl...",
+      "score": 289
+    },
+    {
+      "type": "HackerNews",
+      "title": "Specsmaxxing – On overcoming AI psychosis, and why I write specs in YAML",
+      "url": "https://acai.sh/blog/specsmaxxing",
+      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://acai.sh/blog/specsmaxx...",
+      "score": 111
+    },
+    {
+      "type": "HackerNews",
+      "title": "Windows quality update: Progress we've made since March",
+      "url": "https://blogs.windows.com/windows-insider/2026/05/01/windows-quality-update-progress-weve-made-since-march/",
+      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://blogs.windows.com/wind...",
+      "score": 41
+    },
+    {
+      "type": "HackerNews",
+      "title": "Do_not_track",
+      "url": "https://donottrack.sh/",
+      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://donottrack.sh/...",
+      "score": 330
     }
   ]
 }
