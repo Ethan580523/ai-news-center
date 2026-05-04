@@ -1,61 +1,61 @@
 {
-  "last_updated": "2026-05-04 14:02:25",
+  "last_updated": "2026-05-04 16:45:53",
   "news": [
     {
       "type": "HackerNews",
-      "title": "Talking to 35 Strangers at the Gym",
-      "url": "https://thienantran.com/talking-to-35-strangers-at-the-gym/",
-      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://thienantran.com/talkin...",
-      "score": 233
+      "title": "Removable batteries in smartphones will be mandatory in the EU starting in 2027",
+      "url": "https://www.ecopv-eu.com/en/blog-en/replaceable-smartphone-batteries-2027-eu-regulation/",
+      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.ecopv-eu.com/en/bl...",
+      "score": 245
     },
     {
       "type": "HackerNews",
-      "title": "GameStop makes $55.5B takeover offer for eBay",
-      "url": "https://www.bbc.co.uk/news/articles/cn0p8yled1do",
-      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.bbc.co.uk/news/art...",
-      "score": 326
+      "title": "GitHub Is Down",
+      "url": "https://www.githubstatus.com/incidents/72q3n8yxthcy",
+      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.githubstatus.com/i...",
+      "score": 180
     },
     {
       "type": "HackerNews",
-      "title": "Newton's law of gravity passes its biggest test",
-      "url": "https://www.science.org/content/article/newton-s-law-gravity-passes-its-biggest-test-ever",
-      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.science.org/conten...",
-      "score": 33
+      "title": "Redis array: short story of a long development process",
+      "url": "https://antirez.com/news/164",
+      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://antirez.com/news/164...",
+      "score": 91
     },
     {
       "type": "HackerNews",
       "title": "PyInfra 3.8.0 Is Out",
       "url": "https://github.com/pyinfra-dev/pyinfra/releases/tag/v3.8.0",
       "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://github.com/pyinfra-dev...",
-      "score": 37
+      "score": 152
     },
     {
       "type": "HackerNews",
-      "title": "Someone allegedly used a hairdryer to rig Polymarket weather bets",
-      "url": "https://www.engadget.com/big-tech/someone-allegedly-used-a-hairdryer-to-rig-polymarket-weather-bets-155312411.html",
-      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.engadget.com/big-t...",
-      "score": 28
+      "title": "Talking to 35 Strangers at the Gym",
+      "url": "https://thienantran.com/talking-to-35-strangers-at-the-gym/",
+      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://thienantran.com/talkin...",
+      "score": 601
     },
     {
       "type": "HackerNews",
-      "title": "Trademark violation: Fake Notepad++ for Mac",
-      "url": "https://notepad-plus-plus.org/news/npp-trademark-infringement/",
-      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://notepad-plus-plus.org/...",
-      "score": 340
+      "title": "GameStop makes $55.5B takeover offer for eBay",
+      "url": "https://www.bbc.co.uk/news/articles/cn0p8yled1do",
+      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.bbc.co.uk/news/art...",
+      "score": 449
     },
     {
       "type": "HackerNews",
-      "title": "World's biggest RC A380 [video]",
-      "url": "https://www.youtube.com/watch?v=wr9YLGbhxng",
-      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.youtube.com/watch?...",
-      "score": 62
+      "title": "Does Employment Slow Cognitive Decline? Evidence from Labor Market Shocks",
+      "url": "https://www.nber.org/papers/w35117",
+      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.nber.org/papers/w3...",
+      "score": 12
     },
     {
       "type": "HackerNews",
-      "title": "Using “underdrawings” for accurate text and numbers",
-      "url": "https://samcollins.blog/underdrawings/",
-      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://samcollins.blog/underd...",
-      "score": 299
+      "title": "Pomiferous: The most extensive apples (pommes) database",
+      "url": "https://pomiferous.com/",
+      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://pomiferous.com/...",
+      "score": 17
     }
   ]
 }
