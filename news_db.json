@@ -1,61 +1,61 @@
 {
-  "last_updated": "2026-05-03 21:41:52",
+  "last_updated": "2026-05-04 02:54:14",
   "news": [
     {
       "type": "HackerNews",
       "title": "BYOMesh – New LoRa mesh radio offers 100x the bandwidth",
       "url": "https://partyon.xyz/@nullagent/116499715071759135",
       "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://partyon.xyz/@nullagent...",
-      "score": 153
+      "score": 268
     },
     {
       "type": "HackerNews",
-      "title": "Why TUIs Are Back",
-      "url": "https://wiki.alcidesfonseca.com/blog/why-tuis-are-back/",
-      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://wiki.alcidesfonseca.co...",
-      "score": 177
+      "title": "Using \"underdrawings\" for accurate text and numbers",
+      "url": "https://samcollins.blog/underdrawings/",
+      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://samcollins.blog/underd...",
+      "score": 46
+    },
+    {
+      "type": "HackerNews",
+      "title": "Let's Buy Spirit Air",
+      "url": "https://letsbuyspiritair.com/",
+      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://letsbuyspiritair.com/...",
+      "score": 168
+    },
+    {
+      "type": "HackerNews",
+      "title": "The 'Hidden' Costs of Great Abstractions",
+      "url": "https://jdgr.net/the-hidden-costs-of-great-abstractions",
+      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://jdgr.net/the-hidden-co...",
+      "score": 64
+    },
+    {
+      "type": "HackerNews",
+      "title": "DeepClaude – Claude Code agent loop with DeepSeek V4 Pro, 17x cheaper",
+      "url": "https://github.com/aattaran/deepclaude",
+      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://github.com/aattaran/de...",
+      "score": 178
     },
     {
       "type": "HackerNews",
       "title": "Southwest Headquarters Tour",
       "url": "https://katherinemichel.github.io/blog/travel/southwest-headquarters-tour-2026.html",
-      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://katherinemichel.github...",
-      "score": 140
+      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://katherinemichel.github...",
+      "score": 197
     },
     {
       "type": "HackerNews",
-      "title": "OpenAI's o1 correctly diagnosed 67% of ER patients vs. 50-55% by triage doctors",
-      "url": "https://www.theguardian.com/technology/2026/apr/30/ai-outperforms-doctors-in-harvard-trial-of-emergency-triage-diagnoses",
-      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.theguardian.com/te...",
-      "score": 169
+      "title": "Tar Files Created on macOS Display Errors When Extracting on Linux (2024)",
+      "url": "https://aruljohn.com/blog/macos-created-tar-files-linux-errors/",
+      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://aruljohn.com/blog/maco...",
+      "score": 47
     },
     {
       "type": "HackerNews",
       "title": "US–Indian space mission maps extreme subsidence in Mexico City",
       "url": "https://phys.org/news/2026-04-usindian-space-mission-extreme-subsidence.html",
-      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://phys.org/news/2026-04-...",
-      "score": 43
-    },
-    {
-      "type": "HackerNews",
-      "title": "A desktop made for one",
-      "url": "https://isene.org/2026/05/Audience-of-One.html",
-      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://isene.org/2026/05/Audi...",
-      "score": 159
-    },
-    {
-      "type": "HackerNews",
-      "title": "Statue of a man blinded by a flag put up by Banksy in central London",
-      "url": "https://www.smithsonianmag.com/smart-news/attributed-to-banksy-a-new-statue-of-a-suited-man-blinded-by-a-flag-and-walking-off-a-ledge-appeared-in-central-london-180988662/",
-      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.smithsonianmag.com...",
-      "score": 150
-    },
-    {
-      "type": "HackerNews",
-      "title": "Bad Connection: Global telecom exploitation by covert surveillance actors",
-      "url": "https://citizenlab.ca/research/uncovering-global-telecom-exploitation-by-covert-surveillance-actors/",
-      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://citizenlab.ca/research...",
-      "score": 66
+      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://phys.org/news/2026-04-...",
+      "score": 104
     }
   ]
 }
