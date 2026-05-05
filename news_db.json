@@ -1,61 +1,61 @@
 {
-  "last_updated": "2026-05-05 05:43:56",
+  "last_updated": "2026-05-05 08:10:23",
   "news": [
     {
       "type": "HackerNews",
-      "title": "About 10% of AMC movie showings sell zero tickets. This site finds them",
-      "url": "https://walzr.com/empty-screenings",
-      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://walzr.com/empty-screen...",
-      "score": 60
-    },
-    {
-      "type": "HackerNews",
-      "title": "What I'm Hearing About Cognitive Debt (So Far)",
-      "url": "https://margaretstorey.com/blog/2026/02/18/cognitive-debt-revisited/",
-      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://margaretstorey.com/blo...",
-      "score": 148
-    },
-    {
-      "type": "HackerNews",
-      "title": "Bun is being ported from Zig to Rust",
-      "url": "https://github.com/oven-sh/bun/commit/46d3bc29f270fa881dd5730ef1549e88407701a5",
-      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://github.com/oven-sh/bun...",
-      "score": 344
+      "title": "Async Rust never left the MVP state",
+      "url": "https://tweedegolf.nl/en/blog/237/async-rust-never-left-the-mvp-state",
+      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://tweedegolf.nl/en/blog/...",
+      "score": 41
     },
     {
       "type": "HackerNews",
       "title": "Train Your Own LLM from Scratch",
       "url": "https://github.com/angelos-p/llm-from-scratch",
-      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://github.com/angelos-p/l...",
-      "score": 45
+      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://github.com/angelos-p/l...",
+      "score": 184
+    },
+    {
+      "type": "HackerNews",
+      "title": "Hand Drawn QR Codes",
+      "url": "https://sethmlarson.dev/hand-drawn-qr-codes",
+      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://sethmlarson.dev/hand-d...",
+      "score": 69
+    },
+    {
+      "type": "HackerNews",
+      "title": "Bun is being ported from Zig to Rust",
+      "url": "https://github.com/oven-sh/bun/commit/46d3bc29f270fa881dd5730ef1549e88407701a5",
+      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://github.com/oven-sh/bun...",
+      "score": 453
+    },
+    {
+      "type": "HackerNews",
+      "title": "Google Chrome silently installs a 4 GB AI model on your device without consent",
+      "url": "https://www.thatprivacyguy.com/blog/chrome-silent-nano-install/",
+      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.thatprivacyguy.com...",
+      "score": 7
+    },
+    {
+      "type": "HackerNews",
+      "title": "Lessons for Agentic Coding: What should we do when code is cheap?",
+      "url": "https://www.dbreunig.com/2026/05/04/10-lessons-for-agentic-coding.html",
+      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.dbreunig.com/2026/...",
+      "score": 13
     },
     {
       "type": "HackerNews",
       "title": "CVE-2026-31431: Copy Fail vs. rootless containers",
       "url": "https://www.dragonsreach.it/2026/05/04/cve-2026-31431-copy-fail-rootless-containers/",
-      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.dragonsreach.it/20...",
-      "score": 53
-    },
-    {
-      "type": "HackerNews",
-      "title": "Pulitzer Prize Winner in International Reporting",
-      "url": "https://www.pulitzer.org/winners/dake-kang-garance-burke-byron-tau-aniruddha-ghosal-and-yael-grauer-contributor-associated",
-      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.pulitzer.org/winne...",
-      "score": 60
+      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.dragonsreach.it/20...",
+      "score": 85
     },
     {
       "type": "HackerNews",
       "title": "How OpenAI delivers low-latency voice AI at scale",
       "url": "https://openai.com/index/delivering-low-latency-voice-ai-at-scale/",
-      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://openai.com/index/deliv...",
-      "score": 356
-    },
-    {
-      "type": "HackerNews",
-      "title": "The Car That Watches You Back: The Advertising Infrastructure of Modern Cars",
-      "url": "https://nobodyaskedforthis.lol/posts/connected-car/",
-      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://nobodyaskedforthis.lol...",
-      "score": 44
+      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://openai.com/index/deliv...",
+      "score": 390
     }
   ]
 }
