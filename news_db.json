@@ -1,61 +1,61 @@
 {
-  "last_updated": "2026-05-05 02:46:22",
+  "last_updated": "2026-05-05 05:43:56",
   "news": [
+    {
+      "type": "HackerNews",
+      "title": "About 10% of AMC movie showings sell zero tickets. This site finds them",
+      "url": "https://walzr.com/empty-screenings",
+      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://walzr.com/empty-screen...",
+      "score": 60
+    },
+    {
+      "type": "HackerNews",
+      "title": "What I'm Hearing About Cognitive Debt (So Far)",
+      "url": "https://margaretstorey.com/blog/2026/02/18/cognitive-debt-revisited/",
+      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://margaretstorey.com/blo...",
+      "score": 148
+    },
     {
       "type": "HackerNews",
       "title": "Bun is being ported from Zig to Rust",
       "url": "https://github.com/oven-sh/bun/commit/46d3bc29f270fa881dd5730ef1549e88407701a5",
-      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://github.com/oven-sh/bun...",
-      "score": 169
+      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://github.com/oven-sh/bun...",
+      "score": 344
+    },
+    {
+      "type": "HackerNews",
+      "title": "Train Your Own LLM from Scratch",
+      "url": "https://github.com/angelos-p/llm-from-scratch",
+      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://github.com/angelos-p/l...",
+      "score": 45
+    },
+    {
+      "type": "HackerNews",
+      "title": "CVE-2026-31431: Copy Fail vs. rootless containers",
+      "url": "https://www.dragonsreach.it/2026/05/04/cve-2026-31431-copy-fail-rootless-containers/",
+      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.dragonsreach.it/20...",
+      "score": 53
+    },
+    {
+      "type": "HackerNews",
+      "title": "Pulitzer Prize Winner in International Reporting",
+      "url": "https://www.pulitzer.org/winners/dake-kang-garance-burke-byron-tau-aniruddha-ghosal-and-yael-grauer-contributor-associated",
+      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.pulitzer.org/winne...",
+      "score": 60
     },
     {
       "type": "HackerNews",
       "title": "How OpenAI delivers low-latency voice AI at scale",
       "url": "https://openai.com/index/delivering-low-latency-voice-ai-at-scale/",
       "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://openai.com/index/deliv...",
-      "score": 301
+      "score": 356
     },
     {
       "type": "HackerNews",
-      "title": "Talking to strangers at the gym",
-      "url": "https://thienantran.com/talking-to-35-strangers-at-the-gym/",
-      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://thienantran.com/talkin...",
-      "score": 1189
-    },
-    {
-      "type": "HackerNews",
-      "title": "Agent Skills",
-      "url": "https://addyosmani.com/blog/agent-skills/",
-      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://addyosmani.com/blog/ag...",
-      "score": 130
-    },
-    {
-      "type": "HackerNews",
-      "title": "What I'm Hearing About Cognitive Debt (So Far)",
-      "url": "https://margaretstorey.com/blog/2026/02/18/cognitive-debt-revisited/",
-      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://margaretstorey.com/blo...",
-      "score": 10
-    },
-    {
-      "type": "HackerNews",
-      "title": "When Networking Doesn't Work",
-      "url": "https://www.os2museum.com/wp/when-networking-doesnt-work/",
-      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.os2museum.com/wp/w...",
-      "score": 11
-    },
-    {
-      "type": "HackerNews",
-      "title": "Securing a DoD contractor: Finding a multi-tenant authorization vulnerability",
-      "url": "https://www.strix.ai/blog/how-strix-found-zero-auth-vulnerability-dod-backed-startup",
-      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.strix.ai/blog/how-...",
-      "score": 176
-    },
-    {
-      "type": "HackerNews",
-      "title": "Testing macOS on the Apple Network Server 2.0 ROMs",
-      "url": "http://oldvcr.blogspot.com/2026/05/testing-macos-on-apple-network-server.html",
-      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：http://oldvcr.blogspot.com/202...",
-      "score": 61
+      "title": "The Car That Watches You Back: The Advertising Infrastructure of Modern Cars",
+      "url": "https://nobodyaskedforthis.lol/posts/connected-car/",
+      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://nobodyaskedforthis.lol...",
+      "score": 44
     }
   ]
 }
