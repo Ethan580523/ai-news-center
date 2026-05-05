@@ -1,61 +1,61 @@
 {
-  "last_updated": "2026-05-05 10:46:44",
+  "last_updated": "2026-05-05 16:24:13",
   "news": [
+    {
+      "type": "HackerNews",
+      "title": "Three Inverse Laws of AI",
+      "url": "https://susam.net/inverse-laws-of-robotics.html",
+      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://susam.net/inverse-laws...",
+      "score": 51
+    },
+    {
+      "type": "HackerNews",
+      "title": "Agents for financial services and insurance",
+      "url": "https://www.anthropic.com/news/finance-agents",
+      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.anthropic.com/news...",
+      "score": 65
+    },
+    {
+      "type": "HackerNews",
+      "title": "Yet Another GitHub Incident",
+      "url": "https://www.githubstatus.com/incidents/1j40g94rn22j",
+      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.githubstatus.com/i...",
+      "score": 60
+    },
     {
       "type": "HackerNews",
       "title": "Async Rust never left the MVP state",
       "url": "https://tweedegolf.nl/en/blog/237/async-rust-never-left-the-mvp-state",
-      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://tweedegolf.nl/en/blog/...",
-      "score": 160
+      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://tweedegolf.nl/en/blog/...",
+      "score": 343
     },
     {
       "type": "HackerNews",
       "title": "Should I Run Plain Docker Compose in Production in 2026?",
       "url": "https://distr.sh/blog/running-docker-in-production/",
-      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://distr.sh/blog/running-...",
-      "score": 40
+      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://distr.sh/blog/running-...",
+      "score": 223
     },
     {
       "type": "HackerNews",
-      "title": "Bun is being ported from Zig to Rust",
-      "url": "https://github.com/oven-sh/bun/commit/46d3bc29f270fa881dd5730ef1549e88407701a5",
-      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://github.com/oven-sh/bun...",
-      "score": 528
+      "title": "iOS 27 is adding a 'Create a Pass' button to Apple Wallet",
+      "url": "https://walletwallet.alen.ro/blog/ios-27-wallet-create-pass/",
+      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://walletwallet.alen.ro/b...",
+      "score": 242
     },
     {
       "type": "HackerNews",
-      "title": "Empty Screenings – Finds AMC movie screenings with few or no tickets sold",
-      "url": "https://walzr.com/empty-screenings",
-      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://walzr.com/empty-screen...",
-      "score": 156
+      "title": "When everyone has AI and the company still learns nothing",
+      "url": "https://www.robert-glaser.de/when-everyone-has-ai-and-the-company-still-learns-nothing/",
+      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.robert-glaser.de/w...",
+      "score": 176
     },
     {
       "type": "HackerNews",
-      "title": "Lessons for Agentic Coding: What should we do when code is cheap?",
-      "url": "https://www.dbreunig.com/2026/05/04/10-lessons-for-agentic-coding.html",
-      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.dbreunig.com/2026/...",
-      "score": 69
-    },
-    {
-      "type": "HackerNews",
-      "title": "Hand Drawn QR Codes",
-      "url": "https://sethmlarson.dev/hand-drawn-qr-codes",
-      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://sethmlarson.dev/hand-d...",
-      "score": 118
-    },
-    {
-      "type": "HackerNews",
-      "title": "Google Chrome silently installs a 4 GB AI model on your device without consent",
-      "url": "https://www.thatprivacyguy.com/blog/chrome-silent-nano-install/",
-      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.thatprivacyguy.com...",
-      "score": 264
-    },
-    {
-      "type": "HackerNews",
-      "title": "Mouse Pointer as a Mere Mortal",
-      "url": "https://unsung.aresluna.org/mouse-pointer-as-a-mere-mortal/",
-      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://unsung.aresluna.org/mo...",
-      "score": 27
+      "title": "Docker 29 has changed its default image store for new installs",
+      "url": "https://docs.docker.com/engine/storage/containerd",
+      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://docs.docker.com/engine...",
+      "score": 62
     }
   ]
 }
