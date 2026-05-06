@@ -1,61 +1,61 @@
 {
-  "last_updated": "2026-05-05 22:00:56",
+  "last_updated": "2026-05-06 02:52:19",
   "news": [
     {
       "type": "HackerNews",
       "title": ".de TLD offline due to DNSSEC?",
       "url": "https://dnssec-analyzer.verisignlabs.com/nic.de",
-      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://dnssec-analyzer.verisi...",
-      "score": 359
+      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://dnssec-analyzer.verisi...",
+      "score": 550
+    },
+    {
+      "type": "HackerNews",
+      "title": "StarFighter 16-Inch",
+      "url": "https://us.starlabs.systems/pages/starfighter",
+      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://us.starlabs.systems/pa...",
+      "score": 23
     },
     {
       "type": "HackerNews",
       "title": "Accelerating Gemma 4: faster inference with multi-token prediction drafters",
       "url": "https://blog.google/innovation-and-ai/technology/developers-tools/multi-token-prediction-gemma-4/",
-      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://blog.google/innovation...",
-      "score": 363
-    },
-    {
-      "type": "HackerNews",
-      "title": "Three Inverse Laws of AI",
-      "url": "https://susam.net/inverse-laws-of-robotics.html",
-      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://susam.net/inverse-laws...",
-      "score": 311
-    },
-    {
-      "type": "HackerNews",
-      "title": "Computer Use is 45x more expensive than structured APIs",
-      "url": "https://reflex.dev/blog/computer-use-is-45x-more-expensive-than-structured-apis/",
-      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://reflex.dev/blog/comput...",
-      "score": 228
-    },
-    {
-      "type": "HackerNews",
-      "title": "Google Chrome silently installs a 4 GB AI model on your device without consent",
-      "url": "https://www.thatprivacyguy.com/blog/chrome-silent-nano-install/",
-      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.thatprivacyguy.com...",
-      "score": 1103
-    },
-    {
-      "type": "HackerNews",
-      "title": "EEVblog: The 555 Timer is 55 years old [video]",
-      "url": "https://www.youtube.com/watch?v=6JhK8iCQuqI",
-      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.youtube.com/watch?...",
-      "score": 181
+      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://blog.google/innovation...",
+      "score": 468
     },
     {
       "type": "HackerNews",
       "title": "Write some software, give it away for free",
       "url": "https://nonogra.ph/write-some-software-give-it-away-for-free-05-05-2026",
       "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://nonogra.ph/write-some-...",
-      "score": 13
+      "score": 148
     },
     {
       "type": "HackerNews",
-      "title": "Show HN: Explore color palettes inspired by 3000 master painter artworks",
-      "url": "https://paletteinspiration.com/",
-      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://paletteinspiration.com...",
-      "score": 66
+      "title": "Three Inverse Laws of AI",
+      "url": "https://susam.net/inverse-laws-of-robotics.html",
+      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://susam.net/inverse-laws...",
+      "score": 374
+    },
+    {
+      "type": "HackerNews",
+      "title": "Computer Use is 45x more expensive than structured APIs",
+      "url": "https://reflex.dev/blog/computer-use-is-45x-more-expensive-than-structured-apis/",
+      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://reflex.dev/blog/comput...",
+      "score": 327
+    },
+    {
+      "type": "HackerNews",
+      "title": "Telus Uses AI to Alter Call-Agent Accents",
+      "url": "https://letsdatascience.com/news/telus-uses-ai-to-alter-call-agent-accents-a3868f63",
+      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://letsdatascience.com/ne...",
+      "score": 15
+    },
+    {
+      "type": "HackerNews",
+      "title": "EEVblog: The 555 Timer is 55 years old [video]",
+      "url": "https://www.youtube.com/watch?v=6JhK8iCQuqI",
+      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.youtube.com/watch?...",
+      "score": 239
     }
   ]
 }
