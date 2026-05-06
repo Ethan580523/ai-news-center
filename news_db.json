@@ -1,61 +1,61 @@
 {
-  "last_updated": "2026-05-06 11:07:39",
+  "last_updated": "2026-05-06 14:12:37",
   "news": [
-    {
-      "type": "HackerNews",
-      "title": "Agents can now create Cloudflare accounts, buy domains, and deploy",
-      "url": "https://blog.cloudflare.com/agents-stripe-projects/",
-      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://blog.cloudflare.com/ag...",
-      "score": 363
-    },
     {
       "type": "HackerNews",
       "title": "Show HN: Red Squares – GitHub outages as contributions",
       "url": "https://red-squares.cian.lol/",
-      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://red-squares.cian.lol/...",
-      "score": 17
+      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://red-squares.cian.lol/...",
+      "score": 470
+    },
+    {
+      "type": "HackerNews",
+      "title": "The bottleneck was never the code",
+      "url": "https://www.thetypicalset.com/blog/thoughts-on-coding-agents",
+      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.thetypicalset.com/...",
+      "score": 159
+    },
+    {
+      "type": "HackerNews",
+      "title": "Setting up a Sun Ray server on OpenIndiana Hipster 2025.10",
+      "url": "https://catstret.ch/202605/srss-hipster202510/",
+      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://catstret.ch/202605/srs...",
+      "score": 65
+    },
+    {
+      "type": "HackerNews",
+      "title": "Agents can now create Cloudflare accounts, buy domains, and deploy",
+      "url": "https://blog.cloudflare.com/agents-stripe-projects/",
+      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://blog.cloudflare.com/ag...",
+      "score": 461
     },
     {
       "type": "HackerNews",
       "title": "StarFighter 16-Inch",
       "url": "https://us.starlabs.systems/pages/starfighter",
       "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://us.starlabs.systems/pa...",
-      "score": 376
+      "score": 488
     },
     {
       "type": "HackerNews",
       "title": "CARA 2.0 – “I Built a Better Robot Dog”",
       "url": "https://www.aaedmusa.com/projects/cara2",
-      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.aaedmusa.com/proje...",
-      "score": 179
-    },
-    {
-      "type": "HackerNews",
-      "title": "Batteries Not Included, or Required, for These Smart Home Sensors",
-      "url": "https://coe.gatech.edu/news/2026/04/batteries-not-included-or-required-these-smart-home-sensors",
-      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://coe.gatech.edu/news/20...",
-      "score": 46
-    },
-    {
-      "type": "HackerNews",
-      "title": "Knitting bullshit",
-      "url": "https://katedaviesdesigns.com/2026/04/29/knitting-bullshit/",
-      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://katedaviesdesigns.com/...",
-      "score": 96
-    },
-    {
-      "type": "HackerNews",
-      "title": "DNSSEC disruption affecting .de domains – Resolved",
-      "url": "https://status.denic.de/pages/incident/592577eab611ce1e0d00046f/69fa60ef9d12f5057a974f38",
-      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://status.denic.de/pages/...",
-      "score": 680
+      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.aaedmusa.com/proje...",
+      "score": 282
     },
     {
       "type": "HackerNews",
       "title": "Reverse-engineering the 1998 Ultima Online demo server",
       "url": "https://draxinar.github.io/articles/2026-05-01-uodemo-reverse-engineering.html",
-      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://draxinar.github.io/art...",
-      "score": 55
+      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://draxinar.github.io/art...",
+      "score": 130
+    },
+    {
+      "type": "HackerNews",
+      "title": "Knitting bullshit",
+      "url": "https://katedaviesdesigns.com/2026/04/29/knitting-bullshit/",
+      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://katedaviesdesigns.com/...",
+      "score": 216
     }
   ]
 }
