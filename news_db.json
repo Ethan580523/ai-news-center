@@ -1,61 +1,61 @@
 {
-  "last_updated": "2026-05-06 16:27:55",
+  "last_updated": "2026-05-06 19:46:25",
   "news": [
     {
       "type": "HackerNews",
       "title": "Valve releases Steam Controller CAD files under Creative Commons license",
       "url": "https://www.digitalfoundry.net/news/2026/05/valve-releases-steam-controller-cad-files-under-creative-commons-license",
       "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.digitalfoundry.net...",
-      "score": 93
+      "score": 606
+    },
+    {
+      "type": "HackerNews",
+      "title": "Appearing Productive in the Workplace",
+      "url": "https://nooneshappy.com/article/appearing-productive-in-the-workplace/",
+      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://nooneshappy.com/articl...",
+      "score": 283
+    },
+    {
+      "type": "HackerNews",
+      "title": "From Supabase to Clerk to Better Auth",
+      "url": "https://blog.val.town/better-auth",
+      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://blog.val.town/better-a...",
+      "score": 95
+    },
+    {
+      "type": "HackerNews",
+      "title": "A Theory of Deep Learning",
+      "url": "https://elonlit.com/scrivings/a-theory-of-deep-learning/",
+      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://elonlit.com/scrivings/...",
+      "score": 36
     },
     {
       "type": "HackerNews",
       "title": "The bottleneck was never the code",
       "url": "https://www.thetypicalset.com/blog/thoughts-on-coding-agents",
       "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.thetypicalset.com/...",
-      "score": 284
+      "score": 400
     },
     {
       "type": "HackerNews",
-      "title": "Show HN: Tilde.run – Agent Sandbox with a Transactional, Versioned Filesystem",
-      "url": "https://tilde.run/",
-      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://tilde.run/...",
-      "score": 20
+      "title": "Learning the Integral of a Diffusion Model",
+      "url": "https://sander.ai/2026/05/06/flow-maps.html",
+      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://sander.ai/2026/05/06/f...",
+      "score": 12
     },
     {
       "type": "HackerNews",
-      "title": "Vibe coding and agentic engineering are getting closer than I'd like",
-      "url": "https://simonwillison.net/2026/May/6/vibe-coding-and-agentic-engineering/",
-      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://simonwillison.net/2026...",
-      "score": 82
+      "title": "Show HN: I built an open-source email builder, alternative to Beefree/Unlayer",
+      "url": "https://play.templatical.com",
+      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://play.templatical.com...",
+      "score": 47
     },
     {
       "type": "HackerNews",
-      "title": "Agents can now create Cloudflare accounts, buy domains, and deploy",
-      "url": "https://blog.cloudflare.com/agents-stripe-projects/",
-      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://blog.cloudflare.com/ag...",
-      "score": 527
-    },
-    {
-      "type": "HackerNews",
-      "title": "Setting up a Sun Ray server on OpenIndiana Hipster 2025.10",
-      "url": "https://catstret.ch/202605/srss-hipster202510/",
-      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://catstret.ch/202605/srs...",
-      "score": 92
-    },
-    {
-      "type": "HackerNews",
-      "title": "StarFighter 16-Inch",
-      "url": "https://us.starlabs.systems/pages/starfighter",
-      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://us.starlabs.systems/pa...",
-      "score": 547
-    },
-    {
-      "type": "HackerNews",
-      "title": "CARA 2.0 – “I Built a Better Robot Dog”",
-      "url": "https://www.aaedmusa.com/projects/cara2",
-      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.aaedmusa.com/proje...",
-      "score": 338
+      "title": "BYD overtakes Tesla and Kia as the best-selling EV brand in key overseas markets",
+      "url": "https://electrek.co/2026/05/05/byd-overtakes-tesla-kia-best-selling-ev-brand-key-overseas-markets/",
+      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://electrek.co/2026/05/05...",
+      "score": 122
     }
   ]
 }
