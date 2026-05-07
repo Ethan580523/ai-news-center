@@ -1,61 +1,61 @@
 {
-  "last_updated": "2026-05-07 14:09:45",
+  "last_updated": "2026-05-07 16:50:23",
   "news": [
+    {
+      "type": "HackerNews",
+      "title": "The map that keeps Burning Man honest",
+      "url": "https://www.not-ship.com/burning-man-moop/",
+      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.not-ship.com/burni...",
+      "score": 274
+    },
+    {
+      "type": "HackerNews",
+      "title": "AlphaEvolve: Gemini-powered coding agent scaling impact across fields",
+      "url": "https://deepmind.google/blog/alphaevolve-impact/",
+      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://deepmind.google/blog/a...",
+      "score": 97
+    },
+    {
+      "type": "HackerNews",
+      "title": "I switched from Mac to a Lenovo Chromebook, and you can too",
+      "url": "https://blog.johnozbay.com/i-left-apples-ecosystem-for-a-lenovo-chromebook-and-you-can-too.html",
+      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://blog.johnozbay.com/i-l...",
+      "score": 37
+    },
+    {
+      "type": "HackerNews",
+      "title": "Authorities say Flock cameras' data allegedly used for immigration enforcement",
+      "url": "https://www.ohio.news/stories/dayton-authorities-say-that-flock-cameras-data-allegedly-used-for-immigration-enforcement/",
+      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.ohio.news/stories/...",
+      "score": 48
+    },
+    {
+      "type": "HackerNews",
+      "title": "Child marriages plunged when girls stayed in school in Nigeria",
+      "url": "https://www.nature.com/articles/d41586-026-00796-2",
+      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.nature.com/article...",
+      "score": 147
+    },
+    {
+      "type": "HackerNews",
+      "title": "The Self-Cancelling Subscription",
+      "url": "https://predr.ag/blog/the-self-cancelling-subscription/",
+      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://predr.ag/blog/the-self...",
+      "score": 50
+    },
     {
       "type": "HackerNews",
       "title": "RaTeX: KaTeX-compatible LaTeX rendering engine in pure Rust",
       "url": "https://ratex.lites.dev/",
-      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://ratex.lites.dev/...",
-      "score": 50
+      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://ratex.lites.dev/...",
+      "score": 103
     },
     {
       "type": "HackerNews",
       "title": "Valve releases Steam Controller CAD files under Creative Commons license",
       "url": "https://www.digitalfoundry.net/news/2026/05/valve-releases-steam-controller-cad-files-under-creative-commons-license",
-      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.digitalfoundry.net...",
-      "score": 1589
-    },
-    {
-      "type": "HackerNews",
-      "title": "Indian matchbox labels as a visual archive",
-      "url": "https://www.itsnicethat.com/features/the-view-from-mumbai-matchbook-graphic-design-130426",
-      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.itsnicethat.com/fe...",
-      "score": 57
-    },
-    {
-      "type": "HackerNews",
-      "title": "Boris Cherny: TI-83 Plus Basic Programming Tutorial (2004)",
-      "url": "https://www.ticalc.org/programming/columns/83plus-bas/cherny/",
-      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.ticalc.org/program...",
-      "score": 95
-    },
-    {
-      "type": "HackerNews",
-      "title": "Agent-harness-kit scaffolding for multi-agent workflows (MCP, provider-agnostic)",
-      "url": "https://ahk.cardor.dev",
-      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://ahk.cardor.dev...",
-      "score": 43
-    },
-    {
-      "type": "HackerNews",
-      "title": "Grand Theft Oil Futures: Insider traders keep making a killing at our expense",
-      "url": "https://paulkrugman.substack.com/p/grand-theft-oil-futures",
-      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://paulkrugman.substack.c...",
-      "score": 198
-    },
-    {
-      "type": "HackerNews",
-      "title": "Cloudflare responded to the \"Copy Fail\" Linux vulnerability",
-      "url": "https://blog.cloudflare.com/copy-fail-linux-vulnerability-mitigation/",
-      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://blog.cloudflare.com/co...",
-      "score": 7
-    },
-    {
-      "type": "HackerNews",
-      "title": "SQLite Is a Library of Congress Recommended Storage Format",
-      "url": "https://sqlite.org/locrsf.html",
-      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://sqlite.org/locrsf.html...",
-      "score": 419
+      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.digitalfoundry.net...",
+      "score": 1645
     }
   ]
 }
