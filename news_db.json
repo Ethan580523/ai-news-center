@@ -1,61 +1,61 @@
 {
-  "last_updated": "2026-05-07 06:11:30",
+  "last_updated": "2026-05-07 11:09:31",
   "news": [
     {
       "type": "HackerNews",
       "title": "Valve releases Steam Controller CAD files under Creative Commons license",
       "url": "https://www.digitalfoundry.net/news/2026/05/valve-releases-steam-controller-cad-files-under-creative-commons-license",
       "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.digitalfoundry.net...",
-      "score": 1255
+      "score": 1468
     },
     {
       "type": "HackerNews",
       "title": "Appearing productive in the workplace",
       "url": "https://nooneshappy.com/article/appearing-productive-in-the-workplace/",
-      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://nooneshappy.com/articl...",
-      "score": 925
-    },
-    {
-      "type": "HackerNews",
-      "title": "Diskless Linux boot using ZFS, iSCSI and PXE",
-      "url": "https://aniket.foo/posts/20260505-netboot/",
-      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://aniket.foo/posts/20260...",
-      "score": 46
-    },
-    {
-      "type": "HackerNews",
-      "title": "Permacomputing Principles",
-      "url": "https://permacomputing.net/principles/",
-      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://permacomputing.net/pri...",
-      "score": 78
+      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://nooneshappy.com/articl...",
+      "score": 1221
     },
     {
       "type": "HackerNews",
       "title": "SQLite Is a Library of Congress Recommended Storage Format",
       "url": "https://sqlite.org/locrsf.html",
       "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://sqlite.org/locrsf.html...",
-      "score": 130
+      "score": 285
+    },
+    {
+      "type": "HackerNews",
+      "title": "Diskless Linux boot using ZFS, iSCSI and PXE",
+      "url": "https://aniket.foo/posts/20260505-netboot/",
+      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://aniket.foo/posts/20260...",
+      "score": 106
+    },
+    {
+      "type": "HackerNews",
+      "title": "Permacomputing Principles",
+      "url": "https://permacomputing.net/principles/",
+      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://permacomputing.net/pri...",
+      "score": 157
+    },
+    {
+      "type": "HackerNews",
+      "title": "Boris Cherny: TI-83 Plus Basic Programming Tutorial (2004)",
+      "url": "https://www.ticalc.org/programming/columns/83plus-bas/cherny/",
+      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.ticalc.org/program...",
+      "score": 18
+    },
+    {
+      "type": "HackerNews",
+      "title": "Photoshop's challenges with focus, pt. 2",
+      "url": "https://unsung.aresluna.org/photoshops-challenges-with-focus-pt-2/",
+      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://unsung.aresluna.org/ph...",
+      "score": 50
     },
     {
       "type": "HackerNews",
       "title": "Vibe coding and agentic engineering are getting closer than I'd like",
       "url": "https://simonwillison.net/2026/May/6/vibe-coding-and-agentic-engineering/",
-      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://simonwillison.net/2026...",
-      "score": 518
-    },
-    {
-      "type": "HackerNews",
-      "title": "The Vatican's Website in Latin",
-      "url": "https://www.vatican.va/latin/latin_index.html",
-      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.vatican.va/latin/l...",
-      "score": 99
-    },
-    {
-      "type": "HackerNews",
-      "title": "The Mathematical Dance Inside Plant Cells",
-      "url": "https://www.quantamagazine.org/the-hidden-mathematical-dance-inside-plant-cells-20260504/",
-      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.quantamagazine.org...",
-      "score": 15
+      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://simonwillison.net/2026...",
+      "score": 624
     }
   ]
 }
