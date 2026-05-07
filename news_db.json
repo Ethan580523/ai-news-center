@@ -1,61 +1,61 @@
 {
-  "last_updated": "2026-05-07 19:43:09",
+  "last_updated": "2026-05-07 21:59:02",
   "news": [
     {
       "type": "HackerNews",
-      "title": "The map that keeps Burning Man honest",
+      "title": "Dirtyfrag: Universal Linux LPE",
+      "url": "https://www.openwall.com/lists/oss-security/2026/05/07/8",
+      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.openwall.com/lists...",
+      "score": 224
+    },
+    {
+      "type": "HackerNews",
+      "title": "The Burning Man MOOP Map",
       "url": "https://www.not-ship.com/burning-man-moop/",
       "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.not-ship.com/burni...",
-      "score": 423
+      "score": 485
     },
     {
       "type": "HackerNews",
       "title": "Agents need control flow, not more prompts",
       "url": "https://bsuh.bearblog.dev/agents-need-control-flow/",
-      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://bsuh.bearblog.dev/agen...",
-      "score": 133
+      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://bsuh.bearblog.dev/agen...",
+      "score": 230
+    },
+    {
+      "type": "HackerNews",
+      "title": "AlphaEvolve: Gemini-powered coding agent scaling impact across fields",
+      "url": "https://deepmind.google/blog/alphaevolve-impact/",
+      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://deepmind.google/blog/a...",
+      "score": 221
     },
     {
       "type": "HackerNews",
       "title": "Natural Language Autoencoders: Turning Claude's Thoughts into Text",
       "url": "https://www.anthropic.com/research/natural-language-autoencoders",
       "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.anthropic.com/rese...",
-      "score": 60
+      "score": 125
     },
     {
       "type": "HackerNews",
-      "title": "AlphaEvolve: Gemini-powered coding agent scaling impact across fields",
-      "url": "https://deepmind.google/blog/alphaevolve-impact/",
-      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://deepmind.google/blog/a...",
-      "score": 191
+      "title": "AI slop is killing online communities",
+      "url": "https://rmoff.net/2026/05/06/ai-slop-is-killing-online-communities/",
+      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://rmoff.net/2026/05/06/a...",
+      "score": 254
     },
     {
       "type": "HackerNews",
       "title": "DeepSeek 4 Flash local inference engine for Metal",
       "url": "https://github.com/antirez/ds4",
       "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://github.com/antirez/ds4...",
-      "score": 149
+      "score": 223
     },
     {
       "type": "HackerNews",
-      "title": "AI Slop Is Killing Online Communities",
-      "url": "https://rmoff.net/2026/05/06/ai-slop-is-killing-online-communities/",
-      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://rmoff.net/2026/05/06/a...",
-      "score": 86
-    },
-    {
-      "type": "HackerNews",
-      "title": "Child marriages plunged when girls stayed in school in Nigeria",
-      "url": "https://www.nature.com/articles/d41586-026-00720-8",
-      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.nature.com/article...",
-      "score": 270
-    },
-    {
-      "type": "HackerNews",
-      "title": "Chrome removes claim of On-device Al not sending data to Google Servers",
-      "url": "https://old.reddit.com/r/chrome/comments/1t5qayz/chrome_removes_claim_of_ondevice_al_not_sending/",
-      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://old.reddit.com/r/chrom...",
-      "score": 254
+      "title": "Colored Shadow Penumbra",
+      "url": "https://chosker.github.io/blog/colored-shadow-penumbra",
+      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://chosker.github.io/blog...",
+      "score": 24
     }
   ]
 }
