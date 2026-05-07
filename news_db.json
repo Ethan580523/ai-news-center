@@ -1,61 +1,61 @@
 {
-  "last_updated": "2026-05-06 21:57:22",
+  "last_updated": "2026-05-07 02:53:26",
   "news": [
     {
       "type": "HackerNews",
       "title": "Valve releases Steam Controller CAD files under Creative Commons license",
       "url": "https://www.digitalfoundry.net/news/2026/05/valve-releases-steam-controller-cad-files-under-creative-commons-license",
-      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.digitalfoundry.net...",
-      "score": 814
+      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.digitalfoundry.net...",
+      "score": 1103
+    },
+    {
+      "type": "HackerNews",
+      "title": "The Vatican's Website in Latin",
+      "url": "https://www.vatican.va/latin/latin_index.html",
+      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.vatican.va/latin/l...",
+      "score": 47
     },
     {
       "type": "HackerNews",
       "title": "Appearing productive in the workplace",
       "url": "https://nooneshappy.com/article/appearing-productive-in-the-workplace/",
       "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://nooneshappy.com/articl...",
-      "score": 501
-    },
-    {
-      "type": "HackerNews",
-      "title": "From Supabase to Clerk to Better Auth",
-      "url": "https://blog.val.town/better-auth",
-      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://blog.val.town/better-a...",
-      "score": 151
+      "score": 763
     },
     {
       "type": "HackerNews",
       "title": "Vibe coding and agentic engineering are getting closer than I'd like",
       "url": "https://simonwillison.net/2026/May/6/vibe-coding-and-agentic-engineering/",
-      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://simonwillison.net/2026...",
-      "score": 252
+      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://simonwillison.net/2026...",
+      "score": 429
+    },
+    {
+      "type": "HackerNews",
+      "title": "Finding the differences in a series of power supplies",
+      "url": "https://www.lttlabs.com/articles/2026/05/05/testing-psu-series",
+      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.lttlabs.com/articl...",
+      "score": 9
+    },
+    {
+      "type": "HackerNews",
+      "title": "From Supabase to Clerk to Better Auth",
+      "url": "https://blog.val.town/better-auth",
+      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://blog.val.town/better-a...",
+      "score": 213
+    },
+    {
+      "type": "HackerNews",
+      "title": "The bottleneck was never the code",
+      "url": "https://www.thetypicalset.com/blog/thoughts-on-coding-agents",
+      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.thetypicalset.com/...",
+      "score": 522
     },
     {
       "type": "HackerNews",
       "title": "Google Cloud fraud defense, the next evolution of reCAPTCHA",
       "url": "https://cloud.google.com/blog/products/identity-security/introducing-google-cloud-fraud-defense-the-next-evolution-of-recaptcha/",
       "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://cloud.google.com/blog/...",
-      "score": 113
-    },
-    {
-      "type": "HackerNews",
-      "title": "Learning the Integral of a Diffusion Model",
-      "url": "https://sander.ai/2026/05/06/flow-maps.html",
-      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://sander.ai/2026/05/06/f...",
-      "score": 51
-    },
-    {
-      "type": "HackerNews",
-      "title": "The bottleneck was never the code",
-      "url": "https://www.thetypicalset.com/blog/thoughts-on-coding-agents",
-      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.thetypicalset.com/...",
-      "score": 442
-    },
-    {
-      "type": "HackerNews",
-      "title": "Inkscape 1.4.4",
-      "url": "https://inkscape.org/doc/release_notes/1.4.4/Inkscape_1.4.4.html",
-      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://inkscape.org/doc/relea...",
-      "score": 133
+      "score": 221
     }
   ]
 }
