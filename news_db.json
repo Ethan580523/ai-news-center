@@ -1,61 +1,61 @@
 {
-  "last_updated": "2026-05-08 13:49:00",
+  "last_updated": "2026-05-08 16:14:15",
   "news": [
     {
       "type": "HackerNews",
       "title": "Poland is now among the 20 largest economies. How it happened",
       "url": "https://apnews.com/article/poland-economy-growth-g20-gdp-26fe06e120398410f8d773ba5661e7aa",
       "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://apnews.com/article/pol...",
-      "score": 203
+      "score": 550
+    },
+    {
+      "type": "HackerNews",
+      "title": "Serving a Website on a Raspberry Pi Zero Running in RAM",
+      "url": "https://btxx.org/posts/memory/",
+      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://btxx.org/posts/memory/...",
+      "score": 39
+    },
+    {
+      "type": "HackerNews",
+      "title": "PC Engine CPU",
+      "url": "https://jsgroth.dev/blog/posts/pc-engine-cpu/",
+      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://jsgroth.dev/blog/posts...",
+      "score": 49
     },
     {
       "type": "HackerNews",
       "title": "An Introduction to Meshtastic",
       "url": "https://meshtastic.org/docs/introduction/",
-      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://meshtastic.org/docs/in...",
-      "score": 67
+      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://meshtastic.org/docs/in...",
+      "score": 191
     },
     {
       "type": "HackerNews",
-      "title": "Canvas is down as ShinyHunters threatens to leak schools’ data",
-      "url": "https://www.theverge.com/tech/926458/canvas-shinyhunters-breach",
-      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.theverge.com/tech/...",
-      "score": 787
+      "title": "Google Cloud Fraud Defence is just WEI repackaged",
+      "url": "https://privatecaptcha.com/blog/google-cloud-fraud-defence-wei/",
+      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://privatecaptcha.com/blo...",
+      "score": 74
+    },
+    {
+      "type": "HackerNews",
+      "title": "Podman rootless containers and the Copy Fail exploit",
+      "url": "https://garrido.io/notes/podman-rootless-containers-copy-fail/",
+      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://garrido.io/notes/podma...",
+      "score": 44
+    },
+    {
+      "type": "HackerNews",
+      "title": "Show HN: Git for AI Agents",
+      "url": "https://github.com/regent-vcs/re_gent",
+      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://github.com/regent-vcs/...",
+      "score": 29
     },
     {
       "type": "HackerNews",
       "title": "Cloudflare to cut about 20% workforce",
       "url": "https://www.reuters.com/business/world-at-work/cloudflare-cut-over-1100-jobs-2026-05-07/",
       "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.reuters.com/busine...",
-      "score": 963
-    },
-    {
-      "type": "HackerNews",
-      "title": "US Government releases first batch of UAP documents and videos",
-      "url": "https://www.war.gov/UFO/",
-      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.war.gov/UFO/...",
-      "score": 21
-    },
-    {
-      "type": "HackerNews",
-      "title": "Maybe you shouldn't install new software for a bit",
-      "url": "https://xeiaso.net/blog/2026/abstain-from-install/",
-      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://xeiaso.net/blog/2026/a...",
-      "score": 650
-    },
-    {
-      "type": "HackerNews",
-      "title": "ClojureScript Gets Async/Await",
-      "url": "https://clojurescript.org/news/2026-05-07-release",
-      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://clojurescript.org/news...",
-      "score": 145
-    },
-    {
-      "type": "HackerNews",
-      "title": "GeoJSON",
-      "url": "https://geojson.org/",
-      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://geojson.org/...",
-      "score": 45
+      "score": 1105
     }
   ]
 }
