@@ -1,61 +1,61 @@
 {
-  "last_updated": "2026-05-08 19:18:49",
+  "last_updated": "2026-05-08 21:58:51",
   "news": [
     {
       "type": "HackerNews",
-      "title": "Google Cloud Fraud Defence is just WEI repackaged",
-      "url": "https://privatecaptcha.com/blog/google-cloud-fraud-defence-wei/",
-      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://privatecaptcha.com/blo...",
-      "score": 444
+      "title": "Google broke reCAPTCHA for de-googled Android users",
+      "url": "https://reclaimthenet.org/google-broke-recaptcha-for-de-googled-android-users",
+      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://reclaimthenet.org/goog...",
+      "score": 184
     },
     {
       "type": "HackerNews",
-      "title": "AI Is Breaking Two Vulnerability Cultures",
+      "title": "AI is breaking two vulnerability cultures",
       "url": "https://www.jefftk.com/p/ai-is-breaking-two-vulnerability-cultures",
-      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.jefftk.com/p/ai-is...",
-      "score": 43
+      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.jefftk.com/p/ai-is...",
+      "score": 143
+    },
+    {
+      "type": "HackerNews",
+      "title": "You gave me a u32. I gave you root. (io_uring ZCRX freelist LPE)",
+      "url": "https://ze3tar.github.io/post-zcrx.html",
+      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://ze3tar.github.io/post-...",
+      "score": 61
     },
     {
       "type": "HackerNews",
       "title": "Cartoon Network Flash Games",
       "url": "https://www.webdesignmuseum.org/flash-game-exhibitions/cartoon-network-flash-games",
-      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.webdesignmuseum.or...",
-      "score": 151
+      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.webdesignmuseum.or...",
+      "score": 226
+    },
+    {
+      "type": "HackerNews",
+      "title": "Non-determinism is an issue with patching CVEs",
+      "url": "https://flox.dev/blog/achieving-rapid-cve-remediation-in-an-era-of-escalating-vulnerabilities/",
+      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://flox.dev/blog/achievin...",
+      "score": 15
     },
     {
       "type": "HackerNews",
       "title": "Serving a website on a Raspberry Pi Zero running in RAM",
       "url": "https://btxx.org/posts/memory/",
       "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://btxx.org/posts/memory/...",
-      "score": 137
+      "score": 172
     },
     {
       "type": "HackerNews",
-      "title": "An Introduction to Meshtastic",
-      "url": "https://meshtastic.org/docs/introduction/",
-      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://meshtastic.org/docs/in...",
-      "score": 292
+      "title": "David Attenborough's 100th Birthday",
+      "url": "https://www.bbc.com/news/articles/cp3pww9g0p5o",
+      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.bbc.com/news/artic...",
+      "score": 306
     },
     {
       "type": "HackerNews",
-      "title": "A web page that shows you everything the browser told it without asking",
-      "url": "https://sinceyouarrived.world/taken",
-      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://sinceyouarrived.world/...",
-      "score": 362
-    },
-    {
-      "type": "HackerNews",
-      "title": "PC Engine CPU",
-      "url": "https://jsgroth.dev/blog/posts/pc-engine-cpu/",
-      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://jsgroth.dev/blog/posts...",
-      "score": 89
-    },
-    {
-      "type": "HackerNews",
-      "title": "Bjarne Stroustrup: How do I deal with memory leaks? (2022)",
-      "url": "https://www.stroustrup.com/bs_faq2.html#memory-leaks",
-      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.stroustrup.com/bs_...",
-      "score": 37
+      "title": "Mux (YC W16) Is Hiring",
+      "url": "https://www.mux.com/jobs",
+      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.mux.com/jobs...",
+      "score": 1
     }
   ]
 }
