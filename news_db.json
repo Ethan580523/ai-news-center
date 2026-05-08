@@ -1,61 +1,61 @@
 {
-  "last_updated": "2026-05-08 07:42:49",
+  "last_updated": "2026-05-08 10:25:06",
   "news": [
     {
       "type": "HackerNews",
       "title": "Canvas is down as ShinyHunters threatens to leak schools’ data",
       "url": "https://www.theverge.com/tech/926458/canvas-shinyhunters-breach",
       "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.theverge.com/tech/...",
-      "score": 568
-    },
-    {
-      "type": "HackerNews",
-      "title": "Maybe you shouldn't install new software for a bit",
-      "url": "https://xeiaso.net/blog/2026/abstain-from-install/",
-      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://xeiaso.net/blog/2026/a...",
-      "score": 430
+      "score": 657
     },
     {
       "type": "HackerNews",
       "title": "Cloudflare to cut about 20% workforce",
       "url": "https://www.reuters.com/business/world-at-work/cloudflare-cut-over-1100-jobs-2026-05-07/",
-      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.reuters.com/busine...",
-      "score": 625
+      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.reuters.com/busine...",
+      "score": 763
+    },
+    {
+      "type": "HackerNews",
+      "title": "Maybe you shouldn't install new software for a bit",
+      "url": "https://xeiaso.net/blog/2026/abstain-from-install/",
+      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://xeiaso.net/blog/2026/a...",
+      "score": 534
     },
     {
       "type": "HackerNews",
       "title": "Dirtyfrag: Universal Linux LPE",
       "url": "https://www.openwall.com/lists/oss-security/2026/05/07/8",
-      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.openwall.com/lists...",
-      "score": 597
+      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.openwall.com/lists...",
+      "score": 648
     },
     {
       "type": "HackerNews",
-      "title": "Blaise – A modern self-hosting zero-legacy Object Pascal compiler targeting QBE",
-      "url": "https://github.com/graemeg/blaise",
-      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://github.com/graemeg/bla...",
-      "score": 35
+      "title": "ClojureScript Gets Async/Await",
+      "url": "https://clojurescript.org/news/2026-05-07-release",
+      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://clojurescript.org/news...",
+      "score": 65
     },
     {
       "type": "HackerNews",
-      "title": "Pinocchio is weirder than you remembered",
-      "url": "https://storica.club/blog/pinocchio-in-italian/",
-      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://storica.club/blog/pino...",
-      "score": 120
+      "title": "Nintendo announces price increases for Nintendo Switch 2",
+      "url": "https://www.nintendo.co.jp/corporate/release/en/2026/260508.html",
+      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.nintendo.co.jp/cor...",
+      "score": 24
     },
     {
       "type": "HackerNews",
       "title": "The map that keeps Burning Man honest",
       "url": "https://www.not-ship.com/burning-man-moop/",
       "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.not-ship.com/burni...",
-      "score": 626
+      "score": 656
     },
     {
       "type": "HackerNews",
-      "title": "Inventing Cyrillic",
-      "url": "https://www.historytoday.com/archive/history-matters/inventing-cyrillic",
-      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.historytoday.com/a...",
-      "score": 24
+      "title": "The surprisingly complex journey to text-selectable client-side generated PDFs",
+      "url": "https://sdocs.dev/blogs/journey-to-pdf-generation",
+      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://sdocs.dev/blogs/journe...",
+      "score": 17
     }
   ]
 }
