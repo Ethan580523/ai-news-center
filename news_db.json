@@ -1,61 +1,61 @@
 {
-  "last_updated": "2026-05-08 16:14:15",
+  "last_updated": "2026-05-08 19:18:49",
   "news": [
     {
       "type": "HackerNews",
-      "title": "Poland is now among the 20 largest economies. How it happened",
-      "url": "https://apnews.com/article/poland-economy-growth-g20-gdp-26fe06e120398410f8d773ba5661e7aa",
-      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://apnews.com/article/pol...",
-      "score": 550
+      "title": "Google Cloud Fraud Defence is just WEI repackaged",
+      "url": "https://privatecaptcha.com/blog/google-cloud-fraud-defence-wei/",
+      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://privatecaptcha.com/blo...",
+      "score": 444
     },
     {
       "type": "HackerNews",
-      "title": "Serving a Website on a Raspberry Pi Zero Running in RAM",
+      "title": "AI Is Breaking Two Vulnerability Cultures",
+      "url": "https://www.jefftk.com/p/ai-is-breaking-two-vulnerability-cultures",
+      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.jefftk.com/p/ai-is...",
+      "score": 43
+    },
+    {
+      "type": "HackerNews",
+      "title": "Cartoon Network Flash Games",
+      "url": "https://www.webdesignmuseum.org/flash-game-exhibitions/cartoon-network-flash-games",
+      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.webdesignmuseum.or...",
+      "score": 151
+    },
+    {
+      "type": "HackerNews",
+      "title": "Serving a website on a Raspberry Pi Zero running in RAM",
       "url": "https://btxx.org/posts/memory/",
-      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://btxx.org/posts/memory/...",
-      "score": 39
-    },
-    {
-      "type": "HackerNews",
-      "title": "PC Engine CPU",
-      "url": "https://jsgroth.dev/blog/posts/pc-engine-cpu/",
-      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://jsgroth.dev/blog/posts...",
-      "score": 49
+      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://btxx.org/posts/memory/...",
+      "score": 137
     },
     {
       "type": "HackerNews",
       "title": "An Introduction to Meshtastic",
       "url": "https://meshtastic.org/docs/introduction/",
       "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://meshtastic.org/docs/in...",
-      "score": 191
+      "score": 292
     },
     {
       "type": "HackerNews",
-      "title": "Google Cloud Fraud Defence is just WEI repackaged",
-      "url": "https://privatecaptcha.com/blog/google-cloud-fraud-defence-wei/",
-      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://privatecaptcha.com/blo...",
-      "score": 74
+      "title": "A web page that shows you everything the browser told it without asking",
+      "url": "https://sinceyouarrived.world/taken",
+      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://sinceyouarrived.world/...",
+      "score": 362
     },
     {
       "type": "HackerNews",
-      "title": "Podman rootless containers and the Copy Fail exploit",
-      "url": "https://garrido.io/notes/podman-rootless-containers-copy-fail/",
-      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://garrido.io/notes/podma...",
-      "score": 44
+      "title": "PC Engine CPU",
+      "url": "https://jsgroth.dev/blog/posts/pc-engine-cpu/",
+      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://jsgroth.dev/blog/posts...",
+      "score": 89
     },
     {
       "type": "HackerNews",
-      "title": "Show HN: Git for AI Agents",
-      "url": "https://github.com/regent-vcs/re_gent",
-      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://github.com/regent-vcs/...",
-      "score": 29
-    },
-    {
-      "type": "HackerNews",
-      "title": "Cloudflare to cut about 20% workforce",
-      "url": "https://www.reuters.com/business/world-at-work/cloudflare-cut-over-1100-jobs-2026-05-07/",
-      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.reuters.com/busine...",
-      "score": 1105
+      "title": "Bjarne Stroustrup: How do I deal with memory leaks? (2022)",
+      "url": "https://www.stroustrup.com/bs_faq2.html#memory-leaks",
+      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.stroustrup.com/bs_...",
+      "score": 37
     }
   ]
 }
