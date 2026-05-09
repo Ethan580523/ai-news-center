@@ -1,61 +1,61 @@
 {
-  "last_updated": "2026-05-09 15:53:09",
+  "last_updated": "2026-05-09 19:02:35",
   "news": [
     {
       "type": "HackerNews",
       "title": "Internet Archive Switzerland",
       "url": "https://internetarchive.ch/",
-      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://internetarchive.ch/...",
-      "score": 227
+      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://internetarchive.ch/...",
+      "score": 390
     },
     {
       "type": "HackerNews",
-      "title": "PipeDream on the Acorn Archimedes",
-      "url": "https://stonetools.ghost.io/pipedream-archimedes/",
-      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://stonetools.ghost.io/pi...",
+      "title": "Bun ported to Rust in 6 days",
+      "url": "https://xunroll.com/thread/2053047748191232310",
+      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://xunroll.com/thread/205...",
       "score": 14
+    },
+    {
+      "type": "HackerNews",
+      "title": "CPanel's Black Week: 3 New Vulnerabilities Patched After Attack on 44k Servers",
+      "url": "https://www.copahost.com/blog/cpanels-black-week-three-new-vulnerabilities-patched-after-ransomware-attack-on-44000-servers/",
+      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.copahost.com/blog/...",
+      "score": 39
+    },
+    {
+      "type": "HackerNews",
+      "title": "I Will Not Add Query Strings to Your URLs",
+      "url": "https://susam.net/no-query-strings.html",
+      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://susam.net/no-query-str...",
+      "score": 46
+    },
+    {
+      "type": "HackerNews",
+      "title": "Show HN: I wrote a flight simulator in my own programming language",
+      "url": "https://github.com/navid-m/flightsim",
+      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://github.com/navid-m/fli...",
+      "score": 44
+    },
+    {
+      "type": "HackerNews",
+      "title": "LLMs corrupt your documents when you delegate",
+      "url": "https://arxiv.org/abs/2604.15597",
+      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://arxiv.org/abs/2604.155...",
+      "score": 253
     },
     {
       "type": "HackerNews",
       "title": "Google broke reCAPTCHA for de-googled Android users",
       "url": "https://reclaimthenet.org/google-broke-recaptcha-for-de-googled-android-users",
-      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://reclaimthenet.org/goog...",
-      "score": 1276
+      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://reclaimthenet.org/goog...",
+      "score": 1370
     },
     {
       "type": "HackerNews",
-      "title": "LLMs Corrupt Your Documents When You Delegate",
-      "url": "https://arxiv.org/abs/2604.15597",
-      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://arxiv.org/abs/2604.155...",
-      "score": 123
-    },
-    {
-      "type": "HackerNews",
-      "title": "Using Claude Code: The unreasonable effectiveness of HTML",
-      "url": "https://twitter.com/trq212/status/2052809885763747935",
-      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://twitter.com/trq212/sta...",
-      "score": 299
-    },
-    {
-      "type": "HackerNews",
-      "title": "How LEDs are made (2014)",
-      "url": "https://learn.sparkfun.com/tutorials/how-leds-are-made/all",
-      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://learn.sparkfun.com/tut...",
-      "score": 60
-    },
-    {
-      "type": "HackerNews",
-      "title": "A recent experience with ChatGPT 5.5 Pro",
-      "url": "https://gowers.wordpress.com/2026/05/08/a-recent-experience-with-chatgpt-5-5-pro/",
-      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://gowers.wordpress.com/2...",
-      "score": 486
-    },
-    {
-      "type": "HackerNews",
-      "title": "Removing fsync from our local storage engine",
-      "url": "https://fractalbits.com/blog/remove-fsync/",
-      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://fractalbits.com/blog/r...",
-      "score": 30
+      "title": "PipeDream on the Acorn Archimedes",
+      "url": "https://stonetools.ghost.io/pipedream-archimedes/",
+      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://stonetools.ghost.io/pi...",
+      "score": 52
     }
   ]
 }
