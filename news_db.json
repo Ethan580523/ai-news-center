@@ -1,61 +1,61 @@
 {
-  "last_updated": "2026-05-09 13:18:27",
+  "last_updated": "2026-05-09 15:53:09",
   "news": [
     {
       "type": "HackerNews",
       "title": "Internet Archive Switzerland",
       "url": "https://internetarchive.ch/",
       "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://internetarchive.ch/...",
-      "score": 70
+      "score": 227
     },
     {
       "type": "HackerNews",
-      "title": "Forking the Web",
-      "url": "https://dillo-browser.org/lab/web-fork/",
-      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://dillo-browser.org/lab/...",
-      "score": 31
-    },
-    {
-      "type": "HackerNews",
-      "title": "A recent experience with ChatGPT 5.5 Pro",
-      "url": "https://gowers.wordpress.com/2026/05/08/a-recent-experience-with-chatgpt-5-5-pro/",
-      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://gowers.wordpress.com/2...",
-      "score": 416
+      "title": "PipeDream on the Acorn Archimedes",
+      "url": "https://stonetools.ghost.io/pipedream-archimedes/",
+      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://stonetools.ghost.io/pi...",
+      "score": 14
     },
     {
       "type": "HackerNews",
       "title": "Google broke reCAPTCHA for de-googled Android users",
       "url": "https://reclaimthenet.org/google-broke-recaptcha-for-de-googled-android-users",
-      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://reclaimthenet.org/goog...",
-      "score": 1166
+      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://reclaimthenet.org/goog...",
+      "score": 1276
+    },
+    {
+      "type": "HackerNews",
+      "title": "LLMs Corrupt Your Documents When You Delegate",
+      "url": "https://arxiv.org/abs/2604.15597",
+      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://arxiv.org/abs/2604.155...",
+      "score": 123
     },
     {
       "type": "HackerNews",
       "title": "Using Claude Code: The unreasonable effectiveness of HTML",
       "url": "https://twitter.com/trq212/status/2052809885763747935",
-      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://twitter.com/trq212/sta...",
-      "score": 220
+      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://twitter.com/trq212/sta...",
+      "score": 299
     },
     {
       "type": "HackerNews",
-      "title": "OpenAI’s WebRTC problem",
-      "url": "https://moq.dev/blog/webrtc-is-the-problem/",
-      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://moq.dev/blog/webrtc-is...",
-      "score": 361
+      "title": "How LEDs are made (2014)",
+      "url": "https://learn.sparkfun.com/tutorials/how-leds-are-made/all",
+      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://learn.sparkfun.com/tut...",
+      "score": 60
     },
     {
       "type": "HackerNews",
-      "title": "Making Julia as Fast as C++ (2019)",
-      "url": "https://flow.byu.edu/posts/julia-c++",
-      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://flow.byu.edu/posts/jul...",
-      "score": 29
+      "title": "A recent experience with ChatGPT 5.5 Pro",
+      "url": "https://gowers.wordpress.com/2026/05/08/a-recent-experience-with-chatgpt-5-5-pro/",
+      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://gowers.wordpress.com/2...",
+      "score": 486
     },
     {
       "type": "HackerNews",
-      "title": "America's carpet capital: an empire and its toxic legacy",
-      "url": "https://apnews.com/projects/pfas-forever-stained/",
-      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://apnews.com/projects/pf...",
-      "score": 54
+      "title": "Removing fsync from our local storage engine",
+      "url": "https://fractalbits.com/blog/remove-fsync/",
+      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://fractalbits.com/blog/r...",
+      "score": 30
     }
   ]
 }
