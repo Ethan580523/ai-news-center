@@ -1,61 +1,61 @@
 {
-  "last_updated": "2026-05-09 21:43:13",
+  "last_updated": "2026-05-10 02:58:03",
   "news": [
     {
       "type": "HackerNews",
       "title": "Bun's experimental Rust rewrite hits 99.8% test compatibility on Linux x64 glibc",
       "url": "https://twitter.com/jarredsumner/status/2053047748191232310",
       "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://twitter.com/jarredsumn...",
-      "score": 222
+      "score": 442
     },
     {
       "type": "HackerNews",
       "title": "Internet Archive Switzerland",
       "url": "https://blog.archive.org/2026/05/06/internet-archive-switzerland-expanding-a-global-mission-to-preserve-knowledge/",
-      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://blog.archive.org/2026/...",
-      "score": 470
+      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://blog.archive.org/2026/...",
+      "score": 553
     },
     {
       "type": "HackerNews",
-      "title": "FreeBSD: Local Privilege Escalation via Execve()",
-      "url": "https://www.freebsd.org/security/advisories/FreeBSD-SA-26:13.exec.asc",
-      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.freebsd.org/securi...",
-      "score": 36
+      "title": "Show HN: Rust but Lisp",
+      "url": "https://github.com/ThatXliner/rust-but-lisp",
+      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://github.com/ThatXliner/...",
+      "score": 92
     },
     {
       "type": "HackerNews",
       "title": "I’ve banned query strings",
       "url": "https://chrismorgan.info/no-query-strings",
       "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://chrismorgan.info/no-qu...",
-      "score": 173
+      "score": 281
+    },
+    {
+      "type": "HackerNews",
+      "title": "I'm writing a history of Visual Basic, Chapter 1 is up",
+      "url": "https://evilgeniuslabs.ca/blog/visual-basic-history-chapter-1-launch",
+      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://evilgeniuslabs.ca/blog...",
+      "score": 34
+    },
+    {
+      "type": "HackerNews",
+      "title": "Local privilege escalation via execve()",
+      "url": "https://www.freebsd.org/security/advisories/FreeBSD-SA-26:13.exec.asc",
+      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.freebsd.org/securi...",
+      "score": 97
     },
     {
       "type": "HackerNews",
       "title": "Zed Editor Theme-Builder",
       "url": "https://zed.dev/theme-builder",
-      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://zed.dev/theme-builder...",
-      "score": 105
+      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://zed.dev/theme-builder...",
+      "score": 166
     },
     {
       "type": "HackerNews",
-      "title": "CPanel's Black Week: 3 New Vulnerabilities Patched After Attack on 44k Servers",
-      "url": "https://www.copahost.com/blog/cpanels-black-week-three-new-vulnerabilities-patched-after-ransomware-attack-on-44000-servers/",
-      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.copahost.com/blog/...",
-      "score": 83
-    },
-    {
-      "type": "HackerNews",
-      "title": "I caught the car",
-      "url": "https://undecidability.net/senior/",
-      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://undecidability.net/sen...",
-      "score": 14
-    },
-    {
-      "type": "HackerNews",
-      "title": "Production engineering when trading billions of dollars a day [video]",
-      "url": "https://www.youtube.com/watch?v=zR9PpXWsKFQ",
-      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.youtube.com/watch?...",
-      "score": 39
+      "title": "Making your own programming language is easier than you think (but also harder)",
+      "url": "https://lisyarus.github.io/blog/posts/making-your-own-programming-language.html",
+      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://lisyarus.github.io/blo...",
+      "score": 62
     }
   ]
 }
