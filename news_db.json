@@ -1,61 +1,61 @@
 {
-  "last_updated": "2026-05-10 02:58:03",
+  "last_updated": "2026-05-10 06:17:13",
   "news": [
+    {
+      "type": "HackerNews",
+      "title": "Show HN: Building a web server in assembly to give my life (a lack of) meaning",
+      "url": "https://github.com/imtomt/ymawky",
+      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://github.com/imtomt/ymaw...",
+      "score": 154
+    },
     {
       "type": "HackerNews",
       "title": "Bun's experimental Rust rewrite hits 99.8% test compatibility on Linux x64 glibc",
       "url": "https://twitter.com/jarredsumner/status/2053047748191232310",
-      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://twitter.com/jarredsumn...",
-      "score": 442
+      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://twitter.com/jarredsumn...",
+      "score": 497
+    },
+    {
+      "type": "HackerNews",
+      "title": "Gemini API File Search is now multimodal",
+      "url": "https://blog.google/innovation-and-ai/technology/developers-tools/expanded-gemini-api-file-search-multimodal-rag/",
+      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://blog.google/innovation...",
+      "score": 48
+    },
+    {
+      "type": "HackerNews",
+      "title": "Casio S100X Japanese Lacquer Edition (JP Page Only)",
+      "url": "https://www.casio.com/jp/basic-calculators/premium/en-s100x-jc1-u/",
+      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.casio.com/jp/basic...",
+      "score": 73
+    },
+    {
+      "type": "HackerNews",
+      "title": "The One Dollar Counterfeiter",
+      "url": "https://www.amusingplanet.com/2026/05/emerich-juettner-one-dollar.html",
+      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.amusingplanet.com/...",
+      "score": 41
     },
     {
       "type": "HackerNews",
       "title": "Internet Archive Switzerland",
       "url": "https://blog.archive.org/2026/05/06/internet-archive-switzerland-expanding-a-global-mission-to-preserve-knowledge/",
-      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://blog.archive.org/2026/...",
-      "score": 553
-    },
-    {
-      "type": "HackerNews",
-      "title": "Show HN: Rust but Lisp",
-      "url": "https://github.com/ThatXliner/rust-but-lisp",
-      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://github.com/ThatXliner/...",
-      "score": 92
+      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://blog.archive.org/2026/...",
+      "score": 585
     },
     {
       "type": "HackerNews",
       "title": "I’ve banned query strings",
       "url": "https://chrismorgan.info/no-query-strings",
-      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://chrismorgan.info/no-qu...",
-      "score": 281
+      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://chrismorgan.info/no-qu...",
+      "score": 339
     },
     {
       "type": "HackerNews",
       "title": "I'm writing a history of Visual Basic, Chapter 1 is up",
       "url": "https://evilgeniuslabs.ca/blog/visual-basic-history-chapter-1-launch",
       "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://evilgeniuslabs.ca/blog...",
-      "score": 34
-    },
-    {
-      "type": "HackerNews",
-      "title": "Local privilege escalation via execve()",
-      "url": "https://www.freebsd.org/security/advisories/FreeBSD-SA-26:13.exec.asc",
-      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.freebsd.org/securi...",
-      "score": 97
-    },
-    {
-      "type": "HackerNews",
-      "title": "Zed Editor Theme-Builder",
-      "url": "https://zed.dev/theme-builder",
-      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://zed.dev/theme-builder...",
-      "score": 166
-    },
-    {
-      "type": "HackerNews",
-      "title": "Making your own programming language is easier than you think (but also harder)",
-      "url": "https://lisyarus.github.io/blog/posts/making-your-own-programming-language.html",
-      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://lisyarus.github.io/blo...",
-      "score": 62
+      "score": 81
     }
   ]
 }
