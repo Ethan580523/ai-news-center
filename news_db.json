@@ -1,61 +1,61 @@
 {
-  "last_updated": "2026-05-10 15:54:51",
+  "last_updated": "2026-05-10 19:05:05",
   "news": [
     {
       "type": "HackerNews",
-      "title": "Scientists warn Atlantic current at risk of shutting down",
-      "url": "https://e360.yale.edu/features/amoc-climate-change",
-      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://e360.yale.edu/features...",
+      "title": "Hardware Attestation as Monopoly Enabler",
+      "url": "https://grapheneos.social/@GrapheneOS/116550899908879585",
+      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://grapheneos.social/@Gra...",
+      "score": 205
+    },
+    {
+      "type": "HackerNews",
+      "title": "Incident Report: CVE-2024-YIKES",
+      "url": "https://nesbitt.io/2026/02/03/incident-report-cve-2024-yikes.html",
+      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://nesbitt.io/2026/02/03/...",
+      "score": 84
+    },
+    {
+      "type": "HackerNews",
+      "title": "Tracesofhumanity.org by Joanna Rutkowska",
+      "url": "https://tracesofhumanity.org/hello-world/",
+      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://tracesofhumanity.org/h...",
+      "score": 55
+    },
+    {
+      "type": "HackerNews",
+      "title": "Walking slower? Your ears, not your knees, might be the problem",
+      "url": "https://www.wsj.com/health/wellness/hearing-loss-walking-speed-iphone-study-c53c482a",
+      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.wsj.com/health/wel...",
+      "score": 46
+    },
+    {
+      "type": "HackerNews",
+      "title": "I returned to AWS and was reminded why I left",
+      "url": "http://fourlightyears.blogspot.com/2026/05/i-returned-to-aws-and-was-reminded-hard.html",
+      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：http://fourlightyears.blogspot...",
+      "score": 480
+    },
+    {
+      "type": "HackerNews",
+      "title": "The Locals Don't Know",
+      "url": "https://www.quarter--mile.com/The-Locals-Dont-Know",
+      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.quarter--mile.com/...",
+      "score": 18
+    },
+    {
+      "type": "HackerNews",
+      "title": "Ask HN: What Are You Working On? (May 2026)",
+      "url": null,
+      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：...",
       "score": 12
     },
     {
       "type": "HackerNews",
-      "title": "Space Cadet Pinball on Linux",
-      "url": "https://brennan.io/2026/05/09/pinball-and-escrow/",
-      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://brennan.io/2026/05/09/...",
-      "score": 201
-    },
-    {
-      "type": "HackerNews",
-      "title": "Louis Rossmann tells 3D printer maker Bambu Lab to 'Go (Bleep) yourself'",
-      "url": "https://www.tomshardware.com/3d-printing/louis-rossmann-tells-3d-printer-maker-bambu-lab-to-go-bleep-yourself-over-its-lawsuit-against-enthusiast-right-to-repair-advocate-offers-to-pay-the-legal-fees-for-a-threatened-orcaslicer-developer",
-      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.tomshardware.com/3...",
-      "score": 114
-    },
-    {
-      "type": "HackerNews",
-      "title": "What's a Mathematician to Do?",
-      "url": "https://mathoverflow.net/questions/43690/whats-a-mathematician-to-do",
-      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://mathoverflow.net/quest...",
-      "score": 65
-    },
-    {
-      "type": "HackerNews",
-      "title": "I returned to AWS, and was reminded why I left",
-      "url": "http://fourlightyears.blogspot.com/2026/05/i-returned-to-aws-and-was-reminded-hard.html",
-      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：http://fourlightyears.blogspot...",
-      "score": 299
-    },
-    {
-      "type": "HackerNews",
-      "title": "Idempotency Is Easy Until the Second Request Is Different",
-      "url": "https://blog.dochia.dev/blog/idempotency/",
-      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://blog.dochia.dev/blog/i...",
-      "score": 198
-    },
-    {
-      "type": "HackerNews",
-      "title": "Bun's experimental Rust rewrite hits 99.8% test compatibility on Linux x64 glibc",
-      "url": "https://twitter.com/jarredsumner/status/2053047748191232310",
-      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://twitter.com/jarredsumn...",
-      "score": 650
-    },
-    {
-      "type": "HackerNews",
-      "title": "The One Dollar Counterfeiter",
-      "url": "https://www.amusingplanet.com/2026/05/emerich-juettner-one-dollar.html",
-      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.amusingplanet.com/...",
-      "score": 251
+      "title": "5x perf increase on writes with FPW disabled in Postgres",
+      "url": "https://www.databricks.com/blog/how-lakebase-architecture-delivers-5x-faster-postgres-writes",
+      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.databricks.com/blo...",
+      "score": 38
     }
   ]
 }
