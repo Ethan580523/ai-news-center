@@ -1,61 +1,61 @@
 {
-  "last_updated": "2026-05-10 19:05:05",
+  "last_updated": "2026-05-10 21:49:19",
   "news": [
     {
       "type": "HackerNews",
       "title": "Hardware Attestation as Monopoly Enabler",
       "url": "https://grapheneos.social/@GrapheneOS/116550899908879585",
       "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://grapheneos.social/@Gra...",
-      "score": 205
+      "score": 573
+    },
+    {
+      "type": "HackerNews",
+      "title": "Local AI needs to be the norm",
+      "url": "https://unix.foo/posts/local-ai-needs-to-be-norm/",
+      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://unix.foo/posts/local-a...",
+      "score": 236
     },
     {
       "type": "HackerNews",
       "title": "Incident Report: CVE-2024-YIKES",
       "url": "https://nesbitt.io/2026/02/03/incident-report-cve-2024-yikes.html",
       "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://nesbitt.io/2026/02/03/...",
-      "score": 84
+      "score": 277
     },
     {
       "type": "HackerNews",
-      "title": "Tracesofhumanity.org by Joanna Rutkowska",
+      "title": "Ask HN: What are you working on? (May 2026)",
+      "url": null,
+      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：...",
+      "score": 66
+    },
+    {
+      "type": "HackerNews",
+      "title": "Traces Of Humanity",
       "url": "https://tracesofhumanity.org/hello-world/",
-      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://tracesofhumanity.org/h...",
-      "score": 55
-    },
-    {
-      "type": "HackerNews",
-      "title": "Walking slower? Your ears, not your knees, might be the problem",
-      "url": "https://www.wsj.com/health/wellness/hearing-loss-walking-speed-iphone-study-c53c482a",
-      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.wsj.com/health/wel...",
-      "score": 46
+      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://tracesofhumanity.org/h...",
+      "score": 96
     },
     {
       "type": "HackerNews",
       "title": "I returned to AWS and was reminded why I left",
       "url": "http://fourlightyears.blogspot.com/2026/05/i-returned-to-aws-and-was-reminded-hard.html",
-      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：http://fourlightyears.blogspot...",
-      "score": 480
+      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：http://fourlightyears.blogspot...",
+      "score": 580
     },
     {
       "type": "HackerNews",
-      "title": "The Locals Don't Know",
-      "url": "https://www.quarter--mile.com/The-Locals-Dont-Know",
-      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.quarter--mile.com/...",
-      "score": 18
+      "title": "Stop MitM on the first SSH connection, on any VPS or cloud provider",
+      "url": "https://www.joachimschipper.nl/Stop%20MITM%20on%20the%20first%20SSH%20connection,%20on%20any%20VPS%20or%20cloud%20provider.html",
+      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.joachimschipper.nl...",
+      "score": 50
     },
     {
       "type": "HackerNews",
-      "title": "Ask HN: What Are You Working On? (May 2026)",
-      "url": null,
-      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：...",
-      "score": 12
-    },
-    {
-      "type": "HackerNews",
-      "title": "5x perf increase on writes with FPW disabled in Postgres",
+      "title": "Lakebase architecture delivers faster Postgres writes",
       "url": "https://www.databricks.com/blog/how-lakebase-architecture-delivers-5x-faster-postgres-writes",
-      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.databricks.com/blo...",
-      "score": 38
+      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.databricks.com/blo...",
+      "score": 75
     }
   ]
 }
