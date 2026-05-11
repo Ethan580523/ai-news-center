@@ -1,61 +1,61 @@
 {
-  "last_updated": "2026-05-11 14:53:11",
+  "last_updated": "2026-05-11 17:24:58",
   "news": [
+    {
+      "type": "HackerNews",
+      "title": "CUDA-oxide: Nvidia's official Rust to CUDA compiler",
+      "url": "https://nvlabs.github.io/cuda-oxide/index.html",
+      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://nvlabs.github.io/cuda-...",
+      "score": 65
+    },
+    {
+      "type": "HackerNews",
+      "title": "Nullsoft, 1997-2004 AOL kills off the last maverick tech company (2004)",
+      "url": "https://slate.com/technology/2004/11/the-death-of-the-last-maverick-tech-company.html",
+      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://slate.com/technology/2...",
+      "score": 48
+    },
     {
       "type": "HackerNews",
       "title": "Ratty – A terminal emulator with inline 3D graphics",
       "url": "https://ratty-term.org/",
       "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://ratty-term.org/...",
-      "score": 315
-    },
-    {
-      "type": "HackerNews",
-      "title": "Killed by Apple",
-      "url": "https://killedbyapple.theden.sh/",
-      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://killedbyapple.theden.s...",
-      "score": 49
-    },
-    {
-      "type": "HackerNews",
-      "title": "Hardware Attestation as Monopoly Enabler",
-      "url": "https://grapheneos.social/@GrapheneOS/116550899908879585",
-      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://grapheneos.social/@Gra...",
-      "score": 1865
-    },
-    {
-      "type": "HackerNews",
-      "title": "Driver accused of DUI tracks missing laptop to Illinois State trooper's house",
-      "url": "https://abc7chicago.com/post/top-cop-driver-accused-dui-tracks-missing-laptop-illinois-state-police-trooper-kevin-bradleys-house/19060850/",
-      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://abc7chicago.com/post/t...",
-      "score": 210
+      "score": 461
     },
     {
       "type": "HackerNews",
       "title": "Training an LLM in Swift, Part 1: Taking matrix mult from Gflop/s to Tflop/s",
       "url": "https://www.cocoawithlove.com/blog/matrix-multiplications-swift.html",
       "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.cocoawithlove.com/...",
-      "score": 23
+      "score": 122
     },
     {
       "type": "HackerNews",
-      "title": "Local AI needs to be the norm",
-      "url": "https://unix.foo/posts/local-ai-needs-to-be-norm/",
-      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://unix.foo/posts/local-a...",
-      "score": 1486
+      "title": "How to Leave Instagram",
+      "url": "https://www.a-side.social/blog/how-to-leave-instagram/",
+      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.a-side.social/blog...",
+      "score": 11
     },
     {
       "type": "HackerNews",
-      "title": "Venom and Hot Peppers Offer a Key to Killing Resistant Bacteria",
-      "url": "https://www.wired.com/story/mexican-science-transforms-scorpion-venom-and-habanero-chile-into-antibiotics-against-resistant-bacteria/",
-      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.wired.com/story/me...",
-      "score": 72
+      "title": "AMÁLIA and the future of European Portuguese LLMs",
+      "url": "https://duarteocarmo.com/blog/amalia-and-the-future-of-european-portuguese-llms",
+      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://duarteocarmo.com/blog/...",
+      "score": 54
     },
     {
       "type": "HackerNews",
       "title": "Gmail registration now requires scanning a QR code and sending a text message",
       "url": "https://discuss.privacyguides.net/t/google-account-registration-now-requires-sending-an-sms-via-phone-instead-of-receiving-an-sms/36082",
-      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://discuss.privacyguides....",
-      "score": 153
+      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://discuss.privacyguides....",
+      "score": 309
+    },
+    {
+      "type": "HackerNews",
+      "title": "Show HN: TikTok but for Scientific Papers",
+      "url": "https://andreaturchet.github.io/website/index.html",
+      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://andreaturchet.github.i...",
+      "score": 12
     }
   ]
 }
