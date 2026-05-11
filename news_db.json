@@ -1,61 +1,61 @@
 {
-  "last_updated": "2026-05-10 21:49:19",
+  "last_updated": "2026-05-11 03:34:11",
   "news": [
     {
       "type": "HackerNews",
       "title": "Hardware Attestation as Monopoly Enabler",
       "url": "https://grapheneos.social/@GrapheneOS/116550899908879585",
-      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://grapheneos.social/@Gra...",
-      "score": 573
+      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://grapheneos.social/@Gra...",
+      "score": 1008
     },
     {
       "type": "HackerNews",
       "title": "Local AI needs to be the norm",
       "url": "https://unix.foo/posts/local-ai-needs-to-be-norm/",
       "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://unix.foo/posts/local-a...",
-      "score": 236
+      "score": 694
+    },
+    {
+      "type": "HackerNews",
+      "title": "I'm going back to writing code by hand",
+      "url": "https://blog.k10s.dev/im-going-back-to-writing-code-by-hand/",
+      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://blog.k10s.dev/im-going...",
+      "score": 107
+    },
+    {
+      "type": "HackerNews",
+      "title": "Running local models on an M4 with 24GB memory",
+      "url": "https://jola.dev/posts/running-local-models-on-m4",
+      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://jola.dev/posts/running...",
+      "score": 151
+    },
+    {
+      "type": "HackerNews",
+      "title": "The Greatest Shot in Television: James Burke Had One Chance to Nail This Scene",
+      "url": "https://www.openculture.com/2024/10/the-greatest-shot-in-television.html",
+      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.openculture.com/20...",
+      "score": 21
+    },
+    {
+      "type": "HackerNews",
+      "title": "Obsidian plugin was abused to deploy a remote access trojan",
+      "url": "https://cyber.netsecops.io/articles/obsidian-plugin-abused-in-campaign-to-deploy-phantom-pulse-rat/",
+      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://cyber.netsecops.io/art...",
+      "score": 107
     },
     {
       "type": "HackerNews",
       "title": "Incident Report: CVE-2024-YIKES",
       "url": "https://nesbitt.io/2026/02/03/incident-report-cve-2024-yikes.html",
-      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://nesbitt.io/2026/02/03/...",
-      "score": 277
+      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://nesbitt.io/2026/02/03/...",
+      "score": 431
     },
     {
       "type": "HackerNews",
-      "title": "Ask HN: What are you working on? (May 2026)",
-      "url": null,
-      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：...",
-      "score": 66
-    },
-    {
-      "type": "HackerNews",
-      "title": "Traces Of Humanity",
-      "url": "https://tracesofhumanity.org/hello-world/",
-      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://tracesofhumanity.org/h...",
-      "score": 96
-    },
-    {
-      "type": "HackerNews",
-      "title": "I returned to AWS and was reminded why I left",
-      "url": "http://fourlightyears.blogspot.com/2026/05/i-returned-to-aws-and-was-reminded-hard.html",
-      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：http://fourlightyears.blogspot...",
-      "score": 580
-    },
-    {
-      "type": "HackerNews",
-      "title": "Stop MitM on the first SSH connection, on any VPS or cloud provider",
-      "url": "https://www.joachimschipper.nl/Stop%20MITM%20on%20the%20first%20SSH%20connection,%20on%20any%20VPS%20or%20cloud%20provider.html",
-      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.joachimschipper.nl...",
-      "score": 50
-    },
-    {
-      "type": "HackerNews",
-      "title": "Lakebase architecture delivers faster Postgres writes",
-      "url": "https://www.databricks.com/blog/how-lakebase-architecture-delivers-5x-faster-postgres-writes",
-      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.databricks.com/blo...",
-      "score": 75
+      "title": "An AI coding agent, used to write code, needs to reduce your maintenance costs",
+      "url": "https://www.jamesshore.com/v2/blog/2026/you-need-ai-that-reduces-your-maintenance-costs",
+      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.jamesshore.com/v2/...",
+      "score": 65
     }
   ]
 }
