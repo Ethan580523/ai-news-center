@@ -1,61 +1,61 @@
 {
-  "last_updated": "2026-05-12 19:53:09",
+  "last_updated": "2026-05-12 22:11:55",
   "news": [
     {
       "type": "HackerNews",
       "title": "Googlebook",
       "url": "https://googlebook.google/",
-      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://googlebook.google/...",
-      "score": 278
+      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://googlebook.google/...",
+      "score": 460
+    },
+    {
+      "type": "HackerNews",
+      "title": "How to make your text look futuristic (2016)",
+      "url": "https://typesetinthefuture.com/2016/02/18/futuristic/",
+      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://typesetinthefuture.com...",
+      "score": 105
     },
     {
       "type": "HackerNews",
       "title": "CERT is releasing six CVEs for serious security vulnerabilities in dnsmasq",
       "url": "https://lists.thekelleys.org.uk/pipermail/dnsmasq-discuss/2026q2/018471.html",
       "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://lists.thekelleys.org.u...",
-      "score": 97
+      "score": 166
+    },
+    {
+      "type": "HackerNews",
+      "title": "Show HN: Needle: We Distilled Gemini Tool Calling into a 26M Model",
+      "url": "https://github.com/cactus-compute/needle",
+      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://github.com/cactus-comp...",
+      "score": 180
     },
     {
       "type": "HackerNews",
       "title": "Why senior developers fail to communicate their expertise",
       "url": "https://www.nair.sh/guides-and-opinions/communicating-your-expertise/why-senior-developers-fail-to-communicate-their-expertise",
       "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.nair.sh/guides-and...",
-      "score": 180
-    },
-    {
-      "type": "HackerNews",
-      "title": "The Future of Obsidian Plugins",
-      "url": "https://obsidian.md/blog/future-of-plugins/",
-      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://obsidian.md/blog/futur...",
-      "score": 174
-    },
-    {
-      "type": "HackerNews",
-      "title": "Show HN: Needle: We Distilled Gemini Tool Calling into a 26M Model",
-      "url": "https://github.com/cactus-compute/needle",
-      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://github.com/cactus-comp...",
-      "score": 55
-    },
-    {
-      "type": "HackerNews",
-      "title": "Rendering the Sky, Sunsets, and Planets",
-      "url": "https://blog.maximeheckel.com/posts/on-rendering-the-sky-sunsets-and-planets/",
-      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://blog.maximeheckel.com/...",
-      "score": 325
-    },
-    {
-      "type": "HackerNews",
-      "title": "The Rise of the Bullshittery",
-      "url": "https://xn--gckvb8fzb.com/the-rise-of-the-bullshittery/",
-      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://xn--gckvb8fzb.com/the-...",
-      "score": 13
+      "score": 273
     },
     {
       "type": "HackerNews",
       "title": "Quack: The DuckDB Client-Server Protocol",
       "url": "https://duckdb.org/2026/05/12/quack-remote-protocol",
       "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://duckdb.org/2026/05/12/...",
-      "score": 37
+      "score": 119
+    },
+    {
+      "type": "HackerNews",
+      "title": "The Future of Obsidian Plugins",
+      "url": "https://obsidian.md/blog/future-of-plugins/",
+      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://obsidian.md/blog/futur...",
+      "score": 255
+    },
+    {
+      "type": "HackerNews",
+      "title": "Rendering the Sky, Sunsets, and Planets",
+      "url": "https://blog.maximeheckel.com/posts/on-rendering-the-sky-sunsets-and-planets/",
+      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://blog.maximeheckel.com/...",
+      "score": 368
     }
   ]
 }
