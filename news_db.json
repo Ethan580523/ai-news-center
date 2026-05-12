@@ -1,61 +1,61 @@
 {
-  "last_updated": "2026-05-12 14:26:24",
+  "last_updated": "2026-05-12 17:11:19",
   "news": [
-    {
-      "type": "HackerNews",
-      "title": "Learning Software Architecture",
-      "url": "https://matklad.github.io/2026/05/12/software-architecture.html",
-      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://matklad.github.io/2026...",
-      "score": 292
-    },
     {
       "type": "HackerNews",
       "title": "Rendering the Sky, Sunsets, and Planets",
       "url": "https://blog.maximeheckel.com/posts/on-rendering-the-sky-sunsets-and-planets/",
       "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://blog.maximeheckel.com/...",
-      "score": 42
+      "score": 238
+    },
+    {
+      "type": "HackerNews",
+      "title": "Bambu Lab is abusing the open source social contract",
+      "url": "https://www.jeffgeerling.com/blog/2026/bambu-lab-abusing-open-source-social-contract/",
+      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.jeffgeerling.com/b...",
+      "score": 515
+    },
+    {
+      "type": "HackerNews",
+      "title": "Learning Software Architecture",
+      "url": "https://matklad.github.io/2026/05/12/software-architecture.html",
+      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://matklad.github.io/2026...",
+      "score": 400
+    },
+    {
+      "type": "HackerNews",
+      "title": "The Future of Obsidian Plugins",
+      "url": "https://obsidian.md/blog/future-of-plugins/",
+      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://obsidian.md/blog/futur...",
+      "score": 50
+    },
+    {
+      "type": "HackerNews",
+      "title": "Launch HN: Voker (YC S24) – Analytics for AI Agents",
+      "url": "https://voker.ai",
+      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://voker.ai...",
+      "score": 18
+    },
+    {
+      "type": "HackerNews",
+      "title": "Amazon employees are \"tokenmaxxing\" due to pressure to use AI tools",
+      "url": "https://arstechnica.com/ai/2026/05/amazon-employees-are-tokenmaxxing-due-to-pressure-to-use-ai-tools/",
+      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://arstechnica.com/ai/202...",
+      "score": 66
     },
     {
       "type": "HackerNews",
       "title": "Screenshots of Old Desktop OSes",
       "url": "http://www.typewritten.org/Media/",
-      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：http://www.typewritten.org/Med...",
-      "score": 416
-    },
-    {
-      "type": "HackerNews",
-      "title": "Profiling.sampling – Statistical Profiler",
-      "url": "https://docs.python.org/3.15/library/profiling.sampling.html#module-profiling.sampling",
-      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://docs.python.org/3.15/l...",
-      "score": 32
-    },
-    {
-      "type": "HackerNews",
-      "title": "EU to crack down on TikTok, Instagram's 'addictive design' targeting kids",
-      "url": "https://www.cnbc.com/2026/05/12/tiktok-instagram-social-media-addictive-eu-crack-down.html",
-      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.cnbc.com/2026/05/1...",
-      "score": 243
+      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：http://www.typewritten.org/Med...",
+      "score": 540
     },
     {
       "type": "HackerNews",
       "title": "Postmortem: TanStack NPM supply-chain compromise",
       "url": "https://tanstack.com/blog/npm-supply-chain-compromise-postmortem",
-      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://tanstack.com/blog/npm-...",
-      "score": 939
-    },
-    {
-      "type": "HackerNews",
-      "title": "US inflation jumps to 3.8% as energy costs surge from Iran war",
-      "url": "https://www.bbc.com/news/articles/c202pgxx89lo",
-      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.bbc.com/news/artic...",
-      "score": 75
-    },
-    {
-      "type": "HackerNews",
-      "title": "Chasing Chicago's movable bridges (2014)",
-      "url": "https://aresluna.org/seesaws-for-giants/",
-      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://aresluna.org/seesaws-f...",
-      "score": 32
+      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://tanstack.com/blog/npm-...",
+      "score": 1001
     }
   ]
 }
