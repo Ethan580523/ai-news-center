@@ -1,61 +1,61 @@
 {
-  "last_updated": "2026-05-13 11:30:06",
+  "last_updated": "2026-05-13 14:34:45",
   "news": [
     {
       "type": "HackerNews",
-      "title": "Deterministic Fully-Static Whole-Binary Translation Without Heuristics",
-      "url": "https://arxiv.org/abs/2605.08419",
-      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://arxiv.org/abs/2605.084...",
-      "score": 209
+      "title": "I Moved My Digital Stack to Europe",
+      "url": "https://monokai.com/articles/how-i-moved-my-digital-stack-to-europe/",
+      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://monokai.com/articles/h...",
+      "score": 403
     },
     {
       "type": "HackerNews",
-      "title": "Restore full BambuNetwork support for Bambu Lab printers",
-      "url": "https://github.com/FULU-Foundation/OrcaSlicer-bambulab",
-      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://github.com/FULU-Founda...",
-      "score": 470
+      "title": "Why I'm leaving GitHub for Forgejo",
+      "url": "https://jorijn.com/en/blog/leaving-github-for-forgejo/",
+      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://jorijn.com/en/blog/lea...",
+      "score": 166
+    },
+    {
+      "type": "HackerNews",
+      "title": "An idiot's guide to lead optimisation for proteins",
+      "url": "https://magnusross.github.io/posts/protein-lead-optimisation-1/",
+      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://magnusross.github.io/p...",
+      "score": 35
+    },
+    {
+      "type": "HackerNews",
+      "title": "Preserving Fisher-Price Pixter",
+      "url": "https://dmitry.gr/?r=05.Projects&proj=37.%20Pixter",
+      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://dmitry.gr/?r=05.Projec...",
+      "score": 107
+    },
+    {
+      "type": "HackerNews",
+      "title": "Dutch suicide prevention website shares data with tech companies without consent",
+      "url": "https://nltimes.nl/2026/05/13/dutch-suicide-prevention-hotline-shares-visitor-data-tech-companies",
+      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://nltimes.nl/2026/05/13/...",
+      "score": 97
     },
     {
       "type": "HackerNews",
       "title": "New stainless steel can survive conditions for hydrogen production in seawater",
       "url": "https://www.sciencedaily.com/releases/2026/05/260510030950.htm",
-      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.sciencedaily.com/r...",
-      "score": 80
+      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.sciencedaily.com/r...",
+      "score": 171
     },
     {
       "type": "HackerNews",
-      "title": "Googlebook",
-      "url": "https://googlebook.google/",
-      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://googlebook.google/...",
-      "score": 807
+      "title": "Restore full BambuNetwork support for Bambu Lab printers",
+      "url": "https://github.com/FULU-Foundation/OrcaSlicer-bambulab",
+      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://github.com/FULU-Founda...",
+      "score": 552
     },
     {
       "type": "HackerNews",
-      "title": "Show HN: Needle: We Distilled Gemini Tool Calling into a 26M Model",
-      "url": "https://github.com/cactus-compute/needle",
-      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://github.com/cactus-comp...",
-      "score": 493
-    },
-    {
-      "type": "HackerNews",
-      "title": "The Boring Part of Bell Labs (2025)",
-      "url": "https://acesounderglass.com/2025/11/15/the-boring-part-of-bell-labs/",
-      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://acesounderglass.com/20...",
-      "score": 24
-    },
-    {
-      "type": "HackerNews",
-      "title": "How to make your text look futuristic (2016)",
-      "url": "https://typesetinthefuture.com/2016/02/18/futuristic/",
-      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://typesetinthefuture.com...",
-      "score": 373
-    },
-    {
-      "type": "HackerNews",
-      "title": "SecurityBaseline.eu",
-      "url": "https://internetcleanup.foundation/2026/05/european-governments-3000-tracking-sites-1000-phpmyadmins-and-99pct-poorly-encrypted-email-introducing-securitybaseline-eu/",
-      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://internetcleanup.founda...",
-      "score": 170
+      "title": "Deterministic Fully-Static Whole-Binary Translation Without Heuristics",
+      "url": "https://arxiv.org/abs/2605.08419",
+      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://arxiv.org/abs/2605.084...",
+      "score": 251
     }
   ]
 }
