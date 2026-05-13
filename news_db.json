@@ -1,61 +1,61 @@
 {
-  "last_updated": "2026-05-13 17:16:31",
+  "last_updated": "2026-05-13 19:55:05",
   "news": [
     {
       "type": "HackerNews",
-      "title": "Setting up a free *.city.state.us locality domain",
+      "title": "Setting up a free *.city.state.us locality domain (2025)",
       "url": "https://fredchan.org/blog/locality-domains-guide/",
-      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://fredchan.org/blog/loca...",
-      "score": 230
+      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://fredchan.org/blog/loca...",
+      "score": 369
     },
     {
       "type": "HackerNews",
-      "title": "Haiku",
-      "url": "https://www.haiku-os.org",
-      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.haiku-os.org...",
-      "score": 59
+      "title": "Making the news available at no cost is a victory",
+      "url": "https://www.sltrib.com/opinion/commentary/2026/05/12/just-days-tribune-reporting/",
+      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.sltrib.com/opinion...",
+      "score": 21
     },
     {
       "type": "HackerNews",
-      "title": "Open Source Resistance: keep OSS alive on company time",
-      "url": "https://ossresistance.com/",
-      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://ossresistance.com/...",
-      "score": 86
-    },
-    {
-      "type": "HackerNews",
-      "title": "S-100 Virtual Workbench",
-      "url": "https://grantmestrength.github.io/S100/",
-      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://grantmestrength.github...",
-      "score": 36
-    },
-    {
-      "type": "HackerNews",
-      "title": "Launch HN: Ardent (YC P26) – Postgres sandboxes in seconds with zero migration",
-      "url": "https://www.tryardent.com/",
-      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.tryardent.com/...",
-      "score": 12
-    },
-    {
-      "type": "HackerNews",
-      "title": "Xs of Y – roguelike that names itself every run. Written in 4kLoC",
-      "url": "https://github.com/nooga/xsofy",
-      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://github.com/nooga/xsofy...",
-      "score": 42
+      "title": "Linux gaming is faster because Windows APIs are becoming Linux kernel features",
+      "url": "https://www.xda-developers.com/linux-gaming-is-getting-faster-because-windows-apis-are-becoming-linux-kernel-features/",
+      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.xda-developers.com...",
+      "score": 156
     },
     {
       "type": "HackerNews",
       "title": "A History of IDEs at Google",
       "url": "https://laurent.le-brun.eu/blog/a-history-of-ides-at-google",
       "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://laurent.le-brun.eu/blo...",
-      "score": 16
+      "score": 129
     },
     {
       "type": "HackerNews",
-      "title": "Reverting the incremental GC in Python 3.14 and 3.15",
-      "url": "https://discuss.python.org/t/reverting-the-incremental-gc-in-python-3-14-and-3-15/107014",
-      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://discuss.python.org/t/r...",
-      "score": 119
+      "title": "S-100 Virtual Workbench",
+      "url": "https://grantmestrength.github.io/S100/",
+      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://grantmestrength.github...",
+      "score": 64
+    },
+    {
+      "type": "HackerNews",
+      "title": "Xs of Y – roguelike that names itself every run. Written in 4kLoC",
+      "url": "https://github.com/nooga/xsofy",
+      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://github.com/nooga/xsofy...",
+      "score": 97
+    },
+    {
+      "type": "HackerNews",
+      "title": "Launch HN: Ardent (YC P26) – Postgres sandboxes in seconds with zero migration",
+      "url": "https://www.tryardent.com/",
+      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.tryardent.com/...",
+      "score": 37
+    },
+    {
+      "type": "HackerNews",
+      "title": "The great memory panic of 2026 – Asymco",
+      "url": "https://asymco.com/2026/05/11/the-great-memory-panic-of-2026/",
+      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://asymco.com/2026/05/11/...",
+      "score": 22
     }
   ]
 }
