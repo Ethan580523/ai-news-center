@@ -1,61 +1,61 @@
 {
-  "last_updated": "2026-05-13 03:28:49",
+  "last_updated": "2026-05-13 08:44:55",
   "news": [
     {
       "type": "HackerNews",
-      "title": "Starship V3",
-      "url": "https://www.spacex.com/updates#starship-v3",
-      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.spacex.com/updates...",
-      "score": 101
+      "title": "European governments: 3.000 tracking sites, 1.000 phpMyAdmins, and 99% poorly",
+      "url": "https://internetcleanup.foundation/2026/05/european-governments-3000-tracking-sites-1000-phpmyadmins-and-99pct-poorly-encrypted-email-introducing-securitybaseline-eu/",
+      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://internetcleanup.founda...",
+      "score": 95
+    },
+    {
+      "type": "HackerNews",
+      "title": "Deterministic Fully-Static Whole-Binary Translation Without Heuristics",
+      "url": "https://arxiv.org/abs/2605.08419",
+      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://arxiv.org/abs/2605.084...",
+      "score": 147
     },
     {
       "type": "HackerNews",
       "title": "Restore full BambuNetwork support for Bambu Lab printers",
       "url": "https://github.com/FULU-Foundation/OrcaSlicer-bambulab",
-      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://github.com/FULU-Founda...",
-      "score": 234
+      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://github.com/FULU-Founda...",
+      "score": 404
+    },
+    {
+      "type": "HackerNews",
+      "title": "The vi family",
+      "url": "https://lpar.ATH0.com/posts/2026/05/the-vi-family/",
+      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://lpar.ATH0.com/posts/20...",
+      "score": 143
     },
     {
       "type": "HackerNews",
       "title": "Googlebook",
       "url": "https://googlebook.google/",
-      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://googlebook.google/...",
-      "score": 647
-    },
-    {
-      "type": "HackerNews",
-      "title": "My graduation cap runs Rust",
-      "url": "https://ericswpark.com/blog/2026/2026-05-12-my-graduation-cap-runs-rust/",
-      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://ericswpark.com/blog/20...",
-      "score": 85
-    },
-    {
-      "type": "HackerNews",
-      "title": "Kraftwerk's radical 1976 track",
-      "url": "https://www.bbc.com/culture/article/20260511-kraftwerks-radical-1976-track-radioactivity-became-an-anti-nuclear-anthem",
-      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.bbc.com/culture/ar...",
-      "score": 81
-    },
-    {
-      "type": "HackerNews",
-      "title": "How to make your text look futuristic (2016)",
-      "url": "https://typesetinthefuture.com/2016/02/18/futuristic/",
-      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://typesetinthefuture.com...",
-      "score": 237
+      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://googlebook.google/...",
+      "score": 760
     },
     {
       "type": "HackerNews",
       "title": "Show HN: Needle: We Distilled Gemini Tool Calling into a 26M Model",
       "url": "https://github.com/cactus-compute/needle",
-      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://github.com/cactus-comp...",
-      "score": 311
+      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://github.com/cactus-comp...",
+      "score": 439
     },
     {
       "type": "HackerNews",
-      "title": "CERT is releasing six CVEs for serious security vulnerabilities in dnsmasq",
-      "url": "https://lists.thekelleys.org.uk/pipermail/dnsmasq-discuss/2026q2/018471.html",
-      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://lists.thekelleys.org.u...",
-      "score": 254
+      "title": "How to make your text look futuristic (2016)",
+      "url": "https://typesetinthefuture.com/2016/02/18/futuristic/",
+      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://typesetinthefuture.com...",
+      "score": 328
+    },
+    {
+      "type": "HackerNews",
+      "title": "Kraftwerk's radical 1976 track",
+      "url": "https://www.bbc.com/culture/article/20260511-kraftwerks-radical-1976-track-radioactivity-became-an-anti-nuclear-anthem",
+      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.bbc.com/culture/ar...",
+      "score": 149
     }
   ]
 }
