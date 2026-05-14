@@ -1,61 +1,61 @@
 {
-  "last_updated": "2026-05-14 14:12:33",
+  "last_updated": "2026-05-14 17:01:06",
   "news": [
     {
       "type": "HackerNews",
-      "title": "USDA Projects Smallest US Wheat Harvest Since 1972 Due to Plains Drought",
-      "url": "https://www.agweb.com/news/usda-projects-smallest-us-wheat-harvest-1972-due-plains-drought",
-      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.agweb.com/news/usd...",
-      "score": 84
+      "title": "RTX 5090 and M4 MacBook Air: Can It Game?",
+      "url": "https://scottjg.com/posts/2026-05-05-egpu-mac-gaming/",
+      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://scottjg.com/posts/2026...",
+      "score": 107
     },
     {
       "type": "HackerNews",
       "title": "Computer Hobby Movement in Canada",
       "url": "https://museum.eecs.yorku.ca/exhibits/show/hobby_canada/hobby_canada",
-      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://museum.eecs.yorku.ca/e...",
-      "score": 30
+      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://museum.eecs.yorku.ca/e...",
+      "score": 116
     },
     {
       "type": "HackerNews",
-      "title": "The European Union backs Italy's right to make Meta pay for news",
-      "url": "https://www.niemanlab.org/2026/05/the-eu-backs-italys-right-to-make-meta-pay-for-news/",
-      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.niemanlab.org/2026...",
-      "score": 32
+      "title": "MIT: 20% drop in incoming graduate students",
+      "url": "https://president.mit.edu/writing-speeches/video-transcript-message-president-kornbluth-about-funding-and-talent-pipeline",
+      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://president.mit.edu/writ...",
+      "score": 330
     },
     {
       "type": "HackerNews",
-      "title": "Show HN: Running the second public ODoH relay",
-      "url": "https://numa.rs/blog/posts/odoh-anonymous-dns-without-an-account.html",
-      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://numa.rs/blog/posts/odo...",
-      "score": 65
+      "title": "Claude AI recovers an 11 yrs old BTC wallet holding 400k USD",
+      "url": "https://www.tomshardware.com/tech-industry/cryptocurrency/bitcoin-trader-recovers-usd400-000-using-claude-ai-after-losing-wallet-password-11-years-ago-bot-tried-3-5-trillion-passwords-before-decrypting-an-old-wallet-backup",
+      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.tomshardware.com/t...",
+      "score": 186
+    },
+    {
+      "type": "HackerNews",
+      "title": "On The Conflation of Money and Things",
+      "url": "https://lithub.com/is-it-even-real-on-the-conflation-of-money-and-things/",
+      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://lithub.com/is-it-even-...",
+      "score": 16
+    },
+    {
+      "type": "HackerNews",
+      "title": "Fossils show millipede and centipede ancestors evolved legs underwater",
+      "url": "https://phys.org/news/2026-05-ancient-sea-fossils-millipede-centipede.html",
+      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://phys.org/news/2026-05-...",
+      "score": 12
     },
     {
       "type": "HackerNews",
       "title": "Claude for Small Business",
       "url": "https://www.anthropic.com/news/claude-for-small-business",
       "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.anthropic.com/news...",
-      "score": 384
+      "score": 459
     },
     {
       "type": "HackerNews",
-      "title": "The Tree House: A voyage to the source of a backyard dream",
-      "url": "https://www.laphamsquarterly.org/roundtable/tree-house",
-      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.laphamsquarterly.o...",
-      "score": 24
-    },
-    {
-      "type": "HackerNews",
-      "title": "Linux gaming is faster because Windows APIs are becoming Linux kernel features",
-      "url": "https://www.xda-developers.com/linux-gaming-is-getting-faster-because-windows-apis-are-becoming-linux-kernel-features/",
-      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.xda-developers.com...",
-      "score": 843
-    },
-    {
-      "type": "HackerNews",
-      "title": "Scorched Earth 2000 – Web",
-      "url": "http://www.scorch2000.com/web/",
-      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：http://www.scorch2000.com/web/...",
-      "score": 314
+      "title": "Show HN: Running the second public ODoH relay",
+      "url": "https://numa.rs/blog/posts/odoh-anonymous-dns-without-an-account.html",
+      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://numa.rs/blog/posts/odo...",
+      "score": 97
     }
   ]
 }
