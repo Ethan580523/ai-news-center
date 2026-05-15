@@ -1,61 +1,61 @@
 {
-  "last_updated": "2026-05-14 22:11:51",
+  "last_updated": "2026-05-15 03:32:41",
   "news": [
+    {
+      "type": "HackerNews",
+      "title": "Mullvad exit IPs are surprisingly identifying",
+      "url": "https://tmctmt.com/posts/mullvad-exit-ips-as-a-fingerprinting-vector/",
+      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://tmctmt.com/posts/mullv...",
+      "score": 67
+    },
     {
       "type": "HackerNews",
       "title": "Removing the modem and GPS from my 2024 RAV4 hybrid",
       "url": "https://arkadiyt.com/2026/05/13/removing-the-modem-and-gps-from-my-rav4/",
-      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://arkadiyt.com/2026/05/1...",
-      "score": 447
+      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://arkadiyt.com/2026/05/1...",
+      "score": 669
     },
     {
       "type": "HackerNews",
-      "title": "Amazonbot is finally respecting robots.txt",
-      "url": "https://xeiaso.net/notes/2026/amazonbot-respecting-robots-txt/",
-      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://xeiaso.net/notes/2026/...",
-      "score": 63
+      "title": "A few words on DS4",
+      "url": "https://antirez.com/news/165",
+      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://antirez.com/news/165...",
+      "score": 192
     },
     {
       "type": "HackerNews",
       "title": "First public macOS kernel memory corruption exploit on Apple M5",
       "url": "https://blog.calif.io/p/first-public-kernel-memory-corruption",
       "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://blog.calif.io/p/first-...",
-      "score": 145
+      "score": 288
     },
     {
       "type": "HackerNews",
       "title": "RTX 5090 and M4 MacBook Air: Can It Game?",
       "url": "https://scottjg.com/posts/2026-05-05-egpu-mac-gaming/",
-      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://scottjg.com/posts/2026...",
-      "score": 423
+      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://scottjg.com/posts/2026...",
+      "score": 505
+    },
+    {
+      "type": "HackerNews",
+      "title": "Codex is now in the ChatGPT mobile app",
+      "url": "https://openai.com/index/work-with-codex-from-anywhere/",
+      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://openai.com/index/work-...",
+      "score": 217
     },
     {
       "type": "HackerNews",
       "title": "New Nginx Exploit",
       "url": "https://github.com/DepthFirstDisclosures/Nginx-Rift",
-      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://github.com/DepthFirstD...",
-      "score": 224
+      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://github.com/DepthFirstD...",
+      "score": 311
     },
     {
       "type": "HackerNews",
       "title": "Tesla Wall Connector bootloader bypasses the firmware downgrade ratchet",
       "url": "https://www.synacktiv.com/en/publications/exploiting-the-tesla-wall-connector-from-its-charge-port-connector-part-2-bypassing",
-      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.synacktiv.com/en/p...",
-      "score": 24
-    },
-    {
-      "type": "HackerNews",
-      "title": "Claude for Legal",
-      "url": "https://github.com/anthropics/claude-for-legal",
-      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://github.com/anthropics/...",
-      "score": 26
-    },
-    {
-      "type": "HackerNews",
-      "title": "Infracost (YC W21) Is Hiring Sr Dev Advocate to make agents cloud cost-aware",
-      "url": "https://www.ycombinator.com/companies/infracost/jobs/NzwUQ7c-senior-developer-advocate",
-      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.ycombinator.com/co...",
-      "score": 1
+      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.synacktiv.com/en/p...",
+      "score": 71
     }
   ]
 }
