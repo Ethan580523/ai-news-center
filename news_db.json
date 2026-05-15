@@ -1,61 +1,61 @@
 {
-  "last_updated": "2026-05-15 19:38:40",
+  "last_updated": "2026-05-15 21:59:37",
   "news": [
     {
       "type": "HackerNews",
       "title": "Project Gutenberg – keeps getting better",
       "url": "https://www.gutenberg.org/",
-      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.gutenberg.org/...",
-      "score": 398
+      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.gutenberg.org/...",
+      "score": 572
+    },
+    {
+      "type": "HackerNews",
+      "title": "WinCE64 – Windows CE 2.11 for N64",
+      "url": "https://github.com/ThroatyMumbo/WinCE64",
+      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://github.com/ThroatyMumb...",
+      "score": 100
+    },
+    {
+      "type": "HackerNews",
+      "title": "Mitchellh – I strongly believe there are entire companies now under AI psychosis",
+      "url": "https://twitter.com/mitchellh/status/2055380239711457578",
+      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://twitter.com/mitchellh/...",
+      "score": 289
+    },
+    {
+      "type": "HackerNews",
+      "title": "The Zulip Foundation",
+      "url": "https://blog.zulip.com/2026/05/15/announcing-zulip-foundation/",
+      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://blog.zulip.com/2026/05...",
+      "score": 108
     },
     {
       "type": "HackerNews",
       "title": "A 0-click exploit chain for the Pixel 10",
       "url": "https://projectzero.google/2026/05/pixel-10-exploit.html",
-      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://projectzero.google/202...",
-      "score": 248
+      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://projectzero.google/202...",
+      "score": 295
     },
     {
       "type": "HackerNews",
-      "title": "Bun Rust rewrite: \"codebase fails basic miri checks, allows for UB in safe rust\"",
-      "url": "https://github.com/oven-sh/bun/issues/30719",
-      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://github.com/oven-sh/bun...",
-      "score": 220
+      "title": "Palantir has hired more than 30 senior UK Government officials",
+      "url": "https://www.thenational.scot/news/26055524.palantir-hired-30-senior-uk-government-officials/",
+      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.thenational.scot/n...",
+      "score": 117
     },
     {
       "type": "HackerNews",
-      "title": "I designed a nibble-oriented CPU in Verilog to build a scientific calculator",
-      "url": "https://github.com/gdevic/FPGA-Calculator",
-      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://github.com/gdevic/FPGA...",
-      "score": 40
+      "title": "California bill would require patches or refunds when online games shut down",
+      "url": "https://arstechnica.com/gaming/2026/05/bill-to-keep-online-games-playable-clears-key-hurdle-in-california/",
+      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://arstechnica.com/gaming...",
+      "score": 134
     },
     {
       "type": "HackerNews",
-      "title": "U.S. DOJ demands Apple and Google unmask over 100k users of car-tinkering app",
-      "url": "https://macdailynews.com/2026/05/15/u-s-doj-demands-apple-and-google-unmask-over-100000-users-of-popular-car-tinkering-app-in-emissions-crackdown/",
-      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://macdailynews.com/2026/...",
-      "score": 170
-    },
-    {
-      "type": "HackerNews",
-      "title": "Image-blaster: Creates 3D environments, SFX, and meshes from a single image",
-      "url": "https://github.com/neilsonnn/image-blaster",
-      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://github.com/neilsonnn/i...",
-      "score": 59
-    },
-    {
-      "type": "HackerNews",
-      "title": "Show HN: Watch a neural net learn to play Snake",
-      "url": "https://ppo.gradexp.xyz/",
-      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://ppo.gradexp.xyz/...",
-      "score": 71
-    },
-    {
-      "type": "HackerNews",
-      "title": "I built Zenith: a live local-first fixed viewport planetarium",
-      "url": "https://smorgasb.org/zenith-tech/",
-      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://smorgasb.org/zenith-te...",
-      "score": 51
+      "title": "Microscale Thermite Reaction",
+      "url": "https://sciencedemonstrations.fas.harvard.edu/presentations/microscale-thermite-reaction",
+      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://sciencedemonstrations....",
+      "score": 32
     }
   ]
 }
