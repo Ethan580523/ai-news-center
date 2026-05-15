@@ -1,61 +1,61 @@
 {
-  "last_updated": "2026-05-15 16:51:23",
+  "last_updated": "2026-05-15 19:38:40",
   "news": [
     {
       "type": "HackerNews",
       "title": "Project Gutenberg – keeps getting better",
       "url": "https://www.gutenberg.org/",
       "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.gutenberg.org/...",
-      "score": 69
+      "score": 398
     },
     {
       "type": "HackerNews",
       "title": "A 0-click exploit chain for the Pixel 10",
       "url": "https://projectzero.google/2026/05/pixel-10-exploit.html",
-      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://projectzero.google/202...",
-      "score": 159
+      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://projectzero.google/202...",
+      "score": 248
     },
     {
       "type": "HackerNews",
-      "title": "The sigmoids won't save you",
-      "url": "https://www.astralcodexten.com/p/the-sigmoids-wont-save-you",
-      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.astralcodexten.com...",
-      "score": 23
+      "title": "Bun Rust rewrite: \"codebase fails basic miri checks, allows for UB in safe rust\"",
+      "url": "https://github.com/oven-sh/bun/issues/30719",
+      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://github.com/oven-sh/bun...",
+      "score": 220
+    },
+    {
+      "type": "HackerNews",
+      "title": "I designed a nibble-oriented CPU in Verilog to build a scientific calculator",
+      "url": "https://github.com/gdevic/FPGA-Calculator",
+      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://github.com/gdevic/FPGA...",
+      "score": 40
+    },
+    {
+      "type": "HackerNews",
+      "title": "U.S. DOJ demands Apple and Google unmask over 100k users of car-tinkering app",
+      "url": "https://macdailynews.com/2026/05/15/u-s-doj-demands-apple-and-google-unmask-over-100000-users-of-popular-car-tinkering-app-in-emissions-crackdown/",
+      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://macdailynews.com/2026/...",
+      "score": 170
+    },
+    {
+      "type": "HackerNews",
+      "title": "Image-blaster: Creates 3D environments, SFX, and meshes from a single image",
+      "url": "https://github.com/neilsonnn/image-blaster",
+      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://github.com/neilsonnn/i...",
+      "score": 59
+    },
+    {
+      "type": "HackerNews",
+      "title": "Show HN: Watch a neural net learn to play Snake",
+      "url": "https://ppo.gradexp.xyz/",
+      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://ppo.gradexp.xyz/...",
+      "score": 71
     },
     {
       "type": "HackerNews",
       "title": "I built Zenith: a live local-first fixed viewport planetarium",
       "url": "https://smorgasb.org/zenith-tech/",
       "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://smorgasb.org/zenith-te...",
-      "score": 23
-    },
-    {
-      "type": "HackerNews",
-      "title": "ASCII by Jason Scott",
-      "url": "https://ascii.textfiles.com/",
-      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://ascii.textfiles.com/...",
-      "score": 62
-    },
-    {
-      "type": "HackerNews",
-      "title": "O(x)Caml in Space",
-      "url": "https://gazagnaire.org/blog/2026-05-14-borealis.html",
-      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://gazagnaire.org/blog/20...",
-      "score": 183
-    },
-    {
-      "type": "HackerNews",
-      "title": "Explore Wikipedia Like a Windows XP Desktop",
-      "url": "https://explorer.samismith.com/",
-      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://explorer.samismith.com...",
-      "score": 355
-    },
-    {
-      "type": "HackerNews",
-      "title": "High dimensional geometry is transforming the MRI industry(2017) [pdf]",
-      "url": "https://www.ams.org/government/DonohoPresentation06-28-17Final.pdf",
-      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.ams.org/government...",
-      "score": 45
+      "score": 51
     }
   ]
 }
