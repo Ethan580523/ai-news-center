@@ -1,61 +1,61 @@
 {
-  "last_updated": "2026-05-15 21:59:37",
+  "last_updated": "2026-05-16 02:55:44",
   "news": [
     {
       "type": "HackerNews",
       "title": "Project Gutenberg – keeps getting better",
       "url": "https://www.gutenberg.org/",
-      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.gutenberg.org/...",
-      "score": 572
+      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.gutenberg.org/...",
+      "score": 741
     },
     {
       "type": "HackerNews",
-      "title": "WinCE64 – Windows CE 2.11 for N64",
-      "url": "https://github.com/ThroatyMumbo/WinCE64",
-      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://github.com/ThroatyMumb...",
-      "score": 100
-    },
-    {
-      "type": "HackerNews",
-      "title": "Mitchellh – I strongly believe there are entire companies now under AI psychosis",
+      "title": "I believe there are entire companies right now under AI psychosis",
       "url": "https://twitter.com/mitchellh/status/2055380239711457578",
-      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://twitter.com/mitchellh/...",
-      "score": 289
+      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://twitter.com/mitchellh/...",
+      "score": 877
     },
     {
       "type": "HackerNews",
-      "title": "The Zulip Foundation",
-      "url": "https://blog.zulip.com/2026/05/15/announcing-zulip-foundation/",
-      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://blog.zulip.com/2026/05...",
-      "score": 108
+      "title": "The bird eye was pushed to an evolutionary extreme",
+      "url": "https://www.quantamagazine.org/how-the-bird-eye-was-pushed-to-an-evolutionary-extreme-20260513/",
+      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.quantamagazine.org...",
+      "score": 30
+    },
+    {
+      "type": "HackerNews",
+      "title": "Naturally Occurring Quasicrystals",
+      "url": "https://johncarlosbaez.wordpress.com/2026/05/14/naturally-occurring-quasicrystals/",
+      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://johncarlosbaez.wordpre...",
+      "score": 66
+    },
+    {
+      "type": "HackerNews",
+      "title": "Additive Blending on the Nintendo 64",
+      "url": "https://phoboslab.org/log/2026/05/n64-additive-blending",
+      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://phoboslab.org/log/2026...",
+      "score": 30
+    },
+    {
+      "type": "HackerNews",
+      "title": "The main thing about P2P meth is that there's so much of it (2021)",
+      "url": "https://dynomight.net/p2p-meth/",
+      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://dynomight.net/p2p-meth...",
+      "score": 57
+    },
+    {
+      "type": "HackerNews",
+      "title": "How to Write to SSDs [pdf]",
+      "url": "https://www.vldb.org/pvldb/vol19/p1469-lee.pdf",
+      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.vldb.org/pvldb/vol...",
+      "score": 56
     },
     {
       "type": "HackerNews",
       "title": "A 0-click exploit chain for the Pixel 10",
       "url": "https://projectzero.google/2026/05/pixel-10-exploit.html",
       "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://projectzero.google/202...",
-      "score": 295
-    },
-    {
-      "type": "HackerNews",
-      "title": "Palantir has hired more than 30 senior UK Government officials",
-      "url": "https://www.thenational.scot/news/26055524.palantir-hired-30-senior-uk-government-officials/",
-      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.thenational.scot/n...",
-      "score": 117
-    },
-    {
-      "type": "HackerNews",
-      "title": "California bill would require patches or refunds when online games shut down",
-      "url": "https://arstechnica.com/gaming/2026/05/bill-to-keep-online-games-playable-clears-key-hurdle-in-california/",
-      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://arstechnica.com/gaming...",
-      "score": 134
-    },
-    {
-      "type": "HackerNews",
-      "title": "Microscale Thermite Reaction",
-      "url": "https://sciencedemonstrations.fas.harvard.edu/presentations/microscale-thermite-reaction",
-      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://sciencedemonstrations....",
-      "score": 32
+      "score": 345
     }
   ]
 }
