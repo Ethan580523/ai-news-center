@@ -1,61 +1,61 @@
 {
-  "last_updated": "2026-05-16 15:58:14",
+  "last_updated": "2026-05-16 19:04:57",
   "news": [
+    {
+      "type": "HackerNews",
+      "title": "HTML Lists",
+      "url": "https://blog.frankmtaylor.com/2026/05/13/you-dont-know-html-lists/",
+      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://blog.frankmtaylor.com/...",
+      "score": 187
+    },
     {
       "type": "HackerNews",
       "title": "SANA-WM, a 2.6B open-source world model for 1-minute 720p video",
       "url": "https://nvlabs.github.io/Sana/WM/",
-      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://nvlabs.github.io/Sana/...",
-      "score": 131
+      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://nvlabs.github.io/Sana/...",
+      "score": 231
+    },
+    {
+      "type": "HackerNews",
+      "title": "Windows 9x Subsystem for Linux",
+      "url": "https://codeberg.org/hails/wsl9x",
+      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://codeberg.org/hails/wsl...",
+      "score": 74
+    },
+    {
+      "type": "HackerNews",
+      "title": "Kioxia and Dell cram 10 PB into slim 2RU server",
+      "url": "https://www.blocksandfiles.com/flash/2026/05/14/kioxia-and-dell-cram-10-pb-into-slim-2ru-server/5240574",
+      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.blocksandfiles.com...",
+      "score": 24
     },
     {
       "type": "HackerNews",
       "title": "How an Australian Teen Team Is Making Radio Astronomy Affordable for Schools",
       "url": "https://mag.openrockets.com/p/how-an-australian-teen-team-is-making-radio-astronomy-affordable-for-rural-schools-4894opuisyhfdisubgi/?b=2",
-      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://mag.openrockets.com/p/...",
-      "score": 11
+      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://mag.openrockets.com/p/...",
+      "score": 79
     },
     {
       "type": "HackerNews",
-      "title": "Accelerate",
-      "url": "https://github.com/AccelerateHS/accelerate",
-      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://github.com/AccelerateH...",
-      "score": 32
+      "title": "Accelerando (2005)",
+      "url": "https://www.antipope.org/charlie/blog-static/fiction/accelerando/accelerando.html",
+      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.antipope.org/charl...",
+      "score": 171
     },
     {
       "type": "HackerNews",
       "title": "Moving away from Tailwind, and learning to structure my CSS",
       "url": "https://jvns.ca/blog/2026/05/15/moving-away-from-tailwind--and-learning-to-structure-my-css-/",
       "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://jvns.ca/blog/2026/05/1...",
-      "score": 153
+      "score": 281
     },
     {
       "type": "HackerNews",
-      "title": "Δ-Mem: Efficient Online Memory for Large Language Models",
-      "url": "https://arxiv.org/abs/2605.12357",
-      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://arxiv.org/abs/2605.123...",
-      "score": 130
-    },
-    {
-      "type": "HackerNews",
-      "title": "Accelerando (2005)",
-      "url": "https://www.antipope.org/charlie/blog-static/fiction/accelerando/accelerando.html",
-      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.antipope.org/charl...",
-      "score": 122
-    },
-    {
-      "type": "HackerNews",
-      "title": "My Favorite Bugs: Invalid Surrogate Pairs",
-      "url": "https://george.mand.is/2026/05/my-favorite-bugs-invalid-surrogate-pairs/",
-      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://george.mand.is/2026/05...",
-      "score": 34
-    },
-    {
-      "type": "HackerNews",
-      "title": "DeepSeek-V4-Flash means LLM steering is interesting again",
-      "url": "https://www.seangoedecke.com/steering-vectors/",
-      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.seangoedecke.com/s...",
-      "score": 36
+      "title": "Show HN: Rocksky – Music scrobbling and discovery on the AT Protocol",
+      "url": "https://tangled.org/rocksky.app/rocksky",
+      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://tangled.org/rocksky.ap...",
+      "score": 19
     }
   ]
 }
