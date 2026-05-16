@@ -1,61 +1,61 @@
 {
-  "last_updated": "2026-05-16 10:16:02",
+  "last_updated": "2026-05-16 13:23:00",
   "news": [
+    {
+      "type": "HackerNews",
+      "title": "Δ-Mem: Efficient Online Memory for Large Language Models",
+      "url": "https://arxiv.org/abs/2605.12357",
+      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://arxiv.org/abs/2605.123...",
+      "score": 95
+    },
+    {
+      "type": "HackerNews",
+      "title": "Accelerando (2005)",
+      "url": "https://www.antipope.org/charlie/blog-static/fiction/accelerando/accelerando.html",
+      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.antipope.org/charl...",
+      "score": 50
+    },
+    {
+      "type": "HackerNews",
+      "title": "SANA-WM, a 2.6B open-source world model for 1-minute 720p video",
+      "url": "https://nvlabs.github.io/Sana/WM/",
+      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://nvlabs.github.io/Sana/...",
+      "score": 13
+    },
+    {
+      "type": "HackerNews",
+      "title": "Futhark by Example",
+      "url": "https://futhark-lang.org/examples.html",
+      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://futhark-lang.org/examp...",
+      "score": 50
+    },
     {
       "type": "HackerNews",
       "title": "Project Gutenberg – keeps getting better",
       "url": "https://www.gutenberg.org/",
-      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.gutenberg.org/...",
-      "score": 946
+      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.gutenberg.org/...",
+      "score": 1011
+    },
+    {
+      "type": "HackerNews",
+      "title": "A Tiny E Reader",
+      "url": "https://nthp.me/blog/2026/a-tiny-e-reader/",
+      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://nthp.me/blog/2026/a-ti...",
+      "score": 29
     },
     {
       "type": "HackerNews",
       "title": "Frontier AI has broken the open CTF format",
       "url": "https://kabir.au/blog/the-ctf-scene-is-dead",
       "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://kabir.au/blog/the-ctf-...",
-      "score": 137
+      "score": 205
     },
     {
       "type": "HackerNews",
-      "title": "Ploopy Bean: a trackpoint for every computer",
-      "url": "https://ploopy.co/shop/bean-pointing-stick/",
-      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://ploopy.co/shop/bean-po...",
-      "score": 96
-    },
-    {
-      "type": "HackerNews",
-      "title": "I believe there are entire companies right now under AI psychosis",
-      "url": "https://twitter.com/mitchellh/status/2055380239711457578",
-      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://twitter.com/mitchellh/...",
-      "score": 1376
-    },
-    {
-      "type": "HackerNews",
-      "title": "SQL patterns I use to catch transaction fraud",
-      "url": "https://analytics.fixelsmith.com/posts/sql-fraud-patterns/",
-      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://analytics.fixelsmith.c...",
-      "score": 228
-    },
-    {
-      "type": "HackerNews",
-      "title": "The bird eye was pushed to an evolutionary extreme",
-      "url": "https://www.quantamagazine.org/how-the-bird-eye-was-pushed-to-an-evolutionary-extreme-20260513/",
-      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.quantamagazine.org...",
-      "score": 115
-    },
-    {
-      "type": "HackerNews",
-      "title": "EMiX: Emulating Beyond Single-FPGA Limits",
-      "url": "https://arxiv.org/abs/2604.27012",
-      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://arxiv.org/abs/2604.270...",
-      "score": 12
-    },
-    {
-      "type": "HackerNews",
-      "title": "Additive Blending on the Nintendo 64",
-      "url": "https://phoboslab.org/log/2026/05/n64-additive-blending",
-      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://phoboslab.org/log/2026...",
-      "score": 115
+      "title": "Nearly 50 Years Later, WKRP in Cincinnati Becomes a Real Radio Station",
+      "url": "https://www.openculture.com/2026/05/nearly-50-years-later-wkrp-in-cincinnati-becomes-a-real-radio-station.html",
+      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.openculture.com/20...",
+      "score": 31
     }
   ]
 }
