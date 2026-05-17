@@ -1,61 +1,61 @@
 {
-  "last_updated": "2026-05-17 19:10:39",
+  "last_updated": "2026-05-17 21:55:27",
   "news": [
     {
       "type": "HackerNews",
-      "title": "Americans Are Smashing Flock Cameras",
-      "url": "https://stateofsurveillance.org/news/flock-cameras-destroyed-nationwide-ice-backlash-2026/",
-      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://stateofsurveillance.or...",
-      "score": 344
+      "title": "VoIP brings back old-fashioned pay phones to rural Vermont (2025)",
+      "url": "https://spectrum.ieee.org/payphone-voip",
+      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://spectrum.ieee.org/payp...",
+      "score": 52
+    },
+    {
+      "type": "HackerNews",
+      "title": "Mercurial, 20 years and counting: how are we still alive and kicking? [video]",
+      "url": "https://fosdem.org/2026/schedule/event/AGWUVH-mercurial-aint-you-dead-yet/",
+      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://fosdem.org/2026/schedu...",
+      "score": 119
+    },
+    {
+      "type": "HackerNews",
+      "title": "I turned a $80 RK3562 Android tablet into a Debian Linux workstation",
+      "url": "https://github.com/tech4bot/rk3562deb",
+      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://github.com/tech4bot/rk...",
+      "score": 202
+    },
+    {
+      "type": "HackerNews",
+      "title": "Multi-Species Canopy Latrines in Costa Rican Cloud Forests",
+      "url": "https://onlinelibrary.wiley.com/doi/10.1002/ece3.72964",
+      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://onlinelibrary.wiley.co...",
+      "score": 24
+    },
+    {
+      "type": "HackerNews",
+      "title": "Prolog Coding Horror",
+      "url": "https://www.metalevel.at/prolog/horror",
+      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.metalevel.at/prolo...",
+      "score": 6
+    },
+    {
+      "type": "HackerNews",
+      "title": "Magical Realism: “Northern Exposure” 25 Years Later (2015)",
+      "url": "https://www.rogerebert.com/streaming/magical-realism-nothern-exposure-25-years-later",
+      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.rogerebert.com/str...",
+      "score": 32
     },
     {
       "type": "HackerNews",
       "title": "The occasional ECONNRESET",
       "url": "https://movq.de/blog/postings/2026-05-05/1/POSTING-en.html",
       "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://movq.de/blog/postings/...",
-      "score": 40
+      "score": 79
     },
     {
       "type": "HackerNews",
-      "title": "I turned a $80 RK3562 Android tablet into a Debian Linux workstation",
-      "url": "https://github.com/tech4bot/rk3562deb",
-      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://github.com/tech4bot/rk...",
-      "score": 138
-    },
-    {
-      "type": "HackerNews",
-      "title": "I don't think AI will make your processes go faster",
-      "url": "https://frederickvanbrabant.com/blog/2026-05-15-i-dont-think-ai-will-make-your-processes-go-faster/",
-      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://frederickvanbrabant.co...",
-      "score": 371
-    },
-    {
-      "type": "HackerNews",
-      "title": "Mercurial, 20 years and counting: how are we still alive and kicking? [video]",
-      "url": "https://fosdem.org/2026/schedule/event/AGWUVH-mercurial-aint-you-dead-yet/",
-      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://fosdem.org/2026/schedu...",
-      "score": 36
-    },
-    {
-      "type": "HackerNews",
-      "title": "Security researcher says Microsoft built a Bitlocker backdoor, releases exploit",
-      "url": "https://www.techspot.com/news/112410-security-researcher-microsoft-secretly-built-backdoor-bitlocker-releases.html",
-      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.techspot.com/news/...",
-      "score": 441
-    },
-    {
-      "type": "HackerNews",
-      "title": "EU weighs restricting use of US cloud platforms to process sensitive gov data",
-      "url": "https://www.osnews.com/story/144943/eu-weighs-restricting-use-of-us-cloud-platforms-to-process-sensitive-government-data/",
-      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.osnews.com/story/1...",
-      "score": 72
-    },
-    {
-      "type": "HackerNews",
-      "title": "Schanuel's Conjecture and the Semantics of Triton's FPSan",
-      "url": "https://cp4space.hatsya.com/2026/05/03/schanuels-conjecture-and-the-semantics-of-fpsan/",
-      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://cp4space.hatsya.com/20...",
-      "score": 7
+      "title": "Hindenburg’s Smoking Room",
+      "url": "https://www.airships.net/hindenburg-smoking-room/",
+      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.airships.net/hinde...",
+      "score": 123
     }
   ]
 }
