@@ -1,61 +1,61 @@
 {
-  "last_updated": "2026-05-16 21:50:29",
+  "last_updated": "2026-05-17 03:29:39",
   "news": [
     {
       "type": "HackerNews",
-      "title": "Kioxia and Dell cram 10 PB into slim 2RU server",
-      "url": "https://www.blocksandfiles.com/flash/2026/05/14/kioxia-and-dell-cram-10-pb-into-slim-2ru-server/5240574",
-      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.blocksandfiles.com...",
-      "score": 84
+      "title": "Zerostack – A Unix-inspired coding agent written in pure Rust",
+      "url": "https://crates.io/crates/zerostack/1.0.0",
+      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://crates.io/crates/zeros...",
+      "score": 207
     },
     {
       "type": "HackerNews",
-      "title": "Windows 9x Subsystem for Linux",
-      "url": "https://codeberg.org/hails/wsl9x",
-      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://codeberg.org/hails/wsl...",
-      "score": 168
+      "title": "Hosting a website on an 8-bit microcontroller",
+      "url": "https://maurycyz.com/projects/mcusite/",
+      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://maurycyz.com/projects/...",
+      "score": 38
+    },
+    {
+      "type": "HackerNews",
+      "title": "A nicer voltmeter clock",
+      "url": "https://lcamtuf.substack.com/p/a-nicer-voltmeter-clock",
+      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://lcamtuf.substack.com/p...",
+      "score": 85
+    },
+    {
+      "type": "HackerNews",
+      "title": "C++26 Shipped a SIMD Library Nobody Asked For",
+      "url": "https://lucisqr.substack.com/p/c26-shipped-a-simd-library-nobody",
+      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://lucisqr.substack.com/p...",
+      "score": 27
+    },
+    {
+      "type": "HackerNews",
+      "title": "OpenAI and Government of Malta partner to roll out ChatGPT Plus to all citizens",
+      "url": "https://openai.com/index/malta-chatgpt-plus-partnership/",
+      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://openai.com/index/malta...",
+      "score": 100
+    },
+    {
+      "type": "HackerNews",
+      "title": "Unknowable Math Can Help Hide Secrets",
+      "url": "https://www.quantamagazine.org/how-unknowable-math-can-help-hide-secrets-20260511/",
+      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.quantamagazine.org...",
+      "score": 23
     },
     {
       "type": "HackerNews",
       "title": "SANA-WM, a 2.6B open-source world model for 1-minute 720p video",
       "url": "https://nvlabs.github.io/Sana/WM/",
-      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://nvlabs.github.io/Sana/...",
-      "score": 272
-    },
-    {
-      "type": "HackerNews",
-      "title": "A molecule with half-Möbius topology",
-      "url": "https://www.science.org/doi/10.1126/science.aea3321",
-      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.science.org/doi/10...",
-      "score": 27
-    },
-    {
-      "type": "HackerNews",
-      "title": "Accelerando (2005)",
-      "url": "https://www.antipope.org/charlie/blog-static/fiction/accelerando/accelerando.html",
-      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.antipope.org/charl...",
-      "score": 215
-    },
-    {
-      "type": "HackerNews",
-      "title": "Moving away from Tailwind, and learning to structure my CSS",
-      "url": "https://jvns.ca/blog/2026/05/15/moving-away-from-tailwind--and-learning-to-structure-my-css-/",
-      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://jvns.ca/blog/2026/05/1...",
-      "score": 351
-    },
-    {
-      "type": "HackerNews",
-      "title": "Δ-Mem: Efficient Online Memory for Large Language Models",
-      "url": "https://arxiv.org/abs/2605.12357",
-      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://arxiv.org/abs/2605.123...",
-      "score": 177
-    },
-    {
-      "type": "HackerNews",
-      "title": "Frontier AI has broken the open CTF format",
-      "url": "https://kabir.au/blog/the-ctf-scene-is-dead",
-      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://kabir.au/blog/the-ctf-...",
+      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://nvlabs.github.io/Sana/...",
       "score": 310
+    },
+    {
+      "type": "HackerNews",
+      "title": "MCP Hello Page",
+      "url": "https://www.hybridlogic.co.uk/blog/2026/05/mcp-hello-page",
+      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.hybridlogic.co.uk/...",
+      "score": 62
     }
   ]
 }
