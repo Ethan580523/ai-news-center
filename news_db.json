@@ -1,61 +1,61 @@
 {
-  "last_updated": "2026-05-18 19:44:34",
+  "last_updated": "2026-05-18 22:03:07",
   "news": [
-    {
-      "type": "HackerNews",
-      "title": "Haiku OS runs on M1 Macs now",
-      "url": "https://discuss.haiku-os.org/t/my-haiku-arm64-progress/19044?page=2",
-      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://discuss.haiku-os.org/t...",
-      "score": 93
-    },
     {
       "type": "HackerNews",
       "title": "Anthropic acquires Stainless",
       "url": "https://www.anthropic.com/news/anthropic-acquires-stainless",
-      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.anthropic.com/news...",
-      "score": 196
+      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.anthropic.com/news...",
+      "score": 281
+    },
+    {
+      "type": "HackerNews",
+      "title": "Hyperpolyglot Lisp: Common Lisp, Racket, Clojure, Emacs Lisp",
+      "url": "https://hyperpolyglot.org/lisp",
+      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://hyperpolyglot.org/lisp...",
+      "score": 74
+    },
+    {
+      "type": "HackerNews",
+      "title": "Who will buy your services if you fire us all?",
+      "url": "https://carette.xyz/posts/who_will_buy_your_services/",
+      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://carette.xyz/posts/who_...",
+      "score": 29
     },
     {
       "type": "HackerNews",
       "title": "We stopped AI bot spam in our GitHub repo using Git's –author flag",
       "url": "https://archestra.ai/blog/only-responsible-ai",
-      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://archestra.ai/blog/only...",
-      "score": 298
+      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://archestra.ai/blog/only...",
+      "score": 349
     },
     {
       "type": "HackerNews",
-      "title": "Elon Musk has lost his lawsuit against Sam Altman and OpenAI",
-      "url": "https://techcrunch.com/2026/05/18/elon-musk-has-lost-his-lawsuit-against-sam-altman-and-openai/",
-      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://techcrunch.com/2026/05...",
-      "score": 401
+      "title": "We let AIs run radio stations",
+      "url": "https://andonlabs.com/blog/andon-fm",
+      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://andonlabs.com/blog/and...",
+      "score": 80
     },
     {
       "type": "HackerNews",
       "title": "Show HN: Files.md – Open-source alternative to Obsidian",
       "url": "https://github.com/zakirullin/files.md",
       "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://github.com/zakirullin/...",
-      "score": 399
+      "score": 468
+    },
+    {
+      "type": "HackerNews",
+      "title": "Elon Musk has lost his lawsuit against Sam Altman and OpenAI",
+      "url": "https://techcrunch.com/2026/05/18/elon-musk-has-lost-his-lawsuit-against-sam-altman-and-openai/",
+      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://techcrunch.com/2026/05...",
+      "score": 616
     },
     {
       "type": "HackerNews",
       "title": "The Quiet Renovation at Bitwarden",
       "url": "https://blog.ppb1701.com/the-quiet-renovation-at-bitwarden",
       "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://blog.ppb1701.com/the-q...",
-      "score": 333
-    },
-    {
-      "type": "HackerNews",
-      "title": "Agora-1: The Multi-Agent World Model",
-      "url": "https://odyssey.ml/introducing-agora-1",
-      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://odyssey.ml/introducing...",
-      "score": 19
-    },
-    {
-      "type": "HackerNews",
-      "title": "The Fil-C Optimized Calling Convention",
-      "url": "https://fil-c.org/calling_convention",
-      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://fil-c.org/calling_conv...",
-      "score": 53
+      "score": 416
     }
   ]
 }
