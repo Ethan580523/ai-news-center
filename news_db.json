@@ -1,61 +1,61 @@
 {
-  "last_updated": "2026-05-18 03:42:26",
+  "last_updated": "2026-05-18 10:04:26",
   "news": [
+    {
+      "type": "HackerNews",
+      "title": "The foundations of a provably secure operating system (PSOS) (1979) [pdf]",
+      "url": "http://www.csl.sri.com/users/neumann/psos.pdf",
+      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：http://www.csl.sri.com/users/n...",
+      "score": 4
+    },
     {
       "type": "HackerNews",
       "title": "GenCAD",
       "url": "https://gencad.github.io/",
-      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://gencad.github.io/...",
-      "score": 153
+      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://gencad.github.io/...",
+      "score": 322
+    },
+    {
+      "type": "HackerNews",
+      "title": "Crystals found inside wreckage from the first nuclear bomb test",
+      "url": "https://www.scientificamerican.com/article/strange-crystals-found-inside-wreckage-from-the-first-nuclear-bomb-test/",
+      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.scientificamerican...",
+      "score": 76
+    },
+    {
+      "type": "HackerNews",
+      "title": "It is time to give up the dualism introduced by the debate on consciousness",
+      "url": "https://www.noemamag.com/there-is-no-hard-problem-of-consciousness/",
+      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.noemamag.com/there...",
+      "score": 84
     },
     {
       "type": "HackerNews",
       "title": "I turned a $80 RK3562 Android tablet into a Debian Linux workstation",
       "url": "https://github.com/tech4bot/rk3562deb",
-      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://github.com/tech4bot/rk...",
-      "score": 276
+      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://github.com/tech4bot/rk...",
+      "score": 368
+    },
+    {
+      "type": "HackerNews",
+      "title": "Germany goes from labour shortages to hiring freezes",
+      "url": "https://www.ft.com/content/2a6c1cb9-6c11-41c8-a8ea-a367b8799126",
+      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.ft.com/content/2a6...",
+      "score": 14
     },
     {
       "type": "HackerNews",
       "title": "Ask an Astronaut: 333 hours of Q&A footage with astronauts",
       "url": "https://askanastronaut.issinrealtime.org/",
-      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://askanastronaut.issinre...",
-      "score": 58
+      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://askanastronaut.issinre...",
+      "score": 149
     },
     {
       "type": "HackerNews",
-      "title": "There Is No 'Hard Problem of Consciousness'",
-      "url": "https://www.noemamag.com/there-is-no-hard-problem-of-consciousness/",
-      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.noemamag.com/there...",
-      "score": 16
-    },
-    {
-      "type": "HackerNews",
-      "title": "Prolog Coding Horror",
-      "url": "https://www.metalevel.at/prolog/horror",
-      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.metalevel.at/prolo...",
-      "score": 69
-    },
-    {
-      "type": "HackerNews",
-      "title": "Two EA-18 fighter jets collide at Mountain Home airshow, pilots ejected safely",
-      "url": "https://idahonews.com/news/local/two-f-18-fighter-jets-have-crashed-during-an-airshow-at-mountain-home-air-force-base",
-      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://idahonews.com/news/loc...",
-      "score": 129
-    },
-    {
-      "type": "HackerNews",
-      "title": "A Good Lemma Is Worth a Thousand Theorems (2007)",
-      "url": "https://sites.math.rutgers.edu/~zeilberg/Opinion82.html",
-      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://sites.math.rutgers.edu...",
-      "score": 19
-    },
-    {
-      "type": "HackerNews",
-      "title": "Show HN: Semble – Code search for agents that uses 98% fewer tokens than grep",
-      "url": "https://github.com/MinishLab/semble",
-      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://github.com/MinishLab/s...",
-      "score": 201
+      "title": "Jank now has its own custom IR",
+      "url": "https://jank-lang.org/blog/2026-05-08-optimization/",
+      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://jank-lang.org/blog/202...",
+      "score": 143
     }
   ]
 }
