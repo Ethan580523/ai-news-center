@@ -1,61 +1,61 @@
 {
-  "last_updated": "2026-05-19 19:52:07",
+  "last_updated": "2026-05-19 22:16:45",
   "news": [
     {
       "type": "HackerNews",
       "title": "Gemini 3.5 Flash",
       "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-5/",
-      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://blog.google/innovation...",
-      "score": 171
-    },
-    {
-      "type": "HackerNews",
-      "title": "I’ve built a virtual museum with nearly every operating system you can think of",
-      "url": "https://virtualosmuseum.org/",
-      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://virtualosmuseum.org/...",
-      "score": 381
+      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://blog.google/innovation...",
+      "score": 406
     },
     {
       "type": "HackerNews",
       "title": "Google changes its search box",
       "url": "https://blog.google/products-and-platforms/products/search/search-io-2026/",
-      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://blog.google/products-a...",
-      "score": 67
+      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://blog.google/products-a...",
+      "score": 244
     },
     {
       "type": "HackerNews",
-      "title": "I’ve joined Anthropic",
-      "url": "https://twitter.com/karpathy/status/2056753169888334312",
-      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://twitter.com/karpathy/s...",
-      "score": 894
+      "title": "I’ve built a virtual museum with nearly every operating system you can think of",
+      "url": "https://virtualosmuseum.org/",
+      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://virtualosmuseum.org/...",
+      "score": 481
+    },
+    {
+      "type": "HackerNews",
+      "title": "OpenAI Adopts Google's SynthID Watermark for AI Images with Verification Tool",
+      "url": "https://openai.com/index/advancing-content-provenance/",
+      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://openai.com/index/advan...",
+      "score": 100
+    },
+    {
+      "type": "HackerNews",
+      "title": "Mistral AI Acquires Emmi AI to Create the Leading AI Stack",
+      "url": "https://www.emmi.ai/news/mistral-ai-acquires-emmi-ai",
+      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.emmi.ai/news/mistr...",
+      "score": 115
+    },
+    {
+      "type": "HackerNews",
+      "title": "Show HN: Forge – Guardrails take an 8B model from 53% to 99% on agentic tasks",
+      "url": "https://github.com/antoinezambelli/forge",
+      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://github.com/antoinezamb...",
+      "score": 136
+    },
+    {
+      "type": "HackerNews",
+      "title": "Dumb Ways for an Open Source Project to Die",
+      "url": "https://nesbitt.io/2026/05/19/dumb-ways-for-an-open-source-project-to-die.html",
+      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://nesbitt.io/2026/05/19/...",
+      "score": 77
     },
     {
       "type": "HackerNews",
       "title": "Apple unveils new accessibility features",
       "url": "https://www.apple.com/newsroom/2026/05/apple-unveils-new-accessibility-features-and-updates-with-apple-intelligence/",
-      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.apple.com/newsroom...",
-      "score": 498
-    },
-    {
-      "type": "HackerNews",
-      "title": "Show HN: Gaussian Splat of a Strawberry",
-      "url": "https://superspl.at/scene/84df8849",
-      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://superspl.at/scene/84df...",
-      "score": 420
-    },
-    {
-      "type": "HackerNews",
-      "title": "Disney erased FiveThirtyEight",
-      "url": "https://www.natesilver.net/p/disney-erased-fivethirtyeight",
-      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.natesilver.net/p/d...",
-      "score": 70
-    },
-    {
-      "type": "HackerNews",
-      "title": "Copy Fail, Dirty Frag, and Fragnesia kernel vulnerabilities",
-      "url": "https://www.gentoo.org/news/2026/05/19/copy-fail-fragnesia-vulnerabilities.html",
-      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.gentoo.org/news/20...",
-      "score": 76
+      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.apple.com/newsroom...",
+      "score": 546
     }
   ]
 }
