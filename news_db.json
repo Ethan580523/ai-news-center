@@ -1,61 +1,61 @@
 {
-  "last_updated": "2026-05-21 09:41:24",
+  "last_updated": "2026-05-21 15:27:36",
   "news": [
     {
       "type": "HackerNews",
-      "title": "An OpenAI model has disproved a central conjecture in discrete geometry",
-      "url": "https://openai.com/index/model-disproves-discrete-geometry-conjecture/",
-      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://openai.com/index/model...",
-      "score": 1153
+      "title": "Flipper One – we need your help",
+      "url": "https://blog.flipper.net/flipper-one-we-need-your-help/",
+      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://blog.flipper.net/flipp...",
+      "score": 542
     },
     {
       "type": "HackerNews",
-      "title": "GitHub confirms breach of 3,800 repos via malicious VSCode extension",
-      "url": "https://www.bleepingcomputer.com/news/security/github-confirms-breach-of-3-800-repos-via-malicious-vscode-extension/",
-      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.bleepingcomputer.c...",
-      "score": 832
+      "title": "Google's Antigravity Bait and Switch",
+      "url": "https://www.0xsid.com/blog/antigravity-bait-n-switch",
+      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.0xsid.com/blog/ant...",
+      "score": 154
     },
     {
       "type": "HackerNews",
-      "title": "Vivaldi 8.0",
-      "url": "https://vivaldi.com/blog/vivaldi-on-desktop-8-0/",
-      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://vivaldi.com/blog/vival...",
-      "score": 115
+      "title": "We're testing new ad formats in Search and expanding our Direct Offers pilot",
+      "url": "https://blog.google/products/ads-commerce/google-marketing-live-search-ads/",
+      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://blog.google/products/a...",
+      "score": 406
     },
     {
       "type": "HackerNews",
-      "title": "Haskell Foundation 2026 Update",
-      "url": "https://discourse.haskell.org/t/haskell-foundation-2026-update/14136",
-      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://discourse.haskell.org/...",
-      "score": 114
+      "title": "Python 3.15: features that didn't make the headlines",
+      "url": "https://blog.changs.co.uk/python-315-features-that-didnt-make-the-headlines.html",
+      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://blog.changs.co.uk/pyth...",
+      "score": 167
     },
     {
       "type": "HackerNews",
-      "title": "Show HN: I reverse engineered Apple's video wallpapers",
-      "url": "https://github.com/kageroumado/phosphene",
-      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://github.com/kageroumado...",
-      "score": 277
+      "title": "Michael Keating has died",
+      "url": "https://www.bigfinish.com/news/v/michael-keating-1947-2026",
+      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.bigfinish.com/news...",
+      "score": 17
     },
     {
       "type": "HackerNews",
-      "title": "Show HN: Rmux – A programmable terminal multiplexer with a Playwright-style SDK",
-      "url": "https://github.com/helvesec/rmux",
-      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://github.com/helvesec/rm...",
-      "score": 5
+      "title": "Lost Images from the 1945 Trinity Nuclear Test Restored",
+      "url": "https://spectrum.ieee.org/trinity-nuclear-test",
+      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://spectrum.ieee.org/trin...",
+      "score": 102
     },
     {
       "type": "HackerNews",
-      "title": "New features in GCC 16: Improved error messages and SARIF output",
-      "url": "https://developers.redhat.com/articles/2026/04/28/gcc-16-improved-error-messages-sarif-output",
-      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://developers.redhat.com/...",
-      "score": 78
+      "title": "FatGid: FreeBSD 14.x kernel local privilege escalation",
+      "url": "https://fatgid.io/",
+      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://fatgid.io/...",
+      "score": 36
     },
     {
       "type": "HackerNews",
-      "title": "The Letter S, by Donald Knuth (1980) [pdf]",
-      "url": "https://gwern.net/doc/design/typography/1980-knuth.pdf",
-      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://gwern.net/doc/design/t...",
-      "score": 165
+      "title": "Who Wins and Who Loses in Prediction Markets? Evidence from Polymarket",
+      "url": "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6443103",
+      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://papers.ssrn.com/sol3/p...",
+      "score": 35
     }
   ]
 }
