@@ -1,61 +1,61 @@
 {
-  "last_updated": "2026-05-21 15:27:36",
+  "last_updated": "2026-05-21 19:53:26",
   "news": [
+    {
+      "type": "HackerNews",
+      "title": "Amazon, Facebook, FBI have access to a private intelligence-sharing network",
+      "url": "https://prismreports.org/2026/05/20/seattle-shield-private-companies-surveillance/",
+      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://prismreports.org/2026/...",
+      "score": 294
+    },
+    {
+      "type": "HackerNews",
+      "title": "BBEdit 16",
+      "url": "https://www.barebones.com/products/bbedit/bbedit16.html",
+      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.barebones.com/prod...",
+      "score": 115
+    },
+    {
+      "type": "HackerNews",
+      "title": "Project Hail Mary – Stellar Navigation Chart",
+      "url": "https://valhovey.github.io/gaia-mary/",
+      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://valhovey.github.io/gai...",
+      "score": 225
+    },
+    {
+      "type": "HackerNews",
+      "title": "More than 340 local news outlets are limiting the Internet Archive's access",
+      "url": "https://www.niemanlab.org/2026/05/more-than-340-local-news-outlets-are-limiting-the-internet-archives-access-to-their-journalism/",
+      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.niemanlab.org/2026...",
+      "score": 109
+    },
     {
       "type": "HackerNews",
       "title": "Flipper One – we need your help",
       "url": "https://blog.flipper.net/flipper-one-we-need-your-help/",
       "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://blog.flipper.net/flipp...",
-      "score": 542
+      "score": 876
     },
     {
       "type": "HackerNews",
-      "title": "Google's Antigravity Bait and Switch",
-      "url": "https://www.0xsid.com/blog/antigravity-bait-n-switch",
-      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.0xsid.com/blog/ant...",
-      "score": 154
+      "title": "Indexing a year of video locally on a 2021 MacBook with Gemma4-31B (50GB swap)",
+      "url": "https://blog.simbastack.com/indexed-a-year-of-video-locally/",
+      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://blog.simbastack.com/in...",
+      "score": 195
     },
     {
       "type": "HackerNews",
-      "title": "We're testing new ad formats in Search and expanding our Direct Offers pilot",
-      "url": "https://blog.google/products/ads-commerce/google-marketing-live-search-ads/",
-      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://blog.google/products/a...",
-      "score": 406
+      "title": "Where are all the UK red telephone kiosks?",
+      "url": "https://www.thek6project.co.uk/",
+      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.thek6project.co.uk...",
+      "score": 30
     },
     {
       "type": "HackerNews",
-      "title": "Python 3.15: features that didn't make the headlines",
-      "url": "https://blog.changs.co.uk/python-315-features-that-didnt-make-the-headlines.html",
-      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://blog.changs.co.uk/pyth...",
-      "score": 167
-    },
-    {
-      "type": "HackerNews",
-      "title": "Michael Keating has died",
-      "url": "https://www.bigfinish.com/news/v/michael-keating-1947-2026",
-      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.bigfinish.com/news...",
-      "score": 17
-    },
-    {
-      "type": "HackerNews",
-      "title": "Lost Images from the 1945 Trinity Nuclear Test Restored",
-      "url": "https://spectrum.ieee.org/trinity-nuclear-test",
-      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://spectrum.ieee.org/trin...",
-      "score": 102
-    },
-    {
-      "type": "HackerNews",
-      "title": "FatGid: FreeBSD 14.x kernel local privilege escalation",
-      "url": "https://fatgid.io/",
-      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://fatgid.io/...",
-      "score": 36
-    },
-    {
-      "type": "HackerNews",
-      "title": "Who Wins and Who Loses in Prediction Markets? Evidence from Polymarket",
-      "url": "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6443103",
-      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://papers.ssrn.com/sol3/p...",
-      "score": 35
+      "title": "Show HN: Freenet, a peer-to-peer platform for decentralized apps",
+      "url": "https://freenet.org/",
+      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://freenet.org/...",
+      "score": 30
     }
   ]
 }
