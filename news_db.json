@@ -1,61 +1,61 @@
 {
-  "last_updated": "2026-05-21 03:43:13",
+  "last_updated": "2026-05-21 09:41:24",
   "news": [
     {
       "type": "HackerNews",
       "title": "An OpenAI model has disproved a central conjecture in discrete geometry",
       "url": "https://openai.com/index/model-disproves-discrete-geometry-conjecture/",
-      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://openai.com/index/model...",
-      "score": 824
+      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://openai.com/index/model...",
+      "score": 1153
     },
     {
       "type": "HackerNews",
       "title": "GitHub confirms breach of 3,800 repos via malicious VSCode extension",
       "url": "https://www.bleepingcomputer.com/news/security/github-confirms-breach-of-3-800-repos-via-malicious-vscode-extension/",
-      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.bleepingcomputer.c...",
-      "score": 601
+      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.bleepingcomputer.c...",
+      "score": 832
+    },
+    {
+      "type": "HackerNews",
+      "title": "Vivaldi 8.0",
+      "url": "https://vivaldi.com/blog/vivaldi-on-desktop-8-0/",
+      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://vivaldi.com/blog/vival...",
+      "score": 115
+    },
+    {
+      "type": "HackerNews",
+      "title": "Haskell Foundation 2026 Update",
+      "url": "https://discourse.haskell.org/t/haskell-foundation-2026-update/14136",
+      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://discourse.haskell.org/...",
+      "score": 114
     },
     {
       "type": "HackerNews",
       "title": "Show HN: I reverse engineered Apple's video wallpapers",
       "url": "https://github.com/kageroumado/phosphene",
-      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://github.com/kageroumado...",
-      "score": 110
+      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://github.com/kageroumado...",
+      "score": 277
     },
     {
       "type": "HackerNews",
-      "title": "DOS Zone",
-      "url": "https://dos.zone/",
-      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://dos.zone/...",
-      "score": 129
+      "title": "Show HN: Rmux – A programmable terminal multiplexer with a Playwright-style SDK",
+      "url": "https://github.com/helvesec/rmux",
+      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://github.com/helvesec/rm...",
+      "score": 5
+    },
+    {
+      "type": "HackerNews",
+      "title": "New features in GCC 16: Improved error messages and SARIF output",
+      "url": "https://developers.redhat.com/articles/2026/04/28/gcc-16-improved-error-messages-sarif-output",
+      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://developers.redhat.com/...",
+      "score": 78
     },
     {
       "type": "HackerNews",
       "title": "The Letter S, by Donald Knuth (1980) [pdf]",
       "url": "https://gwern.net/doc/design/typography/1980-knuth.pdf",
-      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://gwern.net/doc/design/t...",
-      "score": 66
-    },
-    {
-      "type": "HackerNews",
-      "title": "Colorado Amended SB051 (Age Verification Bill) to Exclude Open Source Projects",
-      "url": "https://legiscan.com/CO/bill/SB051/2026",
-      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://legiscan.com/CO/bill/S...",
-      "score": 155
-    },
-    {
-      "type": "HackerNews",
-      "title": "Flipper One Tech Specs",
-      "url": "https://docs.flipper.net/one/general/tech-specs",
-      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://docs.flipper.net/one/g...",
-      "score": 288
-    },
-    {
-      "type": "HackerNews",
-      "title": "Your Most Improbable Life",
-      "url": "https://kevinkelly.substack.com/p/your-most-improbable-life",
-      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://kevinkelly.substack.co...",
-      "score": 57
+      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://gwern.net/doc/design/t...",
+      "score": 165
     }
   ]
 }
