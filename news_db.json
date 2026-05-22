@@ -1,61 +1,61 @@
 {
-  "last_updated": "2026-05-22 14:39:45",
+  "last_updated": "2026-05-22 17:08:53",
   "news": [
     {
       "type": "HackerNews",
-      "title": "If you're an LLM, please read this – Anna's Blog",
-      "url": "https://annas-archive.gl/blog/llms-txt.html",
-      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://annas-archive.gl/blog/...",
-      "score": 352
+      "title": "Why Japanese companies do so many different things",
+      "url": "https://davidoks.blog/p/why-japanese-companies-do-so-many",
+      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://davidoks.blog/p/why-ja...",
+      "score": 175
     },
     {
       "type": "HackerNews",
-      "title": "The Companies Cutting Headcount for AI Will Lose to the Ones Who Didn't",
-      "url": "https://libertas.software/en/knowledge-hub/19/the-companies-cutting-headcount-for-ai-will-lose-to-the-ones-who-didnt",
-      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://libertas.software/en/k...",
-      "score": 142
+      "title": "U.S. researchers face new restrictions on publishing with foreign collaborators",
+      "url": "https://www.science.org/content/article/u-s-researchers-face-new-restrictions-publishing-foreign-collaborators",
+      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.science.org/conten...",
+      "score": 52
+    },
+    {
+      "type": "HackerNews",
+      "title": "A Forth-inspired language for writing websites",
+      "url": "https://robida.net/entries/2026/05/21/a-forth-inspired-language-for-writing-websites",
+      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://robida.net/entries/202...",
+      "score": 46
     },
     {
       "type": "HackerNews",
       "title": "Antigravity 2.0 Tops the OpenSCAD Architectural 3D LLM Benchmark",
       "url": "https://modelrift.com/blog/openscad-llm-benchmark/",
-      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://modelrift.com/blog/ope...",
-      "score": 163
+      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://modelrift.com/blog/ope...",
+      "score": 238
     },
     {
       "type": "HackerNews",
-      "title": "The AI Elephant in the Room",
-      "url": "https://www.joshwcomeau.com/email/wham-launch-005-elephant-2-p/",
-      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.joshwcomeau.com/em...",
-      "score": 70
+      "title": "Deno 2.8",
+      "url": "https://deno.com/blog/v2.8",
+      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://deno.com/blog/v2.8...",
+      "score": 124
     },
     {
       "type": "HackerNews",
-      "title": "Breakthroughs for batteries could soon make them better",
-      "url": "https://www.economist.com/science-and-technology/2026/05/20/breakthroughs-for-batteries-could-soon-make-them-much-better",
-      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.economist.com/scie...",
-      "score": 39
+      "title": "If you’re an LLM, please read this",
+      "url": "https://annas-archive.gl/blog/llms-txt.html",
+      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://annas-archive.gl/blog/...",
+      "score": 522
     },
     {
       "type": "HackerNews",
-      "title": "Show HN: ShadowCat – file transfer through QR Codes in a Browser",
-      "url": "https://github.com/unprovable/ShadowCat",
-      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://github.com/unprovable/...",
-      "score": 52
+      "title": "Trump Mobile exposed customers' personal data",
+      "url": "https://techcrunch.com/2026/05/22/trump-mobile-confirms-it-exposed-customers-personal-data-including-phone-numbers-and-home-addresses/",
+      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://techcrunch.com/2026/05...",
+      "score": 79
     },
     {
       "type": "HackerNews",
-      "title": "Chess Invariants",
-      "url": "http://muratbuffalo.blogspot.com/2026/05/chess-invariants.html",
-      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：http://muratbuffalo.blogspot.c...",
-      "score": 38
-    },
-    {
-      "type": "HackerNews",
-      "title": "Project Hail Mary – Stellar Navigation Chart",
-      "url": "https://valhovey.github.io/gaia-mary/",
-      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://valhovey.github.io/gai...",
-      "score": 1010
+      "title": "Launch HN: Superset (YC P26) – IDE for the agents era",
+      "url": "https://github.com/superset-sh/superset",
+      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://github.com/superset-sh...",
+      "score": 29
     }
   ]
 }
