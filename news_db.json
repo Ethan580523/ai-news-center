@@ -1,61 +1,61 @@
 {
-  "last_updated": "2026-05-22 09:24:24",
+  "last_updated": "2026-05-22 14:39:45",
   "news": [
     {
       "type": "HackerNews",
-      "title": "Project Hail Mary – Stellar Navigation Chart",
-      "url": "https://valhovey.github.io/gaia-mary/",
-      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://valhovey.github.io/gai...",
-      "score": 886
+      "title": "If you're an LLM, please read this – Anna's Blog",
+      "url": "https://annas-archive.gl/blog/llms-txt.html",
+      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://annas-archive.gl/blog/...",
+      "score": 352
     },
     {
       "type": "HackerNews",
-      "title": "CODA: Rewriting Transformer Blocks as GEMM-Epilogue Programs",
-      "url": "https://arxiv.org/abs/2605.19269",
-      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://arxiv.org/abs/2605.192...",
-      "score": 58
+      "title": "The Companies Cutting Headcount for AI Will Lose to the Ones Who Didn't",
+      "url": "https://libertas.software/en/knowledge-hub/19/the-companies-cutting-headcount-for-ai-will-lose-to-the-ones-who-didnt",
+      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://libertas.software/en/k...",
+      "score": 142
     },
     {
       "type": "HackerNews",
-      "title": "Slumber a TUI HTTP Client",
-      "url": "https://slumber.lucaspickering.me",
-      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://slumber.lucaspickering...",
-      "score": 65
+      "title": "Antigravity 2.0 Tops the OpenSCAD Architectural 3D LLM Benchmark",
+      "url": "https://modelrift.com/blog/openscad-llm-benchmark/",
+      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://modelrift.com/blog/ope...",
+      "score": 163
     },
     {
       "type": "HackerNews",
-      "title": "The surprising story behind the first British person in space",
-      "url": "https://www.bbc.com/culture/article/20260518-helen-sharman-the-story-behind-the-first-british-person-in-space",
-      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.bbc.com/culture/ar...",
+      "title": "The AI Elephant in the Room",
+      "url": "https://www.joshwcomeau.com/email/wham-launch-005-elephant-2-p/",
+      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.joshwcomeau.com/em...",
+      "score": 70
+    },
+    {
+      "type": "HackerNews",
+      "title": "Breakthroughs for batteries could soon make them better",
+      "url": "https://www.economist.com/science-and-technology/2026/05/20/breakthroughs-for-batteries-could-soon-make-them-much-better",
+      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.economist.com/scie...",
+      "score": 39
+    },
+    {
+      "type": "HackerNews",
+      "title": "Show HN: ShadowCat – file transfer through QR Codes in a Browser",
+      "url": "https://github.com/unprovable/ShadowCat",
+      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://github.com/unprovable/...",
       "score": 52
     },
     {
       "type": "HackerNews",
-      "title": "Cleve Moler has died",
-      "url": "https://www.mathworks.com/company/aboutus/founders/clevemoler.html",
-      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.mathworks.com/comp...",
-      "score": 95
+      "title": "Chess Invariants",
+      "url": "http://muratbuffalo.blogspot.com/2026/05/chess-invariants.html",
+      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：http://muratbuffalo.blogspot.c...",
+      "score": 38
     },
     {
       "type": "HackerNews",
-      "title": "Blog ran on Ubuntu 16.04 for 10 years. I migrated it to FreeBSD",
-      "url": "https://crocidb.com/post/this-blog-ran-on-ubuntu-16-04-for-10-years-i-migrated-it-to-freebsd/",
-      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://crocidb.com/post/this-...",
-      "score": 280
-    },
-    {
-      "type": "HackerNews",
-      "title": "Deepfakes Tore a High School Apart",
-      "url": "https://www.404media.co/radnor-high-school-pennsylvania-ai-deepfakes-child-sexual-abuse-material/",
-      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.404media.co/radnor...",
-      "score": 45
-    },
-    {
-      "type": "HackerNews",
-      "title": "The memory shortage is causing a repricing of consumer electronics",
-      "url": "https://davidoks.blog/p/ai-is-killing-the-cheap-smartphone",
-      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://davidoks.blog/p/ai-is-...",
-      "score": 185
+      "title": "Project Hail Mary – Stellar Navigation Chart",
+      "url": "https://valhovey.github.io/gaia-mary/",
+      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://valhovey.github.io/gai...",
+      "score": 1010
     }
   ]
 }
