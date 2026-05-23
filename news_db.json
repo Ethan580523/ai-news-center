@@ -1,61 +1,61 @@
 {
-  "last_updated": "2026-05-23 19:10:05",
+  "last_updated": "2026-05-23 21:54:55",
   "news": [
+    {
+      "type": "HackerNews",
+      "title": "It's time to talk about my writerdeck",
+      "url": "https://veronicaexplains.net/my-first-writerdeck/",
+      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://veronicaexplains.net/m...",
+      "score": 154
+    },
+    {
+      "type": "HackerNews",
+      "title": ".NET (OK, C#) gets union types",
+      "url": "https://andrewlock.net/exploring-the-dotnet-11-preview-2-dotnet-gets-union-types/",
+      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://andrewlock.net/explori...",
+      "score": 59
+    },
     {
       "type": "HackerNews",
       "title": "On The <dl> (2021)",
       "url": "https://benmyers.dev/blog/on-the-dl/",
       "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://benmyers.dev/blog/on-t...",
-      "score": 276
+      "score": 316
     },
     {
       "type": "HackerNews",
-      "title": "My two-part desk setup",
-      "url": "https://arslan.io/2025/11/18/my-two-part-desk-setup/",
-      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://arslan.io/2025/11/18/m...",
-      "score": 83
+      "title": "Texas woman arrested for Facebook post about town water quality",
+      "url": "https://reclaimthenet.org/texas-woman-arrested-for-facebook-post-about-town-water-quality",
+      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://reclaimthenet.org/texa...",
+      "score": 479
+    },
+    {
+      "type": "HackerNews",
+      "title": "Green card seekers must leave U.S. to apply, Trump administration says",
+      "url": "https://www.nytimes.com/2026/05/22/us/politics/green-card-changes-trump.html",
+      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.nytimes.com/2026/0...",
+      "score": 308
+    },
+    {
+      "type": "HackerNews",
+      "title": "Hengefinder: Finding When the Sun Aligns with Your Street",
+      "url": "https://victoriaritvo.com/blog/hengefinder/",
+      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://victoriaritvo.com/blog...",
+      "score": 78
     },
     {
       "type": "HackerNews",
       "title": "Reverse engineering circuitry in a Spacelab computer from 1980",
       "url": "https://www.righto.com/2026/05/reverse-engineering-spacelab-computer.html",
       "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.righto.com/2026/05...",
-      "score": 46
-    },
-    {
-      "type": "HackerNews",
-      "title": "Texas woman arrested for Facebook post about town water quality",
-      "url": "https://reclaimthenet.org/texas-woman-arrested-for-facebook-post-about-town-water-quality",
-      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://reclaimthenet.org/texa...",
-      "score": 142
-    },
-    {
-      "type": "HackerNews",
-      "title": "Hengefinder: Finding When the Sun Aligns with Your Street",
-      "url": "https://victoriaritvo.com/blog/hengefinder/",
-      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://victoriaritvo.com/blog...",
-      "score": 37
+      "score": 70
     },
     {
       "type": "HackerNews",
       "title": "z386: An Open-Source 80386 Built Around Original Microcode",
       "url": "https://nand2mario.github.io/posts/2026/z386/",
       "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://nand2mario.github.io/p...",
-      "score": 77
-    },
-    {
-      "type": "HackerNews",
-      "title": "Green card seekers must leave U.S. to apply, Trump administration says",
-      "url": "https://www.nytimes.com/2026/05/22/us/politics/green-card-changes-trump.html",
-      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.nytimes.com/2026/0...",
-      "score": 100
-    },
-    {
-      "type": "HackerNews",
-      "title": "80386 Microcode Disassembled",
-      "url": "https://www.reenigne.org/blog/80386-microcode-disassembled/",
-      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.reenigne.org/blog/...",
-      "score": 171
+      "score": 101
     }
   ]
 }
