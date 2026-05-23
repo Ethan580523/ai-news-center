@@ -1,61 +1,61 @@
 {
-  "last_updated": "2026-05-23 10:26:31",
+  "last_updated": "2026-05-23 13:25:41",
   "news": [
+    {
+      "type": "HackerNews",
+      "title": "I Miss Terry Pratchett",
+      "url": "https://www.mahl.me/blog/the-spell-that-wouldnt-leave/",
+      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.mahl.me/blog/the-s...",
+      "score": 81
+    },
+    {
+      "type": "HackerNews",
+      "title": "80386 Microcode Disassembled",
+      "url": "https://www.reenigne.org/blog/80386-microcode-disassembled/",
+      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.reenigne.org/blog/...",
+      "score": 54
+    },
+    {
+      "type": "HackerNews",
+      "title": "Making Deep Learning Go Brrrr from First Principles",
+      "url": "https://horace.io/brrr_intro.html",
+      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://horace.io/brrr_intro.h...",
+      "score": 26
+    },
+    {
+      "type": "HackerNews",
+      "title": "US tech firms share Dutch regulator officials' names with Senate",
+      "url": "https://www.dutchnews.nl/2026/05/us-tech-firms-share-dutch-regulator-officials-names-with-senate/",
+      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.dutchnews.nl/2026/...",
+      "score": 98
+    },
     {
       "type": "HackerNews",
       "title": "Shipping a laptop to a refugee camp in Uganda",
       "url": "https://notesbylex.com/shipping-a-laptop-to-a-refugee-camp-in-uganda",
       "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://notesbylex.com/shippin...",
-      "score": 471
-    },
-    {
-      "type": "HackerNews",
-      "title": "Why Japanese companies do so many different things",
-      "url": "https://davidoks.blog/p/why-japanese-companies-do-so-many",
-      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://davidoks.blog/p/why-ja...",
-      "score": 687
+      "score": 548
     },
     {
       "type": "HackerNews",
       "title": "Rubish: A Unix shell written in pure Ruby",
       "url": "https://github.com/amatsuda/rubish",
-      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://github.com/amatsuda/ru...",
-      "score": 37
+      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://github.com/amatsuda/ru...",
+      "score": 84
     },
     {
       "type": "HackerNews",
-      "title": "The quadratic sandwich",
-      "url": "https://fedemagnani.github.io/math/2026/04/08/the-quadratic-sandwich.html",
-      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://fedemagnani.github.io/...",
-      "score": 48
+      "title": "Why Japanese companies do so many different things",
+      "url": "https://davidoks.blog/p/why-japanese-companies-do-so-many",
+      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://davidoks.blog/p/why-ja...",
+      "score": 746
     },
     {
       "type": "HackerNews",
-      "title": "Project Glasswing: An Initial Update",
-      "url": "https://www.anthropic.com/research/glasswing-initial-update",
-      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.anthropic.com/rese...",
-      "score": 437
-    },
-    {
-      "type": "HackerNews",
-      "title": "Microsoft starts canceling Claude Code licenses",
-      "url": "https://www.theverge.com/tech/930447/microsoft-claude-code-discontinued-notepad",
-      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.theverge.com/tech/...",
-      "score": 273
-    },
-    {
-      "type": "HackerNews",
-      "title": "BambuStudio has been violating PrusaSlicer AGPL license since their fork",
-      "url": "https://xcancel.com/josefprusa/status/2054602354851254330",
-      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://xcancel.com/josefprusa...",
-      "score": 38
-    },
-    {
-      "type": "HackerNews",
-      "title": "Yeunjoo Choi from Igalia on Chromium",
-      "url": "https://theconsensus.dev/p/2026/05/20/yeunjoo-choi-from-igalia-on-chromium.html",
-      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://theconsensus.dev/p/202...",
-      "score": 14
+      "title": "A 1955 Los Alamos computer experiment changed our understanding of chaos",
+      "url": "https://www.lanl.gov/media/publications/1663/science-of-unpredictability",
+      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.lanl.gov/media/pub...",
+      "score": 12
     }
   ]
 }
