@@ -1,61 +1,61 @@
 {
-  "last_updated": "2026-05-23 13:25:41",
+  "last_updated": "2026-05-23 16:01:32",
   "news": [
     {
       "type": "HackerNews",
-      "title": "I Miss Terry Pratchett",
-      "url": "https://www.mahl.me/blog/the-spell-that-wouldnt-leave/",
-      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.mahl.me/blog/the-s...",
-      "score": 81
+      "title": "On The <dl>",
+      "url": "https://benmyers.dev/blog/on-the-dl/",
+      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://benmyers.dev/blog/on-t...",
+      "score": 145
     },
     {
       "type": "HackerNews",
       "title": "80386 Microcode Disassembled",
       "url": "https://www.reenigne.org/blog/80386-microcode-disassembled/",
-      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.reenigne.org/blog/...",
-      "score": 54
+      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.reenigne.org/blog/...",
+      "score": 124
+    },
+    {
+      "type": "HackerNews",
+      "title": "Oura says it gets government demands for user data. Will it share how many?",
+      "url": "https://this.weekinsecurity.com/oura-says-it-gets-government-demands-for-user-data-will-it-share-how-many/",
+      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://this.weekinsecurity.co...",
+      "score": 50
+    },
+    {
+      "type": "HackerNews",
+      "title": "z386: An Open-Source 80386 Built Around Original Microcode",
+      "url": "https://nand2mario.github.io/posts/2026/z386/",
+      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://nand2mario.github.io/p...",
+      "score": 23
     },
     {
       "type": "HackerNews",
       "title": "Making Deep Learning Go Brrrr from First Principles",
       "url": "https://horace.io/brrr_intro.html",
       "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://horace.io/brrr_intro.h...",
-      "score": 26
+      "score": 74
     },
     {
       "type": "HackerNews",
-      "title": "US tech firms share Dutch regulator officials' names with Senate",
-      "url": "https://www.dutchnews.nl/2026/05/us-tech-firms-share-dutch-regulator-officials-names-with-senate/",
-      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.dutchnews.nl/2026/...",
-      "score": 98
+      "title": "PHP's Oddities",
+      "url": "https://flowtwo.io/post/php%27s-oddities",
+      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://flowtwo.io/post/php%27...",
+      "score": 7
     },
     {
       "type": "HackerNews",
-      "title": "Shipping a laptop to a refugee camp in Uganda",
-      "url": "https://notesbylex.com/shipping-a-laptop-to-a-refugee-camp-in-uganda",
-      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://notesbylex.com/shippin...",
-      "score": 548
+      "title": "Lisp in Vim (2019)",
+      "url": "https://susam.net/lisp-in-vim.html",
+      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://susam.net/lisp-in-vim....",
+      "score": 6
     },
     {
       "type": "HackerNews",
-      "title": "Rubish: A Unix shell written in pure Ruby",
-      "url": "https://github.com/amatsuda/rubish",
-      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://github.com/amatsuda/ru...",
-      "score": 84
-    },
-    {
-      "type": "HackerNews",
-      "title": "Why Japanese companies do so many different things",
-      "url": "https://davidoks.blog/p/why-japanese-companies-do-so-many",
-      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://davidoks.blog/p/why-ja...",
-      "score": 746
-    },
-    {
-      "type": "HackerNews",
-      "title": "A 1955 Los Alamos computer experiment changed our understanding of chaos",
-      "url": "https://www.lanl.gov/media/publications/1663/science-of-unpredictability",
-      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.lanl.gov/media/pub...",
-      "score": 12
+      "title": "I Miss Terry Pratchett",
+      "url": "https://www.mahl.me/blog/the-spell-that-wouldnt-leave/",
+      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.mahl.me/blog/the-s...",
+      "score": 200
     }
   ]
 }
