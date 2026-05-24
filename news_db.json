@@ -1,61 +1,61 @@
 {
-  "last_updated": "2026-05-24 19:17:19",
+  "last_updated": "2026-05-24 21:56:51",
   "news": [
-    {
-      "type": "HackerNews",
-      "title": "Memory has grown to nearly two-thirds of AI chip component costs",
-      "url": "https://epoch.ai/data-insights/ai-chip-component-cost-shares",
-      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://epoch.ai/data-insights...",
-      "score": 139
-    },
     {
       "type": "HackerNews",
       "title": "DeepSeek reasonix, DeepSeek native coding agent with high caching and low cost",
       "url": "https://esengine.github.io/DeepSeek-Reasonix/",
       "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://esengine.github.io/Dee...",
-      "score": 230
+      "score": 348
     },
     {
       "type": "HackerNews",
-      "title": "Ruby for Good",
-      "url": "https://ti.to/codeforgood/rubyforgood",
-      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://ti.to/codeforgood/ruby...",
-      "score": 66
+      "title": "Australia Four-Day Work Week Study Data Shows Boosted Productivity",
+      "url": "https://scienceaim.com/australia-just-proved-the-four-day-work-week-works-here-is-what-the-data-actually-says/",
+      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://scienceaim.com/austral...",
+      "score": 108
+    },
+    {
+      "type": "HackerNews",
+      "title": "Defeating Git Rigour Fatigue with Jujutsu",
+      "url": "https://ikesau.co/blog/defeating-git-rigour-fatigue-with-jujutsu/",
+      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://ikesau.co/blog/defeati...",
+      "score": 31
+    },
+    {
+      "type": "HackerNews",
+      "title": "Memory has grown to nearly two-thirds of AI chip component costs",
+      "url": "https://epoch.ai/data-insights/ai-chip-component-cost-shares",
+      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://epoch.ai/data-insights...",
+      "score": 231
+    },
+    {
+      "type": "HackerNews",
+      "title": "LAN-LOK: The Antarctic DOS Sabotage Game Lost for 34 Years",
+      "url": "https://alphapixeldev.com/lan-lok-the-antarctic-dos-sabotage-game-lost-for-34-years-part-1/",
+      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://alphapixeldev.com/lan-...",
+      "score": 15
+    },
+    {
+      "type": "HackerNews",
+      "title": "Using HTTP/2 Cleartext for a server in Go 1.24",
+      "url": "https://www.clarityboss.com/blog/go-http2-cleartext-h2c-cloud-run",
+      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.clarityboss.com/bl...",
+      "score": 26
     },
     {
       "type": "HackerNews",
       "title": "Constraint Decay: The Fragility of LLM Agents in Back End Code Generation",
       "url": "https://arxiv.org/abs/2605.06445",
       "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://arxiv.org/abs/2605.064...",
-      "score": 102
+      "score": 145
     },
     {
       "type": "HackerNews",
-      "title": "Noroboto: Lying Fonts and Mitigation in Rust",
-      "url": "https://tritium.legal/blog/noroboto",
-      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://tritium.legal/blog/nor...",
-      "score": 22
-    },
-    {
-      "type": "HackerNews",
-      "title": "I spent 50 hours drawing a line graph",
-      "url": "https://www.dougmacdowell.com/50-hours-to-draw-some-lines.html",
-      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.dougmacdowell.com/...",
-      "score": 328
-    },
-    {
-      "type": "HackerNews",
-      "title": "Mastering Dyalog APL",
-      "url": "https://mastering.dyalog.com/README.html",
-      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://mastering.dyalog.com/R...",
-      "score": 95
-    },
-    {
-      "type": "HackerNews",
-      "title": "Claude Is Not Your Architect. Stop Letting It Pretend",
-      "url": "https://www.hollandtech.net/claude-is-not-your-architect/",
-      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.hollandtech.net/cl...",
-      "score": 22
+      "title": "Migrating from Go to Rust",
+      "url": "https://corrode.dev/learn/migration-guides/go-to-rust/",
+      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://corrode.dev/learn/migr...",
+      "score": 81
     }
   ]
 }
