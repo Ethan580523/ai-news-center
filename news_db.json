@@ -1,61 +1,61 @@
 {
-  "last_updated": "2026-05-25 19:40:01",
+  "last_updated": "2026-05-25 22:08:38",
   "news": [
     {
       "type": "HackerNews",
       "title": "Exit IP VPN servers mitigation rollout",
       "url": "https://mullvad.net/en/help/exit-ip-vpn-servers-mitigation-rollout",
       "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://mullvad.net/en/help/ex...",
-      "score": 86
+      "score": 204
     },
     {
       "type": "HackerNews",
-      "title": "Magnifica Humanitas",
-      "url": "https://www.vatican.va/content/leo-xiv/en/encyclicals/documents/20260515-magnifica-humanitas.html",
-      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.vatican.va/content...",
-      "score": 1028
+      "title": "Norway's 2 petabytes of Huawei flash storage and LLM training",
+      "url": "https://www.blocksandfiles.com/flash/2026/05/22/norways-2-petabytes-of-huawei-flash-storage-and-llm-training/5244910",
+      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.blocksandfiles.com...",
+      "score": 81
     },
     {
       "type": "HackerNews",
       "title": "California moves to exempt Linux from its age-verification law after backlash",
       "url": "https://www.tomshardware.com/software/linux/california-moves-to-exempt-linux-from-its-upcoming-age-verification-law-after-backlash-over-forcing-operating-systems-to-collect-users-ages-amendment-proposed-by-the-same-lawmaker-who-wrote-the-original-law",
       "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.tomshardware.com/s...",
-      "score": 153
+      "score": 421
+    },
+    {
+      "type": "HackerNews",
+      "title": "Show HN: Write your BPF programs in Go, not C",
+      "url": "https://github.com/boratanrikulu/gobee",
+      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://github.com/boratanriku...",
+      "score": 18
+    },
+    {
+      "type": "HackerNews",
+      "title": "Magnifica Humanitas",
+      "url": "https://www.vatican.va/content/leo-xiv/en/encyclicals/documents/20260515-magnifica-humanitas.html",
+      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.vatican.va/content...",
+      "score": 1218
+    },
+    {
+      "type": "HackerNews",
+      "title": "Toshifumi Suzuki, founder of Seven-Eleven Japan, has died",
+      "url": "https://www.referenceforbusiness.com/biography/S-Z/Suzuki-Toshifumi-1932.html",
+      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.referenceforbusine...",
+      "score": 61
     },
     {
       "type": "HackerNews",
       "title": "C extensions, portability, and alternative compilers",
       "url": "https://lemon.rip/w/6-c-extensions-compilers/",
-      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://lemon.rip/w/6-c-extens...",
-      "score": 104
+      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://lemon.rip/w/6-c-extens...",
+      "score": 120
     },
     {
       "type": "HackerNews",
-      "title": "The bootstrapper's EU stack for under €10 per month",
-      "url": "https://eualternative.eu/guides/bootstrapper-free-tier-eu-stack/",
-      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://eualternative.eu/guide...",
-      "score": 53
-    },
-    {
-      "type": "HackerNews",
-      "title": "Launch HN: Chert (YC P26) – Twilio for iMessage",
-      "url": "https://www.trychert.com",
-      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.trychert.com...",
+      "title": "Everyone Against Us (2023)",
+      "url": "https://www.chicagomag.com/chicago-magazine/april-2023/everyone-against-us/",
+      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.chicagomag.com/chi...",
       "score": 38
-    },
-    {
-      "type": "HackerNews",
-      "title": "Netherlands Seizes 800 Servers, Arrests 2 for Aiding Cyberattacks",
-      "url": "https://krebsonsecurity.com/2026/05/netherlands-seizes-800-servers-arrests-2-for-aiding-cyberattacks/",
-      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://krebsonsecurity.com/20...",
-      "score": 211
-    },
-    {
-      "type": "HackerNews",
-      "title": "IBM Spins Off the First Pure-Play Quantum Chip Foundry",
-      "url": "https://futurumgroup.com/insights/2-billion-chips-act-investment-in-quantum-bets-on-ibms-300mm-superconducting-silicon/",
-      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://futurumgroup.com/insig...",
-      "score": 113
     }
   ]
 }
