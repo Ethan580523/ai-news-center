@@ -1,61 +1,61 @@
 {
-  "last_updated": "2026-05-25 10:06:26",
+  "last_updated": "2026-05-25 14:54:12",
   "news": [
     {
       "type": "HackerNews",
-      "title": "Didgeridoo playing as alternative treatment for obstructive sleep apnoea (2006)",
-      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC1360393/",
-      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://pmc.ncbi.nlm.nih.gov/a...",
-      "score": 128
+      "title": "Search engines alternatives now that Google isn't Google anymore",
+      "url": "https://techcrunch.com/2026/05/21/six-search-engines-worth-trying-now-that-google-isnt-really-google-anymore/",
+      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://techcrunch.com/2026/05...",
+      "score": 319
     },
     {
       "type": "HackerNews",
-      "title": "Show HN: Audiomass – a free, open-source multitrack audio editor for the web",
-      "url": "https://audiomass.co/?multitrack=1",
-      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://audiomass.co/?multitra...",
-      "score": 367
+      "title": "Netherlands Seizes 800 Servers, Arrests 2 for Aiding Cyberattacks",
+      "url": "https://krebsonsecurity.com/2026/05/netherlands-seizes-800-servers-arrests-2-for-aiding-cyberattacks/",
+      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://krebsonsecurity.com/20...",
+      "score": 44
     },
     {
       "type": "HackerNews",
-      "title": "Show HN: Geomatic – a command-driven geometry studio enabled with autodiff",
-      "url": "https://www.tinyvolt.com/geomatic",
-      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.tinyvolt.com/geoma...",
-      "score": 9
+      "title": "Magnifica Humanitas (Encyclical Letter)",
+      "url": "https://www.vatican.va/content/leo-xiv/en/encyclicals/documents/20260515-magnifica-humanitas.html",
+      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.vatican.va/content...",
+      "score": 403
     },
     {
       "type": "HackerNews",
-      "title": "DeepSeek reasonix, DeepSeek native coding agent with high caching and low cost",
-      "url": "https://esengine.github.io/DeepSeek-Reasonix/",
-      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://esengine.github.io/Dee...",
-      "score": 566
+      "title": "C extensions, portability, and alternative compilers",
+      "url": "https://lemon.rip/w/6-c-extensions-compilers/",
+      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://lemon.rip/w/6-c-extens...",
+      "score": 17
     },
     {
       "type": "HackerNews",
-      "title": "Migrating from Go to Rust",
-      "url": "https://corrode.dev/learn/migration-guides/go-to-rust/",
-      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://corrode.dev/learn/migr...",
-      "score": 283
+      "title": "2026 HIPAA Security Rule Update",
+      "url": "https://medcurity.com/hipaa-security-rule-2026-update/",
+      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://medcurity.com/hipaa-se...",
+      "score": 26
     },
     {
       "type": "HackerNews",
-      "title": "Jira Is Turing-Complete",
-      "url": "https://seriot.ch/computation/jira.html",
-      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://seriot.ch/computation/...",
-      "score": 176
+      "title": "Pope Leo XIV says AI must serve humanity, not the powerful few",
+      "url": "https://religionnews.com/2026/05/25/in-his-first-encyclical-pope-leo-xiv-says-ai-must-serve-humanity-not-the-powerful-few/",
+      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://religionnews.com/2026/...",
+      "score": 134
     },
     {
       "type": "HackerNews",
-      "title": "C constructs that still don't work in C++",
-      "url": "https://lospino.so/blog/c-constructs-that-still-dont-work-in-cpp/",
-      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://lospino.so/blog/c-cons...",
-      "score": 76
+      "title": "Hive (YC S14) is hiring sr back-end developers (CA/US remote OK)",
+      "url": "https://jobs.ashbyhq.com/hive.co/538c47f9-d008-49b7-b0d4-583d9294a481",
+      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://jobs.ashbyhq.com/hive....",
+      "score": 1
     },
     {
       "type": "HackerNews",
-      "title": "White Rabbit – sub-nanosecond synchronization for large distributed systems",
-      "url": "https://ohwr.org/projects/white-rabbit/",
-      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://ohwr.org/projects/whit...",
-      "score": 102
+      "title": "Leave Me Behind",
+      "url": "http://androidessence.com/leave-me-behind/",
+      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：http://androidessence.com/leav...",
+      "score": 145
     }
   ]
 }
