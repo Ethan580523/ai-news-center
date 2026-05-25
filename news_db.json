@@ -1,61 +1,61 @@
 {
-  "last_updated": "2026-05-25 03:52:43",
+  "last_updated": "2026-05-25 10:06:26",
   "news": [
+    {
+      "type": "HackerNews",
+      "title": "Didgeridoo playing as alternative treatment for obstructive sleep apnoea (2006)",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC1360393/",
+      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://pmc.ncbi.nlm.nih.gov/a...",
+      "score": 128
+    },
     {
       "type": "HackerNews",
       "title": "Show HN: Audiomass – a free, open-source multitrack audio editor for the web",
       "url": "https://audiomass.co/?multitrack=1",
-      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://audiomass.co/?multitra...",
-      "score": 219
+      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://audiomass.co/?multitra...",
+      "score": 367
+    },
+    {
+      "type": "HackerNews",
+      "title": "Show HN: Geomatic – a command-driven geometry studio enabled with autodiff",
+      "url": "https://www.tinyvolt.com/geomatic",
+      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.tinyvolt.com/geoma...",
+      "score": 9
     },
     {
       "type": "HackerNews",
       "title": "DeepSeek reasonix, DeepSeek native coding agent with high caching and low cost",
       "url": "https://esengine.github.io/DeepSeek-Reasonix/",
       "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://esengine.github.io/Dee...",
-      "score": 471
+      "score": 566
     },
     {
       "type": "HackerNews",
       "title": "Migrating from Go to Rust",
       "url": "https://corrode.dev/learn/migration-guides/go-to-rust/",
-      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://corrode.dev/learn/migr...",
-      "score": 153
+      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://corrode.dev/learn/migr...",
+      "score": 283
     },
     {
       "type": "HackerNews",
-      "title": "A fundamental principle of aeronautical engineering has been overturned",
-      "url": "https://www.wired.com/story/a-fundamental-principle-of-aeronautical-engineering-has-been-overturned/",
-      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.wired.com/story/a-...",
-      "score": 97
+      "title": "Jira Is Turing-Complete",
+      "url": "https://seriot.ch/computation/jira.html",
+      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://seriot.ch/computation/...",
+      "score": 176
+    },
+    {
+      "type": "HackerNews",
+      "title": "C constructs that still don't work in C++",
+      "url": "https://lospino.so/blog/c-constructs-that-still-dont-work-in-cpp/",
+      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://lospino.so/blog/c-cons...",
+      "score": 76
     },
     {
       "type": "HackerNews",
       "title": "White Rabbit – sub-nanosecond synchronization for large distributed systems",
       "url": "https://ohwr.org/projects/white-rabbit/",
-      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://ohwr.org/projects/whit...",
-      "score": 26
-    },
-    {
-      "type": "HackerNews",
-      "title": "Memory has grown to nearly two-thirds of AI chip component costs",
-      "url": "https://epoch.ai/data-insights/ai-chip-component-cost-shares",
-      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://epoch.ai/data-insights...",
-      "score": 328
-    },
-    {
-      "type": "HackerNews",
-      "title": "I spent 50 hours drawing a line graph",
-      "url": "https://www.dougmacdowell.com/50-hours-to-draw-some-lines.html",
-      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.dougmacdowell.com/...",
-      "score": 465
-    },
-    {
-      "type": "HackerNews",
-      "title": "Constraint Decay: The Fragility of LLM Agents in Back End Code Generation",
-      "url": "https://arxiv.org/abs/2605.06445",
-      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://arxiv.org/abs/2605.064...",
-      "score": 189
+      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://ohwr.org/projects/whit...",
+      "score": 102
     }
   ]
 }
