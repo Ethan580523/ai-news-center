@@ -1,61 +1,61 @@
 {
-  "last_updated": "2026-05-25 17:06:33",
+  "last_updated": "2026-05-25 19:40:01",
   "news": [
+    {
+      "type": "HackerNews",
+      "title": "Exit IP VPN servers mitigation rollout",
+      "url": "https://mullvad.net/en/help/exit-ip-vpn-servers-mitigation-rollout",
+      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://mullvad.net/en/help/ex...",
+      "score": 86
+    },
     {
       "type": "HackerNews",
       "title": "Magnifica Humanitas",
       "url": "https://www.vatican.va/content/leo-xiv/en/encyclicals/documents/20260515-magnifica-humanitas.html",
-      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.vatican.va/content...",
-      "score": 674
+      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.vatican.va/content...",
+      "score": 1028
+    },
+    {
+      "type": "HackerNews",
+      "title": "California moves to exempt Linux from its age-verification law after backlash",
+      "url": "https://www.tomshardware.com/software/linux/california-moves-to-exempt-linux-from-its-upcoming-age-verification-law-after-backlash-over-forcing-operating-systems-to-collect-users-ages-amendment-proposed-by-the-same-lawmaker-who-wrote-the-original-law",
+      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.tomshardware.com/s...",
+      "score": 153
     },
     {
       "type": "HackerNews",
       "title": "C extensions, portability, and alternative compilers",
       "url": "https://lemon.rip/w/6-c-extensions-compilers/",
-      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://lemon.rip/w/6-c-extens...",
-      "score": 65
+      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://lemon.rip/w/6-c-extens...",
+      "score": 104
+    },
+    {
+      "type": "HackerNews",
+      "title": "The bootstrapper's EU stack for under €10 per month",
+      "url": "https://eualternative.eu/guides/bootstrapper-free-tier-eu-stack/",
+      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://eualternative.eu/guide...",
+      "score": 53
     },
     {
       "type": "HackerNews",
       "title": "Launch HN: Chert (YC P26) – Twilio for iMessage",
       "url": "https://www.trychert.com",
       "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.trychert.com...",
-      "score": 19
+      "score": 38
     },
     {
       "type": "HackerNews",
       "title": "Netherlands Seizes 800 Servers, Arrests 2 for Aiding Cyberattacks",
       "url": "https://krebsonsecurity.com/2026/05/netherlands-seizes-800-servers-arrests-2-for-aiding-cyberattacks/",
-      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://krebsonsecurity.com/20...",
-      "score": 137
-    },
-    {
-      "type": "HackerNews",
-      "title": "Ubers COO says its getting harder to justify the money spent on AI tokenmaxxing",
-      "url": "https://www.businessinsider.com/uber-coo-andrew-macdonald-ai-token-spending-harder-justify-2026-5",
-      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.businessinsider.co...",
-      "score": 26
-    },
-    {
-      "type": "HackerNews",
-      "title": "RentFlow (YC S24) Is Hiring",
-      "url": "https://www.ycombinator.com/companies/rentflow/jobs/V2yneIE-senior-ai-ml-lead",
-      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.ycombinator.com/co...",
-      "score": 1
+      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://krebsonsecurity.com/20...",
+      "score": 211
     },
     {
       "type": "HackerNews",
       "title": "IBM Spins Off the First Pure-Play Quantum Chip Foundry",
       "url": "https://futurumgroup.com/insights/2-billion-chips-act-investment-in-quantum-bets-on-ibms-300mm-superconducting-silicon/",
-      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://futurumgroup.com/insig...",
-      "score": 84
-    },
-    {
-      "type": "HackerNews",
-      "title": "Leave Me Behind",
-      "url": "http://androidessence.com/leave-me-behind/",
-      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：http://androidessence.com/leav...",
-      "score": 247
+      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://futurumgroup.com/insig...",
+      "score": 113
     }
   ]
 }
