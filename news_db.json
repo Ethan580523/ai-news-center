@@ -1,61 +1,61 @@
 {
-  "last_updated": "2026-05-26 20:08:38",
+  "last_updated": "2026-05-26 22:19:35",
   "news": [
+    {
+      "type": "HackerNews",
+      "title": "Chemistry behind the Garden Grove chemical tank",
+      "url": "https://www.science.org/content/blog-post/methyl-methacrylate-tank",
+      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.science.org/conten...",
+      "score": 119
+    },
     {
       "type": "HackerNews",
       "title": "A few interesting modern pixel fonts",
       "url": "https://unsung.aresluna.org/a-few-interesting-modern-pixel-fonts/",
-      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://unsung.aresluna.org/a-...",
-      "score": 77
-    },
-    {
-      "type": "HackerNews",
-      "title": "Stop Advertising in Your Commits",
-      "url": "https://akselmo.dev/posts/stop-advertising-in-your-commits/",
-      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://akselmo.dev/posts/stop...",
-      "score": 104
+      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://unsung.aresluna.org/a-...",
+      "score": 172
     },
     {
       "type": "HackerNews",
       "title": "I Bypassed Adobe and Microsoft to Build a Git-Tracked Book Production Pipeline",
       "url": "https://www.djspeckhals.com/posts/2026-05-22-how-i-bypassed-adobe-and-microsoft-to-build-a-git-tracked-book-production-pipeline/",
-      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.djspeckhals.com/po...",
-      "score": 39
+      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.djspeckhals.com/po...",
+      "score": 109
     },
     {
       "type": "HackerNews",
-      "title": "The Ballad of TIGIT",
-      "url": "https://www.owlposting.com/p/the-ballad-of-tigit",
-      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.owlposting.com/p/t...",
-      "score": 71
+      "title": "C array types are weird",
+      "url": "https://anselmschueler.com/blogposts/2025-c-pointers/",
+      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://anselmschueler.com/blo...",
+      "score": 14
     },
     {
       "type": "HackerNews",
       "title": "Rosalind: A genomics toolkit in Rust running whole-genome pipelines on a laptop",
       "url": "https://github.com/logannye/rosalind",
-      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://github.com/logannye/ro...",
-      "score": 56
+      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://github.com/logannye/ro...",
+      "score": 103
     },
     {
       "type": "HackerNews",
       "title": "Spain blocks prediction markets Polymarket, Kalshi over lack of gambling licence",
       "url": "https://www.reuters.com/business/spain-blocks-prediction-markets-polymarket-kalshi-over-lack-gambling-licences-2026-05-26/",
       "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.reuters.com/busine...",
-      "score": 536
+      "score": 666
     },
     {
       "type": "HackerNews",
-      "title": "Launch HN: Minicor (YC P26) – Windows desktop automations at scale",
-      "url": "https://www.minicor.com/",
-      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.minicor.com/...",
-      "score": 55
+      "title": "Big tech's anti-labor playbook has come for Wikipedia",
+      "url": "https://medium.com/@jakeorlowitz/wikipedia-is-doing-the-capitalist-thing-56a393232943",
+      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://medium.com/@jakeorlowi...",
+      "score": 85
     },
     {
       "type": "HackerNews",
-      "title": "C64 Basic: Game Map Overhead \"Camera View\"",
-      "url": "https://retrogamecoders.com/overhead-camera-view/",
-      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://retrogamecoders.com/ov...",
-      "score": 53
+      "title": "Dropbox CEO Drew Houston to step down",
+      "url": "https://www.cnbc.com/2026/05/26/dropbox-ceo-drew-houston-ashraf-alkarmi.html",
+      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.cnbc.com/2026/05/2...",
+      "score": 231
     }
   ]
 }
