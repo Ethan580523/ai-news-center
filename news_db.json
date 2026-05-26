@@ -1,61 +1,61 @@
 {
-  "last_updated": "2026-05-26 09:57:02",
+  "last_updated": "2026-05-26 15:29:28",
   "news": [
     {
       "type": "HackerNews",
-      "title": "DynIP – Dynamic DNS with RFC 2136, IPv6, DNSSEC, and BYOD",
-      "url": "https://dynip.dev/",
-      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://dynip.dev/...",
-      "score": 98
+      "title": "GitHub Actions down again today",
+      "url": "https://www.githubstatus.com/?today",
+      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.githubstatus.com/?...",
+      "score": 505
+    },
+    {
+      "type": "HackerNews",
+      "title": "Don't Subscribe So Casually",
+      "url": "https://thebestworstcase.substack.com/p/dont-subscribe-so-casually",
+      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://thebestworstcase.subst...",
+      "score": 21
+    },
+    {
+      "type": "HackerNews",
+      "title": "Launch HN: Minicor (YC P26) – Windows desktop automations at scale",
+      "url": "https://www.minicor.com/",
+      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.minicor.com/...",
+      "score": 11
+    },
+    {
+      "type": "HackerNews",
+      "title": "C64 Basic: Game Map Overhead \"Camera View\"",
+      "url": "https://retrogamecoders.com/overhead-camera-view/",
+      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://retrogamecoders.com/ov...",
+      "score": 19
+    },
+    {
+      "type": "HackerNews",
+      "title": "Outsourcing plus LocalAI will soon become more economical vs. Frontier labs",
+      "url": "https://www.signalbloom.ai/posts/outsourcing-plus-localai-will-soon-become-more-economical-vs-frontier-labs/",
+      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.signalbloom.ai/pos...",
+      "score": 85
     },
     {
       "type": "HackerNews",
       "title": "Using AI to write better code more slowly",
       "url": "https://nolanlawson.com/2026/05/25/using-ai-to-write-better-code-more-slowly/",
-      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://nolanlawson.com/2026/0...",
-      "score": 644
+      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://nolanlawson.com/2026/0...",
+      "score": 926
     },
     {
       "type": "HackerNews",
-      "title": "Taking a walk may lead to more creativity than sitting, study finds (2014)",
-      "url": "https://www.apa.org/news/press/releases/2014/04/creativity-walk",
-      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.apa.org/news/press...",
-      "score": 297
+      "title": "Opaque Types in Python",
+      "url": "https://blog.glyph.im/2026/05/opaque-types-in-python.html",
+      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://blog.glyph.im/2026/05/...",
+      "score": 50
     },
     {
       "type": "HackerNews",
-      "title": "Use Boring Languages with LLMs",
-      "url": "https://jry.io/writing/use-boring-languages-with-llms/",
-      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://jry.io/writing/use-bor...",
-      "score": 47
-    },
-    {
-      "type": "HackerNews",
-      "title": "Earthion: A New Mega Drive-Style Shoot-Em-Up",
-      "url": "https://earthiongame.com/",
-      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://earthiongame.com/...",
-      "score": 68
-    },
-    {
-      "type": "HackerNews",
-      "title": "How Shamir's Secret Sharing Works",
-      "url": "https://ente.com/blog/how-shamirs-secret-sharing-works/",
-      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://ente.com/blog/how-sham...",
-      "score": 198
-    },
-    {
-      "type": "HackerNews",
-      "title": "A successful Japanese trial of a ramjet engine designed for Mach‑5 aircraft",
-      "url": "https://www.bgr.com/2178211/japan-hypersonic-engine-ramjet-2-hour-flights-to-us/",
-      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.bgr.com/2178211/ja...",
-      "score": 158
-    },
-    {
-      "type": "HackerNews",
-      "title": "Ferrari Luce",
-      "url": "https://www.ferrari.com/en-EN/auto/ferrari-luce",
-      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.ferrari.com/en-EN/...",
-      "score": 249
+      "title": "Netherlands blocks US takeover of vital digital supplier",
+      "url": "https://www.politico.eu/article/netherlands-blocks-us-takeover-vital-digital-supplier/",
+      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.politico.eu/articl...",
+      "score": 258
     }
   ]
 }
