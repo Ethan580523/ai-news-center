@@ -1,61 +1,61 @@
 {
-  "last_updated": "2026-05-27 09:50:49",
+  "last_updated": "2026-05-27 15:42:18",
   "news": [
+    {
+      "type": "HackerNews",
+      "title": "I'm Tired of Talking to AI",
+      "url": "https://orchidfiles.com/im-tired-of-ai-generated-answers/",
+      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://orchidfiles.com/im-tir...",
+      "score": 1199
+    },
+    {
+      "type": "HackerNews",
+      "title": "Mini Micro Fantasy Computer",
+      "url": "https://miniscript.org/MiniMicro/index.html#about",
+      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://miniscript.org/MiniMic...",
+      "score": 162
+    },
+    {
+      "type": "HackerNews",
+      "title": "Corporations can vote in some Delaware elections, judge says",
+      "url": "https://news.bloomberglaw.com/esg/corporations-have-the-right-to-vote-in-delaware-town-judge-says",
+      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://news.bloomberglaw.com/...",
+      "score": 52
+    },
+    {
+      "type": "HackerNews",
+      "title": "Matrix Multiplications on GPUs Run Faster When Given \"Predictable\" Data",
+      "url": "https://www.thonking.ai/p/strangely-matrix-multiplications",
+      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.thonking.ai/p/stra...",
+      "score": 72
+    },
+    {
+      "type": "HackerNews",
+      "title": "XLIDE: VBA without excel",
+      "url": "https://github.com/WilliamSmithEdward/xlide_vscode",
+      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://github.com/WilliamSmit...",
+      "score": 42
+    },
+    {
+      "type": "HackerNews",
+      "title": "All of human cooking compressed into 2 megabytes",
+      "url": "https://arxiv.org/abs/2605.22391",
+      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://arxiv.org/abs/2605.223...",
+      "score": 197
+    },
+    {
+      "type": "HackerNews",
+      "title": "Incident with Pull Requests, Issues, Git Operations and API Requests",
+      "url": "https://www.githubstatus.com/incidents/xy1tt3hs572m",
+      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.githubstatus.com/i...",
+      "score": 159
+    },
     {
       "type": "HackerNews",
       "title": "The Melancholy of Slaying Monsters",
       "url": "https://thereader.mitpress.mit.edu/the-strange-melancholy-of-slaying-monsters/",
       "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://thereader.mitpress.mit...",
-      "score": 81
-    },
-    {
-      "type": "HackerNews",
-      "title": "Cloudflare Flagship",
-      "url": "https://developers.cloudflare.com/flagship/",
-      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://developers.cloudflare....",
-      "score": 216
-    },
-    {
-      "type": "HackerNews",
-      "title": "That Methyl Methacrylate Tank",
-      "url": "https://www.science.org/content/blog-post/methyl-methacrylate-tank",
-      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.science.org/conten...",
-      "score": 328
-    },
-    {
-      "type": "HackerNews",
-      "title": "What Gets Kept",
-      "url": "https://www.newyorker.com/culture/the-weekend-essay/what-jack-kerouac-left-behind",
-      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.newyorker.com/cult...",
-      "score": 27
-    },
-    {
-      "type": "HackerNews",
-      "title": "BadHost – CVE-2026-48710: Starlette Host-Header Auth Bypass",
-      "url": "https://badhost.org/",
-      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://badhost.org/...",
-      "score": 46
-    },
-    {
-      "type": "HackerNews",
-      "title": "Cate v1.0 is out: The Infinite canvas workspace for developers",
-      "url": "https://github.com/0-AI-UG/cate",
-      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://github.com/0-AI-UG/cat...",
-      "score": 50
-    },
-    {
-      "type": "HackerNews",
-      "title": "The worst job interview I ever had",
-      "url": "https://www.oliverio.dev/blog/the-worst-job-interview-i-had",
-      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.oliverio.dev/blog/...",
-      "score": 301
-    },
-    {
-      "type": "HackerNews",
-      "title": "A few interesting modern pixel fonts",
-      "url": "https://unsung.aresluna.org/a-few-interesting-modern-pixel-fonts/",
-      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://unsung.aresluna.org/a-...",
-      "score": 356
+      "score": 210
     }
   ]
 }
