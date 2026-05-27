@@ -1,61 +1,61 @@
 {
-  "last_updated": "2026-05-27 03:52:30",
+  "last_updated": "2026-05-27 09:50:49",
   "news": [
     {
       "type": "HackerNews",
-      "title": "Chemistry behind the Garden Grove chemical tank",
-      "url": "https://www.science.org/content/blog-post/methyl-methacrylate-tank",
-      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.science.org/conten...",
-      "score": 271
+      "title": "The Melancholy of Slaying Monsters",
+      "url": "https://thereader.mitpress.mit.edu/the-strange-melancholy-of-slaying-monsters/",
+      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://thereader.mitpress.mit...",
+      "score": 81
     },
     {
       "type": "HackerNews",
       "title": "Cloudflare Flagship",
       "url": "https://developers.cloudflare.com/flagship/",
-      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://developers.cloudflare....",
-      "score": 107
+      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://developers.cloudflare....",
+      "score": 216
     },
     {
       "type": "HackerNews",
-      "title": "Where does next-token prediction leave us?",
-      "url": "https://pop.rdi.sh/where-does-next-token-prediction-leave-us/",
-      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://pop.rdi.sh/where-does-...",
-      "score": 38
+      "title": "That Methyl Methacrylate Tank",
+      "url": "https://www.science.org/content/blog-post/methyl-methacrylate-tank",
+      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.science.org/conten...",
+      "score": 328
+    },
+    {
+      "type": "HackerNews",
+      "title": "What Gets Kept",
+      "url": "https://www.newyorker.com/culture/the-weekend-essay/what-jack-kerouac-left-behind",
+      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.newyorker.com/cult...",
+      "score": 27
+    },
+    {
+      "type": "HackerNews",
+      "title": "BadHost – CVE-2026-48710: Starlette Host-Header Auth Bypass",
+      "url": "https://badhost.org/",
+      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://badhost.org/...",
+      "score": 46
+    },
+    {
+      "type": "HackerNews",
+      "title": "Cate v1.0 is out: The Infinite canvas workspace for developers",
+      "url": "https://github.com/0-AI-UG/cate",
+      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://github.com/0-AI-UG/cat...",
+      "score": 50
+    },
+    {
+      "type": "HackerNews",
+      "title": "The worst job interview I ever had",
+      "url": "https://www.oliverio.dev/blog/the-worst-job-interview-i-had",
+      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.oliverio.dev/blog/...",
+      "score": 301
     },
     {
       "type": "HackerNews",
       "title": "A few interesting modern pixel fonts",
       "url": "https://unsung.aresluna.org/a-few-interesting-modern-pixel-fonts/",
       "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://unsung.aresluna.org/a-...",
-      "score": 283
-    },
-    {
-      "type": "HackerNews",
-      "title": "I Bypassed Adobe and Microsoft to Build a Git-Tracked Book Production Pipeline",
-      "url": "https://www.djspeckhals.com/posts/2026-05-22-how-i-bypassed-adobe-and-microsoft-to-build-a-git-tracked-book-production-pipeline/",
-      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.djspeckhals.com/po...",
-      "score": 186
-    },
-    {
-      "type": "HackerNews",
-      "title": "The Forgotten Art of the LAN Party (2023)",
-      "url": "https://www.superjumpmagazine.com/the-forgotten-art-of-the-lan-party/",
-      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.superjumpmagazine....",
-      "score": 40
-    },
-    {
-      "type": "HackerNews",
-      "title": "A portentous reunion",
-      "url": "https://bcantrill.dtrace.org/2026/05/25/a-portentous-reunion/",
-      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://bcantrill.dtrace.org/2...",
-      "score": 68
-    },
-    {
-      "type": "HackerNews",
-      "title": "Gear Commit: Dev gadget box personalized from GitHub activity",
-      "url": "https://gearcommit.nanocorp.app/",
-      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://gearcommit.nanocorp.ap...",
-      "score": 5
+      "score": 356
     }
   ]
 }
