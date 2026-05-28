@@ -1,61 +1,61 @@
 {
-  "last_updated": "2026-05-28 10:02:17",
+  "last_updated": "2026-05-28 15:55:50",
   "news": [
+    {
+      "type": "HackerNews",
+      "title": "Five frontier LLMs disagree on 67% of 1k real-world fact-check claims",
+      "url": "https://lenz.io/research/llm-disagreement",
+      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://lenz.io/research/llm-d...",
+      "score": 402
+    },
+    {
+      "type": "HackerNews",
+      "title": "Indoor Wi-Fi Roaming with OpenWRT",
+      "url": "https://taoofmac.com/space/blog/2026/05/26/1730",
+      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://taoofmac.com/space/blo...",
+      "score": 49
+    },
     {
       "type": "HackerNews",
       "title": "YouTube to automatically label AI-generated videos",
       "url": "https://blog.youtube/news-and-events/improving-ai-labels-viewers-creators/",
-      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://blog.youtube/news-and-...",
-      "score": 875
+      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://blog.youtube/news-and-...",
+      "score": 1139
     },
     {
       "type": "HackerNews",
-      "title": "A Eureka machine that thinks like nature and explores what AI cannot",
-      "url": "https://iisc.ac.in/a-eureka-machine-that-thinks-like-nature-and-explores-what-ai-cannot/",
-      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://iisc.ac.in/a-eureka-ma...",
-      "score": 69
+      "title": "EU fines Temu €200M for allowing sale of illegal products",
+      "url": "https://www.bbc.co.uk/news/articles/c1k2ydn1rz8o",
+      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.bbc.co.uk/news/art...",
+      "score": 83
     },
     {
       "type": "HackerNews",
-      "title": "I analysed 20 years of my chats",
-      "url": "https://drobinin.com/posts/am-i-a-bad-friend/",
-      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://drobinin.com/posts/am-...",
-      "score": 124
+      "title": "Citing 'severe' math deficits, UC faculty demand a return to SAT tests for STEM",
+      "url": "https://www.latimes.com/california/story/2026-05-27/uc-math-professors-demand-return-of-sat-for-stem-admissions",
+      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.latimes.com/califo...",
+      "score": 224
     },
     {
       "type": "HackerNews",
-      "title": "Hallucinate – Massively Multiplayer Online Rave",
-      "url": "https://hallucinate.site",
-      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://hallucinate.site...",
-      "score": 207
+      "title": "AMD pulls a bait-and-switch on Linux users with Vivado licensing changes",
+      "url": "https://itsfoss.com/news/amd-vivado-bait-and-switch-on-linux-users/",
+      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://itsfoss.com/news/amd-v...",
+      "score": 279
     },
     {
       "type": "HackerNews",
       "title": "I think Anthropic and OpenAI have found product-market fit",
       "url": "https://simonwillison.net/2026/May/27/product-market-fit/",
       "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://simonwillison.net/2026...",
-      "score": 872
+      "score": 1019
     },
     {
       "type": "HackerNews",
-      "title": "SimCity 3k in 4k (2025)",
-      "url": "https://www.thran.uk/writ/hdid/2025/12/simcity-3k-in-4k.html",
-      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.thran.uk/writ/hdid...",
-      "score": 369
-    },
-    {
-      "type": "HackerNews",
-      "title": "What Apple and Google are doing to push notifications",
-      "url": "https://www.jacquescorbytuech.com/writing/what-apple-and-google-are-doing-your-push-notifications",
-      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.jacquescorbytuech....",
-      "score": 284
-    },
-    {
-      "type": "HackerNews",
-      "title": "I'm Getting into Mesh Networks (Meshtastic, MeshCore, and Reticulum)",
-      "url": "https://www.jonaharagon.com/posts/im-getting-into-mesh-networks-meshtastic-meshcore-and-reticulum/",
-      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.jonaharagon.com/po...",
-      "score": 199
+      "title": "Show HN: Continue? Y/N: A 60-second game about AI agent permission fatigue",
+      "url": "https://llmgame.scalex.dev",
+      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://llmgame.scalex.dev...",
+      "score": 13
     }
   ]
 }
