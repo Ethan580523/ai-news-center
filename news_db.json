@@ -1,61 +1,61 @@
 {
-  "last_updated": "2026-05-28 20:23:28",
+  "last_updated": "2026-05-28 22:41:08",
   "news": [
     {
       "type": "HackerNews",
       "title": "Claude Opus 4.8",
       "url": "https://www.anthropic.com/news/claude-opus-4-8",
-      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.anthropic.com/news...",
-      "score": 873
-    },
-    {
-      "type": "HackerNews",
-      "title": "Just Use Postgres for Durable Workflows",
-      "url": "https://www.dbos.dev/blog/postgres-is-all-you-need-for-durable-execution",
-      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.dbos.dev/blog/post...",
-      "score": 131
+      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.anthropic.com/news...",
+      "score": 1070
     },
     {
       "type": "HackerNews",
       "title": "Bricks and Minifigs Stole a Man's $200k Lego Collection",
       "url": "https://mybricklog.com/blog/bricks-minifigs-corporate-stole-old-mans-200000-lego-collection",
-      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://mybricklog.com/blog/br...",
-      "score": 62
+      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://mybricklog.com/blog/br...",
+      "score": 396
+    },
+    {
+      "type": "HackerNews",
+      "title": "Just Use Postgres for Durable Workflows",
+      "url": "https://www.dbos.dev/blog/postgres-is-all-you-need-for-durable-execution",
+      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.dbos.dev/blog/post...",
+      "score": 219
+    },
+    {
+      "type": "HackerNews",
+      "title": "I Made a Million Dollar Product from My Dorm Room (2025)",
+      "url": "https://nick.winans.io/blog/nice-nano/",
+      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://nick.winans.io/blog/ni...",
+      "score": 65
+    },
+    {
+      "type": "HackerNews",
+      "title": "Various LLM Smells",
+      "url": "https://shvbsle.in/various-llm-smells/",
+      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://shvbsle.in/various-llm...",
+      "score": 123
     },
     {
       "type": "HackerNews",
       "title": "Nitpicking the shell history scene in 'Tron: Legacy'",
       "url": "https://www.chiark.greenend.org.uk/~sgtatham/quasiblog/tron-legacy/",
-      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.chiark.greenend.or...",
-      "score": 27
-    },
-    {
-      "type": "HackerNews",
-      "title": "Bitburner, programming-based incremental game",
-      "url": "https://bitburner-official.github.io/",
-      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://bitburner-official.git...",
-      "score": 33
-    },
-    {
-      "type": "HackerNews",
-      "title": "The Permanent Upper Crow",
-      "url": "https://permanent-upper-crow.jasonwu.ink/",
-      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://permanent-upper-crow.j...",
-      "score": 108
-    },
-    {
-      "type": "HackerNews",
-      "title": "Show HN: Continue? Y/N: A 60-second game about AI agent permission fatigue",
-      "url": "https://llmgame.scalex.dev",
-      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://llmgame.scalex.dev...",
-      "score": 169
+      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.chiark.greenend.or...",
+      "score": 91
     },
     {
       "type": "HackerNews",
       "title": "I hated writing–until I learned there's a science to it(2024)",
       "url": "https://www.science.org/content/article/i-hated-writing-until-i-learned-there-s-science-it",
-      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.science.org/conten...",
-      "score": 44
+      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.science.org/conten...",
+      "score": 97
+    },
+    {
+      "type": "HackerNews",
+      "title": "News about Raspberry Pi 6 and Microcontroller Development",
+      "url": "https://www.jeffgeerling.com/blog/2026/news-about-raspberry-pi-6-and-microcontroller-development/",
+      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.jeffgeerling.com/b...",
+      "score": 120
     }
   ]
 }
