@@ -1,61 +1,61 @@
 {
-  "last_updated": "2026-05-28 03:38:44",
+  "last_updated": "2026-05-28 10:02:17",
   "news": [
-    {
-      "type": "HackerNews",
-      "title": "Can we have the day off?",
-      "url": "https://mlsu.io/posts/day-off/",
-      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://mlsu.io/posts/day-off/...",
-      "score": 608
-    },
     {
       "type": "HackerNews",
       "title": "YouTube to automatically label AI-generated videos",
       "url": "https://blog.youtube/news-and-events/improving-ai-labels-viewers-creators/",
       "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://blog.youtube/news-and-...",
-      "score": 583
+      "score": 875
+    },
+    {
+      "type": "HackerNews",
+      "title": "A Eureka machine that thinks like nature and explores what AI cannot",
+      "url": "https://iisc.ac.in/a-eureka-machine-that-thinks-like-nature-and-explores-what-ai-cannot/",
+      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://iisc.ac.in/a-eureka-ma...",
+      "score": 69
+    },
+    {
+      "type": "HackerNews",
+      "title": "I analysed 20 years of my chats",
+      "url": "https://drobinin.com/posts/am-i-a-bad-friend/",
+      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://drobinin.com/posts/am-...",
+      "score": 124
+    },
+    {
+      "type": "HackerNews",
+      "title": "Hallucinate – Massively Multiplayer Online Rave",
+      "url": "https://hallucinate.site",
+      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://hallucinate.site...",
+      "score": 207
     },
     {
       "type": "HackerNews",
       "title": "I think Anthropic and OpenAI have found product-market fit",
       "url": "https://simonwillison.net/2026/May/27/product-market-fit/",
-      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://simonwillison.net/2026...",
-      "score": 694
+      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://simonwillison.net/2026...",
+      "score": 872
     },
     {
       "type": "HackerNews",
       "title": "SimCity 3k in 4k (2025)",
       "url": "https://www.thran.uk/writ/hdid/2025/12/simcity-3k-in-4k.html",
       "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.thran.uk/writ/hdid...",
-      "score": 304
+      "score": 369
     },
     {
       "type": "HackerNews",
       "title": "What Apple and Google are doing to push notifications",
       "url": "https://www.jacquescorbytuech.com/writing/what-apple-and-google-are-doing-your-push-notifications",
-      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.jacquescorbytuech....",
-      "score": 195
+      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.jacquescorbytuech....",
+      "score": 284
     },
     {
       "type": "HackerNews",
-      "title": "Why Ctrl+V won't paste images in Claude Code on WSL, with a fix",
-      "url": "https://rajveerbachkaniwala.com/blog/2026/05/24/on-the-difficulty-of-pasting-a-picture/",
-      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://rajveerbachkaniwala.co...",
-      "score": 18
-    },
-    {
-      "type": "HackerNews",
-      "title": "The Ask",
-      "url": "https://randsinrepose.com/archives/the-ask/",
-      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://randsinrepose.com/arch...",
-      "score": 23
-    },
-    {
-      "type": "HackerNews",
-      "title": "A New Typst Template for Pandoc",
-      "url": "https://imaginarytext.ca/posts/2025/typst-templates-for-pandoc/",
-      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://imaginarytext.ca/posts...",
-      "score": 50
+      "title": "I'm Getting into Mesh Networks (Meshtastic, MeshCore, and Reticulum)",
+      "url": "https://www.jonaharagon.com/posts/im-getting-into-mesh-networks-meshtastic-meshcore-and-reticulum/",
+      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.jonaharagon.com/po...",
+      "score": 199
     }
   ]
 }
