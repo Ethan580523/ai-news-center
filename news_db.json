@@ -1,61 +1,61 @@
 {
-  "last_updated": "2026-05-29 15:33:08",
+  "last_updated": "2026-05-29 20:25:30",
   "news": [
     {
       "type": "HackerNews",
-      "title": "I Am Retiring from Tech to Live Offline",
-      "url": "https://openpath.quest/2026/i-am-retiring-from-tech-to-live-offline/",
-      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://openpath.quest/2026/i-...",
-      "score": 168
+      "title": "SQLite is all you need for durable workflows",
+      "url": "https://obeli.sk/blog/sqlite-is-all-you-need-for-durable-workflows/",
+      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://obeli.sk/blog/sqlite-i...",
+      "score": 163
     },
     {
       "type": "HackerNews",
-      "title": "Please Use AI",
-      "url": "https://shawnsmucker.substack.com/p/please-use-ai",
-      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://shawnsmucker.substack....",
-      "score": 540
+      "title": "The dead economy theory",
+      "url": "https://www.owenmcgrann.com/p/the-dead-economy-theory",
+      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.owenmcgrann.com/p/...",
+      "score": 373
     },
     {
       "type": "HackerNews",
-      "title": "It Will Never Be the Year of the Linux Desktop",
-      "url": "https://unix.foo/posts/it-will-never-be-the-year-of-the-linux-desktop/",
-      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://unix.foo/posts/it-will...",
-      "score": 35
+      "title": "Notes from the Mistral AI Now Summit in Paris",
+      "url": "https://koenvangilst.nl/lab/mistral-ai-now-summit",
+      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://koenvangilst.nl/lab/mi...",
+      "score": 239
+    },
+    {
+      "type": "HackerNews",
+      "title": "The California State Assembly Has Passed the 'Protect Our Games Act'",
+      "url": "https://www.invenglobal.com/articles/22330/stop-killing-games-movement-gains-momentum-california-assembly-passes-game-protection-bill",
+      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.invenglobal.com/ar...",
+      "score": 27
+    },
+    {
+      "type": "HackerNews",
+      "title": "On Rendering Diffs",
+      "url": "https://pierre.computer/writing/on-rendering-diffs",
+      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://pierre.computer/writin...",
+      "score": 55
+    },
+    {
+      "type": "HackerNews",
+      "title": "Rothko for your current weather conditions",
+      "url": "https://rothko.joonas.wtf/",
+      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://rothko.joonas.wtf/...",
+      "score": 61
     },
     {
       "type": "HackerNews",
       "title": "Bijou64: A variable-length integer encoding",
       "url": "https://www.inkandswitch.com/tangents/bijou64/",
       "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.inkandswitch.com/t...",
-      "score": 10
+      "score": 177
     },
     {
       "type": "HackerNews",
       "title": "It's hard to justify buying a Framework 12",
       "url": "https://www.jeffgeerling.com/blog/2026/its-hard-to-justify-framework-12/",
-      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.jeffgeerling.com/b...",
-      "score": 13
-    },
-    {
-      "type": "HackerNews",
-      "title": "The UK Government's Low Value Purchase System Is a Waste of Time",
-      "url": "https://shkspr.mobi/blog/2026/05/the-uk-governments-low-value-purchase-system-is-a-waste-of-time/",
-      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://shkspr.mobi/blog/2026/...",
-      "score": 95
-    },
-    {
-      "type": "HackerNews",
-      "title": "Expertise in the Age of AI",
-      "url": "https://www.moderndescartes.com/essays/ai_and_expertise/",
-      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.moderndescartes.co...",
-      "score": 31
-    },
-    {
-      "type": "HackerNews",
-      "title": "Tulip mania: when a single flower was worth more than a house (2025)",
-      "url": "https://dutchreview.com/culture/tulip-mania-netherlands/",
-      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://dutchreview.com/cultur...",
-      "score": 85
+      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.jeffgeerling.com/b...",
+      "score": 141
     }
   ]
 }
