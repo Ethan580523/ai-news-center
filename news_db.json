@@ -1,61 +1,61 @@
 {
-  "last_updated": "2026-05-29 20:25:30",
+  "last_updated": "2026-05-29 22:37:14",
   "news": [
     {
       "type": "HackerNews",
       "title": "SQLite is all you need for durable workflows",
       "url": "https://obeli.sk/blog/sqlite-is-all-you-need-for-durable-workflows/",
       "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://obeli.sk/blog/sqlite-i...",
-      "score": 163
+      "score": 268
+    },
+    {
+      "type": "HackerNews",
+      "title": "EV Stupidity Checklist",
+      "url": "http://hypercritical.co/2026/05/29/ev-stupidity-checklist",
+      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：http://hypercritical.co/2026/0...",
+      "score": 50
     },
     {
       "type": "HackerNews",
       "title": "The dead economy theory",
       "url": "https://www.owenmcgrann.com/p/the-dead-economy-theory",
-      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.owenmcgrann.com/p/...",
-      "score": 373
+      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.owenmcgrann.com/p/...",
+      "score": 532
     },
     {
       "type": "HackerNews",
       "title": "Notes from the Mistral AI Now Summit in Paris",
       "url": "https://koenvangilst.nl/lab/mistral-ai-now-summit",
-      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://koenvangilst.nl/lab/mi...",
-      "score": 239
-    },
-    {
-      "type": "HackerNews",
-      "title": "The California State Assembly Has Passed the 'Protect Our Games Act'",
-      "url": "https://www.invenglobal.com/articles/22330/stop-killing-games-movement-gains-momentum-california-assembly-passes-game-protection-bill",
-      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.invenglobal.com/ar...",
-      "score": 27
+      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://koenvangilst.nl/lab/mi...",
+      "score": 282
     },
     {
       "type": "HackerNews",
       "title": "On Rendering Diffs",
       "url": "https://pierre.computer/writing/on-rendering-diffs",
       "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://pierre.computer/writin...",
-      "score": 55
+      "score": 114
     },
     {
       "type": "HackerNews",
-      "title": "Rothko for your current weather conditions",
-      "url": "https://rothko.joonas.wtf/",
-      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://rothko.joonas.wtf/...",
-      "score": 61
+      "title": "Shift will clean homes for free to train future robots",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/939765/ai-training-data-startup-shift-free-cleaning",
+      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.theverge.com/ai-ar...",
+      "score": 45
+    },
+    {
+      "type": "HackerNews",
+      "title": "Show HN: Tiny-vLLM – high performance LLM inference engine in C++ and CUDA",
+      "url": "https://github.com/jmaczan/tiny-vllm",
+      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://github.com/jmaczan/tin...",
+      "score": 51
     },
     {
       "type": "HackerNews",
       "title": "Bijou64: A variable-length integer encoding",
       "url": "https://www.inkandswitch.com/tangents/bijou64/",
       "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.inkandswitch.com/t...",
-      "score": 177
-    },
-    {
-      "type": "HackerNews",
-      "title": "It's hard to justify buying a Framework 12",
-      "url": "https://www.jeffgeerling.com/blog/2026/its-hard-to-justify-framework-12/",
-      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.jeffgeerling.com/b...",
-      "score": 141
+      "score": 194
     }
   ]
 }
