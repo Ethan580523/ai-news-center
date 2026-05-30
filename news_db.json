@@ -1,61 +1,61 @@
 {
-  "last_updated": "2026-05-30 03:27:36",
+  "last_updated": "2026-05-30 08:28:02",
   "news": [
     {
       "type": "HackerNews",
       "title": "SQLite is all you need for durable workflows",
       "url": "https://obeli.sk/blog/sqlite-is-all-you-need-for-durable-workflows/",
       "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://obeli.sk/blog/sqlite-i...",
-      "score": 404
+      "score": 504
     },
     {
       "type": "HackerNews",
-      "title": "The dead economy theory",
-      "url": "https://www.owenmcgrann.com/p/the-dead-economy-theory",
-      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.owenmcgrann.com/p/...",
-      "score": 765
-    },
-    {
-      "type": "HackerNews",
-      "title": "Naphtha Shortages Having a Growing Impact in Japan",
-      "url": "https://www.nippon.com/en/japan-data/h02783/",
-      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.nippon.com/en/japa...",
-      "score": 17
+      "title": "Algebraic Effects for the Rest of Us",
+      "url": "https://overreacted.io/algebraic-effects-for-the-rest-of-us/",
+      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://overreacted.io/algebra...",
+      "score": 32
     },
     {
       "type": "HackerNews",
       "title": "Snowboard Kids 2 is 100% Decompiled",
       "url": "https://blog.chrislewis.au/snowboard-kids-2-is-100-decompiled/",
-      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://blog.chrislewis.au/sno...",
-      "score": 87
+      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://blog.chrislewis.au/sno...",
+      "score": 181
+    },
+    {
+      "type": "HackerNews",
+      "title": "Perry Compiles TypeScript directly to executables using SWC and LLVM",
+      "url": "https://www.perryts.com/",
+      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.perryts.com/...",
+      "score": 82
     },
     {
       "type": "HackerNews",
       "title": "Notes from the Mistral AI Now Summit",
       "url": "https://koenvangilst.nl/lab/mistral-ai-now-summit",
-      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://koenvangilst.nl/lab/mi...",
-      "score": 315
+      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://koenvangilst.nl/lab/mi...",
+      "score": 361
+    },
+    {
+      "type": "HackerNews",
+      "title": "What It Takes to Preserve Floppy Disks",
+      "url": "https://spectrum.ieee.org/floppy-disk-data-preservation-archives",
+      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://spectrum.ieee.org/flop...",
+      "score": 38
     },
     {
       "type": "HackerNews",
       "title": "Print with dozens of colors: Our new open-source ColorMix for PrusaSlicer",
       "url": "https://blog.prusa3d.com/our-new-open-source-colormix-model-in-prusaslicer-and-easyprint_136079/",
-      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://blog.prusa3d.com/our-n...",
-      "score": 96
+      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://blog.prusa3d.com/our-n...",
+      "score": 143
     },
     {
       "type": "HackerNews",
-      "title": "MCP is dead?",
-      "url": "https://www.quandri.io/engineering-blog/mcp-is-dead",
-      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.quandri.io/enginee...",
-      "score": 109
-    },
-    {
-      "type": "HackerNews",
-      "title": "Shift will clean homes for free to train future robots",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/939765/ai-training-data-startup-shift-free-cleaning",
-      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.theverge.com/ai-ar...",
-      "score": 97
+      "title": "A new register allocator for ZJIT",
+      "url": "https://railsatscale.com/2026-05-27-a-new-register-allocator-for-zjit/",
+      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://railsatscale.com/2026-...",
+      "score": 30
     }
   ]
 }
