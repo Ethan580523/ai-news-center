@@ -1,61 +1,61 @@
 {
-  "last_updated": "2026-05-29 22:37:14",
+  "last_updated": "2026-05-30 03:27:36",
   "news": [
     {
       "type": "HackerNews",
       "title": "SQLite is all you need for durable workflows",
       "url": "https://obeli.sk/blog/sqlite-is-all-you-need-for-durable-workflows/",
-      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://obeli.sk/blog/sqlite-i...",
-      "score": 268
-    },
-    {
-      "type": "HackerNews",
-      "title": "EV Stupidity Checklist",
-      "url": "http://hypercritical.co/2026/05/29/ev-stupidity-checklist",
-      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：http://hypercritical.co/2026/0...",
-      "score": 50
+      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://obeli.sk/blog/sqlite-i...",
+      "score": 404
     },
     {
       "type": "HackerNews",
       "title": "The dead economy theory",
       "url": "https://www.owenmcgrann.com/p/the-dead-economy-theory",
       "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.owenmcgrann.com/p/...",
-      "score": 532
+      "score": 765
     },
     {
       "type": "HackerNews",
-      "title": "Notes from the Mistral AI Now Summit in Paris",
+      "title": "Naphtha Shortages Having a Growing Impact in Japan",
+      "url": "https://www.nippon.com/en/japan-data/h02783/",
+      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.nippon.com/en/japa...",
+      "score": 17
+    },
+    {
+      "type": "HackerNews",
+      "title": "Snowboard Kids 2 is 100% Decompiled",
+      "url": "https://blog.chrislewis.au/snowboard-kids-2-is-100-decompiled/",
+      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://blog.chrislewis.au/sno...",
+      "score": 87
+    },
+    {
+      "type": "HackerNews",
+      "title": "Notes from the Mistral AI Now Summit",
       "url": "https://koenvangilst.nl/lab/mistral-ai-now-summit",
       "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://koenvangilst.nl/lab/mi...",
-      "score": 282
+      "score": 315
     },
     {
       "type": "HackerNews",
-      "title": "On Rendering Diffs",
-      "url": "https://pierre.computer/writing/on-rendering-diffs",
-      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://pierre.computer/writin...",
-      "score": 114
+      "title": "Print with dozens of colors: Our new open-source ColorMix for PrusaSlicer",
+      "url": "https://blog.prusa3d.com/our-new-open-source-colormix-model-in-prusaslicer-and-easyprint_136079/",
+      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://blog.prusa3d.com/our-n...",
+      "score": 96
+    },
+    {
+      "type": "HackerNews",
+      "title": "MCP is dead?",
+      "url": "https://www.quandri.io/engineering-blog/mcp-is-dead",
+      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.quandri.io/enginee...",
+      "score": 109
     },
     {
       "type": "HackerNews",
       "title": "Shift will clean homes for free to train future robots",
       "url": "https://www.theverge.com/ai-artificial-intelligence/939765/ai-training-data-startup-shift-free-cleaning",
       "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.theverge.com/ai-ar...",
-      "score": 45
-    },
-    {
-      "type": "HackerNews",
-      "title": "Show HN: Tiny-vLLM – high performance LLM inference engine in C++ and CUDA",
-      "url": "https://github.com/jmaczan/tiny-vllm",
-      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://github.com/jmaczan/tin...",
-      "score": 51
-    },
-    {
-      "type": "HackerNews",
-      "title": "Bijou64: A variable-length integer encoding",
-      "url": "https://www.inkandswitch.com/tangents/bijou64/",
-      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.inkandswitch.com/t...",
-      "score": 194
+      "score": 97
     }
   ]
 }
