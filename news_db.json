@@ -1,61 +1,61 @@
 {
-  "last_updated": "2026-05-30 10:47:26",
+  "last_updated": "2026-05-30 13:38:55",
   "news": [
+    {
+      "type": "HackerNews",
+      "title": "Pandoc Templates",
+      "url": "https://pandoc-templates.org/",
+      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://pandoc-templates.org/...",
+      "score": 174
+    },
     {
       "type": "HackerNews",
       "title": "Zig: Build System Reworked",
       "url": "https://ziglang.org/devlog/2026/#2026-05-26",
       "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://ziglang.org/devlog/202...",
-      "score": 69
+      "score": 166
     },
     {
       "type": "HackerNews",
-      "title": "The Kaiser and a \"Mediocre Man\" Theory of History",
-      "url": "https://www.deadcarl.com/p/the-kaiser-and-a-mediocre-man-theory",
-      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.deadcarl.com/p/the...",
-      "score": 22
+      "title": "Leo's first encyclical attacks technological messianism",
+      "url": "https://www.economist.com/europe/2026/05/28/leos-first-encyclical-attacks-technological-messianism",
+      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.economist.com/euro...",
+      "score": 45
     },
     {
       "type": "HackerNews",
-      "title": "Pandoc Templates",
-      "url": "https://pandoc-templates.org/",
-      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://pandoc-templates.org/...",
-      "score": 8
+      "title": "Proposed new US funding rules: We can cancel any grant at any time",
+      "url": "https://arstechnica.com/science/2026/05/the-office-of-management-and-budget-tries-again-to-cripple-us-science/",
+      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://arstechnica.com/scienc...",
+      "score": 136
+    },
+    {
+      "type": "HackerNews",
+      "title": "Openrsync: An implementation of rsync, by the OpenBSD team",
+      "url": "https://github.com/kristapsdz/openrsync",
+      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://github.com/kristapsdz/...",
+      "score": 30
+    },
+    {
+      "type": "HackerNews",
+      "title": "Show HN: Helios – what plug-in solar could generate for any address in Britain",
+      "url": "https://helios.southlondonscientific.com/",
+      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://helios.southlondonscie...",
+      "score": 29
+    },
+    {
+      "type": "HackerNews",
+      "title": "IXI's autofocusing lenses are almost ready to replace multifocal glasses",
+      "url": "https://www.engadget.com/wearables/ixis-autofocusing-lenses-multifocal-glasses-ces-2026-212608427.html",
+      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.engadget.com/weara...",
+      "score": 20
     },
     {
       "type": "HackerNews",
       "title": "SQLite is all you need for durable workflows",
       "url": "https://obeli.sk/blog/sqlite-is-all-you-need-for-durable-workflows/",
-      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://obeli.sk/blog/sqlite-i...",
-      "score": 548
-    },
-    {
-      "type": "HackerNews",
-      "title": "Danish pension fund excludes SpaceX citing governance and valuation",
-      "url": "https://www.reuters.com/legal/transactional/danish-pension-fund-excludes-spacex-citing-governance-valuation-2026-05-29/",
-      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.reuters.com/legal/...",
-      "score": 152
-    },
-    {
-      "type": "HackerNews",
-      "title": "Snowboard Kids 2 is 100% Decompiled",
-      "url": "https://blog.chrislewis.au/snowboard-kids-2-is-100-decompiled/",
-      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://blog.chrislewis.au/sno...",
-      "score": 208
-    },
-    {
-      "type": "HackerNews",
-      "title": "Algebraic Effects for the Rest of Us",
-      "url": "https://overreacted.io/algebraic-effects-for-the-rest-of-us/",
-      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://overreacted.io/algebra...",
-      "score": 65
-    },
-    {
-      "type": "HackerNews",
-      "title": "Floor and Ceil versus Denormals on CPU and GPU",
-      "url": "https://asawicki.info/news_1802_floor_and_ceil_versus_denormals_on_cpu_and_gpu",
-      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://asawicki.info/news_180...",
-      "score": 8
+      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://obeli.sk/blog/sqlite-i...",
+      "score": 593
     }
   ]
 }
