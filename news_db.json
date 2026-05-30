@@ -1,61 +1,61 @@
 {
-  "last_updated": "2026-05-30 08:28:02",
+  "last_updated": "2026-05-30 10:47:26",
   "news": [
+    {
+      "type": "HackerNews",
+      "title": "Zig: Build System Reworked",
+      "url": "https://ziglang.org/devlog/2026/#2026-05-26",
+      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://ziglang.org/devlog/202...",
+      "score": 69
+    },
+    {
+      "type": "HackerNews",
+      "title": "The Kaiser and a \"Mediocre Man\" Theory of History",
+      "url": "https://www.deadcarl.com/p/the-kaiser-and-a-mediocre-man-theory",
+      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.deadcarl.com/p/the...",
+      "score": 22
+    },
+    {
+      "type": "HackerNews",
+      "title": "Pandoc Templates",
+      "url": "https://pandoc-templates.org/",
+      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://pandoc-templates.org/...",
+      "score": 8
+    },
     {
       "type": "HackerNews",
       "title": "SQLite is all you need for durable workflows",
       "url": "https://obeli.sk/blog/sqlite-is-all-you-need-for-durable-workflows/",
       "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://obeli.sk/blog/sqlite-i...",
-      "score": 504
+      "score": 548
+    },
+    {
+      "type": "HackerNews",
+      "title": "Danish pension fund excludes SpaceX citing governance and valuation",
+      "url": "https://www.reuters.com/legal/transactional/danish-pension-fund-excludes-spacex-citing-governance-valuation-2026-05-29/",
+      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.reuters.com/legal/...",
+      "score": 152
+    },
+    {
+      "type": "HackerNews",
+      "title": "Snowboard Kids 2 is 100% Decompiled",
+      "url": "https://blog.chrislewis.au/snowboard-kids-2-is-100-decompiled/",
+      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://blog.chrislewis.au/sno...",
+      "score": 208
     },
     {
       "type": "HackerNews",
       "title": "Algebraic Effects for the Rest of Us",
       "url": "https://overreacted.io/algebraic-effects-for-the-rest-of-us/",
       "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://overreacted.io/algebra...",
-      "score": 32
+      "score": 65
     },
     {
       "type": "HackerNews",
-      "title": "Snowboard Kids 2 is 100% Decompiled",
-      "url": "https://blog.chrislewis.au/snowboard-kids-2-is-100-decompiled/",
-      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://blog.chrislewis.au/sno...",
-      "score": 181
-    },
-    {
-      "type": "HackerNews",
-      "title": "Perry Compiles TypeScript directly to executables using SWC and LLVM",
-      "url": "https://www.perryts.com/",
-      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.perryts.com/...",
-      "score": 82
-    },
-    {
-      "type": "HackerNews",
-      "title": "Notes from the Mistral AI Now Summit",
-      "url": "https://koenvangilst.nl/lab/mistral-ai-now-summit",
-      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://koenvangilst.nl/lab/mi...",
-      "score": 361
-    },
-    {
-      "type": "HackerNews",
-      "title": "What It Takes to Preserve Floppy Disks",
-      "url": "https://spectrum.ieee.org/floppy-disk-data-preservation-archives",
-      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://spectrum.ieee.org/flop...",
-      "score": 38
-    },
-    {
-      "type": "HackerNews",
-      "title": "Print with dozens of colors: Our new open-source ColorMix for PrusaSlicer",
-      "url": "https://blog.prusa3d.com/our-new-open-source-colormix-model-in-prusaslicer-and-easyprint_136079/",
-      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://blog.prusa3d.com/our-n...",
-      "score": 143
-    },
-    {
-      "type": "HackerNews",
-      "title": "A new register allocator for ZJIT",
-      "url": "https://railsatscale.com/2026-05-27-a-new-register-allocator-for-zjit/",
-      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://railsatscale.com/2026-...",
-      "score": 30
+      "title": "Floor and Ceil versus Denormals on CPU and GPU",
+      "url": "https://asawicki.info/news_1802_floor_and_ceil_versus_denormals_on_cpu_and_gpu",
+      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://asawicki.info/news_180...",
+      "score": 8
     }
   ]
 }
