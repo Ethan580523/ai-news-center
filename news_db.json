@@ -1,61 +1,61 @@
 {
-  "last_updated": "2026-05-30 13:38:55",
+  "last_updated": "2026-05-30 16:04:46",
   "news": [
+    {
+      "type": "HackerNews",
+      "title": "Anthropic surpasses OpenAI to become most valuable AI startup",
+      "url": "https://qazinform.com/news/anthropic-surpasses-openai-to-become-worlds-most-valuable-ai-startup",
+      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://qazinform.com/news/ant...",
+      "score": 261
+    },
+    {
+      "type": "HackerNews",
+      "title": "Voxel Space",
+      "url": "https://s-macke.github.io/VoxelSpace/",
+      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://s-macke.github.io/Voxe...",
+      "score": 67
+    },
     {
       "type": "HackerNews",
       "title": "Pandoc Templates",
       "url": "https://pandoc-templates.org/",
-      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://pandoc-templates.org/...",
-      "score": 174
-    },
-    {
-      "type": "HackerNews",
-      "title": "Zig: Build System Reworked",
-      "url": "https://ziglang.org/devlog/2026/#2026-05-26",
-      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://ziglang.org/devlog/202...",
-      "score": 166
-    },
-    {
-      "type": "HackerNews",
-      "title": "Leo's first encyclical attacks technological messianism",
-      "url": "https://www.economist.com/europe/2026/05/28/leos-first-encyclical-attacks-technological-messianism",
-      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.economist.com/euro...",
-      "score": 45
-    },
-    {
-      "type": "HackerNews",
-      "title": "Proposed new US funding rules: We can cancel any grant at any time",
-      "url": "https://arstechnica.com/science/2026/05/the-office-of-management-and-budget-tries-again-to-cripple-us-science/",
-      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://arstechnica.com/scienc...",
-      "score": 136
+      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://pandoc-templates.org/...",
+      "score": 248
     },
     {
       "type": "HackerNews",
       "title": "Openrsync: An implementation of rsync, by the OpenBSD team",
       "url": "https://github.com/kristapsdz/openrsync",
-      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://github.com/kristapsdz/...",
-      "score": 30
+      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://github.com/kristapsdz/...",
+      "score": 137
     },
     {
       "type": "HackerNews",
-      "title": "Show HN: Helios – what plug-in solar could generate for any address in Britain",
-      "url": "https://helios.southlondonscientific.com/",
-      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://helios.southlondonscie...",
-      "score": 29
+      "title": "AI Job Grief: The Unnamed Psychological Crisis Hitting Tech Workers",
+      "url": "https://jackmaguire.org/blog/ai-job-grief/",
+      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://jackmaguire.org/blog/a...",
+      "score": 44
+    },
+    {
+      "type": "HackerNews",
+      "title": "Navier-Stokes fluid simulation explained with Godot game engine",
+      "url": "https://myzopotamia.dev/navier-stokes-fluid-simulation-explained-with-godot",
+      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://myzopotamia.dev/navier...",
+      "score": 58
+    },
+    {
+      "type": "HackerNews",
+      "title": "Zig: Build System Reworked",
+      "url": "https://ziglang.org/devlog/2026/#2026-05-26",
+      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://ziglang.org/devlog/202...",
+      "score": 233
     },
     {
       "type": "HackerNews",
       "title": "IXI's autofocusing lenses are almost ready to replace multifocal glasses",
       "url": "https://www.engadget.com/wearables/ixis-autofocusing-lenses-multifocal-glasses-ces-2026-212608427.html",
       "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.engadget.com/weara...",
-      "score": 20
-    },
-    {
-      "type": "HackerNews",
-      "title": "SQLite is all you need for durable workflows",
-      "url": "https://obeli.sk/blog/sqlite-is-all-you-need-for-durable-workflows/",
-      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://obeli.sk/blog/sqlite-i...",
-      "score": 593
+      "score": 71
     }
   ]
 }
