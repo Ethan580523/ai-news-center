@@ -1,61 +1,61 @@
 {
-  "last_updated": "2026-05-31 03:54:17",
+  "last_updated": "2026-05-31 08:45:05",
   "news": [
     {
       "type": "HackerNews",
-      "title": "Microsoft degrades functionality of perpetually-licensed offline products",
-      "url": "https://consumerrights.wiki/w/Microsoft_Office_2019_and_2021_for_Mac_view-only_conversion_(2026)",
-      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://consumerrights.wiki/w/...",
-      "score": 554
+      "title": "The Website Specification",
+      "url": "https://specification.website/",
+      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://specification.website/...",
+      "score": 91
     },
     {
       "type": "HackerNews",
       "title": "Domain expertise has always been the real moat",
       "url": "https://www.brethorsting.com/blog/2026/05/domain-expertise-has-always-been-the-real-moat/",
-      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.brethorsting.com/b...",
-      "score": 343
+      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.brethorsting.com/b...",
+      "score": 554
     },
     {
       "type": "HackerNews",
-      "title": "Racket v9.2 is now available",
-      "url": "https://blog.racket-lang.org/2026/05/racket-v9-2.html",
-      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://blog.racket-lang.org/2...",
-      "score": 54
+      "title": "Show HN: Breathe CLI – Paced resonance breathing in the macOS terminal",
+      "url": "https://github.com/marekkowalczyk/breathe-cli",
+      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://github.com/marekkowalc...",
+      "score": 14
+    },
+    {
+      "type": "HackerNews",
+      "title": "A Gentle Introduction to Lattice-Based Cryptography [pdf]",
+      "url": "https://cryptography101.ca/wp-content/uploads/lattice-based-cryptography.pdf",
+      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://cryptography101.ca/wp-...",
+      "score": 74
     },
     {
       "type": "HackerNews",
       "title": "Shantell Sans (2023)",
       "url": "https://shantellsans.com/process",
-      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://shantellsans.com/proce...",
-      "score": 128
+      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://shantellsans.com/proce...",
+      "score": 225
     },
     {
       "type": "HackerNews",
-      "title": "I found a seashell in the middle of the desert",
-      "url": "https://github.com/Hawzen/I-found-a-seashell-in-the-middle-of-the-desert",
-      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://github.com/Hawzen/I-fo...",
-      "score": 251
+      "title": "Avian Visitors",
+      "url": "https://theodore.net/projects/AvianVisitors/",
+      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://theodore.net/projects/...",
+      "score": 26
     },
     {
       "type": "HackerNews",
-      "title": "Accenture to acquire Ookla",
-      "url": "https://newsroom.accenture.com/news/2026/accenture-to-acquire-ookla-to-strengthen-network-intelligence-and-experience-with-data-and-ai-for-enterprises",
-      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://newsroom.accenture.com...",
-      "score": 256
+      "title": "Ahoy, DECmate II the little PDP-8 that could",
+      "url": "http://oldvcr.blogspot.com/2026/05/ahoy-decmate-ii-little-pdp-8-that-could.html",
+      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：http://oldvcr.blogspot.com/202...",
+      "score": 31
     },
     {
       "type": "HackerNews",
-      "title": "The AV2 Video Standard Has Released (Final v1.0 Specification)",
-      "url": "https://av2.aomedia.org",
-      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://av2.aomedia.org...",
-      "score": 67
-    },
-    {
-      "type": "HackerNews",
-      "title": "wolfSSL releases a new product; wolfCOSE a zero alloc C embbedded COSE stack",
-      "url": "https://github.com/wolfSSL/wolfCOSE",
-      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://github.com/wolfSSL/wol...",
-      "score": 72
+      "title": "Associative learning turns DEET from aversive to appetitive in Aedes aegypti",
+      "url": "https://journals.biologists.com/jeb/article/229/10/jeb251935/371741/Associative-learning-switches-DEET-valence-from",
+      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://journals.biologists.co...",
+      "score": 30
     }
   ]
 }
