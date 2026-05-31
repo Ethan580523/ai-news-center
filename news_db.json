@@ -1,61 +1,61 @@
 {
-  "last_updated": "2026-05-31 13:45:30",
+  "last_updated": "2026-05-31 16:08:48",
   "news": [
+    {
+      "type": "HackerNews",
+      "title": "The solution might be cancelling my AI subscription",
+      "url": "https://thoughts.hmmz.org/2026-05-31.html",
+      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://thoughts.hmmz.org/2026...",
+      "score": 111
+    },
+    {
+      "type": "HackerNews",
+      "title": "Cloudflare Turnstile requiring fingerprintable WebGL",
+      "url": "https://hacktivis.me/articles/cloudflare-turnstile-webgl-fingerprinting",
+      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://hacktivis.me/articles/...",
+      "score": 149
+    },
     {
       "type": "HackerNews",
       "title": "Dav2d",
       "url": "https://jbkempf.com/blog/2026/dav2d/",
-      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://jbkempf.com/blog/2026/...",
-      "score": 154
+      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://jbkempf.com/blog/2026/...",
+      "score": 273
+    },
+    {
+      "type": "HackerNews",
+      "title": "1-Bit Bonsai Image 4B Image Generation for Local Devices",
+      "url": "https://prismml.com/news/bonsai-image-4b",
+      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://prismml.com/news/bonsa...",
+      "score": 38
+    },
+    {
+      "type": "HackerNews",
+      "title": "Restartable Sequences",
+      "url": "https://justine.lol/rseq/",
+      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://justine.lol/rseq/...",
+      "score": 31
     },
     {
       "type": "HackerNews",
       "title": "The Website Specification",
       "url": "https://specification.website/",
-      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://specification.website/...",
-      "score": 274
+      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://specification.website/...",
+      "score": 340
     },
     {
       "type": "HackerNews",
       "title": "London's Free Roof Terraces",
       "url": "https://diamondgeezer.blogspot.com/2026/05/londons-free-roof-terraces.html",
-      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://diamondgeezer.blogspot...",
-      "score": 148
-    },
-    {
-      "type": "HackerNews",
-      "title": "Backpressure is all you need",
-      "url": "https://www.lucasfcosta.com/blog/backpressure-is-all-you-need",
-      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.lucasfcosta.com/bl...",
-      "score": 33
+      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://diamondgeezer.blogspot...",
+      "score": 192
     },
     {
       "type": "HackerNews",
       "title": "Domain expertise has always been the real moat",
       "url": "https://www.brethorsting.com/blog/2026/05/domain-expertise-has-always-been-the-real-moat/",
       "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.brethorsting.com/b...",
-      "score": 700
-    },
-    {
-      "type": "HackerNews",
-      "title": "Security Envelope Pattern collection – S.E.C.R.E.T",
-      "url": "https://secret-archive.org/",
-      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://secret-archive.org/...",
-      "score": 40
-    },
-    {
-      "type": "HackerNews",
-      "title": "What it's like to have your insulin pump die while you're on vacation",
-      "url": "https://blog.lauramichet.com/what-its-like-to-have-the-machine-that-keeps-you-alive-die-while-youre-on-vacation/",
-      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://blog.lauramichet.com/w...",
-      "score": 20
-    },
-    {
-      "type": "HackerNews",
-      "title": "Shantell Sans (2023)",
-      "url": "https://shantellsans.com/process",
-      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://shantellsans.com/proce...",
-      "score": 307
+      "score": 752
     }
   ]
 }
