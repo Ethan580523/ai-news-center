@@ -1,61 +1,61 @@
 {
-  "last_updated": "2026-05-31 10:57:39",
+  "last_updated": "2026-05-31 13:45:30",
   "news": [
+    {
+      "type": "HackerNews",
+      "title": "Dav2d",
+      "url": "https://jbkempf.com/blog/2026/dav2d/",
+      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://jbkempf.com/blog/2026/...",
+      "score": 154
+    },
     {
       "type": "HackerNews",
       "title": "The Website Specification",
       "url": "https://specification.website/",
       "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://specification.website/...",
-      "score": 180
+      "score": 274
     },
     {
       "type": "HackerNews",
       "title": "London's Free Roof Terraces",
       "url": "https://diamondgeezer.blogspot.com/2026/05/londons-free-roof-terraces.html",
-      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://diamondgeezer.blogspot...",
-      "score": 75
+      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://diamondgeezer.blogspot...",
+      "score": 148
+    },
+    {
+      "type": "HackerNews",
+      "title": "Backpressure is all you need",
+      "url": "https://www.lucasfcosta.com/blog/backpressure-is-all-you-need",
+      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.lucasfcosta.com/bl...",
+      "score": 33
     },
     {
       "type": "HackerNews",
       "title": "Domain expertise has always been the real moat",
       "url": "https://www.brethorsting.com/blog/2026/05/domain-expertise-has-always-been-the-real-moat/",
-      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.brethorsting.com/b...",
-      "score": 622
+      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.brethorsting.com/b...",
+      "score": 700
     },
     {
       "type": "HackerNews",
-      "title": "Show HN: Breathe CLI – Paced resonance breathing in the macOS terminal",
-      "url": "https://github.com/marekkowalczyk/breathe-cli",
-      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://github.com/marekkowalc...",
-      "score": 44
+      "title": "Security Envelope Pattern collection – S.E.C.R.E.T",
+      "url": "https://secret-archive.org/",
+      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://secret-archive.org/...",
+      "score": 40
     },
     {
       "type": "HackerNews",
-      "title": "Avian Visitors",
-      "url": "https://theodore.net/projects/AvianVisitors/",
-      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://theodore.net/projects/...",
-      "score": 46
+      "title": "What it's like to have your insulin pump die while you're on vacation",
+      "url": "https://blog.lauramichet.com/what-its-like-to-have-the-machine-that-keeps-you-alive-die-while-youre-on-vacation/",
+      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://blog.lauramichet.com/w...",
+      "score": 20
     },
     {
       "type": "HackerNews",
       "title": "Shantell Sans (2023)",
       "url": "https://shantellsans.com/process",
-      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://shantellsans.com/proce...",
-      "score": 263
-    },
-    {
-      "type": "HackerNews",
-      "title": "A pictorial introduction to differential geometry (2017)",
-      "url": "https://arxiv.org/abs/1709.08492",
-      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://arxiv.org/abs/1709.084...",
-      "score": 54
-    },
-    {
-      "type": "HackerNews",
-      "title": "A Gentle Introduction to Lattice-Based Cryptography [pdf]",
-      "url": "https://cryptography101.ca/wp-content/uploads/lattice-based-cryptography.pdf",
-      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://cryptography101.ca/wp-...",
-      "score": 90
+      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://shantellsans.com/proce...",
+      "score": 307
     }
   ]
 }
