@@ -1,61 +1,61 @@
 {
-  "last_updated": "2026-05-31 08:45:05",
+  "last_updated": "2026-05-31 10:57:39",
   "news": [
     {
       "type": "HackerNews",
       "title": "The Website Specification",
       "url": "https://specification.website/",
-      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://specification.website/...",
-      "score": 91
+      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://specification.website/...",
+      "score": 180
+    },
+    {
+      "type": "HackerNews",
+      "title": "London's Free Roof Terraces",
+      "url": "https://diamondgeezer.blogspot.com/2026/05/londons-free-roof-terraces.html",
+      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://diamondgeezer.blogspot...",
+      "score": 75
     },
     {
       "type": "HackerNews",
       "title": "Domain expertise has always been the real moat",
       "url": "https://www.brethorsting.com/blog/2026/05/domain-expertise-has-always-been-the-real-moat/",
       "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.brethorsting.com/b...",
-      "score": 554
+      "score": 622
     },
     {
       "type": "HackerNews",
       "title": "Show HN: Breathe CLI – Paced resonance breathing in the macOS terminal",
       "url": "https://github.com/marekkowalczyk/breathe-cli",
-      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://github.com/marekkowalc...",
-      "score": 14
-    },
-    {
-      "type": "HackerNews",
-      "title": "A Gentle Introduction to Lattice-Based Cryptography [pdf]",
-      "url": "https://cryptography101.ca/wp-content/uploads/lattice-based-cryptography.pdf",
-      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://cryptography101.ca/wp-...",
-      "score": 74
-    },
-    {
-      "type": "HackerNews",
-      "title": "Shantell Sans (2023)",
-      "url": "https://shantellsans.com/process",
-      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://shantellsans.com/proce...",
-      "score": 225
+      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://github.com/marekkowalc...",
+      "score": 44
     },
     {
       "type": "HackerNews",
       "title": "Avian Visitors",
       "url": "https://theodore.net/projects/AvianVisitors/",
       "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://theodore.net/projects/...",
-      "score": 26
+      "score": 46
     },
     {
       "type": "HackerNews",
-      "title": "Ahoy, DECmate II the little PDP-8 that could",
-      "url": "http://oldvcr.blogspot.com/2026/05/ahoy-decmate-ii-little-pdp-8-that-could.html",
-      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：http://oldvcr.blogspot.com/202...",
-      "score": 31
+      "title": "Shantell Sans (2023)",
+      "url": "https://shantellsans.com/process",
+      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://shantellsans.com/proce...",
+      "score": 263
     },
     {
       "type": "HackerNews",
-      "title": "Associative learning turns DEET from aversive to appetitive in Aedes aegypti",
-      "url": "https://journals.biologists.com/jeb/article/229/10/jeb251935/371741/Associative-learning-switches-DEET-valence-from",
-      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://journals.biologists.co...",
-      "score": 30
+      "title": "A pictorial introduction to differential geometry (2017)",
+      "url": "https://arxiv.org/abs/1709.08492",
+      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://arxiv.org/abs/1709.084...",
+      "score": 54
+    },
+    {
+      "type": "HackerNews",
+      "title": "A Gentle Introduction to Lattice-Based Cryptography [pdf]",
+      "url": "https://cryptography101.ca/wp-content/uploads/lattice-based-cryptography.pdf",
+      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://cryptography101.ca/wp-...",
+      "score": 90
     }
   ]
 }
