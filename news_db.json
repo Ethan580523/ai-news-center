@@ -1,61 +1,61 @@
 {
-  "last_updated": "2026-05-30 22:01:26",
+  "last_updated": "2026-05-31 03:54:17",
   "news": [
     {
       "type": "HackerNews",
-      "title": "OpenRouter raises $113M Series B",
-      "url": "https://openrouter.ai/announcements/series-b",
-      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://openrouter.ai/announce...",
-      "score": 307
+      "title": "Microsoft degrades functionality of perpetually-licensed offline products",
+      "url": "https://consumerrights.wiki/w/Microsoft_Office_2019_and_2021_for_Mac_view-only_conversion_(2026)",
+      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://consumerrights.wiki/w/...",
+      "score": 554
     },
     {
       "type": "HackerNews",
       "title": "Domain expertise has always been the real moat",
       "url": "https://www.brethorsting.com/blog/2026/05/domain-expertise-has-always-been-the-real-moat/",
-      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.brethorsting.com/b...",
-      "score": 69
+      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.brethorsting.com/b...",
+      "score": 343
+    },
+    {
+      "type": "HackerNews",
+      "title": "Racket v9.2 is now available",
+      "url": "https://blog.racket-lang.org/2026/05/racket-v9-2.html",
+      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://blog.racket-lang.org/2...",
+      "score": 54
+    },
+    {
+      "type": "HackerNews",
+      "title": "Shantell Sans (2023)",
+      "url": "https://shantellsans.com/process",
+      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://shantellsans.com/proce...",
+      "score": 128
     },
     {
       "type": "HackerNews",
       "title": "I found a seashell in the middle of the desert",
       "url": "https://github.com/Hawzen/I-found-a-seashell-in-the-middle-of-the-desert",
-      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://github.com/Hawzen/I-fo...",
-      "score": 118
+      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://github.com/Hawzen/I-fo...",
+      "score": 251
     },
     {
       "type": "HackerNews",
       "title": "Accenture to acquire Ookla",
       "url": "https://newsroom.accenture.com/news/2026/accenture-to-acquire-ookla-to-strengthen-network-intelligence-and-experience-with-data-and-ai-for-enterprises",
-      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://newsroom.accenture.com...",
-      "score": 181
+      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://newsroom.accenture.com...",
+      "score": 256
     },
     {
       "type": "HackerNews",
-      "title": "Jef Raskin, the Visionary Behind the Mac (2013)",
-      "url": "https://lowendmac.com/2013/jef-raskin-the-visionary-behind-the-mac/",
-      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://lowendmac.com/2013/jef...",
-      "score": 33
+      "title": "The AV2 Video Standard Has Released (Final v1.0 Specification)",
+      "url": "https://av2.aomedia.org",
+      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://av2.aomedia.org...",
+      "score": 67
     },
     {
       "type": "HackerNews",
-      "title": "Zig ELF Linker Improvements Devlog",
-      "url": "https://ziglang.org/devlog/2026/#2026-05-30",
-      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://ziglang.org/devlog/202...",
-      "score": 141
-    },
-    {
-      "type": "HackerNews",
-      "title": "Voxel Space (2017)",
-      "url": "https://s-macke.github.io/VoxelSpace/",
-      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://s-macke.github.io/Voxe...",
-      "score": 230
-    },
-    {
-      "type": "HackerNews",
-      "title": "Show HN: 500 years of Joseon court omens as an observability dashboard",
-      "url": "https://ajin.im/is/building/omen.ops/",
-      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://ajin.im/is/building/om...",
-      "score": 53
+      "title": "wolfSSL releases a new product; wolfCOSE a zero alloc C embbedded COSE stack",
+      "url": "https://github.com/wolfSSL/wolfCOSE",
+      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://github.com/wolfSSL/wol...",
+      "score": 72
     }
   ]
 }
