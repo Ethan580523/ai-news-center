@@ -1,61 +1,61 @@
 {
-  "last_updated": "2026-05-31 19:17:32",
+  "last_updated": "2026-05-31 21:59:42",
   "news": [
-    {
-      "type": "HackerNews",
-      "title": "Creatine raise brain energy levels and slow Alzheimer's cognitive decline by 30%",
-      "url": "https://thesciverse.org/scientists-found-that-the-creatine-supplement-millions-take-for-muscle-gains-is-quietly-raising-brain-energy-levels-and-slowing-early-alzheimers-cognitive-decline-by-30/",
-      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://thesciverse.org/scient...",
-      "score": 262
-    },
     {
       "type": "HackerNews",
       "title": "Cloudflare Turnstile requiring fingerprintable WebGL",
       "url": "https://hacktivis.me/articles/cloudflare-turnstile-webgl-fingerprinting",
-      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://hacktivis.me/articles/...",
-      "score": 293
+      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://hacktivis.me/articles/...",
+      "score": 426
     },
     {
       "type": "HackerNews",
       "title": "1-Bit Bonsai Image 4B Image Generation for Local Devices",
       "url": "https://prismml.com/news/bonsai-image-4b",
-      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://prismml.com/news/bonsa...",
-      "score": 147
+      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://prismml.com/news/bonsa...",
+      "score": 233
+    },
+    {
+      "type": "HackerNews",
+      "title": "Creatine raises brain energy levels and slows cognitive decline: study",
+      "url": "https://thesciverse.org/scientists-found-that-the-creatine-supplement-millions-take-for-muscle-gains-is-quietly-raising-brain-energy-levels-and-slowing-early-alzheimers-cognitive-decline-by-30/",
+      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://thesciverse.org/scient...",
+      "score": 393
+    },
+    {
+      "type": "HackerNews",
+      "title": "The Four Programming Questions from My 1994 Microsoft Internship Interview (2023)",
+      "url": "https://www.computerenhance.com/p/the-four-programming-questions-from",
+      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.computerenhance.co...",
+      "score": 18
     },
     {
       "type": "HackerNews",
       "title": "Dav2d",
       "url": "https://jbkempf.com/blog/2026/dav2d/",
       "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://jbkempf.com/blog/2026/...",
-      "score": 332
+      "score": 374
     },
     {
       "type": "HackerNews",
-      "title": "The Speed of Prototyping in the Age of AI",
-      "url": "https://darylcecile.net/notes/speed-of-prototyping-age-of-ai",
-      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://darylcecile.net/notes/...",
-      "score": 45
+      "title": "ChatGPT for Google Sheets Exfiltrates Workbooks",
+      "url": "https://www.promptarmor.com/resources/gpt-for-google-sheets-data-exfiltration",
+      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.promptarmor.com/re...",
+      "score": 14
     },
     {
       "type": "HackerNews",
-      "title": "Re: [PATCH] OOM_pardon, a.k.a. don't kill my xlock",
-      "url": "https://lwn.net/Articles/104185/",
-      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://lwn.net/Articles/10418...",
-      "score": 16
+      "title": "Codex just found a \"workaround\" of not having sudo on my PC",
+      "url": "https://twitter.com/i/status/2060746160558543217",
+      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://twitter.com/i/status/2...",
+      "score": 237
     },
     {
       "type": "HackerNews",
-      "title": "United Airlines 767 returns to Newark after Bluetooth name sparks alert",
-      "url": "https://simpleflying.com/united-airlines-767-returns-newark-bluetooth-name-alert/",
-      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://simpleflying.com/unite...",
-      "score": 132
-    },
-    {
-      "type": "HackerNews",
-      "title": "Restartable Sequences",
-      "url": "https://justine.lol/rseq/",
-      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://justine.lol/rseq/...",
-      "score": 109
+      "title": "Show HN: Streambed – Stream Postgres to Iceberg on S3, Supports Postgres Wire",
+      "url": "https://github.com/viggy28/streambed",
+      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://github.com/viggy28/str...",
+      "score": 36
     }
   ]
 }
