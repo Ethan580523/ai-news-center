@@ -1,61 +1,61 @@
 {
-  "last_updated": "2026-06-01 04:07:11",
+  "last_updated": "2026-06-01 11:34:44",
   "news": [
+    {
+      "type": "HackerNews",
+      "title": "A 10 year old Xeon is all you need",
+      "url": "https://point.free/blog/gemma-4-on-a-2016-xeon/",
+      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://point.free/blog/gemma-...",
+      "score": 200
+    },
+    {
+      "type": "HackerNews",
+      "title": "Tracing HTTP Requests with Go's net/HTTP/httptrace",
+      "url": "https://blainsmith.com/articles/httptrace-with-go/",
+      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://blainsmith.com/article...",
+      "score": 45
+    },
+    {
+      "type": "HackerNews",
+      "title": "Chuwi Minibook X",
+      "url": "https://tylercipriani.com/blog/2026/05/28/chuwi-minibook-x/",
+      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://tylercipriani.com/blog...",
+      "score": 303
+    },
+    {
+      "type": "HackerNews",
+      "title": "Benchmarking SurrealDB 3.x vs. Postgres, Mongo, Neo4j and Redis (With Fsync)",
+      "url": "https://surrealdb.com/blog/surrealdb-3-x-by-the-numbers",
+      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://surrealdb.com/blog/sur...",
+      "score": 23
+    },
     {
       "type": "HackerNews",
       "title": "Cloudflare Turnstile requiring fingerprintable WebGL",
       "url": "https://hacktivis.me/articles/cloudflare-turnstile-webgl-fingerprinting",
-      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://hacktivis.me/articles/...",
-      "score": 555
+      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://hacktivis.me/articles/...",
+      "score": 691
     },
     {
       "type": "HackerNews",
-      "title": "Shift from a Leader-Follower to a Leader-Leader Approach",
-      "url": "https://www.practicalengineering.management/p/shift-from-a-leader-follower-to-a",
-      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.practicalengineeri...",
-      "score": 38
+      "title": "two strangers. one call. no names",
+      "url": "https://just2voices.com/",
+      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://just2voices.com/...",
+      "score": 10
     },
     {
       "type": "HackerNews",
-      "title": "1-Bit Bonsai Image 4B Image Generation for Local Devices",
-      "url": "https://prismml.com/news/bonsai-image-4b",
-      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://prismml.com/news/bonsa...",
-      "score": 317
-    },
-    {
-      "type": "HackerNews",
-      "title": "New Beam Spring Keyboards",
-      "url": "https://www.modelfkeyboards.com/product/beam-spring-b104-keyboard/",
-      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.modelfkeyboards.co...",
-      "score": 77
+      "title": "The SLAX Scripting Language: An Alternate Syntax for XSLT",
+      "url": "http://juniper.github.io/libslax/slax-manual.html",
+      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：http://juniper.github.io/libsl...",
+      "score": 8
     },
     {
       "type": "HackerNews",
       "title": "Decades of Effort Restore Steelhead and Salmon Passage on Alameda Creek",
       "url": "https://www.fisheries.noaa.gov/feature-story/decades-effort-restore-steelhead-and-salmon-passage-californias-alameda-creek",
       "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.fisheries.noaa.gov...",
-      "score": 30
-    },
-    {
-      "type": "HackerNews",
-      "title": "Dav2d",
-      "url": "https://jbkempf.com/blog/2026/dav2d/",
-      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://jbkempf.com/blog/2026/...",
-      "score": 413
-    },
-    {
-      "type": "HackerNews",
-      "title": "United Airlines 767 returns to Newark after Bluetooth name sparks alert",
-      "url": "https://simpleflying.com/united-airlines-767-returns-newark-bluetooth-name-alert/",
-      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://simpleflying.com/unite...",
-      "score": 300
-    },
-    {
-      "type": "HackerNews",
-      "title": "Meta launches Instagram, Facebook, and WhatsApp subscriptions",
-      "url": "https://techcrunch.com/2026/05/27/meta-officially-launches-instagram-facebook-and-whatsapp-subscriptions-with-more-to-come-including-ai-plans/",
-      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://techcrunch.com/2026/05...",
-      "score": 151
+      "score": 138
     }
   ]
 }
