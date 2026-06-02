@@ -1,61 +1,61 @@
 {
-  "last_updated": "2026-06-02 10:23:45",
+  "last_updated": "2026-06-02 16:25:31",
   "news": [
     {
       "type": "HackerNews",
-      "title": "Why Janet?",
+      "title": "A walking tour of surveillance infrastructure in Seattle",
+      "url": "https://coveillance.org/a-walking-tour-of-surveillance-infrastructure-in-seattle/",
+      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://coveillance.org/a-walk...",
+      "score": 114
+    },
+    {
+      "type": "HackerNews",
+      "title": "Fidonet: Technology, Use, Tools, and History (1993)",
+      "url": "https://www.fidonet.org/inet92_Randy_Bush.txt",
+      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.fidonet.org/inet92...",
+      "score": 69
+    },
+    {
+      "type": "HackerNews",
+      "title": "Adafruit Receives Demand Letter from Fenwick Legal Counsel on Behalf of Flux.ai",
+      "url": "https://blog.adafruit.com/",
+      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://blog.adafruit.com/...",
+      "score": 406
+    },
+    {
+      "type": "HackerNews",
+      "title": "Why Janet? (2023)",
       "url": "https://ianthehenry.com/posts/why-janet/",
       "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://ianthehenry.com/posts/...",
-      "score": 68
+      "score": 329
+    },
+    {
+      "type": "HackerNews",
+      "title": "Apple rejected my dictation app for using the accessibility API",
+      "url": "https://www.mitmllc.com/blog/apple-rejected-my-dictation-app/",
+      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.mitmllc.com/blog/a...",
+      "score": 213
+    },
+    {
+      "type": "HackerNews",
+      "title": "You Don't Love Systemd Timers Enough",
+      "url": "https://blog.tjll.net/you-dont-love-systemd-timers-enough/",
+      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://blog.tjll.net/you-dont...",
+      "score": 191
+    },
+    {
+      "type": "HackerNews",
+      "title": "Americans don't know how to fight AI so they're fighting data centers",
+      "url": "https://www.vox.com/future-perfect/490350/data-center-moratoria-ai-backlash",
+      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.vox.com/future-per...",
+      "score": 63
     },
     {
       "type": "HackerNews",
       "title": "The newest Instagram “exploit” is the goofiest I've seen",
       "url": "https://www.0xsid.com/blog/meta-account-takeover-fiasco",
       "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.0xsid.com/blog/met...",
-      "score": 1827
-    },
-    {
-      "type": "HackerNews",
-      "title": "Can the stockmarket swallow Anthropic, SpaceX and OpenAI?",
-      "url": "https://www.economist.com/finance-and-economics/2026/06/01/can-the-stockmarket-swallow-anthropic-spacex-and-openai",
-      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.economist.com/fina...",
-      "score": 381
-    },
-    {
-      "type": "HackerNews",
-      "title": "Muxcard, a dyi credit card size computer",
-      "url": "https://github.com/krauseler/muxcard",
-      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://github.com/krauseler/m...",
-      "score": 45
-    },
-    {
-      "type": "HackerNews",
-      "title": "macOS needs its grid back",
-      "url": "https://blog.hopefullyuseful.com/blog/macos-needs-its-grid-back/",
-      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://blog.hopefullyuseful.c...",
-      "score": 264
-    },
-    {
-      "type": "HackerNews",
-      "title": "CQL: Categorical Databases",
-      "url": "https://categoricaldata.net/",
-      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://categoricaldata.net/...",
-      "score": 38
-    },
-    {
-      "type": "HackerNews",
-      "title": "Chipotlai Max",
-      "url": "https://github.com/cyberpapiii/chipotlai-max",
-      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://github.com/cyberpapiii...",
-      "score": 234
-    },
-    {
-      "type": "HackerNews",
-      "title": "OpenAI frontier models and Codex are now available on AWS",
-      "url": "https://openai.com/index/openai-frontier-models-and-codex-are-now-available-on-aws/",
-      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://openai.com/index/opena...",
-      "score": 274
+      "score": 2053
     }
   ]
 }
