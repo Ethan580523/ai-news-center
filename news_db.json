@@ -1,61 +1,61 @@
 {
-  "last_updated": "2026-06-02 20:49:33",
+  "last_updated": "2026-06-02 23:02:49",
   "news": [
     {
       "type": "HackerNews",
       "title": "MAI-Code-1-Flash",
       "url": "https://microsoft.ai/news/introducingmai-code-1-flash/",
       "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://microsoft.ai/news/intr...",
-      "score": 210
+      "score": 318
+    },
+    {
+      "type": "HackerNews",
+      "title": "CT scans of BYD car parts",
+      "url": "https://www.lumafield.com/scan-of-the-month/byd",
+      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.lumafield.com/scan...",
+      "score": 129
     },
     {
       "type": "HackerNews",
       "title": "Gmail thinks I'm stupid, so I left",
       "url": "https://moddedbear.com/gmail-thinks-im-stupid-so-i-left",
-      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://moddedbear.com/gmail-t...",
-      "score": 247
-    },
-    {
-      "type": "HackerNews",
-      "title": "MAI-Thinking-1",
-      "url": "https://microsoft.ai/news/introducing-mai-thinking-1/",
-      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://microsoft.ai/news/intr...",
-      "score": 78
+      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://moddedbear.com/gmail-t...",
+      "score": 487
     },
     {
       "type": "HackerNews",
       "title": "Open Repair Data Standard – Open Repair Alliance",
       "url": "https://openrepair.org/open-data/open-standard/",
-      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://openrepair.org/open-da...",
-      "score": 29
+      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://openrepair.org/open-da...",
+      "score": 71
+    },
+    {
+      "type": "HackerNews",
+      "title": "My thoughts after using Clojure for about a month",
+      "url": "https://www.acdw.net/clojure/",
+      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.acdw.net/clojure/...",
+      "score": 66
+    },
+    {
+      "type": "HackerNews",
+      "title": "HP re-releases classic computer science calculator: The HP-16C",
+      "url": "https://hpcalcs.com/product/hp-16c-collectors-edition/",
+      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://hpcalcs.com/product/hp...",
+      "score": 92
     },
     {
       "type": "HackerNews",
       "title": "A walking tour of surveillance infrastructure in Seattle (2020)",
       "url": "https://coveillance.org/a-walking-tour-of-surveillance-infrastructure-in-seattle/",
-      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://coveillance.org/a-walk...",
-      "score": 333
+      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://coveillance.org/a-walk...",
+      "score": 359
     },
     {
       "type": "HackerNews",
-      "title": "GitHub Copilot App",
-      "url": "https://github.com/features/preview/github-app",
-      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://github.com/features/pr...",
+      "title": "How we index images for RAG",
+      "url": "https://www.kapa.ai/blog/how-we-index-images-for-rag",
+      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.kapa.ai/blog/how-w...",
       "score": 67
-    },
-    {
-      "type": "HackerNews",
-      "title": "Launch HN: Rudus (YC P26) – AI for concrete contractors",
-      "url": null,
-      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：...",
-      "score": 26
-    },
-    {
-      "type": "HackerNews",
-      "title": "The advertising cartel coming to your web browser",
-      "url": "https://blog.zgp.org/the-advertising-cartel-coming-to-your-web-browser/",
-      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://blog.zgp.org/the-adver...",
-      "score": 49
     }
   ]
 }
