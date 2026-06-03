@@ -1,61 +1,61 @@
 {
-  "last_updated": "2026-06-02 23:02:49",
+  "last_updated": "2026-06-03 04:09:23",
   "news": [
+    {
+      "type": "HackerNews",
+      "title": "1-Click GitHub Token Stealing via a VSCode Bug",
+      "url": "https://blog.ammaraskar.com/github-token-stealing/",
+      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://blog.ammaraskar.com/gi...",
+      "score": 98
+    },
+    {
+      "type": "HackerNews",
+      "title": "Use your Nvidia GPU's VRAM as swap space on Linux",
+      "url": "https://github.com/c0dejedi/nbd-vram",
+      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://github.com/c0dejedi/nb...",
+      "score": 185
+    },
+    {
+      "type": "HackerNews",
+      "title": "Agentic Mfw",
+      "url": "https://agenticmotherfucking.website",
+      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://agenticmotherfucking.w...",
+      "score": 37
+    },
     {
       "type": "HackerNews",
       "title": "MAI-Code-1-Flash",
       "url": "https://microsoft.ai/news/introducingmai-code-1-flash/",
-      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://microsoft.ai/news/intr...",
-      "score": 318
+      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://microsoft.ai/news/intr...",
+      "score": 420
+    },
+    {
+      "type": "HackerNews",
+      "title": "HHS is overriding peer review to require changes to research scope, design",
+      "url": "https://www.science.org/content/article/exclusive-hhs-now-weighing-science-nih-grants",
+      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.science.org/conten...",
+      "score": 10
     },
     {
       "type": "HackerNews",
       "title": "CT scans of BYD car parts",
       "url": "https://www.lumafield.com/scan-of-the-month/byd",
       "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.lumafield.com/scan...",
-      "score": 129
+      "score": 274
     },
     {
       "type": "HackerNews",
-      "title": "Gmail thinks I'm stupid, so I left",
-      "url": "https://moddedbear.com/gmail-thinks-im-stupid-so-i-left",
-      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://moddedbear.com/gmail-t...",
-      "score": 487
+      "title": "The American Missile Crisis",
+      "url": "https://research.contrary.com/report/the-american-missile-crisis",
+      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://research.contrary.com/...",
+      "score": 8
     },
     {
       "type": "HackerNews",
-      "title": "Open Repair Data Standard – Open Repair Alliance",
-      "url": "https://openrepair.org/open-data/open-standard/",
-      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://openrepair.org/open-da...",
-      "score": 71
-    },
-    {
-      "type": "HackerNews",
-      "title": "My thoughts after using Clojure for about a month",
-      "url": "https://www.acdw.net/clojure/",
-      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.acdw.net/clojure/...",
-      "score": 66
-    },
-    {
-      "type": "HackerNews",
-      "title": "HP re-releases classic computer science calculator: The HP-16C",
-      "url": "https://hpcalcs.com/product/hp-16c-collectors-edition/",
-      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://hpcalcs.com/product/hp...",
-      "score": 92
-    },
-    {
-      "type": "HackerNews",
-      "title": "A walking tour of surveillance infrastructure in Seattle (2020)",
-      "url": "https://coveillance.org/a-walking-tour-of-surveillance-infrastructure-in-seattle/",
-      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://coveillance.org/a-walk...",
-      "score": 359
-    },
-    {
-      "type": "HackerNews",
-      "title": "How we index images for RAG",
-      "url": "https://www.kapa.ai/blog/how-we-index-images-for-rag",
-      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.kapa.ai/blog/how-w...",
-      "score": 67
+      "title": "Capstone – multi-platform, multi-architecture disassembly framework",
+      "url": "https://www.capstone-engine.org/",
+      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.capstone-engine.or...",
+      "score": 17
     }
   ]
 }
