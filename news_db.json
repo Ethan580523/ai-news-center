@@ -1,61 +1,61 @@
 {
-  "last_updated": "2026-06-03 10:59:32",
+  "last_updated": "2026-06-03 16:49:11",
   "news": [
     {
       "type": "HackerNews",
-      "title": "Show HN: Edsger – A handwritten Clojure REPL for the reMarkable 2",
-      "url": "https://handwritten.danieljanus.pl/2026-06-01-edsger.html",
-      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://handwritten.danieljanu...",
-      "score": 62
+      "title": "Gemma 4 12B: A unified, encoder-free multimodal model",
+      "url": "https://blog.google/innovation-and-ai/technology/developers-tools/introducing-gemma-4-12b/",
+      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://blog.google/innovation...",
+      "score": 74
     },
     {
       "type": "HackerNews",
-      "title": "1-Click GitHub Token Stealing via a VSCode Bug",
-      "url": "https://blog.ammaraskar.com/github-token-stealing/",
-      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://blog.ammaraskar.com/gi...",
-      "score": 440
-    },
-    {
-      "type": "HackerNews",
-      "title": "Show HN: I reverse-engineered the world maps of Test Drive III (1990 DOS game)",
-      "url": "https://github.com/s-macke/Test-Drive-3-Maps",
-      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://github.com/s-macke/Tes...",
-      "score": 113
+      "title": "DaVinci Resolve 21",
+      "url": "https://www.blackmagicdesign.com/products/davinciresolve/whatsnew",
+      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.blackmagicdesign.c...",
+      "score": 172
     },
     {
       "type": "HackerNews",
       "title": "Hacking your PC using your speaker without ever touching it",
       "url": "https://blog.nns.ee/2026/06/03/katana-badusb/",
       "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://blog.nns.ee/2026/06/03...",
-      "score": 3
+      "score": 457
     },
     {
       "type": "HackerNews",
-      "title": "Use your Nvidia GPU's VRAM as swap space on Linux",
-      "url": "https://github.com/c0dejedi/nbd-vram",
-      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://github.com/c0dejedi/nb...",
-      "score": 330
+      "title": "A Post-Quantum Future for Let's Encrypt",
+      "url": "https://letsencrypt.org/2026/06/03/pq-certs",
+      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://letsencrypt.org/2026/0...",
+      "score": 74
     },
     {
       "type": "HackerNews",
-      "title": "AI outperforms law professors in Stanford Law study",
-      "url": "https://law.stanford.edu/press/ai-outperforms-law-professors-in-stanford-law-study/",
-      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://law.stanford.edu/press...",
-      "score": 265
+      "title": "ESP32-S31",
+      "url": "https://www.espressif.com/en/products/socs/esp32-s31",
+      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.espressif.com/en/p...",
+      "score": 42
     },
     {
       "type": "HackerNews",
-      "title": "MAI-Code-1-Flash",
-      "url": "https://microsoft.ai/news/introducingmai-code-1-flash/",
-      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://microsoft.ai/news/intr...",
-      "score": 477
+      "title": "Every Byte Matters",
+      "url": "https://fzakaria.com/2026/06/01/every-byte-matters",
+      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://fzakaria.com/2026/06/0...",
+      "score": 178
     },
     {
       "type": "HackerNews",
-      "title": "The Unreasonable Redundancy of Nature's Protein Folds",
-      "url": "https://research.ligo.bio/posts/unreasonable-redundancy-of-natural-protein-folds/",
-      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://research.ligo.bio/post...",
-      "score": 100
+      "title": "Meta workers can opt out of being tracked at work up to 30 min",
+      "url": "https://www.bbc.com/news/articles/c93x0k194yno",
+      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.bbc.com/news/artic...",
+      "score": 402
+    },
+    {
+      "type": "HackerNews",
+      "title": "Are You Enjoying Our Linguine? (2025)",
+      "url": "https://www.thedial.world/articles/news/american-tourists-rome",
+      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.thedial.world/arti...",
+      "score": 19
     }
   ]
 }
