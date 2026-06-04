@@ -1,61 +1,61 @@
 {
-  "last_updated": "2026-06-04 04:03:18",
+  "last_updated": "2026-06-04 09:56:17",
   "news": [
     {
       "type": "HackerNews",
-      "title": "U.S. to Dismantle System Tracking Atlantic Currents That Are at Risk of Collapse",
-      "url": "https://e360.yale.edu/digest/trump-ooi-amoc",
-      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://e360.yale.edu/digest/t...",
-      "score": 236
+      "title": "UK media fails to disclose defence sector links in nearly 60% of cases",
+      "url": "https://aoav.org.uk/2026/military-experts-or-arms-industry-insiders-uk-media-fails-to-disclose-defence-sector-links-in-nearly-60-of-cases/",
+      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://aoav.org.uk/2026/milit...",
+      "score": 53
     },
     {
       "type": "HackerNews",
-      "title": "American capitalism has taken an apocalyptic turn",
-      "url": "https://economist.com/business/2026/06/03/american-capitalism-has-taken-an-apocalyptic-turn",
-      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://economist.com/business...",
-      "score": 48
+      "title": "They’re made out of weights",
+      "url": "https://maxleiter.com/blog/weights",
+      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://maxleiter.com/blog/wei...",
+      "score": 691
     },
     {
       "type": "HackerNews",
       "title": "Elixir v1.20: Now a gradually typed language",
       "url": "https://elixir-lang.org/blog/2026/06/03/elixir-v1-20-0-released/",
       "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://elixir-lang.org/blog/2...",
-      "score": 614
-    },
-    {
-      "type": "HackerNews",
-      "title": "I built a vulnerable app and spent $1,500 seeing if LLMs could hack it",
-      "url": "https://kasra.blog/blog/i-spent-1500-seeing-if-llms-could-hack-my-app/",
-      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://kasra.blog/blog/i-spen...",
-      "score": 89
-    },
-    {
-      "type": "HackerNews",
-      "title": "Gemma 4 12B: A unified, encoder-free multimodal model",
-      "url": "https://blog.google/innovation-and-ai/technology/developers-tools/introducing-gemma-4-12b/",
-      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://blog.google/innovation...",
-      "score": 740
-    },
-    {
-      "type": "HackerNews",
-      "title": "\"They're made out of weights\"",
-      "url": "https://maxleiter.com/blog/weights",
-      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://maxleiter.com/blog/wei...",
-      "score": 121
+      "score": 767
     },
     {
       "type": "HackerNews",
       "title": "Failing grades soar with AI usage, dwindling math skills in Berkeley CS classes",
       "url": "https://www.dailycal.org/news/campus/academics/failing-grades-soar-as-professors-see-greater-ai-usage-dwindling-math-skills-in-uc-berkeley/article_16fad0bf-02cb-4b8c-8d88-888ffd9f8608.html",
-      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.dailycal.org/news/...",
-      "score": 54
+      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.dailycal.org/news/...",
+      "score": 291
     },
     {
       "type": "HackerNews",
-      "title": "I was recently diagnosed with anti-NMDA receptor encephalitis",
-      "url": "https://burntsushi.net/encephalitis/",
-      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://burntsushi.net/encepha...",
-      "score": 531
+      "title": "Show HN: Uruky (EU-based Kagi alternative) now has Image Search and URL Rewrites",
+      "url": "https://uruky.com/?il=en",
+      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://uruky.com/?il=en...",
+      "score": 12
+    },
+    {
+      "type": "HackerNews",
+      "title": "Gemma 4 12B: A unified, encoder-free multimodal model",
+      "url": "https://blog.google/innovation-and-ai/technology/developers-tools/introducing-gemma-4-12b/",
+      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://blog.google/innovation...",
+      "score": 836
+    },
+    {
+      "type": "HackerNews",
+      "title": "I built a vulnerable app and spent $1,500 seeing if LLMs could hack it",
+      "url": "https://kasra.blog/blog/i-spent-1500-seeing-if-llms-could-hack-my-app/",
+      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://kasra.blog/blog/i-spen...",
+      "score": 218
+    },
+    {
+      "type": "HackerNews",
+      "title": "Under Notre Dame, a 'dig of the century' unearths 1,700 years of history",
+      "url": "https://apnews.com/article/notre-dame-dig-treasures-paris-archaeology-roman-dae41f792c1402faf32a87c154cc9a77",
+      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://apnews.com/article/not...",
+      "score": 32
     }
   ]
 }
