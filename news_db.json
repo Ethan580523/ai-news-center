@@ -1,61 +1,61 @@
 {
-  "last_updated": "2026-06-04 20:05:49",
+  "last_updated": "2026-06-04 22:21:11",
   "news": [
+    {
+      "type": "HackerNews",
+      "title": "Anthropic's open-source framework for AI-powered vulnerability discovery",
+      "url": "https://github.com/anthropics/defending-code-reference-harness",
+      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://github.com/anthropics/...",
+      "score": 143
+    },
     {
       "type": "HackerNews",
       "title": "VoidZero Is Joining Cloudflare",
       "url": "https://blog.cloudflare.com/voidzero-joins-cloudflare/",
-      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://blog.cloudflare.com/vo...",
-      "score": 475
-    },
-    {
-      "type": "HackerNews",
-      "title": "Retro-Tech Parenting",
-      "url": "https://havenweb.org/2026/05/28/retro-tech.html",
-      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://havenweb.org/2026/05/2...",
-      "score": 151
-    },
-    {
-      "type": "HackerNews",
-      "title": "Ian's Secure Shoelace Knot",
-      "url": "https://www.fieggen.com/shoelace/secureknot.htm",
-      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.fieggen.com/shoela...",
-      "score": 385
-    },
-    {
-      "type": "HackerNews",
-      "title": "KVarN: Native vLLM backend for KV-cache quantization by Huawei",
-      "url": "https://github.com/huawei-csl/KVarN",
-      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://github.com/huawei-csl/...",
-      "score": 91
+      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://blog.cloudflare.com/vo...",
+      "score": 530
     },
     {
       "type": "HackerNews",
       "title": "When AI Builds Itself: Our progress toward recursive self-improvement",
       "url": "https://www.anthropic.com/institute/recursive-self-improvement",
       "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.anthropic.com/inst...",
-      "score": 98
+      "score": 218
     },
     {
       "type": "HackerNews",
-      "title": "They’re made out of weights",
-      "url": "https://maxleiter.com/blog/weights",
-      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://maxleiter.com/blog/wei...",
-      "score": 1306
+      "title": "Show HN: Formally verified polygon intersection – Opus 4.8 oneshots, prev failed",
+      "url": "https://github.com/schildep/verified-polygon-intersection",
+      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://github.com/schildep/ve...",
+      "score": 13
     },
     {
       "type": "HackerNews",
-      "title": "JLink JTAG Access on the Pinecil",
-      "url": "https://danielmangum.com/posts/jlink-jtag-pinecil/",
-      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://danielmangum.com/posts...",
-      "score": 8
+      "title": "Ian's Secure Shoelace Knot",
+      "url": "https://www.fieggen.com/shoelace/secureknot.htm",
+      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.fieggen.com/shoela...",
+      "score": 450
     },
     {
       "type": "HackerNews",
-      "title": "Sum-product, unit distances, and number fields",
-      "url": "https://www.erdosproblems.com/forum/thread/blog:6",
-      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.erdosproblems.com/...",
-      "score": 37
+      "title": "Castor: CERN Advanced STORage Manager",
+      "url": "https://castor.web.cern.ch/content/home.html",
+      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://castor.web.cern.ch/con...",
+      "score": 34
+    },
+    {
+      "type": "HackerNews",
+      "title": "Retro-Tech Parenting",
+      "url": "https://havenweb.org/2026/05/28/retro-tech.html",
+      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://havenweb.org/2026/05/2...",
+      "score": 209
+    },
+    {
+      "type": "HackerNews",
+      "title": "Branchless Quicksort faster than std:sort and pdqsort with C and C++ API",
+      "url": "https://tiki.li/blog/blqsort",
+      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://tiki.li/blog/blqsort...",
+      "score": 18
     }
   ]
 }
