@@ -1,61 +1,61 @@
 {
-  "last_updated": "2026-06-05 03:49:52",
+  "last_updated": "2026-06-05 09:50:57",
   "news": [
+    {
+      "type": "HackerNews",
+      "title": "Changing How We Develop Ladybird",
+      "url": "https://ladybird.org/posts/changing-how-we-develop-ladybird/",
+      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://ladybird.org/posts/cha...",
+      "score": 187
+    },
+    {
+      "type": "HackerNews",
+      "title": "C++: The Documentary",
+      "url": "https://herbsutter.com/2026/06/04/c-the-documentary-released-today/",
+      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://herbsutter.com/2026/06...",
+      "score": 151
+    },
+    {
+      "type": "HackerNews",
+      "title": "Entanglement Builds Space-Time. Now \"Magic\" Gives It Gravity",
+      "url": "https://www.quantamagazine.org/entanglement-builds-space-time-now-magic-gives-it-gravity-20260603/",
+      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.quantamagazine.org...",
+      "score": 14
+    },
     {
       "type": "HackerNews",
       "title": "Meta enables ADB on deprecated Portal devices [video]",
       "url": "https://fb.watch/HxPu0fSyeH/",
-      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://fb.watch/HxPu0fSyeH/...",
-      "score": 116
+      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://fb.watch/HxPu0fSyeH/...",
+      "score": 227
     },
     {
       "type": "HackerNews",
-      "title": "Do transformers need three projections? Systematic study of QKV variants",
-      "url": "https://arxiv.org/abs/2606.04032",
-      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://arxiv.org/abs/2606.040...",
-      "score": 120
+      "title": "Fine-tuning an LLM to write docs like it's 1995",
+      "url": "https://passo.uno/fine-tuning-docs-llm/",
+      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://passo.uno/fine-tuning-...",
+      "score": 65
+    },
+    {
+      "type": "HackerNews",
+      "title": "The IsUpMap lets you check the status of over 100 major sites at once",
+      "url": "https://isupmap.com/",
+      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://isupmap.com/...",
+      "score": 53
     },
     {
       "type": "HackerNews",
       "title": "Anthropic's open-source framework for AI-powered vulnerability discovery",
       "url": "https://github.com/anthropics/defending-code-reference-harness",
-      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://github.com/anthropics/...",
-      "score": 308
+      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://github.com/anthropics/...",
+      "score": 419
     },
     {
       "type": "HackerNews",
-      "title": "Open Code Review – An AI-powered code review CLI tool",
-      "url": "https://github.com/alibaba/open-code-review",
-      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://github.com/alibaba/ope...",
-      "score": 79
-    },
-    {
-      "type": "HackerNews",
-      "title": "VoidZero Is Joining Cloudflare",
-      "url": "https://blog.cloudflare.com/voidzero-joins-cloudflare/",
-      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://blog.cloudflare.com/vo...",
-      "score": 590
-    },
-    {
-      "type": "HackerNews",
-      "title": "When AI Builds Itself: Our progress toward recursive self-improvement",
-      "url": "https://www.anthropic.com/institute/recursive-self-improvement",
-      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.anthropic.com/inst...",
-      "score": 372
-    },
-    {
-      "type": "HackerNews",
-      "title": "I'm skeptical about efforts to revolutionize schooling",
-      "url": "https://www.scotthyoung.com/blog/2026/05/27/revolutionize-schooling/",
-      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.scotthyoung.com/bl...",
-      "score": 93
-    },
-    {
-      "type": "HackerNews",
-      "title": "Reverse-Engineered Userspace Driver for Asus ZenVision Lid OLED on Linux\"",
-      "url": "https://github.com/tarpediem/zenvision-linux",
-      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://github.com/tarpediem/z...",
-      "score": 33
+      "title": "databow: a Rust CLI to query any database with an ADBC driver",
+      "url": "https://columnar.tech/blog/introducing-databow//",
+      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://columnar.tech/blog/int...",
+      "score": 16
     }
   ]
 }
