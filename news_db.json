@@ -1,61 +1,61 @@
 {
-  "last_updated": "2026-06-06 19:23:25",
+  "last_updated": "2026-06-06 22:02:20",
   "news": [
+    {
+      "type": "HackerNews",
+      "title": "Ntsc-rs – open-source video emulation of analog TV and VHS artifacts",
+      "url": "https://ntsc.rs/",
+      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://ntsc.rs/...",
+      "score": 152
+    },
+    {
+      "type": "HackerNews",
+      "title": "Home alone: Remote work, isolation, and mental health",
+      "url": "https://www.science.org/doi/10.1126/science.aec7671",
+      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.science.org/doi/10...",
+      "score": 56
+    },
+    {
+      "type": "HackerNews",
+      "title": "Meta confirms 1000s of Instagram accounts were hacked by abusing its AI chatbot",
+      "url": "https://this.weekinsecurity.com/meta-confirms-thousands-of-instagram-accounts-were-hacked-by-abusing-its-ai-chatbot/",
+      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://this.weekinsecurity.co...",
+      "score": 219
+    },
     {
       "type": "HackerNews",
       "title": "Zeroserve: A zero-config web server you can script with eBPF",
       "url": "https://su3.io/posts/introducing-zeroserve",
       "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://su3.io/posts/introduci...",
-      "score": 94
+      "score": 151
+    },
+    {
+      "type": "HackerNews",
+      "title": "Universal Memory Protocol – a shared format for agent memory",
+      "url": "https://universalmemoryprotocol.io/",
+      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://universalmemoryprotoco...",
+      "score": 32
     },
     {
       "type": "HackerNews",
       "title": "Nvidia is proposing a beast of a CPU system for Windows PCs",
       "url": "https://twitter.com/lemire/status/2062880075117113739",
-      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://twitter.com/lemire/sta...",
-      "score": 131
+      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://twitter.com/lemire/sta...",
+      "score": 198
     },
     {
       "type": "HackerNews",
       "title": "You Can Run",
       "url": "https://magazine.atavist.com/2026/mccann-cocaine-fugitives",
-      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://magazine.atavist.com/2...",
-      "score": 34
+      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://magazine.atavist.com/2...",
+      "score": 78
     },
     {
       "type": "HackerNews",
-      "title": "Benchmarks in Leipzig",
-      "url": "https://arxiv.org/abs/2606.05818",
-      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://arxiv.org/abs/2606.058...",
-      "score": 93
-    },
-    {
-      "type": "HackerNews",
-      "title": "Pentagon raised threat of Israeli spying on U.S. to highest level, sources say",
-      "url": "https://www.nbcnews.com/politics/national-security/pentagon-raised-threat-israeli-spying-us-highest-level-sources-say-rcna348565",
-      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.nbcnews.com/politi...",
-      "score": 96
-    },
-    {
-      "type": "HackerNews",
-      "title": "Pokemon Emerald Ported to WebAssembly (100k FPS)",
-      "url": "https://pokeemerald.com/",
-      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://pokeemerald.com/...",
-      "score": 184
-    },
-    {
-      "type": "HackerNews",
-      "title": "How LLMs work",
-      "url": "https://www.0xkato.xyz/how-llms-actually-work/",
-      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.0xkato.xyz/how-llm...",
-      "score": 730
-    },
-    {
-      "type": "HackerNews",
-      "title": "Google will pay SpaceX $920M per month for compute",
-      "url": "https://techcrunch.com/2026/06/05/google-will-pay-spacex-920m-per-month-for-compute/",
-      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://techcrunch.com/2026/06...",
-      "score": 291
+      "title": "Computex 2026: Are We Heading for the Agentic PC Era Yet? – EE Times",
+      "url": "https://www.eetimes.com/computex-2026-are-we-heading-for-the-agentic-pc-era-yet/",
+      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.eetimes.com/comput...",
+      "score": 13
     }
   ]
 }
