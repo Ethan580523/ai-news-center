@@ -1,61 +1,61 @@
 {
-  "last_updated": "2026-06-06 03:31:48",
+  "last_updated": "2026-06-06 08:33:42",
   "news": [
+    {
+      "type": "HackerNews",
+      "title": "How LLMs work",
+      "url": "https://www.0xkato.xyz/how-llms-actually-work/",
+      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.0xkato.xyz/how-llm...",
+      "score": 275
+    },
     {
       "type": "HackerNews",
       "title": "The intracies of modern camera lens repair (2024)",
       "url": "https://salvagedcircuitry.com/sigma-45mm.html",
-      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://salvagedcircuitry.com/...",
-      "score": 86
+      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://salvagedcircuitry.com/...",
+      "score": 158
     },
     {
       "type": "HackerNews",
-      "title": "How LLMs Work",
-      "url": "https://www.0xkato.xyz/how-llms-actually-work/",
-      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.0xkato.xyz/how-llm...",
-      "score": 30
+      "title": "S&P 500 rejects SpaceX, also blocking entry for OpenAI and Anthropic",
+      "url": "https://arstechnica.com/tech-policy/2026/06/sp-500-blocks-fast-spacex-entry-wont-waive-rule-for-unprofitable-ai-firms/",
+      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://arstechnica.com/tech-p...",
+      "score": 336
     },
     {
       "type": "HackerNews",
-      "title": "pg_durable: Microsoft open sources in-database durable execution",
-      "url": "https://github.com/microsoft/pg_durable",
-      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://github.com/microsoft/p...",
-      "score": 350
+      "title": "Pre-Modern Armies for Worldbuilders, Part I: Why They Fight",
+      "url": "https://acoup.blog/2026/06/05/collections-pre-modern-armies-for-worldbuilders-part-i-why-they-fight/",
+      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://acoup.blog/2026/06/05/...",
+      "score": 62
     },
     {
       "type": "HackerNews",
       "title": "Astronauts told to return to ISS after sheltering over air leak repairs",
       "url": "https://www.bbc.com/news/live/c4g44ew3g1kt",
       "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.bbc.com/news/live/...",
-      "score": 365
+      "score": 388
     },
     {
       "type": "HackerNews",
       "title": "New method turns ocean water into drinking water, without waste",
       "url": "https://www.rochester.edu/newscenter/what-is-desalination-definition-ocean-water-704732/",
-      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.rochester.edu/news...",
-      "score": 287
+      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.rochester.edu/news...",
+      "score": 350
     },
     {
       "type": "HackerNews",
-      "title": "Gemma 4 QAT models: Optimizing compression for mobile and laptop efficiency",
-      "url": "https://blog.google/innovation-and-ai/technology/developers-tools/quantization-aware-training-gemma-4/",
-      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://blog.google/innovation...",
-      "score": 292
+      "title": "pg_durable: Microsoft open sources in-database durable execution",
+      "url": "https://github.com/microsoft/pg_durable",
+      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://github.com/microsoft/p...",
+      "score": 387
     },
     {
       "type": "HackerNews",
-      "title": "Show HN: ABC Classic 100 Rankings visualised",
-      "url": "https://classic100.gotski.workers.dev/",
-      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://classic100.gotski.work...",
-      "score": 18
-    },
-    {
-      "type": "HackerNews",
-      "title": "Mouseless – keyboard-driven control of macOS/Linux/Windows",
-      "url": "https://mouseless.click",
-      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://mouseless.click...",
-      "score": 478
+      "title": "Social Cache Busting",
+      "url": "https://www.autodidacts.io/social-cache-busting/",
+      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.autodidacts.io/soc...",
+      "score": 17
     }
   ]
 }
