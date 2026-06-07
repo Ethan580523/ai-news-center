@@ -1,61 +1,61 @@
 {
-  "last_updated": "2026-06-07 13:52:55",
+  "last_updated": "2026-06-07 16:17:13",
   "news": [
     {
       "type": "HackerNews",
-      "title": "Anthropic, please ship an official Claude Desktop for Linux",
-      "url": "https://github.com/anthropics/claude-code/issues/65697",
-      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://github.com/anthropics/...",
-      "score": 45
+      "title": "Vitamin D3 During Pregnancy and Cognitive Performance at 10 Years",
+      "url": "https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2849122",
+      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://jamanetwork.com/journa...",
+      "score": 36
     },
     {
       "type": "HackerNews",
       "title": "LLMs are eroding my software engineering career and I don't know what to do",
       "url": "https://human-in-the-loop.bearblog.dev/llms-are-eroding-my-software-engineering-career-and-i-dont-know-what-to-do/",
-      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://human-in-the-loop.bear...",
-      "score": 167
-    },
-    {
-      "type": "HackerNews",
-      "title": "Anthropic/OpenAI may be spending more than $1000 for every $100 you pay them",
-      "url": "https://ea.rna.nl/2026/06/07/anthropic-openai-may-be-spending-more-than-1000-for-every-100-you-pay-them/",
-      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://ea.rna.nl/2026/06/07/a...",
-      "score": 32
+      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://human-in-the-loop.bear...",
+      "score": 462
     },
     {
       "type": "HackerNews",
       "title": "The 29th International Obfuscated C Code Contest (IOCCC) 2025 Winners",
       "url": "https://www.ioccc.org/2025/",
-      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.ioccc.org/2025/...",
-      "score": 253
+      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.ioccc.org/2025/...",
+      "score": 293
     },
     {
       "type": "HackerNews",
-      "title": "Win16 Memory Management",
-      "url": "http://www.os2museum.com/wp/win16-memory-management/",
-      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：http://www.os2museum.com/wp/wi...",
-      "score": 79
+      "title": "Anthropic, please ship an official Claude Desktop for Linux",
+      "url": "https://github.com/anthropics/claude-code/issues/65697",
+      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://github.com/anthropics/...",
+      "score": 196
+    },
+    {
+      "type": "HackerNews",
+      "title": "Cloning a Sennheiser BA2015 battery pack",
+      "url": "https://blog.brixit.nl/cloning-a-sennheiser-ba2015-accu-pack/",
+      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://blog.brixit.nl/cloning...",
+      "score": 11
+    },
+    {
+      "type": "HackerNews",
+      "title": "Show HN: Lathe – Use LLMs to learn a new domain, not skip past it",
+      "url": "https://github.com/devenjarvis/lathe",
+      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://github.com/devenjarvis...",
+      "score": 71
+    },
+    {
+      "type": "HackerNews",
+      "title": "The OnlyFans Economy of American AI",
+      "url": "https://leoveanu.com/2026-06-06-qwen3.7max/",
+      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://leoveanu.com/2026-06-0...",
+      "score": 97
     },
     {
       "type": "HackerNews",
       "title": "Yon – a topos-oriented language with a content-addressed lattice heap",
       "url": "https://yon-lang.org/",
       "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://yon-lang.org/...",
-      "score": 15
-    },
-    {
-      "type": "HackerNews",
-      "title": "Speculative KV coding: losslessly compressing KV cache by up to ~4×",
-      "url": "https://fergusfinn.com/blog/kv-entropy-coder/",
-      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://fergusfinn.com/blog/kv...",
-      "score": 87
-    },
-    {
-      "type": "HackerNews",
-      "title": "My Software North Star",
-      "url": "https://kristoff.it/blog/north-star/",
-      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://kristoff.it/blog/north...",
-      "score": 131
+      "score": 38
     }
   ]
 }
