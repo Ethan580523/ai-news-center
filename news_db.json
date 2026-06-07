@@ -1,61 +1,61 @@
 {
-  "last_updated": "2026-06-07 03:58:27",
+  "last_updated": "2026-06-07 08:55:44",
   "news": [
     {
       "type": "HackerNews",
-      "title": "Field of clones: How horse replicas came to dominate polo",
-      "url": "https://knowablemagazine.org/content/article/technology/2026/cloned-polo-horses",
-      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://knowablemagazine.org/c...",
-      "score": 27
+      "title": "The 29th International Obfuscated C Code Contest (IOCCC) 2025 Winners",
+      "url": "https://www.ioccc.org/2025/",
+      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.ioccc.org/2025/...",
+      "score": 120
+    },
+    {
+      "type": "HackerNews",
+      "title": "I design with Claude more than Figma now",
+      "url": "https://blog.janestreet.com/i-design-with-claude-code-more-than-figma-now-index/",
+      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://blog.janestreet.com/i-...",
+      "score": 129
     },
     {
       "type": "HackerNews",
       "title": "Valve P2P networking broken for more than 2 months",
       "url": "https://github.com/ValveSoftware/GameNetworkingSockets/issues/398",
-      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://github.com/ValveSoftwa...",
-      "score": 23
+      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://github.com/ValveSoftwa...",
+      "score": 142
+    },
+    {
+      "type": "HackerNews",
+      "title": "Field of clones: How horse replicas came to dominate polo",
+      "url": "https://knowablemagazine.org/content/article/technology/2026/cloned-polo-horses",
+      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://knowablemagazine.org/c...",
+      "score": 76
+    },
+    {
+      "type": "HackerNews",
+      "title": "My Software North Star",
+      "url": "https://kristoff.it/blog/north-star/",
+      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://kristoff.it/blog/north...",
+      "score": 52
     },
     {
       "type": "HackerNews",
       "title": "Tokenomics: Quantifying Where Tokens Are Used in Agentic Software Engineering",
       "url": "https://arxiv.org/abs/2601.14470",
       "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://arxiv.org/abs/2601.144...",
-      "score": 40
+      "score": 96
     },
     {
       "type": "HackerNews",
-      "title": "Harness engineering: Leveraging Codex in an agent-first world",
-      "url": "https://openai.com/index/harness-engineering/",
-      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://openai.com/index/harne...",
-      "score": 111
+      "title": "Symbolica 2.0: Programmable Symbols for Python and Rust",
+      "url": "https://symbolica.io/posts/symbolica_2_0_release/",
+      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://symbolica.io/posts/sym...",
+      "score": 77
     },
     {
       "type": "HackerNews",
       "title": "Ntsc-rs – open-source video emulation of analog TV and VHS artifacts",
       "url": "https://ntsc.rs/",
-      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://ntsc.rs/...",
-      "score": 293
-    },
-    {
-      "type": "HackerNews",
-      "title": "Public Domain Image Archive",
-      "url": "https://pdimagearchive.org/",
-      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://pdimagearchive.org/...",
-      "score": 54
-    },
-    {
-      "type": "HackerNews",
-      "title": "Introducing Boron Buckyballs: Theory that B80 cages can’t be made is disproved",
-      "url": "https://cen.acs.org/materials/nanomaterials/buckyballs-boron-buckminster-fullerene-nanomaterials/104/web/2026/06",
-      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://cen.acs.org/materials/...",
-      "score": 50
-    },
-    {
-      "type": "HackerNews",
-      "title": "Show HN: Oproxy – inspect and modify network traffic from the browser",
-      "url": "https://github.com/sauravrao637/oproxy",
-      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://github.com/sauravrao63...",
-      "score": 14
+      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://ntsc.rs/...",
+      "score": 338
     }
   ]
 }
