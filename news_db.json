@@ -1,61 +1,61 @@
 {
-  "last_updated": "2026-06-07 19:22:40",
+  "last_updated": "2026-06-07 22:04:26",
   "news": [
     {
       "type": "HackerNews",
-      "title": "Powering up a module from the IBM 604: an electronic calculator from 1948",
-      "url": "https://www.righto.com/2026/06/ibm-604-thyraton-tube-module.html",
-      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.righto.com/2026/06...",
-      "score": 37
+      "title": "How's Linear so fast? A technical breakdown",
+      "url": "https://performance.dev/how-is-linear-so-fast-a-technical-breakdown",
+      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://performance.dev/how-is...",
+      "score": 191
+    },
+    {
+      "type": "HackerNews",
+      "title": "Building from zero after addiction, prison, and a felony",
+      "url": "https://gavinray97.github.io/blog/building-from-zero-after-addiction-prison-felony",
+      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://gavinray97.github.io/b...",
+      "score": 212
+    },
+    {
+      "type": "HackerNews",
+      "title": "Making peace with your unlived dreams (2023)",
+      "url": "https://nik.art/making-peace-with-your-unlived-dreams/",
+      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://nik.art/making-peace-w...",
+      "score": 87
+    },
+    {
+      "type": "HackerNews",
+      "title": "If LLMs Have Human-Like Attributes, Then So Does Age of Empires II",
+      "url": "https://arxiv.org/abs/2605.31514",
+      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://arxiv.org/abs/2605.315...",
+      "score": 40
     },
     {
       "type": "HackerNews",
       "title": "Silurus/ooxml: Pixel-faithful Office documents, rendered in the browser",
       "url": "https://github.com/yukiyokotani/office-open-xml-viewer",
-      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://github.com/yukiyokotan...",
-      "score": 30
+      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://github.com/yukiyokotan...",
+      "score": 92
     },
     {
       "type": "HackerNews",
-      "title": "Leiden Declaration on Artificial Intelligence and Mathematics",
-      "url": "https://www.lms.ac.uk/news/leiden-declaration-on-ai-and-mathematics",
-      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.lms.ac.uk/news/lei...",
-      "score": 15
+      "title": "Powering up a module from the IBM 604: an electronic calculator from 1948",
+      "url": "https://www.righto.com/2026/06/ibm-604-thyraton-tube-module.html",
+      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.righto.com/2026/06...",
+      "score": 58
     },
     {
       "type": "HackerNews",
-      "title": "Cloning a Sennheiser BA2015 battery pack",
-      "url": "https://blog.brixit.nl/cloning-a-sennheiser-ba2015-accu-pack/",
-      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://blog.brixit.nl/cloning...",
-      "score": 67
+      "title": "The architecture of the internet creates risks for democracy",
+      "url": "https://www.science.org/doi/10.1126/science.aei2409",
+      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.science.org/doi/10...",
+      "score": 55
     },
     {
       "type": "HackerNews",
       "title": "What is the purpose of the lost+found folder in Linux and Unix? (2014)",
       "url": "https://unix.stackexchange.com/questions/18154/what-is-the-purpose-of-the-lostfound-folder-in-linux-and-unix",
       "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://unix.stackexchange.com...",
-      "score": 40
-    },
-    {
-      "type": "HackerNews",
-      "title": "You'll never guess who made the first wireless telephone",
-      "url": "https://signoregalilei.com/2026/05/31/youll-never-guess-who-made-the-first-wireless-telephone/",
-      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://signoregalilei.com/202...",
-      "score": 12
-    },
-    {
-      "type": "HackerNews",
-      "title": "Making Peace with Your Unlived Dreams",
-      "url": "https://nik.art/making-peace-with-your-unlived-dreams/",
-      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://nik.art/making-peace-w...",
-      "score": 8
-    },
-    {
-      "type": "HackerNews",
-      "title": "How's Linear so fast? A technical breakdown",
-      "url": "https://performance.dev/how-is-linear-so-fast-a-technical-breakdown",
-      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://performance.dev/how-is...",
-      "score": 3
+      "score": 92
     }
   ]
 }
