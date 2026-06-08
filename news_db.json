@@ -1,61 +1,61 @@
 {
-  "last_updated": "2026-06-08 15:53:06",
+  "last_updated": "2026-06-08 20:16:56",
   "news": [
     {
       "type": "HackerNews",
-      "title": "Show HN: Performative-UI – a react component library of design tropes",
-      "url": "https://vorpus.github.io/performativeUI/",
-      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://vorpus.github.io/perfo...",
-      "score": 182
+      "title": "Stop the Apple Music app from launching",
+      "url": "https://lowtechguys.com/musicdecoy/",
+      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://lowtechguys.com/musicd...",
+      "score": 447
+    },
+    {
+      "type": "HackerNews",
+      "title": "Apple reveals new AI architecture built around Google Gemini models",
+      "url": "https://www.macrumors.com/2026/06/08/apple-reveals-new-ai-architecture/",
+      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.macrumors.com/2026...",
+      "score": 62
     },
     {
       "type": "HackerNews",
       "title": "MiMo-v2.5-Pro-UltraSpeed: 1T model with 1000 tokens per second",
       "url": "https://mimo.xiaomi.com/blog/mimo-tilert-1000tps",
-      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://mimo.xiaomi.com/blog/m...",
-      "score": 38
+      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://mimo.xiaomi.com/blog/m...",
+      "score": 395
     },
     {
       "type": "HackerNews",
-      "title": "Zig by Example",
-      "url": "https://github.com/boringcollege/zig-by-example",
-      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://github.com/boringcolle...",
-      "score": 141
+      "title": "Show HN: Performative-UI – a react component library of design tropes",
+      "url": "https://vorpus.github.io/performativeUI/",
+      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://vorpus.github.io/perfo...",
+      "score": 590
     },
     {
       "type": "HackerNews",
-      "title": "Launch HN: Intuned (YC S22) – Build and run reliable browser automations as code",
-      "url": "https://intunedhq.com",
-      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://intunedhq.com...",
-      "score": 61
+      "title": "Why are cells small?",
+      "url": "https://burrito.bio/essays/what-limits-a-cells-size",
+      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://burrito.bio/essays/wha...",
+      "score": 34
+    },
+    {
+      "type": "HackerNews",
+      "title": "Full Reverse Engineering of the TI-84 Plus Operating System",
+      "url": "https://siraben.github.io/ti84p-re/",
+      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://siraben.github.io/ti84...",
+      "score": 89
     },
     {
       "type": "HackerNews",
       "title": "Anti-social: It's fads, not friends, which now dominate social media feeds",
       "url": "https://www.bbc.com/worklife/article/20260520-how-social-media-ceased-to-be-social",
-      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.bbc.com/worklife/a...",
-      "score": 235
+      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.bbc.com/worklife/a...",
+      "score": 432
     },
     {
       "type": "HackerNews",
-      "title": "The Cypherpunk Library",
-      "url": "https://www.cypherpunkbooks.com",
-      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.cypherpunkbooks.co...",
-      "score": 226
-    },
-    {
-      "type": "HackerNews",
-      "title": "How much of Thermo Fisher's antibody data has been manipulated?",
-      "url": "https://reeserichardson.blog/2026/05/28/how-much-of-thermo-fishers-antibody-data-has-been-manipulated/",
-      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://reeserichardson.blog/2...",
-      "score": 254
-    },
-    {
-      "type": "HackerNews",
-      "title": "Life is too short for a slow terminal",
-      "url": "https://mijndertstuij.nl/posts/life-is-too-short-for-a-slow-terminal/",
-      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://mijndertstuij.nl/posts...",
-      "score": 31
+      "title": "xAI is looking more like a datacentre REIT than a frontier lab",
+      "url": "https://martinalderson.com/posts/xais-new-rental-business/",
+      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://martinalderson.com/pos...",
+      "score": 217
     }
   ]
 }
