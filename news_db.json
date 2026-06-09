@@ -1,61 +1,61 @@
 {
-  "last_updated": "2026-06-09 20:07:08",
+  "last_updated": "2026-06-09 22:23:46",
   "news": [
     {
       "type": "HackerNews",
       "title": "Claude Fable 5",
       "url": "https://www.anthropic.com/news/claude-fable-5-mythos-5",
-      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.anthropic.com/news...",
-      "score": 1115
-    },
-    {
-      "type": "HackerNews",
-      "title": "GPT-2: Too Dangerous To Release (2019)",
-      "url": "https://naokishibuya.github.io/blog/2022-12-30-gpt-2-2019/",
-      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://naokishibuya.github.io...",
-      "score": 89
+      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.anthropic.com/news...",
+      "score": 1512
     },
     {
       "type": "HackerNews",
       "title": "Ultrafast machine learning on FPGAs via Kolmogorov-Arnold Networks",
       "url": "https://aarushgupta.io/posts/kan-fpga/",
       "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://aarushgupta.io/posts/k...",
-      "score": 16
+      "score": 109
+    },
+    {
+      "type": "HackerNews",
+      "title": "Upcoming breaking changes for NPM v12",
+      "url": "https://github.blog/changelog/2026-06-09-upcoming-breaking-changes-for-npm-v12/",
+      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://github.blog/changelog/...",
+      "score": 46
     },
     {
       "type": "HackerNews",
       "title": "Making Graphics Like it's 1993",
       "url": "https://staniks.github.io/articles/catlantean-3d-blog-1/",
-      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://staniks.github.io/arti...",
-      "score": 621
+      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://staniks.github.io/arti...",
+      "score": 711
     },
     {
       "type": "HackerNews",
-      "title": "What it feels like to work with Mythos",
-      "url": "https://www.oneusefulthing.org/p/what-it-feels-like-to-work-with-mythos",
-      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.oneusefulthing.org...",
-      "score": 78
+      "title": "If Claude Fable stops helping you, you'll never know",
+      "url": "https://jonready.com/blog/posts/claude-fable5-is-allowed-to-sabotage-your-app-if-youre-a-competitor.html",
+      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://jonready.com/blog/post...",
+      "score": 119
+    },
+    {
+      "type": "HackerNews",
+      "title": "Exif Smuggling",
+      "url": "https://github.com/signalblur/exifsmugglingpoc",
+      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://github.com/signalblur/...",
+      "score": 24
+    },
+    {
+      "type": "HackerNews",
+      "title": "Test-case reducers are underappreciated debugging tools",
+      "url": "https://tratt.net/laurie/blog/2026/test_case_reducers_are_underappreciated_debugging_tools.html",
+      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://tratt.net/laurie/blog/...",
+      "score": 55
     },
     {
       "type": "HackerNews",
       "title": "A giant star may have destroyed itself in one of the rarest explosions",
       "url": "https://phys.org/news/2026-05-giant-star-destroyed-universe-rarest.html",
       "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://phys.org/news/2026-05-...",
-      "score": 99
-    },
-    {
-      "type": "HackerNews",
-      "title": "Microsoft's open source tools were hacked to steal passwords of AI developers",
-      "url": "https://techcrunch.com/2026/06/08/microsofts-open-source-tools-were-hacked-to-steal-passwords-of-ai-developers/",
-      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://techcrunch.com/2026/06...",
-      "score": 487
-    },
-    {
-      "type": "HackerNews",
-      "title": "Flat Datacenter Networks at Scale at Amazon",
-      "url": "https://perspectives.mvdirona.com/2026/06/flat-datacenter-networks-at-scale/",
-      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://perspectives.mvdirona....",
-      "score": 12
+      "score": 140
     }
   ]
 }
