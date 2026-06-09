@@ -1,61 +1,61 @@
 {
-  "last_updated": "2026-06-09 14:51:35",
+  "last_updated": "2026-06-09 17:24:15",
   "news": [
     {
       "type": "HackerNews",
-      "title": "Albania Is Not for Sale: Kushner's $4B Resort Triggers'Flamingo Revolution'",
-      "url": "https://www.yacnews.com/albania-is-not-for-sale-kushners-4-billion-resort-triggers-flamingo-revolution-asset-freeze-and-an-eu-warning/",
-      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.yacnews.com/albani...",
-      "score": 170
+      "title": "Claude Fable 5",
+      "url": "https://www.anthropic.com/news/claude-fable-5-mythos-5",
+      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.anthropic.com/news...",
+      "score": 269
+    },
+    {
+      "type": "HackerNews",
+      "title": "System Card: Claude Fable 5 and Claude Mythos 5 [pdf]",
+      "url": "https://www-cdn.anthropic.com/d00db56fa754a1b115b6dd7cb2e3c342ee809620.pdf",
+      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www-cdn.anthropic.com/...",
+      "score": 68
     },
     {
       "type": "HackerNews",
       "title": "Making Graphics Like it's 1993",
       "url": "https://staniks.github.io/articles/catlantean-3d-blog-1/",
       "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://staniks.github.io/arti...",
-      "score": 304
+      "score": 512
     },
     {
       "type": "HackerNews",
-      "title": "WWDC 2026: Apple is Folding",
-      "url": "https://cupertinolens.com/2026/06/09/wwdc-2026-apple-is-folding/",
-      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://cupertinolens.com/2026...",
-      "score": 62
-    },
-    {
-      "type": "HackerNews",
-      "title": "GentleOS – Classic operating system with a lovely retro GUI",
-      "url": "https://github.com/luke8086/gentleos32",
-      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://github.com/luke8086/ge...",
-      "score": 267
+      "title": "A giant star may have destroyed itself in one of the rarest explosions",
+      "url": "https://phys.org/news/2026-05-giant-star-destroyed-universe-rarest.html",
+      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://phys.org/news/2026-05-...",
+      "score": 41
     },
     {
       "type": "HackerNews",
       "title": "Microsoft's open source tools were hacked to steal passwords of AI developers",
       "url": "https://techcrunch.com/2026/06/08/microsofts-open-source-tools-were-hacked-to-steal-passwords-of-ai-developers/",
       "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://techcrunch.com/2026/06...",
-      "score": 345
+      "score": 433
     },
     {
       "type": "HackerNews",
-      "title": "Cleaning up after AI rockstar developers",
-      "url": "https://www.codingwithjesse.com/blog/rockstar-developers/",
-      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.codingwithjesse.co...",
-      "score": 192
+      "title": "Biff.core: system composition for Clojure web apps",
+      "url": "https://biffweb.com/p/core/",
+      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://biffweb.com/p/core/...",
+      "score": 21
     },
     {
       "type": "HackerNews",
-      "title": "OpenCV 5 Is Here: The Biggest Leap in Years for Computer Vision",
-      "url": "https://opencv.org/opencv-5/",
-      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://opencv.org/opencv-5/...",
-      "score": 424
+      "title": "Can LLMs Beat Classical Hyperparameter Optimization Algorithms?",
+      "url": "https://arxiv.org/abs/2603.24647",
+      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://arxiv.org/abs/2603.246...",
+      "score": 56
     },
     {
       "type": "HackerNews",
-      "title": "Show HN: Gravity – interactive solar-system simulator, from Newton to Einstein",
-      "url": "https://qunabu.github.io/Gravity/",
-      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://qunabu.github.io/Gravi...",
-      "score": 43
+      "title": "Launch HN: Transload (YC P26) – Measuring freight items with CCTV",
+      "url": null,
+      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：...",
+      "score": 11
     }
   ]
 }
