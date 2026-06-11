@@ -1,61 +1,61 @@
 {
-  "last_updated": "2026-06-11 20:22:16",
+  "last_updated": "2026-06-11 22:49:34",
   "news": [
+    {
+      "type": "HackerNews",
+      "title": "Show HN: FablePool – pool money behind a prompt, and Fable builds it in public",
+      "url": "https://fablepool.com",
+      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://fablepool.com...",
+      "score": 89
+    },
     {
       "type": "HackerNews",
       "title": "Show HN: Homebrew 6.0.0",
       "url": "https://brew.sh/2026/06/11/homebrew-6.0.0/",
       "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://brew.sh/2026/06/11/hom...",
-      "score": 604
+      "score": 857
+    },
+    {
+      "type": "HackerNews",
+      "title": "Shall we play a game? – LLMs use tactical nukes in 95% of simulations",
+      "url": "https://www.kennethpayne.uk/p/shall-we-play-a-game",
+      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.kennethpayne.uk/p/...",
+      "score": 133
     },
     {
       "type": "HackerNews",
       "title": "MiMo Code is now released and open-source",
       "url": "https://mimo.xiaomi.com/mimocode",
-      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://mimo.xiaomi.com/mimoco...",
-      "score": 341
+      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://mimo.xiaomi.com/mimoco...",
+      "score": 392
+    },
+    {
+      "type": "HackerNews",
+      "title": "The unreasonable effectiveness of simple HTML",
+      "url": "https://shkspr.mobi/blog/2021/01/the-unreasonable-effectiveness-of-simple-html/",
+      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://shkspr.mobi/blog/2021/...",
+      "score": 14
+    },
+    {
+      "type": "HackerNews",
+      "title": "Travel Locally, Where You Are",
+      "url": "https://www.ssp.sh/brain/travel-where-you-are/",
+      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.ssp.sh/brain/trave...",
+      "score": 67
     },
     {
       "type": "HackerNews",
       "title": "Petition to Withdraw Canada's Bill C-22",
       "url": "https://www.ourcommons.ca/petitions/en/Petition/Sign/e-7416",
-      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.ourcommons.ca/peti...",
-      "score": 224
+      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.ourcommons.ca/peti...",
+      "score": 295
     },
     {
       "type": "HackerNews",
       "title": "The RCE that AMD wouldn't fix",
       "url": "https://mrbruh.com/amd2/",
-      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://mrbruh.com/amd2/...",
-      "score": 153
-    },
-    {
-      "type": "HackerNews",
-      "title": "Software Is Made Between Commits",
-      "url": "https://zed.dev/blog/introducing-deltadb",
-      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://zed.dev/blog/introduci...",
-      "score": 135
-    },
-    {
-      "type": "HackerNews",
-      "title": "Emacs appearances in pop culture",
-      "url": "https://ianyepan.github.io/posts/emacs-in-pop-culture/",
-      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://ianyepan.github.io/pos...",
-      "score": 156
-    },
-    {
-      "type": "HackerNews",
-      "title": "Waymo Premier",
-      "url": "https://waymo.com/blog/2026/06/waymo-premier/",
-      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://waymo.com/blog/2026/06...",
-      "score": 105
-    },
-    {
-      "type": "HackerNews",
-      "title": "Ear Training Practice Exercises",
-      "url": "https://tonedear.com/",
-      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://tonedear.com/...",
-      "score": 40
+      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://mrbruh.com/amd2/...",
+      "score": 194
     }
   ]
 }
