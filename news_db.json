@@ -1,61 +1,61 @@
 {
-  "last_updated": "2026-06-12 20:11:01",
+  "last_updated": "2026-06-12 22:24:35",
   "news": [
     {
       "type": "HackerNews",
       "title": "CRISPR tech selectively shreds cancer cells, including \"undruggable\" cancers",
       "url": "https://innovativegenomics.org/news/crispr-technique-selectively-shreds-cancer-cells/",
       "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://innovativegenomics.org...",
-      "score": 441
+      "score": 589
     },
     {
       "type": "HackerNews",
-      "title": "I Am Not a Reverse Centaur",
-      "url": "https://blog.miguelgrinberg.com/post/i-am-not-a-reverse-centaur",
-      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://blog.miguelgrinberg.co...",
-      "score": 141
+      "title": "Swift at Apple: Migrating the TrueType hinting interpreter",
+      "url": "https://www.swift.org/blog/migrating-truetype-hinting-to-swift/",
+      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.swift.org/blog/mig...",
+      "score": 70
+    },
+    {
+      "type": "HackerNews",
+      "title": "Mmorpg World of ClaudeCraft, vibe coded with Fable 5",
+      "url": "https://worldofclaudecraft.com/",
+      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://worldofclaudecraft.com...",
+      "score": 48
     },
     {
       "type": "HackerNews",
       "title": "How to setup a local coding agent on macOS",
       "url": "https://ikyle.me/blog/2026/how-to-setup-a-local-coding-agent-on-macos",
-      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://ikyle.me/blog/2026/how...",
-      "score": 101
+      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://ikyle.me/blog/2026/how...",
+      "score": 177
     },
     {
       "type": "HackerNews",
       "title": "Malware developers added nuclear and biological weapons text to to their spyware",
       "url": "https://twitter.com/jsrailton/status/2064661778978533571",
       "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://twitter.com/jsrailton/...",
-      "score": 156
+      "score": 233
     },
     {
       "type": "HackerNews",
       "title": "Pirates, a naval warfare game inspired by Sid Meier's Pirates",
       "url": "https://piwodlaiwo.github.io/pirates/",
-      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://piwodlaiwo.github.io/p...",
-      "score": 81
+      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://piwodlaiwo.github.io/p...",
+      "score": 151
     },
     {
       "type": "HackerNews",
-      "title": "Looking Forward to Postgres 19: It's About Time",
-      "url": "https://www.pgedge.com/blog/looking-forward-to-postgres-19-its-about-time",
-      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.pgedge.com/blog/lo...",
-      "score": 89
-    },
-    {
-      "type": "HackerNews",
-      "title": "A PDF that changes based on how its read",
-      "url": "https://sgaud.com/texts/pdf",
-      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://sgaud.com/texts/pdf...",
-      "score": 80
+      "title": "Palantir loses legal challenge against Swiss investigative magazine",
+      "url": "https://www.ft.com/content/7ffcace7-9dc0-4e7e-9912-895ac073f979",
+      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.ft.com/content/7ff...",
+      "score": 88
     },
     {
       "type": "HackerNews",
       "title": "Slightly reducing the sloppiness of AI generated front end",
       "url": "https://envs.net/~volpe/blog/posts/reduce-slop.html",
-      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://envs.net/~volpe/blog/p...",
-      "score": 128
+      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://envs.net/~volpe/blog/p...",
+      "score": 150
     }
   ]
 }
