@@ -1,61 +1,61 @@
 {
-  "last_updated": "2026-06-12 10:13:27",
+  "last_updated": "2026-06-12 15:14:57",
   "news": [
+    {
+      "type": "HackerNews",
+      "title": "WASI 0.3.0 Released",
+      "url": "https://github.com/WebAssembly/WASI/releases/tag/v0.3.0",
+      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://github.com/WebAssembly...",
+      "score": 85
+    },
     {
       "type": "HackerNews",
       "title": "AI agent bankrupted their operator while trying to scan DN42",
       "url": "https://lantian.pub/en/article/fun/ai-agent-bankrupted-their-operator-scan-dn42lantian.lantian/",
-      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://lantian.pub/en/article...",
-      "score": 578
+      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://lantian.pub/en/article...",
+      "score": 1107
+    },
+    {
+      "type": "HackerNews",
+      "title": "A Call to Action: Stop the FCC's KYC Regime",
+      "url": "https://blog.lopp.net/call-to-action-stop-the-fcc-kyc-regime/",
+      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://blog.lopp.net/call-to-...",
+      "score": 29
+    },
+    {
+      "type": "HackerNews",
+      "title": "Maxproof",
+      "url": "https://arxiv.org/abs/2606.13473",
+      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://arxiv.org/abs/2606.134...",
+      "score": 78
+    },
+    {
+      "type": "HackerNews",
+      "title": "The Future of Email",
+      "url": "https://www.fastmail.com/blog/the-future-of-email/",
+      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.fastmail.com/blog/...",
+      "score": 136
     },
     {
       "type": "HackerNews",
       "title": "If you are asking for human attention, demonstrate human effort",
       "url": "https://tombedor.dev/human-attention-and-human-effort/",
-      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://tombedor.dev/human-att...",
-      "score": 759
+      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://tombedor.dev/human-att...",
+      "score": 1172
     },
     {
       "type": "HackerNews",
       "title": "Nobody ever gets credit for fixing problems that never happened (2001) [pdf]",
       "url": "https://web.mit.edu/nelsonr/www/Repenning=Sterman_CMR_su01_.pdf",
       "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://web.mit.edu/nelsonr/ww...",
-      "score": 468
+      "score": 615
     },
     {
       "type": "HackerNews",
-      "title": "Show HN: Homebrew 6.0.0",
-      "url": "https://brew.sh/2026/06/11/homebrew-6.0.0/",
-      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://brew.sh/2026/06/11/hom...",
-      "score": 1234
-    },
-    {
-      "type": "HackerNews",
-      "title": "How we made hit video game Prince of Persia",
-      "url": "https://www.theguardian.com/culture/2026/jan/05/raiders-of-the-lost-ark-hit-video-game-prince-of-persia",
-      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.theguardian.com/cu...",
-      "score": 125
-    },
-    {
-      "type": "HackerNews",
-      "title": "Show HN: FablePool – pool money behind a prompt, and Fable builds it in public",
-      "url": "https://fablepool.com",
-      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://fablepool.com...",
-      "score": 402
-    },
-    {
-      "type": "HackerNews",
-      "title": "Vinyl succumbs to Loudness War: more than just collateral damage (2025)",
-      "url": "https://magicvinyldigital.net/2025/04/27/vinyl-succumbs-to-loudness-war-more-than-just-collateral-damage/",
-      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://magicvinyldigital.net/...",
-      "score": 74
-    },
-    {
-      "type": "HackerNews",
-      "title": "Claude Fable is relentlessly proactive",
-      "url": "https://simonwillison.net/2026/Jun/11/fable-is-relentlessly-proactive/",
-      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://simonwillison.net/2026...",
-      "score": 448
+      "title": "How to automate Instagram engagements with computer vision (and get banned)",
+      "url": "https://blog.florianherrengt.com/how-to-automate-instagram-engagements.html",
+      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://blog.florianherrengt.c...",
+      "score": 16
     }
   ]
 }
