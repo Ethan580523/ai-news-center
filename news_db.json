@@ -1,61 +1,61 @@
 {
-  "last_updated": "2026-06-13 19:25:37",
+  "last_updated": "2026-06-13 22:03:59",
   "news": [
     {
       "type": "HackerNews",
-      "title": "US bans differential privacy in Census data",
+      "title": "Noise infusion banned from statistical products published by Census Bureau",
       "url": "https://desfontain.es/blog/banning-noise.html",
-      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://desfontain.es/blog/ban...",
-      "score": 458
+      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://desfontain.es/blog/ban...",
+      "score": 626
     },
     {
       "type": "HackerNews",
       "title": "GameBoy Workboy",
       "url": "https://tcrf.net/Workboy",
-      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://tcrf.net/Workboy...",
-      "score": 49
+      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://tcrf.net/Workboy...",
+      "score": 121
+    },
+    {
+      "type": "HackerNews",
+      "title": "Every Frame Perfect",
+      "url": "https://tonsky.me/blog/every-frame-perfect/",
+      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://tonsky.me/blog/every-f...",
+      "score": 419
     },
     {
       "type": "HackerNews",
       "title": "Treating pancreatic tumours may have revealed cancer's master switch",
       "url": "https://economist.com/science-and-technology/2026/06/12/treating-pancreatic-tumours-may-have-revealed-cancers-master-switch",
       "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://economist.com/science-...",
-      "score": 175
-    },
-    {
-      "type": "HackerNews",
-      "title": "Every Frame Perfect",
-      "url": "https://tonsky.me/blog/every-frame-perfect/",
-      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://tonsky.me/blog/every-f...",
-      "score": 311
-    },
-    {
-      "type": "HackerNews",
-      "title": "AI Coding at Home Without Going Broke",
-      "url": "https://stephen.bochinski.dev/blog/2026/06/13/ai-coding-at-home-without-going-broke/",
-      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://stephen.bochinski.dev/...",
-      "score": 114
-    },
-    {
-      "type": "HackerNews",
-      "title": "Appreciating Exif",
-      "url": "https://brentfitzgerald.com/posts/appreciating-exif/",
-      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://brentfitzgerald.com/po...",
-      "score": 84
+      "score": 246
     },
     {
       "type": "HackerNews",
       "title": "Running DOS on Behringers DDX3216 with a DIY x86-Bios from Scratch",
       "url": "https://chrisdevblog.com/2026/06/08/running-dos-on-behringers-ddx3216-using-a-diy-x86-bios/",
-      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://chrisdevblog.com/2026/...",
-      "score": 6
+      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://chrisdevblog.com/2026/...",
+      "score": 51
     },
     {
       "type": "HackerNews",
-      "title": "The adder at the heart of Intel's 8087 floating-point chip",
-      "url": "https://www.righto.com/2026/06/intel-8087-adder-reverse-engineered.html",
-      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.righto.com/2026/06...",
-      "score": 40
+      "title": "Pyodide 314.0: Python packages can now publish WebAssembly wheels to PyPI",
+      "url": "https://blog.pyodide.org/posts/314-release/",
+      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://blog.pyodide.org/posts...",
+      "score": 16
+    },
+    {
+      "type": "HackerNews",
+      "title": "Amazon CEO's talks with U.S. officials triggered crackdown on Anthropic models",
+      "url": "https://www.wsj.com/tech/ai/amazon-ceos-talks-with-u-s-officials-triggered-crackdown-on-anthropic-models-dcc90578?st=Yct6gx&reflink=desktopwebshare_permalink",
+      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.wsj.com/tech/ai/am...",
+      "score": 379
+    },
+    {
+      "type": "HackerNews",
+      "title": "Appreciating Exif",
+      "url": "https://brentfitzgerald.com/posts/appreciating-exif/",
+      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://brentfitzgerald.com/po...",
+      "score": 110
     }
   ]
 }
