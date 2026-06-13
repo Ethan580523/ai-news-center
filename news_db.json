@@ -1,61 +1,61 @@
 {
-  "last_updated": "2026-06-13 16:13:39",
+  "last_updated": "2026-06-13 19:25:37",
   "news": [
     {
       "type": "HackerNews",
       "title": "US bans differential privacy in Census data",
       "url": "https://desfontain.es/blog/banning-noise.html",
       "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://desfontain.es/blog/ban...",
-      "score": 193
+      "score": 458
+    },
+    {
+      "type": "HackerNews",
+      "title": "GameBoy Workboy",
+      "url": "https://tcrf.net/Workboy",
+      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://tcrf.net/Workboy...",
+      "score": 49
     },
     {
       "type": "HackerNews",
       "title": "Treating pancreatic tumours may have revealed cancer's master switch",
       "url": "https://economist.com/science-and-technology/2026/06/12/treating-pancreatic-tumours-may-have-revealed-cancers-master-switch",
-      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://economist.com/science-...",
-      "score": 52
-    },
-    {
-      "type": "HackerNews",
-      "title": "AI OSS tool repo goes archived over night after raising $7.3M Seed",
-      "url": "https://github.com/tensorzero/tensorzero",
-      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://github.com/tensorzero/...",
-      "score": 152
-    },
-    {
-      "type": "HackerNews",
-      "title": "Orthodox C++",
-      "url": "https://bkaradzic.github.io/posts/orthodoxc++/",
-      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://bkaradzic.github.io/po...",
-      "score": 29
+      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://economist.com/science-...",
+      "score": 175
     },
     {
       "type": "HackerNews",
       "title": "Every Frame Perfect",
       "url": "https://tonsky.me/blog/every-frame-perfect/",
       "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://tonsky.me/blog/every-f...",
-      "score": 107
+      "score": 311
     },
     {
       "type": "HackerNews",
-      "title": "Introduction to the experience of rendering Arabic typography&its technical debt",
-      "url": "https://lr0.org/blog/p/arabic/",
-      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://lr0.org/blog/p/arabic/...",
-      "score": 50
+      "title": "AI Coding at Home Without Going Broke",
+      "url": "https://stephen.bochinski.dev/blog/2026/06/13/ai-coding-at-home-without-going-broke/",
+      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://stephen.bochinski.dev/...",
+      "score": 114
     },
     {
       "type": "HackerNews",
-      "title": "A low-carbon computing platform from your retired phones",
-      "url": "https://research.google/blog/a-low-carbon-computing-platform-from-your-retired-phones/",
-      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://research.google/blog/a...",
-      "score": 157
+      "title": "Appreciating Exif",
+      "url": "https://brentfitzgerald.com/posts/appreciating-exif/",
+      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://brentfitzgerald.com/po...",
+      "score": 84
     },
     {
       "type": "HackerNews",
-      "title": "Show HN: I am building a map of people who lived in the Roman Empire",
-      "url": "https://new.roman-names.com/",
-      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://new.roman-names.com/...",
-      "score": 54
+      "title": "Running DOS on Behringers DDX3216 with a DIY x86-Bios from Scratch",
+      "url": "https://chrisdevblog.com/2026/06/08/running-dos-on-behringers-ddx3216-using-a-diy-x86-bios/",
+      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://chrisdevblog.com/2026/...",
+      "score": 6
+    },
+    {
+      "type": "HackerNews",
+      "title": "The adder at the heart of Intel's 8087 floating-point chip",
+      "url": "https://www.righto.com/2026/06/intel-8087-adder-reverse-engineered.html",
+      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.righto.com/2026/06...",
+      "score": 40
     }
   ]
 }
