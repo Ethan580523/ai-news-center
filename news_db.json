@@ -1,61 +1,61 @@
 {
-  "last_updated": "2026-06-13 09:16:51",
+  "last_updated": "2026-06-13 14:00:17",
   "news": [
+    {
+      "type": "HackerNews",
+      "title": "AI OSS tool repo goes archived over night after raising $7.3M Seed",
+      "url": "https://github.com/tensorzero/tensorzero",
+      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://github.com/tensorzero/...",
+      "score": 53
+    },
+    {
+      "type": "HackerNews",
+      "title": "A low-carbon computing platform from your retired phones",
+      "url": "https://research.google/blog/a-low-carbon-computing-platform-from-your-retired-phones/",
+      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://research.google/blog/a...",
+      "score": 102
+    },
+    {
+      "type": "HackerNews",
+      "title": "An Interview with Intel's Kira Boyko: Xeon 6's Product Director",
+      "url": "https://chipsandcheese.com/p/an-interview-with-intels-kira-boyko",
+      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://chipsandcheese.com/p/a...",
+      "score": 19
+    },
+    {
+      "type": "HackerNews",
+      "title": "The state of building user interfaces in Rust",
+      "url": "https://areweguiyet.com/#ecosystem",
+      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://areweguiyet.com/#ecosy...",
+      "score": 59
+    },
     {
       "type": "HackerNews",
       "title": "Leaving Mozilla",
       "url": "https://blog.unitedheroes.net/5751",
-      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://blog.unitedheroes.net/...",
-      "score": 132
+      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://blog.unitedheroes.net/...",
+      "score": 346
     },
     {
       "type": "HackerNews",
       "title": "Electric motors with no rare earths",
       "url": "https://www.renaultgroup.com/en/magazine/energy-and-powertrains/all-about-electric-motors-with-no-rare-earths/",
-      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.renaultgroup.com/e...",
-      "score": 435
+      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.renaultgroup.com/e...",
+      "score": 560
     },
     {
       "type": "HackerNews",
-      "title": "Statement on US government directive to suspend access to Fable 5 and Mythos 5",
-      "url": "https://www.anthropic.com/news/fable-mythos-access",
-      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.anthropic.com/news...",
-      "score": 2206
+      "title": "Show HN: 2 Weeks of Hallucinate – The Photo Gallery",
+      "url": "https://hallucinate.site/gallery",
+      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://hallucinate.site/galle...",
+      "score": 41
     },
     {
       "type": "HackerNews",
       "title": "CRISPR tech selectively shreds cancer cells, including \"undruggable\" cancers",
       "url": "https://innovativegenomics.org/news/crispr-technique-selectively-shreds-cancer-cells/",
-      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://innovativegenomics.org...",
-      "score": 813
-    },
-    {
-      "type": "HackerNews",
-      "title": "Shepherd's Dog: A Game by the Most Dangerous AI Model",
-      "url": "https://koenvangilst.nl/lab/claude-fable-shepherds-dog",
-      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://koenvangilst.nl/lab/cl...",
-      "score": 80
-    },
-    {
-      "type": "HackerNews",
-      "title": "Open source AI must win",
-      "url": "https://opensourceaimustwin.com/?share=v2",
-      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://opensourceaimustwin.co...",
-      "score": 873
-    },
-    {
-      "type": "HackerNews",
-      "title": "There is a shadow hanging over this Fable thing",
-      "url": "https://12gramsofcarbon.com/p/tech-things-there-is-a-massive-shadow",
-      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://12gramsofcarbon.com/p/...",
-      "score": 222
-    },
-    {
-      "type": "HackerNews",
-      "title": "Twenty One Zero-Days in FFmpeg",
-      "url": "https://depthfirst.com/research/21-zero-days-in-ffmpeg",
-      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://depthfirst.com/researc...",
-      "score": 199
+      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://innovativegenomics.org...",
+      "score": 877
     }
   ]
 }
