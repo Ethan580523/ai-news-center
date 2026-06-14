@@ -1,61 +1,61 @@
 {
-  "last_updated": "2026-06-14 09:34:57",
+  "last_updated": "2026-06-14 14:02:56",
   "news": [
     {
       "type": "HackerNews",
-      "title": "Phoenix LiveView 1.2 Released",
-      "url": "https://phoenixframework.org/blog/phoenix-liveview-1-2-released",
-      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://phoenixframework.org/b...",
-      "score": 105
+      "title": "The Birth and Death of JavaScript (2014)",
+      "url": "https://www.destroyallsoftware.com/talks/the-birth-and-death-of-javascript",
+      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.destroyallsoftware...",
+      "score": 64
     },
     {
       "type": "HackerNews",
-      "title": "Honda Civics and the Evil Valet",
-      "url": "https://juniperspring.org/posts/honda-evil-valet/",
-      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://juniperspring.org/post...",
-      "score": 264
+      "title": "Firewood Splitting Simulator",
+      "url": "https://screen.toys/firewood/",
+      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://screen.toys/firewood/...",
+      "score": 97
     },
     {
       "type": "HackerNews",
       "title": "Free SQL→ER diagram tool, runs in the browser, nothing uploaded",
       "url": "https://sqltoerdiagram.com/",
       "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://sqltoerdiagram.com/...",
-      "score": 112
+      "score": 263
     },
     {
       "type": "HackerNews",
-      "title": "Don't trust large context windows",
-      "url": "https://garrit.xyz/posts/2026-05-06-dont-trust-large-context-windows",
-      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://garrit.xyz/posts/2026-...",
-      "score": 83
+      "title": "Honda Civics and the Evil Valet",
+      "url": "https://juniperspring.org/posts/honda-evil-valet/",
+      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://juniperspring.org/post...",
+      "score": 334
+    },
+    {
+      "type": "HackerNews",
+      "title": "How did Atari apply side art to Arcade Cabinets?",
+      "url": "https://arcadeblogger.com/2026/06/14/how-did-atari-apply-side-art-to-arcade-cabinets/",
+      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://arcadeblogger.com/2026...",
+      "score": 11
     },
     {
       "type": "HackerNews",
       "title": "GLM 5.2 Is Out",
       "url": "https://twitter.com/jietang/status/2065784751345287314",
-      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://twitter.com/jietang/st...",
-      "score": 570
+      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://twitter.com/jietang/st...",
+      "score": 676
     },
     {
       "type": "HackerNews",
-      "title": "Noise infusion banned from statistical products published by Census Bureau",
-      "url": "https://desfontain.es/blog/banning-noise.html",
-      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://desfontain.es/blog/ban...",
-      "score": 821
+      "title": "How to Earn a Billion Dollars",
+      "url": "https://paulgraham.com/earn.html",
+      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://paulgraham.com/earn.ht...",
+      "score": 76
     },
     {
       "type": "HackerNews",
-      "title": "Every Frame Perfect",
-      "url": "https://tonsky.me/blog/every-frame-perfect/",
-      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://tonsky.me/blog/every-f...",
-      "score": 705
-    },
-    {
-      "type": "HackerNews",
-      "title": "500-year-old monasteries outperform at digital transformation (U. of Zurich)",
+      "title": "Historic co-determination helps monasteries navigate digital change",
       "url": "https://phys.org/news/2026-05-historic-monasteries-digital-countries.html",
-      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://phys.org/news/2026-05-...",
-      "score": 12
+      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://phys.org/news/2026-05-...",
+      "score": 55
     }
   ]
 }
