@@ -1,61 +1,61 @@
 {
-  "last_updated": "2026-06-14 19:26:18",
+  "last_updated": "2026-06-14 22:09:45",
   "news": [
     {
       "type": "HackerNews",
       "title": "Show HN: Kage – Shadow any website to a single binary for offline viewing",
       "url": "https://github.com/tamnd/kage",
-      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://github.com/tamnd/kage...",
-      "score": 108
+      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://github.com/tamnd/kage...",
+      "score": 286
+    },
+    {
+      "type": "HackerNews",
+      "title": "Zinnia: A modular 64-bit Unix-like kernel written in Rust",
+      "url": "https://zinnia-os.org/",
+      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://zinnia-os.org/...",
+      "score": 36
+    },
+    {
+      "type": "HackerNews",
+      "title": "Yserver: A modern X11 server written in Rust",
+      "url": "https://github.com/joske/yserver",
+      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://github.com/joske/yserv...",
+      "score": 73
     },
     {
       "type": "HackerNews",
       "title": "Rio de Janeiro's \"homegrown\" LLM appears to be a merge of an existing model",
       "url": "https://github.com/nex-agi/Nex-N2/issues/4",
-      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://github.com/nex-agi/Nex...",
-      "score": 172
+      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://github.com/nex-agi/Nex...",
+      "score": 231
+    },
+    {
+      "type": "HackerNews",
+      "title": "Chaosnet (1981)",
+      "url": "https://tumbleweed.nu/r/lm-3/uv/amber.html",
+      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://tumbleweed.nu/r/lm-3/u...",
+      "score": 43
     },
     {
       "type": "HackerNews",
       "title": "Firewood Splitting Simulator",
       "url": "https://screen.toys/firewood/",
-      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://screen.toys/firewood/...",
-      "score": 422
+      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://screen.toys/firewood/...",
+      "score": 540
     },
     {
       "type": "HackerNews",
-      "title": "Not mine, but it's a website where you can use a segment display",
+      "title": "Show HN: Trace – Offline Mac meeting transcripts you can flag mid-call",
+      "url": "https://traceapp.info",
+      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://traceapp.info...",
+      "score": 58
+    },
+    {
+      "type": "HackerNews",
+      "title": "Segmented type appreciation corner (2018)",
       "url": "https://aresluna.org/segmented-type/",
-      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://aresluna.org/segmented...",
-      "score": 21
-    },
-    {
-      "type": "HackerNews",
-      "title": "Ask HN: What are you working on? (June 2026)",
-      "url": null,
-      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：...",
-      "score": 65
-    },
-    {
-      "type": "HackerNews",
-      "title": "The Birth and Death of JavaScript (2014)",
-      "url": "https://www.destroyallsoftware.com/talks/the-birth-and-death-of-javascript",
-      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.destroyallsoftware...",
-      "score": 179
-    },
-    {
-      "type": "HackerNews",
-      "title": "Perlisisms",
-      "url": "https://www.cs.yale.edu/homes/perlis-alan/quotes.html",
-      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.cs.yale.edu/homes/...",
-      "score": 62
-    },
-    {
-      "type": "HackerNews",
-      "title": "Caddy compatibility for zeroserve: 3x throughput and 70% lower latency",
-      "url": "https://su3.io/posts/zeroserve-caddy-compat",
-      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://su3.io/posts/zeroserve...",
-      "score": 102
+      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://aresluna.org/segmented...",
+      "score": 51
     }
   ]
 }
