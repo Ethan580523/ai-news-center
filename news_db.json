@@ -1,61 +1,61 @@
 {
-  "last_updated": "2026-06-13 22:03:59",
+  "last_updated": "2026-06-14 04:06:52",
   "news": [
+    {
+      "type": "HackerNews",
+      "title": "The Redistribution of Housing Wealth Caused by Rent Control [pdf]",
+      "url": "https://www.rhawa.org/file/secure/shs-the-impact-of-rent-control-in-st-paul.pdf",
+      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.rhawa.org/file/sec...",
+      "score": 34
+    },
+    {
+      "type": "HackerNews",
+      "title": "10th Gen Honda Civic Updates Are Signed with AOSP Test Keys",
+      "url": "https://juniperspring.org/posts/honda-evil-valet/",
+      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://juniperspring.org/post...",
+      "score": 98
+    },
     {
       "type": "HackerNews",
       "title": "Noise infusion banned from statistical products published by Census Bureau",
       "url": "https://desfontain.es/blog/banning-noise.html",
-      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://desfontain.es/blog/ban...",
-      "score": 626
+      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://desfontain.es/blog/ban...",
+      "score": 768
     },
     {
       "type": "HackerNews",
-      "title": "GameBoy Workboy",
-      "url": "https://tcrf.net/Workboy",
-      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://tcrf.net/Workboy...",
-      "score": 121
+      "title": "GLM 5.2 Is Out",
+      "url": "https://twitter.com/jietang/status/2065784751345287314",
+      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://twitter.com/jietang/st...",
+      "score": 419
     },
     {
       "type": "HackerNews",
       "title": "Every Frame Perfect",
       "url": "https://tonsky.me/blog/every-frame-perfect/",
-      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://tonsky.me/blog/every-f...",
-      "score": 419
+      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://tonsky.me/blog/every-f...",
+      "score": 617
+    },
+    {
+      "type": "HackerNews",
+      "title": "FreeOberon – Open-Source, Cross-Platform, Free Pascal/Turbo Pascal-Like Language",
+      "url": "https://github.com/kekcleader/FreeOberon",
+      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://github.com/kekcleader/...",
+      "score": 43
     },
     {
       "type": "HackerNews",
       "title": "Treating pancreatic tumours may have revealed cancer's master switch",
       "url": "https://economist.com/science-and-technology/2026/06/12/treating-pancreatic-tumours-may-have-revealed-cancers-master-switch",
       "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://economist.com/science-...",
-      "score": 246
-    },
-    {
-      "type": "HackerNews",
-      "title": "Running DOS on Behringers DDX3216 with a DIY x86-Bios from Scratch",
-      "url": "https://chrisdevblog.com/2026/06/08/running-dos-on-behringers-ddx3216-using-a-diy-x86-bios/",
-      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://chrisdevblog.com/2026/...",
-      "score": 51
+      "score": 321
     },
     {
       "type": "HackerNews",
       "title": "Pyodide 314.0: Python packages can now publish WebAssembly wheels to PyPI",
       "url": "https://blog.pyodide.org/posts/314-release/",
       "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://blog.pyodide.org/posts...",
-      "score": 16
-    },
-    {
-      "type": "HackerNews",
-      "title": "Amazon CEO's talks with U.S. officials triggered crackdown on Anthropic models",
-      "url": "https://www.wsj.com/tech/ai/amazon-ceos-talks-with-u-s-officials-triggered-crackdown-on-anthropic-models-dcc90578?st=Yct6gx&reflink=desktopwebshare_permalink",
-      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.wsj.com/tech/ai/am...",
-      "score": 379
-    },
-    {
-      "type": "HackerNews",
-      "title": "Appreciating Exif",
-      "url": "https://brentfitzgerald.com/posts/appreciating-exif/",
-      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://brentfitzgerald.com/po...",
-      "score": 110
+      "score": 94
     }
   ]
 }
