@@ -1,61 +1,61 @@
 {
-  "last_updated": "2026-06-14 22:09:45",
+  "last_updated": "2026-06-15 04:19:06",
   "news": [
+    {
+      "type": "HackerNews",
+      "title": "Your ePub Is fine",
+      "url": "https://andreklein.net/your-epub-is-fine-kobo-disagrees-blame-adobe/",
+      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://andreklein.net/your-ep...",
+      "score": 285
+    },
+    {
+      "type": "HackerNews",
+      "title": "Even more batteries included with Emacs",
+      "url": "https://karthinks.com/software/even-more-batteries-included-with-emacs/",
+      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://karthinks.com/software...",
+      "score": 32
+    },
     {
       "type": "HackerNews",
       "title": "Show HN: Kage – Shadow any website to a single binary for offline viewing",
       "url": "https://github.com/tamnd/kage",
-      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://github.com/tamnd/kage...",
-      "score": 286
+      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://github.com/tamnd/kage...",
+      "score": 453
     },
     {
       "type": "HackerNews",
-      "title": "Zinnia: A modular 64-bit Unix-like kernel written in Rust",
-      "url": "https://zinnia-os.org/",
-      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://zinnia-os.org/...",
-      "score": 36
+      "title": "21 years and counting of 'eight fallacies of distributed computing' (2025)",
+      "url": "https://blog.apnic.net/2025/12/08/21-years-and-counting-of-eight-fallacies-of-distributed-computing/",
+      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://blog.apnic.net/2025/12...",
+      "score": 34
     },
     {
       "type": "HackerNews",
-      "title": "Yserver: A modern X11 server written in Rust",
-      "url": "https://github.com/joske/yserver",
-      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://github.com/joske/yserv...",
-      "score": 73
+      "title": "Bitsy",
+      "url": "https://bitsy.org/",
+      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://bitsy.org/...",
+      "score": 67
+    },
+    {
+      "type": "HackerNews",
+      "title": "Firewood Splitting Simulator",
+      "url": "https://screen.toys/firewood/",
+      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://screen.toys/firewood/...",
+      "score": 703
     },
     {
       "type": "HackerNews",
       "title": "Rio de Janeiro's \"homegrown\" LLM appears to be a merge of an existing model",
       "url": "https://github.com/nex-agi/Nex-N2/issues/4",
       "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://github.com/nex-agi/Nex...",
-      "score": 231
+      "score": 303
     },
     {
       "type": "HackerNews",
-      "title": "Chaosnet (1981)",
-      "url": "https://tumbleweed.nu/r/lm-3/uv/amber.html",
-      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://tumbleweed.nu/r/lm-3/u...",
-      "score": 43
-    },
-    {
-      "type": "HackerNews",
-      "title": "Firewood Splitting Simulator",
-      "url": "https://screen.toys/firewood/",
-      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://screen.toys/firewood/...",
-      "score": 540
-    },
-    {
-      "type": "HackerNews",
-      "title": "Show HN: Trace – Offline Mac meeting transcripts you can flag mid-call",
-      "url": "https://traceapp.info",
-      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://traceapp.info...",
-      "score": 58
-    },
-    {
-      "type": "HackerNews",
-      "title": "Segmented type appreciation corner (2018)",
-      "url": "https://aresluna.org/segmented-type/",
-      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://aresluna.org/segmented...",
-      "score": 51
+      "title": "A short history of Cerro Torre, the most controversial mountain (2012)",
+      "url": "https://www.markhorrell.com/blog/2012/a-short-history-of-cerro-torre/",
+      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.markhorrell.com/bl...",
+      "score": 14
     }
   ]
 }
