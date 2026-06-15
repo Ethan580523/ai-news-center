@@ -1,61 +1,61 @@
 {
-  "last_updated": "2026-06-15 19:03:30",
+  "last_updated": "2026-06-15 23:02:33",
   "news": [
+    {
+      "type": "HackerNews",
+      "title": "A backdoor in a LinkedIn job offer",
+      "url": "https://roman.pt/posts/linkedin-backdoor/",
+      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://roman.pt/posts/linkedi...",
+      "score": 445
+    },
+    {
+      "type": "HackerNews",
+      "title": "US battery manufacturing output continues to break records",
+      "url": "https://fred.stlouisfed.org/series/IPG33591S",
+      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://fred.stlouisfed.org/se...",
+      "score": 101
+    },
     {
       "type": "HackerNews",
       "title": "Iroh 1.0",
       "url": "https://www.iroh.computer/blog/v1",
-      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.iroh.computer/blog...",
-      "score": 591
+      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.iroh.computer/blog...",
+      "score": 849
+    },
+    {
+      "type": "HackerNews",
+      "title": "I Love the Computer",
+      "url": "https://michaelenger.com/blog/i-love-the-computer/",
+      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://michaelenger.com/blog/...",
+      "score": 87
     },
     {
       "type": "HackerNews",
       "title": "TinyWind: A pixel pirate sailing game with real wind physics (380k+ kms sailed)",
       "url": "https://tinywind.io",
-      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://tinywind.io...",
-      "score": 258
+      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://tinywind.io...",
+      "score": 526
     },
     {
       "type": "HackerNews",
       "title": "Ask HN: Has anyone replaced Claude/GPT with a local model for daily coding?",
       "url": null,
-      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：...",
-      "score": 213
+      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：...",
+      "score": 559
     },
     {
       "type": "HackerNews",
-      "title": "Typst 0.15.0",
-      "url": "https://typst.app/docs/changelog/0.15.0/",
-      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://typst.app/docs/changel...",
-      "score": 66
+      "title": "Why I Email Complete Strangers",
+      "url": "https://www.goodinternetmagazine.com/why-i-email-complete-strangers/",
+      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.goodinternetmagazi...",
+      "score": 21
     },
     {
       "type": "HackerNews",
-      "title": "My Homelab AI Dev Platform",
-      "url": "https://rsgm.dev/post/ai-dev-platform/",
-      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://rsgm.dev/post/ai-dev-p...",
-      "score": 121
-    },
-    {
-      "type": "HackerNews",
-      "title": "How TimescaleDB compresses time-series data",
-      "url": "https://roszigit.com/en/blog/timescaledb-compression-hypercore",
-      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://roszigit.com/en/blog/t...",
-      "score": 45
-    },
-    {
-      "type": "HackerNews",
-      "title": "Game Engine White Papers Commander Keen",
-      "url": "https://forgottenbytes.net/commander_keen.html",
-      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://forgottenbytes.net/com...",
-      "score": 30
-    },
-    {
-      "type": "HackerNews",
-      "title": "Making glass-to-metal seals for home­made vacuum tubes",
-      "url": "https://maurycyz.com/projects/glass/1/",
-      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://maurycyz.com/projects/...",
-      "score": 81
+      "title": "Swedish parliament abolishes permanent residence visas for migrants",
+      "url": "https://www.riksdagen.se/en/news/articles/2026/jun/9/permanent-residence-permits-to-be-abolished_cmsc5d86c7b-fecc-4799-9e89-e63592d6c6bfen/",
+      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.riksdagen.se/en/ne...",
+      "score": 24
     }
   ]
 }
