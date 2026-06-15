@@ -1,61 +1,61 @@
 {
-  "last_updated": "2026-06-15 04:19:06",
+  "last_updated": "2026-06-15 12:14:36",
   "news": [
+    {
+      "type": "HackerNews",
+      "title": "Anthropic's Safety Superpower",
+      "url": "https://stratechery.com/2026/anthropics-safety-superpower/",
+      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://stratechery.com/2026/a...",
+      "score": 75
+    },
     {
       "type": "HackerNews",
       "title": "Your ePub Is fine",
       "url": "https://andreklein.net/your-epub-is-fine-kobo-disagrees-blame-adobe/",
       "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://andreklein.net/your-ep...",
-      "score": 285
+      "score": 684
+    },
+    {
+      "type": "HackerNews",
+      "title": "Apple Foundation Models",
+      "url": "https://platform.claude.com/docs/en/cli-sdks-libraries/libraries/apple-foundation-models",
+      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://platform.claude.com/do...",
+      "score": 223
+    },
+    {
+      "type": "HackerNews",
+      "title": "Foreign business owners are scrambling to raise capital to stay in Japan",
+      "url": "https://tokyopaladin.substack.com/p/foreign-business-owners-are-scrambling",
+      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://tokyopaladin.substack....",
+      "score": 58
+    },
+    {
+      "type": "HackerNews",
+      "title": "What the Fuck Happened to Nerds",
+      "url": "https://mrmarket.lol/what-the-fuck-happened-to-nerds/",
+      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://mrmarket.lol/what-the-...",
+      "score": 313
     },
     {
       "type": "HackerNews",
       "title": "Even more batteries included with Emacs",
       "url": "https://karthinks.com/software/even-more-batteries-included-with-emacs/",
-      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://karthinks.com/software...",
-      "score": 32
+      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://karthinks.com/software...",
+      "score": 238
     },
     {
       "type": "HackerNews",
-      "title": "Show HN: Kage – Shadow any website to a single binary for offline viewing",
-      "url": "https://github.com/tamnd/kage",
-      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://github.com/tamnd/kage...",
-      "score": 453
+      "title": "Openrouter Fusion API",
+      "url": "https://openrouter.ai/openrouter/fusion",
+      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://openrouter.ai/openrout...",
+      "score": 65
     },
     {
       "type": "HackerNews",
-      "title": "21 years and counting of 'eight fallacies of distributed computing' (2025)",
-      "url": "https://blog.apnic.net/2025/12/08/21-years-and-counting-of-eight-fallacies-of-distributed-computing/",
-      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://blog.apnic.net/2025/12...",
-      "score": 34
-    },
-    {
-      "type": "HackerNews",
-      "title": "Bitsy",
-      "url": "https://bitsy.org/",
-      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://bitsy.org/...",
-      "score": 67
-    },
-    {
-      "type": "HackerNews",
-      "title": "Firewood Splitting Simulator",
-      "url": "https://screen.toys/firewood/",
-      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://screen.toys/firewood/...",
-      "score": 703
-    },
-    {
-      "type": "HackerNews",
-      "title": "Rio de Janeiro's \"homegrown\" LLM appears to be a merge of an existing model",
-      "url": "https://github.com/nex-agi/Nex-N2/issues/4",
-      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://github.com/nex-agi/Nex...",
-      "score": 303
-    },
-    {
-      "type": "HackerNews",
-      "title": "A short history of Cerro Torre, the most controversial mountain (2012)",
-      "url": "https://www.markhorrell.com/blog/2012/a-short-history-of-cerro-torre/",
-      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.markhorrell.com/bl...",
-      "score": 14
+      "title": "Ported my C game to WASM, here's everybug that I hit",
+      "url": "http://ernesernesto.github.io/writes/portingmatchmorphosistowasm/",
+      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：http://ernesernesto.github.io/...",
+      "score": 25
     }
   ]
 }
