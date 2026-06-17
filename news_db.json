@@ -1,61 +1,61 @@
 {
-  "last_updated": "2026-06-16 22:52:23",
+  "last_updated": "2026-06-17 04:09:45",
   "news": [
     {
       "type": "HackerNews",
-      "title": "GrapheneOS has been ported to Android 17 and official releases are coming soon",
+      "title": "GrapheneOS has been ported to Android 17",
       "url": "https://discuss.grapheneos.org/d/36469-grapheneos-has-been-ported-to-android-17-and-official-releases-are-coming-soon",
       "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://discuss.grapheneos.org...",
-      "score": 170
+      "score": 505
     },
     {
       "type": "HackerNews",
       "title": "Running local models is good now",
       "url": "https://vickiboykis.com/2026/06/15/running-local-models-is-good-now/",
       "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://vickiboykis.com/2026/0...",
-      "score": 908
+      "score": 1101
     },
     {
       "type": "HackerNews",
       "title": "SpaceX to buy Cursor for $60B",
       "url": "https://www.reuters.com/legal/transactional/spacex-buy-anysphere-60-billion-2026-06-16/",
-      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.reuters.com/legal/...",
-      "score": 780
+      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.reuters.com/legal/...",
+      "score": 939
     },
     {
       "type": "HackerNews",
-      "title": "GPT‑NL: a sovereign language model for the Netherlands",
-      "url": "https://www.tno.nl/en/digital/artificial-intelligence/gpt-nl/",
-      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.tno.nl/en/digital/...",
-      "score": 115
+      "title": "Humiliating IIS servers for fun and jail time",
+      "url": "https://mll.sh/humiliating-iis-servers-for-fun-and-jail-time/",
+      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://mll.sh/humiliating-iis...",
+      "score": 136
     },
     {
       "type": "HackerNews",
-      "title": "Calvin and Hobbes and the price of integrity",
-      "url": "https://therepublicofletters.substack.com/p/calvin-and-hobbes-and-the-price-of",
-      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://therepublicofletters.s...",
-      "score": 205
+      "title": "Wolfram Language and Mathematica Version 15, AI Assistant, Symbolic Music, More",
+      "url": "https://writings.stephenwolfram.com/2026/06/launching-version-15-of-wolfram-language-mathematica-built-in-useful-ai-lots-of-new-core-functionality/",
+      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://writings.stephenwolfra...",
+      "score": 112
     },
     {
       "type": "HackerNews",
       "title": "TIL: You can make HTTP requests without curl using Bash /dev/TCP",
       "url": "https://mareksuppa.com/til/bash-dev-tcp-http-without-curl/",
       "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://mareksuppa.com/til/bas...",
-      "score": 202
+      "score": 310
     },
     {
       "type": "HackerNews",
-      "title": "Mechanical Watch (2022)",
-      "url": "https://ciechanow.ski/mechanical-watch/",
-      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://ciechanow.ski/mechanic...",
-      "score": 597
+      "title": "Calvin and Hobbes and the price of integrity",
+      "url": "https://therepublicofletters.substack.com/p/calvin-and-hobbes-and-the-price-of",
+      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://therepublicofletters.s...",
+      "score": 327
     },
     {
       "type": "HackerNews",
-      "title": "Stop Using JWTs",
-      "url": "https://gist.github.com/samsch/0d1f3d3b4745d778f78b230cf6061452",
-      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://gist.github.com/samsch...",
-      "score": 180
+      "title": "GPT‑NL: a sovereign language model for the Netherlands",
+      "url": "https://www.tno.nl/en/digital/artificial-intelligence/gpt-nl/",
+      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.tno.nl/en/digital/...",
+      "score": 154
     }
   ]
 }
