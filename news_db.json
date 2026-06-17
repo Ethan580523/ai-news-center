@@ -1,61 +1,61 @@
 {
-  "last_updated": "2026-06-17 04:09:45",
+  "last_updated": "2026-06-17 10:56:13",
   "news": [
+    {
+      "type": "HackerNews",
+      "title": "GLM-5.2 is the new leading open weights model on Artificial Analysis",
+      "url": "https://artificialanalysis.ai/articles/glm-5-2-is-the-new-leading-open-weights-model-on-the-artificial-analysis-intelligence-index",
+      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://artificialanalysis.ai/...",
+      "score": 83
+    },
+    {
+      "type": "HackerNews",
+      "title": "Show HN: High-Res Neural Cellular Automata",
+      "url": "https://cells2pixels.github.io/",
+      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://cells2pixels.github.io...",
+      "score": 38
+    },
     {
       "type": "HackerNews",
       "title": "GrapheneOS has been ported to Android 17",
       "url": "https://discuss.grapheneos.org/d/36469-grapheneos-has-been-ported-to-android-17-and-official-releases-are-coming-soon",
-      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://discuss.grapheneos.org...",
-      "score": 505
+      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://discuss.grapheneos.org...",
+      "score": 801
     },
     {
       "type": "HackerNews",
       "title": "Running local models is good now",
       "url": "https://vickiboykis.com/2026/06/15/running-local-models-is-good-now/",
       "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://vickiboykis.com/2026/0...",
-      "score": 1101
+      "score": 1359
     },
     {
       "type": "HackerNews",
-      "title": "SpaceX to buy Cursor for $60B",
-      "url": "https://www.reuters.com/legal/transactional/spacex-buy-anysphere-60-billion-2026-06-16/",
-      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.reuters.com/legal/...",
-      "score": 939
+      "title": "Hacker News but for Independent Blogs",
+      "url": "https://bubbles.town/",
+      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://bubbles.town/...",
+      "score": 112
+    },
+    {
+      "type": "HackerNews",
+      "title": "U.S. Science Is in Chaos",
+      "url": "https://www.scientificamerican.com/article/americas-compact-between-science-and-politics-is-broken/",
+      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.scientificamerican...",
+      "score": 53
     },
     {
       "type": "HackerNews",
       "title": "Humiliating IIS servers for fun and jail time",
       "url": "https://mll.sh/humiliating-iis-servers-for-fun-and-jail-time/",
-      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://mll.sh/humiliating-iis...",
-      "score": 136
+      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://mll.sh/humiliating-iis...",
+      "score": 277
     },
     {
       "type": "HackerNews",
-      "title": "Wolfram Language and Mathematica Version 15, AI Assistant, Symbolic Music, More",
-      "url": "https://writings.stephenwolfram.com/2026/06/launching-version-15-of-wolfram-language-mathematica-built-in-useful-ai-lots-of-new-core-functionality/",
-      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://writings.stephenwolfra...",
-      "score": 112
-    },
-    {
-      "type": "HackerNews",
-      "title": "TIL: You can make HTTP requests without curl using Bash /dev/TCP",
-      "url": "https://mareksuppa.com/til/bash-dev-tcp-http-without-curl/",
-      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://mareksuppa.com/til/bas...",
-      "score": 310
-    },
-    {
-      "type": "HackerNews",
-      "title": "Calvin and Hobbes and the price of integrity",
-      "url": "https://therepublicofletters.substack.com/p/calvin-and-hobbes-and-the-price-of",
-      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://therepublicofletters.s...",
-      "score": 327
-    },
-    {
-      "type": "HackerNews",
-      "title": "GPT‑NL: a sovereign language model for the Netherlands",
-      "url": "https://www.tno.nl/en/digital/artificial-intelligence/gpt-nl/",
-      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.tno.nl/en/digital/...",
-      "score": 154
+      "title": "The founder's playbook: Building an AI-native startup",
+      "url": "https://claude.com/blog/the-founders-playbook",
+      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://claude.com/blog/the-fo...",
+      "score": 97
     }
   ]
 }
