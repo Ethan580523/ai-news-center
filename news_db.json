@@ -1,61 +1,61 @@
 {
-  "last_updated": "2026-06-18 10:20:28",
+  "last_updated": "2026-06-18 15:24:26",
   "news": [
     {
       "type": "HackerNews",
-      "title": "Midjourney Medical",
-      "url": "https://www.midjourney.com/medical/blogpost",
-      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.midjourney.com/med...",
-      "score": 764
+      "title": "Emacs 31 Is Around the Corner: The Changes I'm Daily Driving",
+      "url": "https://www.rahuljuliato.com/posts/emacs-31-around-the-corner",
+      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.rahuljuliato.com/p...",
+      "score": 217
     },
     {
       "type": "HackerNews",
-      "title": "DeepSeek Introduces Vision",
-      "url": "https://chat.deepseek.com/",
-      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://chat.deepseek.com/...",
-      "score": 151
+      "title": "Ubiquiti: Enterprise NAS, Built on ZFS",
+      "url": "https://blog.ui.com/article/introducing-enterprise-nas",
+      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://blog.ui.com/article/in...",
+      "score": 50
     },
     {
       "type": "HackerNews",
-      "title": "I need your clothes, your boots, and your motorcycle",
-      "url": "https://rbelmont.mameworld.info/?p=1725",
-      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://rbelmont.mameworld.inf...",
-      "score": 25
+      "title": "Migrate from OpenClaw",
+      "url": "https://hermes-agent.nousresearch.com/docs/guides/migrate-from-openclaw",
+      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://hermes-agent.nousresea...",
+      "score": 48
     },
     {
       "type": "HackerNews",
-      "title": "Local Qwen isn't a worse Opus, it's a different tool",
-      "url": "https://blog.alexellis.io/local-ai-is-not-opus/",
-      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://blog.alexellis.io/loca...",
-      "score": 219
+      "title": "I found 10k GitHub repositories distributing Trojan malware",
+      "url": "https://orchidfiles.com/github-repositories-distributing-malware/",
+      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://orchidfiles.com/github...",
+      "score": 166
     },
     {
       "type": "HackerNews",
-      "title": "Lore – Open source version control system designed for scalability",
-      "url": "https://lore.org/",
-      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://lore.org/...",
-      "score": 1146
+      "title": "Swiss parliament lifts ban on new nuclear power plants",
+      "url": "https://www.bluewin.ch/en/news/switzerland/parliament-lifts-ban-on-new-nuclear-power-plants-3257535.html",
+      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.bluewin.ch/en/news...",
+      "score": 30
     },
     {
       "type": "HackerNews",
-      "title": "I hate compilers",
-      "url": "https://xeiaso.net/notes/2026/anubis-wasm-vendor-binary/",
-      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://xeiaso.net/notes/2026/...",
-      "score": 71
+      "title": "Launch HN: TesterArmy (YC P26) – Agents that test web and mobile apps",
+      "url": "https://tester.army",
+      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://tester.army...",
+      "score": 14
     },
     {
       "type": "HackerNews",
-      "title": "The Forge We Deserve",
-      "url": "https://btao.org/posts/2026-05-09-the-forge-we-deserve/",
-      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://btao.org/posts/2026-05...",
-      "score": 23
+      "title": "Has W Social switched to closed source?",
+      "url": "https://blog.elenarossini.com/w-social-public-institutions-and-the-theater-of-european-digital-sovereignty/",
+      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://blog.elenarossini.com/...",
+      "score": 99
     },
     {
       "type": "HackerNews",
-      "title": "AMD silently removes memory encryption from consumer Ryzen CPUs",
-      "url": "https://www.tomshardware.com/pc-components/cpus/amd-silently-removes-memory-encryption-from-consumer-ryzen-cpus-leaving-users-unaware-that-they-may-be-vulnerable-security-feature-vanishes-after-newer-agesa-firmware-amd-engineers-go-radio-silent-when-pressed-about-the-change",
-      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.tomshardware.com/p...",
-      "score": 105
+      "title": "Hospitals and universities repurposing drugs at 90% lower cost",
+      "url": "https://www.kcl.ac.uk/news/hospitals-and-universities-repurposing-drugs-at-90-lower-cost",
+      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.kcl.ac.uk/news/hos...",
+      "score": 144
     }
   ]
 }
