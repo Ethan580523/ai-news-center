@@ -1,61 +1,61 @@
 {
-  "last_updated": "2026-06-18 22:55:38",
+  "last_updated": "2026-06-19 04:20:20",
   "news": [
     {
       "type": "HackerNews",
-      "title": "I told them forced consent was unlawful. 5 years later it cost Elkjop €1.8M",
-      "url": "https://www.thatprivacyguy.com/blog/elkjop-forced-consent-fine/",
-      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.thatprivacyguy.com...",
-      "score": 144
+      "title": "To study how chips work, MIT researchers built their own operating system",
+      "url": "https://news.mit.edu/2026/to-study-how-chips-really-work-mit-researchers-built-their-own-operating-system-0610",
+      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://news.mit.edu/2026/to-s...",
+      "score": 80
     },
     {
       "type": "HackerNews",
-      "title": "Noam Shazeer Joins OpenAI",
-      "url": "https://twitter.com/NoamShazeer/status/2067400851438932297",
-      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://twitter.com/NoamShazee...",
-      "score": 233
+      "title": "Ice Water Drowning Survival After 147-Minute Submersion and Hypothermic Arrest",
+      "url": "https://www.jacc.org/doi/10.1016/j.jaccas.2025.104885",
+      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.jacc.org/doi/10.10...",
+      "score": 6
+    },
+    {
+      "type": "HackerNews",
+      "title": "How Japan's railways stayed one while splitting apart",
+      "url": "https://arun.is/blog/jr-logo/",
+      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://arun.is/blog/jr-logo/...",
+      "score": 63
+    },
+    {
+      "type": "HackerNews",
+      "title": "Zero-Touch OAuth for MCP",
+      "url": "https://blog.modelcontextprotocol.io/posts/enterprise-managed-auth/",
+      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://blog.modelcontextproto...",
+      "score": 137
     },
     {
       "type": "HackerNews",
       "title": "I found 10k GitHub repositories distributing Trojan malware",
       "url": "https://orchidfiles.com/github-repositories-distributing-malware/",
-      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://orchidfiles.com/github...",
-      "score": 608
+      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://orchidfiles.com/github...",
+      "score": 706
     },
     {
       "type": "HackerNews",
-      "title": "American Express: Cell-Based Architecture for Resilient Payment Systems",
+      "title": "Datasette Apps: Host custom HTML applications inside Datasette",
+      "url": "https://simonwillison.net/2026/Jun/18/datasette-apps/",
+      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://simonwillison.net/2026...",
+      "score": 44
+    },
+    {
+      "type": "HackerNews",
+      "title": "Building a robotics research setup that lives next to my desk",
+      "url": "https://dfdxlabs.com/research/2026/robotics-setup/",
+      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://dfdxlabs.com/research/...",
+      "score": 31
+    },
+    {
+      "type": "HackerNews",
+      "title": "Cell-based architecture for resilient payment systems",
       "url": "https://americanexpress.io/cell-based-architecture-for-resilient-payment-systems/",
       "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://americanexpress.io/cel...",
-      "score": 48
-    },
-    {
-      "type": "HackerNews",
-      "title": "Ubiquiti: Enterprise NAS, Built on ZFS",
-      "url": "https://blog.ui.com/article/introducing-enterprise-nas",
-      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://blog.ui.com/article/in...",
-      "score": 229
-    },
-    {
-      "type": "HackerNews",
-      "title": "The Korean telecom giant at the center of Anthropic's Mythos controversy",
-      "url": "https://www.wired.com/story/sk-telecom-anthropic-mythos-export-controls/",
-      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.wired.com/story/sk...",
-      "score": 68
-    },
-    {
-      "type": "HackerNews",
-      "title": "Everything Is BOM: Bill of Materials Encyclopedia",
-      "url": "https://bomwiki.com/",
-      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://bomwiki.com/...",
-      "score": 34
-    },
-    {
-      "type": "HackerNews",
-      "title": "Swiss parliament lifts ban on new nuclear power plants",
-      "url": "https://www.bluewin.ch/en/news/switzerland/parliament-lifts-ban-on-new-nuclear-power-plants-3257535.html",
-      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.bluewin.ch/en/news...",
-      "score": 636
+      "score": 104
     }
   ]
 }
