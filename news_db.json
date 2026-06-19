@@ -1,61 +1,61 @@
 {
-  "last_updated": "2026-06-19 15:17:53",
+  "last_updated": "2026-06-19 19:49:33",
   "news": [
+    {
+      "type": "HackerNews",
+      "title": "Hyundai buys Boston Dynamics",
+      "url": "https://startupfortune.com/hyundai-takes-full-control-of-boston-dynamics-as-softbank-exits-for-325-million/",
+      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://startupfortune.com/hyu...",
+      "score": 325
+    },
+    {
+      "type": "HackerNews",
+      "title": "There Are No Instances in ATProto",
+      "url": "https://overreacted.io/there-are-no-instances-in-atproto/",
+      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://overreacted.io/there-a...",
+      "score": 192
+    },
+    {
+      "type": "HackerNews",
+      "title": "Amateur may have cracked Linear A, a 120-year-old puzzle",
+      "url": "https://aiclambake.com/clamtakes/linear-a/",
+      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://aiclambake.com/clamtak...",
+      "score": 242
+    },
     {
       "type": "HackerNews",
       "title": "Project Valhalla, Explained: How a Decade of Work Arrives in JDK 28",
       "url": "https://www.jvm-weekly.com/p/project-valhalla-explained-how-a",
       "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.jvm-weekly.com/p/p...",
-      "score": 355
+      "score": 486
     },
     {
       "type": "HackerNews",
-      "title": "DuckDB Internals: Why Is DuckDB Fast? (Part 1)",
-      "url": "https://www.greybeam.ai/blog/duckdb-internals-part-1",
-      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.greybeam.ai/blog/d...",
-      "score": 302
+      "title": "A new bill takes aim at government pressure to silence lawful online speech",
+      "url": "https://www.eff.org/deeplinks/2026/06/new-bill-takes-aim-government-pressure-silence-lawful-online-speech",
+      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.eff.org/deeplinks/...",
+      "score": 112
     },
     {
       "type": "HackerNews",
-      "title": "The Productivity J-Curve [pdf] (2018)",
-      "url": "https://ide.mit.edu/sites/default/files/publications/jcurve.pdf",
-      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://ide.mit.edu/sites/defa...",
-      "score": 9
+      "title": "I used sound waves to make espresso. It could cut coffee‑brewing energy use by ¾",
+      "url": "https://theconversation.com/i-used-sound-waves-to-make-espresso-it-could-cut-coffee-brewing-energy-use-by-75-284929",
+      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://theconversation.com/i-...",
+      "score": 52
     },
     {
       "type": "HackerNews",
-      "title": "Zen and the Art of Machine Learning Research",
-      "url": "https://blog.jxmo.io/p/zen-and-the-art-of-machine-learning",
-      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://blog.jxmo.io/p/zen-and...",
-      "score": 146
+      "title": "Google workspace threatening to block Firefox access",
+      "url": "https://tales.fromprod.com/2026/169/google-workspace-threatening-to-block-firefox.html",
+      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://tales.fromprod.com/202...",
+      "score": 221
     },
     {
       "type": "HackerNews",
-      "title": "Ten years of ClickHouse in open source",
-      "url": "https://clickhouse.com/blog/open-source-10",
-      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://clickhouse.com/blog/op...",
-      "score": 157
-    },
-    {
-      "type": "HackerNews",
-      "title": "To study how chips work, MIT researchers built their own operating system",
-      "url": "https://news.mit.edu/2026/to-study-how-chips-really-work-mit-researchers-built-their-own-operating-system-0610",
-      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://news.mit.edu/2026/to-s...",
-      "score": 275
-    },
-    {
-      "type": "HackerNews",
-      "title": "\"No Feigning Surprise\"",
-      "url": "https://wizardzines.com/comics/surprise/",
-      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://wizardzines.com/comics...",
-      "score": 40
-    },
-    {
-      "type": "HackerNews",
-      "title": "I found 10k GitHub repositories distributing Trojan malware",
-      "url": "https://orchidfiles.com/github-repositories-distributing-malware/",
-      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://orchidfiles.com/github...",
-      "score": 876
+      "title": "This 1976 University Experiment Spun Up the U.S. Wind Industry",
+      "url": "https://spectrum.ieee.org/william-heronemus-wind-energy",
+      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://spectrum.ieee.org/will...",
+      "score": 31
     }
   ]
 }
