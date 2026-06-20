@@ -1,61 +1,61 @@
 {
-  "last_updated": "2026-06-20 16:18:06",
+  "last_updated": "2026-06-20 19:26:22",
   "news": [
     {
       "type": "HackerNews",
-      "title": "CSSQuake",
-      "url": "https://cssquake.com/",
-      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://cssquake.com/...",
-      "score": 278
+      "title": "Agency stole bestselling author's book, used AI to relaunch as their own",
+      "url": "https://waxy.org/2026/06/the-wholesale-plagiarism-of-obscure-sorrows/",
+      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://waxy.org/2026/06/the-w...",
+      "score": 185
     },
     {
       "type": "HackerNews",
-      "title": "The European Social Stack",
-      "url": "https://european.social",
-      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://european.social...",
-      "score": 49
+      "title": "SMPTE Makes Its Standards Freely Accessible",
+      "url": "https://www.smpte.org/blog/smpte-makes-its-standards-freely-accessible-openingstandards-library-to-the-global-media-technology-community",
+      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.smpte.org/blog/smp...",
+      "score": 88
+    },
+    {
+      "type": "HackerNews",
+      "title": "UHF X11: X11 Built for VisionOS and Apple Vision Pro",
+      "url": "https://www.lispm.net/apps/uhf-x11/",
+      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.lispm.net/apps/uhf...",
+      "score": 59
     },
     {
       "type": "HackerNews",
       "title": "DOS Game \"F-15 Strike Eagle II\" reversing project needs DOS test pilots",
       "url": "https://neuviemeporte.github.io/f15-se2/2026/06/20/needyou.html",
-      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://neuviemeporte.github.i...",
-      "score": 25
+      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://neuviemeporte.github.i...",
+      "score": 98
     },
     {
       "type": "HackerNews",
-      "title": "VPN ban update for UK households as government looks at 'age-gate'",
-      "url": "https://www.birminghammail.co.uk/news/midlands-news/vpn-ban-update-uk-households-34141063",
-      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.birminghammail.co....",
-      "score": 80
+      "title": "CSSQuake",
+      "url": "https://cssquake.com/",
+      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://cssquake.com/...",
+      "score": 367
     },
     {
       "type": "HackerNews",
-      "title": "Web Browsers on PDAS",
-      "url": "https://vale.rocks/posts/pda-browsers",
-      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://vale.rocks/posts/pda-b...",
-      "score": 15
+      "title": "Show HN: StartupWiki – A Free Alternative to Crunchbase",
+      "url": "https://startupwiki.tech/",
+      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://startupwiki.tech/...",
+      "score": 59
     },
     {
       "type": "HackerNews",
-      "title": "Cargo-Geiger",
-      "url": "https://github.com/geiger-rs/cargo-geiger",
-      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://github.com/geiger-rs/c...",
-      "score": 11
+      "title": "Show HN: We post-trained a model that pen tests instead of refusing",
+      "url": "https://www.argusred.com/cli",
+      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.argusred.com/cli...",
+      "score": 24
     },
     {
       "type": "HackerNews",
-      "title": "Bootimus – A Self-Contained PXE and HTTP Boot Server",
-      "url": "https://bootimus.com",
-      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://bootimus.com...",
-      "score": 58
-    },
-    {
-      "type": "HackerNews",
-      "title": "From PGP to Mythos: a brief history of export controls that didn't stop anyone",
-      "url": "https://techcrunch.com/2026/06/19/encryption-spyware-and-now-mythos-history-shows-why-cyber-export-control-doesnt-work/",
-      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://techcrunch.com/2026/06...",
-      "score": 71
+      "title": "Ember, a native iOS Hacker News reader I built around accessibility",
+      "url": "https://github.com/DatanoiseTV/ember-hackernews",
+      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://github.com/DatanoiseTV...",
+      "score": 52
     }
   ]
 }
