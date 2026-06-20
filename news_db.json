@@ -1,61 +1,61 @@
 {
-  "last_updated": "2026-06-20 03:41:28",
+  "last_updated": "2026-06-20 08:56:22",
   "news": [
     {
       "type": "HackerNews",
-      "title": "How to feed a dictator",
-      "url": "https://www.theguardian.com/film/2026/jun/09/how-to-feed-a-dictator-film",
-      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.theguardian.com/fi...",
-      "score": 89
+      "title": "I Stored a Website in a Favicon",
+      "url": "https://www.timwehrle.de/blog/i-stored-a-website-in-a-favicon/",
+      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.timwehrle.de/blog/...",
+      "score": 102
     },
     {
       "type": "HackerNews",
-      "title": "Think of the children: How to force real ID for all internet traffic (2023)",
-      "url": "https://nochan.net/b/Internet-Crap/20230829-Think-Of-The-Children/",
-      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://nochan.net/b/Internet-...",
-      "score": 143
+      "title": "Data Compression Explained (2012)",
+      "url": "https://mattmahoney.net/dc/dce.html",
+      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://mattmahoney.net/dc/dce...",
+      "score": 111
+    },
+    {
+      "type": "HackerNews",
+      "title": "Where to Find the Colors Your Screen Can't Show You",
+      "url": "https://moultano.wordpress.com/2026/06/19/where-to-find-the-colors-your-screen-cant-show-you/",
+      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://moultano.wordpress.com...",
+      "score": 87
     },
     {
       "type": "HackerNews",
       "title": "There are no instances in ATProto",
       "url": "https://overreacted.io/there-are-no-instances-in-atproto/",
       "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://overreacted.io/there-a...",
-      "score": 364
+      "score": 432
     },
     {
       "type": "HackerNews",
-      "title": "Norway imposes near ban on AI in elementary school",
-      "url": "https://www.reuters.com/technology/norway-imposes-near-ban-ai-elementary-school-2026-06-19/",
-      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.reuters.com/techno...",
-      "score": 495
+      "title": "Can you see three trees?",
+      "url": "https://www.not-ship.com/can-you-see-three-trees/",
+      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.not-ship.com/can-y...",
+      "score": 99
     },
     {
       "type": "HackerNews",
-      "title": "I used sound waves to make espresso",
-      "url": "https://theconversation.com/i-used-sound-waves-to-make-espresso-it-could-cut-coffee-brewing-energy-use-by-75-284929",
-      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://theconversation.com/i-...",
-      "score": 215
+      "title": "The discovery that changed how scientists think about memory",
+      "url": "https://www.ibm.com/think/news/discovery-changed-how-scientists-think-about-memory-kavli-prize",
+      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.ibm.com/think/news...",
+      "score": 49
     },
     {
       "type": "HackerNews",
-      "title": "Surprising Economics of Load-Balanced Systems",
+      "title": "Surprising economics of load-balanced systems",
       "url": "https://brooker.co.za/blog/2020/08/06/erlang.html",
-      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://brooker.co.za/blog/202...",
-      "score": 55
+      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://brooker.co.za/blog/202...",
+      "score": 106
     },
     {
       "type": "HackerNews",
       "title": "Hyundai buys Boston Dynamics",
       "url": "https://startupfortune.com/hyundai-takes-full-control-of-boston-dynamics-as-softbank-exits-for-325-million/",
       "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://startupfortune.com/hyu...",
-      "score": 699
-    },
-    {
-      "type": "HackerNews",
-      "title": "Data Compression Explained",
-      "url": "https://mattmahoney.net/dc/dce.html",
-      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://mattmahoney.net/dc/dce...",
-      "score": 8
+      "score": 807
     }
   ]
 }
