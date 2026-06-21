@@ -1,61 +1,61 @@
 {
-  "last_updated": "2026-06-21 19:41:21",
+  "last_updated": "2026-06-21 22:14:53",
   "news": [
     {
       "type": "HackerNews",
-      "title": "Prefer duplication over the wrong abstraction (2016)",
-      "url": "https://sandimetz.com/blog/2016/1/20/the-wrong-abstraction",
-      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://sandimetz.com/blog/201...",
-      "score": 285
+      "title": "Apertus – Open Foundation Model for Sovereign AI",
+      "url": "https://apertvs.ai/",
+      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://apertvs.ai/...",
+      "score": 40
+    },
+    {
+      "type": "HackerNews",
+      "title": "Everything Is Logarithms",
+      "url": "https://alexkritchevsky.com/2026/05/25/everything-is-logarithms.html",
+      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://alexkritchevsky.com/20...",
+      "score": 33
     },
     {
       "type": "HackerNews",
       "title": "JSON-LD Explained for Personal Websites",
       "url": "https://hawksley.dev/blog/json-ld-explained-for-personal-websites/",
-      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://hawksley.dev/blog/json...",
+      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://hawksley.dev/blog/json...",
+      "score": 119
+    },
+    {
+      "type": "HackerNews",
+      "title": "Stop wasting tokens and re explaining your project between sessions",
+      "url": "https://github.com/raiyanyahya/recall",
+      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://github.com/raiyanyahya...",
+      "score": 18
+    },
+    {
+      "type": "HackerNews",
+      "title": "PowerFox Browser",
+      "url": "https://powerfox.jazzzny.me/",
+      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://powerfox.jazzzny.me/...",
       "score": 15
     },
     {
       "type": "HackerNews",
-      "title": "Beyond All Reason (Free Total Annihilation Inspired RTS)",
-      "url": "https://www.beyondallreason.info",
-      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.beyondallreason.in...",
-      "score": 344
-    },
-    {
-      "type": "HackerNews",
-      "title": "(How to Write a (Lisp) Interpreter (In Python)) (2010)",
-      "url": "https://norvig.com/lispy.html",
-      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://norvig.com/lispy.html...",
-      "score": 107
-    },
-    {
-      "type": "HackerNews",
-      "title": "The minimum viable unit of saleable software",
-      "url": "https://brandur.org/minimum-viable-unit",
-      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://brandur.org/minimum-vi...",
-      "score": 52
+      "title": "Prefer duplication over the wrong abstraction (2016)",
+      "url": "https://sandimetz.com/blog/2016/1/20/the-wrong-abstraction",
+      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://sandimetz.com/blog/201...",
+      "score": 383
     },
     {
       "type": "HackerNews",
       "title": "Identity verification on Claude",
       "url": "https://support.claude.com/en/articles/14328960-identity-verification-on-claude",
       "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://support.claude.com/en/...",
-      "score": 262
+      "score": 460
     },
     {
       "type": "HackerNews",
-      "title": "Show HN: CleverCrow: give tokens to your favorite projects",
-      "url": "https://clevercrow.io",
-      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://clevercrow.io...",
-      "score": 3
-    },
-    {
-      "type": "HackerNews",
-      "title": "Occupancy Math on the AMD MI355X: A From-First-Principles Guide",
-      "url": "https://indianspeedster.github.io/blog/occupancy-math-mi355x/",
-      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://indianspeedster.github...",
-      "score": 26
+      "title": "Beyond All Reason (Free Total Annihilation Inspired RTS)",
+      "url": "https://www.beyondallreason.info",
+      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.beyondallreason.in...",
+      "score": 399
     }
   ]
 }
