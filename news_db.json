@@ -1,61 +1,61 @@
 {
-  "last_updated": "2026-06-21 16:45:22",
+  "last_updated": "2026-06-21 19:41:21",
   "news": [
     {
       "type": "HackerNews",
-      "title": "(How to Write a (Lisp) Interpreter (In Python))",
-      "url": "https://norvig.com/lispy.html",
-      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://norvig.com/lispy.html...",
-      "score": 38
+      "title": "Prefer duplication over the wrong abstraction (2016)",
+      "url": "https://sandimetz.com/blog/2016/1/20/the-wrong-abstraction",
+      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://sandimetz.com/blog/201...",
+      "score": 285
     },
     {
       "type": "HackerNews",
-      "title": "Code duplication is far cheaper than the wrong abstraction",
-      "url": "https://sandimetz.com/blog/2016/1/20/the-wrong-abstraction",
-      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://sandimetz.com/blog/201...",
-      "score": 21
+      "title": "JSON-LD Explained for Personal Websites",
+      "url": "https://hawksley.dev/blog/json-ld-explained-for-personal-websites/",
+      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://hawksley.dev/blog/json...",
+      "score": 15
     },
     {
       "type": "HackerNews",
       "title": "Beyond All Reason (Free Total Annihilation Inspired RTS)",
       "url": "https://www.beyondallreason.info",
-      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.beyondallreason.in...",
+      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.beyondallreason.in...",
+      "score": 344
+    },
+    {
+      "type": "HackerNews",
+      "title": "(How to Write a (Lisp) Interpreter (In Python)) (2010)",
+      "url": "https://norvig.com/lispy.html",
+      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://norvig.com/lispy.html...",
+      "score": 107
+    },
+    {
+      "type": "HackerNews",
+      "title": "The minimum viable unit of saleable software",
+      "url": "https://brandur.org/minimum-viable-unit",
+      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://brandur.org/minimum-vi...",
+      "score": 52
+    },
+    {
+      "type": "HackerNews",
+      "title": "Identity verification on Claude",
+      "url": "https://support.claude.com/en/articles/14328960-identity-verification-on-claude",
+      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://support.claude.com/en/...",
       "score": 262
     },
     {
       "type": "HackerNews",
-      "title": "Who Owns Your ATProto Identity? Hint: It's Probably Not You",
-      "url": "https://kevinak.se/blog/who-actually-owns-your-atproto-identity-hint-its-probably-not-you",
-      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://kevinak.se/blog/who-ac...",
-      "score": 90
+      "title": "Show HN: CleverCrow: give tokens to your favorite projects",
+      "url": "https://clevercrow.io",
+      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://clevercrow.io...",
+      "score": 3
     },
     {
       "type": "HackerNews",
-      "title": "Commodore Made a Digital Detox Phone That Isn't Dumb",
-      "url": "https://www.wired.me/story/commodore-made-a-digital-detox-phone-that-isnt-dumb",
-      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.wired.me/story/com...",
-      "score": 59
-    },
-    {
-      "type": "HackerNews",
-      "title": "System call instrumentation on Linux/x86‑64 using memory‑indirect calls, part I",
-      "url": "https://www.humprog.org/~stephen/blog/2026/06/15/#system-call-instrumentation-on-intel-negative-result",
-      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.humprog.org/~steph...",
-      "score": 12
-    },
-    {
-      "type": "HackerNews",
-      "title": "Google Hits 50% IPv6",
-      "url": "https://blog.apnic.net/2026/04/28/google-hits-50-ipv6/",
-      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://blog.apnic.net/2026/04...",
-      "score": 324
-    },
-    {
-      "type": "HackerNews",
-      "title": "Fossil Fuels Are 40% of Freight Shipping Tonnage, but Half Its Fuel Use",
-      "url": "https://cleantechnica.com/2026/06/16/shipping-freight-energy-fossil-cargo/",
-      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://cleantechnica.com/2026...",
-      "score": 43
+      "title": "Occupancy Math on the AMD MI355X: A From-First-Principles Guide",
+      "url": "https://indianspeedster.github.io/blog/occupancy-math-mi355x/",
+      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://indianspeedster.github...",
+      "score": 26
     }
   ]
 }
