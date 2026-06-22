@@ -1,61 +1,61 @@
 {
-  "last_updated": "2026-06-21 22:14:53",
+  "last_updated": "2026-06-22 04:16:29",
   "news": [
+    {
+      "type": "HackerNews",
+      "title": "Did my old job only exist because of fraud?",
+      "url": "https://david.newgas.net/did-my-old-job-only-exist-because-of-fraud/",
+      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://david.newgas.net/did-m...",
+      "score": 315
+    },
     {
       "type": "HackerNews",
       "title": "Apertus – Open Foundation Model for Sovereign AI",
       "url": "https://apertvs.ai/",
-      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://apertvs.ai/...",
-      "score": 40
+      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://apertvs.ai/...",
+      "score": 264
     },
     {
       "type": "HackerNews",
-      "title": "Everything Is Logarithms",
+      "title": "Help I accidentally a wigglegram",
+      "url": "https://lmao.center/blog/wiggle-accidents/",
+      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://lmao.center/blog/wiggl...",
+      "score": 48
+    },
+    {
+      "type": "HackerNews",
+      "title": "Sakana Fugu",
+      "url": "https://sakana.ai/fugu/",
+      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://sakana.ai/fugu/...",
+      "score": 54
+    },
+    {
+      "type": "HackerNews",
+      "title": "Memory Safe Inline Assembly",
+      "url": "https://fil-c.org/inlineasm",
+      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://fil-c.org/inlineasm...",
+      "score": 47
+    },
+    {
+      "type": "HackerNews",
+      "title": "Everything is logarithms",
       "url": "https://alexkritchevsky.com/2026/05/25/everything-is-logarithms.html",
-      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://alexkritchevsky.com/20...",
-      "score": 33
+      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://alexkritchevsky.com/20...",
+      "score": 147
     },
     {
       "type": "HackerNews",
-      "title": "JSON-LD Explained for Personal Websites",
-      "url": "https://hawksley.dev/blog/json-ld-explained-for-personal-websites/",
-      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://hawksley.dev/blog/json...",
-      "score": 119
+      "title": "There is minimal downside to switching to open models",
+      "url": "https://www.marble.onl/posts/cancel_claude.html",
+      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.marble.onl/posts/c...",
+      "score": 103
     },
     {
       "type": "HackerNews",
-      "title": "Stop wasting tokens and re explaining your project between sessions",
-      "url": "https://github.com/raiyanyahya/recall",
-      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://github.com/raiyanyahya...",
-      "score": 18
-    },
-    {
-      "type": "HackerNews",
-      "title": "PowerFox Browser",
-      "url": "https://powerfox.jazzzny.me/",
-      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://powerfox.jazzzny.me/...",
-      "score": 15
-    },
-    {
-      "type": "HackerNews",
-      "title": "Prefer duplication over the wrong abstraction (2016)",
-      "url": "https://sandimetz.com/blog/2016/1/20/the-wrong-abstraction",
-      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://sandimetz.com/blog/201...",
-      "score": 383
-    },
-    {
-      "type": "HackerNews",
-      "title": "Identity verification on Claude",
-      "url": "https://support.claude.com/en/articles/14328960-identity-verification-on-claude",
-      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://support.claude.com/en/...",
-      "score": 460
-    },
-    {
-      "type": "HackerNews",
-      "title": "Beyond All Reason (Free Total Annihilation Inspired RTS)",
-      "url": "https://www.beyondallreason.info",
-      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.beyondallreason.in...",
-      "score": 399
+      "title": "The Flat Curve Society",
+      "url": "https://steve-yegge.medium.com/the-flat-curve-society-36c8b01eb33b",
+      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://steve-yegge.medium.com...",
+      "score": 13
     }
   ]
 }
