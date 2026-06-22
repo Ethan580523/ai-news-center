@@ -1,61 +1,61 @@
 {
-  "last_updated": "2026-06-22 20:48:21",
+  "last_updated": "2026-06-22 22:47:20",
   "news": [
     {
       "type": "HackerNews",
       "title": "Steam Machine launches today",
       "url": "https://store.steampowered.com/news/group/45479024/view/685257114654870245",
-      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://store.steampowered.com...",
-      "score": 735
+      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://store.steampowered.com...",
+      "score": 987
     },
     {
       "type": "HackerNews",
-      "title": "British Columbia, Time Zones, and Postgres",
-      "url": "https://www.crunchydata.com/blog/british-columbia-and-time-zone-changes",
-      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.crunchydata.com/bl...",
-      "score": 38
+      "title": "Nearly Half of LG Smart TV Apps Contain Residential Proxy SDKs",
+      "url": "https://spur.us/blog/smart-tv-apps-residential-proxy-sdks",
+      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://spur.us/blog/smart-tv-...",
+      "score": 78
     },
     {
       "type": "HackerNews",
-      "title": "My Mathematical Regression",
-      "url": "https://blog.dahl.dev/posts/my-mathematical-regression/",
-      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://blog.dahl.dev/posts/my...",
-      "score": 117
-    },
-    {
-      "type": "HackerNews",
-      "title": "Deno Desktop",
-      "url": "https://docs.deno.com/runtime/desktop/",
-      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://docs.deno.com/runtime/...",
-      "score": 956
-    },
-    {
-      "type": "HackerNews",
-      "title": "Moebius: 0.2B image inpainting model with 10B-level performance",
-      "url": "https://hustvl.github.io/Moebius/",
-      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://hustvl.github.io/Moebi...",
-      "score": 176
-    },
-    {
-      "type": "HackerNews",
-      "title": "Show HN: Oak – Git replacement designed for agents",
-      "url": "https://oak.space/oak/oak",
-      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://oak.space/oak/oak...",
-      "score": 97
+      "title": "Unsloth GLM-5.2 – How to Run Locally",
+      "url": "https://unsloth.ai/docs/models/glm-5.2",
+      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://unsloth.ai/docs/models...",
+      "score": 34
     },
     {
       "type": "HackerNews",
       "title": "Optocam Zero: a Pi Zero based digital camera made using off the shelf components",
       "url": "https://github.com/dorukkumkumoglu/optocamzero",
       "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://github.com/dorukkumkum...",
-      "score": 19
+      "score": 63
     },
     {
       "type": "HackerNews",
-      "title": "Blogger defeats photographer's copyright claim",
-      "url": "https://blog.ericgoldman.org/archives/2026/06/blogger-defeats-photographers-copyright-claim-sokolskyfilm-v-messiah.htm",
-      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://blog.ericgoldman.org/a...",
-      "score": 56
+      "title": "British Columbia, Time Zones, and Postgres",
+      "url": "https://www.crunchydata.com/blog/british-columbia-and-time-zone-changes",
+      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.crunchydata.com/bl...",
+      "score": 76
+    },
+    {
+      "type": "HackerNews",
+      "title": "Japanese symbols that speak without words",
+      "url": "https://arun.is/blog/japan-symbols/",
+      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://arun.is/blog/japan-sym...",
+      "score": 63
+    },
+    {
+      "type": "HackerNews",
+      "title": "My Mathematical Regression",
+      "url": "https://blog.dahl.dev/posts/my-mathematical-regression/",
+      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://blog.dahl.dev/posts/my...",
+      "score": 158
+    },
+    {
+      "type": "HackerNews",
+      "title": "Moebius: 0.2B image inpainting model with 10B-level performance",
+      "url": "https://hustvl.github.io/Moebius/",
+      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://hustvl.github.io/Moebi...",
+      "score": 197
     }
   ]
 }
