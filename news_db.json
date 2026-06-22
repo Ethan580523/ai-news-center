@@ -1,60 +1,60 @@
 {
-  "last_updated": "2026-06-22 11:54:49",
+  "last_updated": "2026-06-22 16:58:23",
   "news": [
+    {
+      "type": "HackerNews",
+      "title": "Never Give Them Your Face",
+      "url": "https://nevergivethemyourface.com/",
+      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://nevergivethemyourface....",
+      "score": 532
+    },
+    {
+      "type": "HackerNews",
+      "title": "Pledging Another $400k to the Zig Software Foundation",
+      "url": "https://mitchellh.com/writing/zig-donation-2026",
+      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://mitchellh.com/writing/...",
+      "score": 470
+    },
+    {
+      "type": "HackerNews",
+      "title": "Claude Code's \"extended thinking\" is a summary- not authentic thinking",
+      "url": "https://patrickmccanna.net/the-text-in-claude-codes-extended-thinking-output-is-not-authentic/",
+      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://patrickmccanna.net/the...",
+      "score": 136
+    },
+    {
+      "type": "HackerNews",
+      "title": "Moebius: 0.2B image inpainting model with 10B-level performance",
+      "url": "https://hustvl.github.io/Moebius/",
+      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://hustvl.github.io/Moebi...",
+      "score": 82
+    },
     {
       "type": "HackerNews",
       "title": "Deno Desktop",
       "url": "https://docs.deno.com/runtime/desktop/",
-      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://docs.deno.com/runtime/...",
-      "score": 517
-    },
-    {
-      "type": "HackerNews",
-      "title": "Help I accidentally a wigglegram",
-      "url": "https://lmao.center/blog/wiggle-accidents/",
-      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://lmao.center/blog/wiggl...",
-      "score": 304
+      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://docs.deno.com/runtime/...",
+      "score": 830
     },
     {
       "type": "HackerNews",
       "title": "Codex logging bug may write TBs to local SSDs",
       "url": "https://github.com/openai/codex/issues/28224",
-      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://github.com/openai/code...",
-      "score": 142
+      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://github.com/openai/code...",
+      "score": 334
     },
     {
       "type": "HackerNews",
-      "title": "Did my old job only exist because of fraud?",
-      "url": "https://david.newgas.net/did-my-old-job-only-exist-because-of-fraud/",
-      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://david.newgas.net/did-m...",
-      "score": 615
+      "title": "GLM 5.2 vs. Opus",
+      "url": "https://techstackups.com/comparisons/glm-5.2-vs-opus/",
+      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://techstackups.com/compa...",
+      "score": 366
     },
     {
       "type": "HackerNews",
-      "title": "Apertus – Open Foundation Model for Sovereign AI",
-      "url": "https://apertvs.ai/",
-      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://apertvs.ai/...",
-      "score": 430
-    },
-    {
-      "type": "HackerNews",
-      "title": "Investors get real-time view of UK bond market activity for the first time",
-      "url": "https://www.fca.org.uk/news/press-releases/investors-get-real-time-view-uk-bond-market-activity-first-time",
-      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.fca.org.uk/news/pr...",
-      "score": 38
-    },
-    {
-      "type": "HackerNews",
-      "title": "Munich 1991: The Roots of the Current AI Boom",
-      "url": "https://people.idsia.ch/~juergen/ai-boom-roots-munich-1991.html",
-      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://people.idsia.ch/~juerg...",
-      "score": 95
-    },
-    {
-      "type": "HackerNews",
-      "title": "Writing Postcards with a 3D Printer",
-      "url": "https://severinbucher.com/posts/writing-postcards-with-a-3d-printer/",
-      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://severinbucher.com/post...",
+      "title": "Nintendo Wii U games running from a 1980's Bernoulli disk [video]",
+      "url": "https://www.youtube.com/watch?v=8GZDOpV2OXk",
+      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.youtube.com/watch?...",
       "score": 21
     }
   ]
