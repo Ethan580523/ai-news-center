@@ -1,61 +1,61 @@
 {
-  "last_updated": "2026-06-23 17:17:15",
+  "last_updated": "2026-06-23 20:05:46",
   "news": [
     {
       "type": "HackerNews",
-      "title": "Show HN: TikZ Editor – WYSIWYG editor for figures in LaTeX",
-      "url": "https://tikz.dev/editor/",
-      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://tikz.dev/editor/...",
-      "score": 197
+      "title": "Jerry's Map",
+      "url": "http://www.jerrysmap.com/the-map",
+      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：http://www.jerrysmap.com/the-m...",
+      "score": 113
     },
     {
       "type": "HackerNews",
-      "title": "Unlimited OCR: One-Shot Long-Horizon Parsing",
-      "url": "https://github.com/baidu/Unlimited-OCR",
-      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://github.com/baidu/Unlim...",
-      "score": 317
+      "title": "Anthropic updates their terms to verify age or identity",
+      "url": "https://www.anthropic.com/legal/privacy",
+      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.anthropic.com/lega...",
+      "score": 36
+    },
+    {
+      "type": "HackerNews",
+      "title": "Swift Package Index joins Apple",
+      "url": "https://swiftpackageindex.com/blog/swift-package-index-joins-apple",
+      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://swiftpackageindex.com/...",
+      "score": 87
     },
     {
       "type": "HackerNews",
       "title": "F3",
       "url": "https://github.com/future-file-format/f3",
       "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://github.com/future-file...",
-      "score": 20
+      "score": 487
     },
     {
       "type": "HackerNews",
-      "title": "Spying on kids to save kids from spying is stupid",
-      "url": "https://pluralistic.net/2026/06/23/destroy-the-village/",
-      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://pluralistic.net/2026/0...",
-      "score": 365
+      "title": "Show HN: TikZ Editor – WYSIWYG editor for figures in LaTeX",
+      "url": "https://tikz.dev/editor/",
+      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://tikz.dev/editor/...",
+      "score": 267
     },
     {
       "type": "HackerNews",
-      "title": "Lift4D: Harmonizing Single-View 3D Estimation for 4D Reconstruction In-the-Wild",
-      "url": "https://lift4d.github.io/",
-      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://lift4d.github.io/...",
-      "score": 56
+      "title": "The worthlessness of Vitamin D is mildly exaggerated",
+      "url": "https://dynomight.net/vitamin-d/",
+      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://dynomight.net/vitamin-...",
+      "score": 65
     },
     {
       "type": "HackerNews",
-      "title": "Five monitors on a Commodore 128 [video]",
-      "url": "https://www.youtube.com/watch?v=ul5hC3PY1Yg",
-      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.youtube.com/watch?...",
-      "score": 30
+      "title": "Unlimited OCR: One-shot long-horizon parsing",
+      "url": "https://github.com/baidu/Unlimited-OCR",
+      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://github.com/baidu/Unlim...",
+      "score": 382
     },
     {
       "type": "HackerNews",
-      "title": "Mistral OCR 4",
-      "url": "https://mistral.ai/news/ocr-4/",
-      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://mistral.ai/news/ocr-4/...",
-      "score": 229
-    },
-    {
-      "type": "HackerNews",
-      "title": "Show HN: Bun-sqlgen – Type-safe raw SQL for Bun, no ORM",
-      "url": "https://github.com/ilbertt/bun-sqlgen",
-      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://github.com/ilbertt/bun...",
-      "score": 39
+      "title": "San Diego photologs from the 1970s",
+      "url": "https://www.beautifulpublicdata.com/san-diego-photologs-from-the-1970s/",
+      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.beautifulpublicdat...",
+      "score": 109
     }
   ]
 }
