@@ -1,61 +1,61 @@
 {
-  "last_updated": "2026-06-23 14:48:57",
+  "last_updated": "2026-06-23 17:17:15",
   "news": [
     {
       "type": "HackerNews",
-      "title": "Elevated error rate across multiple models",
-      "url": "https://status.claude.com/incidents/jbhf20wjmzrf",
-      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://status.claude.com/inci...",
-      "score": 104
+      "title": "Show HN: TikZ Editor – WYSIWYG editor for figures in LaTeX",
+      "url": "https://tikz.dev/editor/",
+      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://tikz.dev/editor/...",
+      "score": 197
     },
     {
       "type": "HackerNews",
       "title": "Unlimited OCR: One-Shot Long-Horizon Parsing",
       "url": "https://github.com/baidu/Unlimited-OCR",
-      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://github.com/baidu/Unlim...",
-      "score": 197
+      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://github.com/baidu/Unlim...",
+      "score": 317
+    },
+    {
+      "type": "HackerNews",
+      "title": "F3",
+      "url": "https://github.com/future-file-format/f3",
+      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://github.com/future-file...",
+      "score": 20
     },
     {
       "type": "HackerNews",
       "title": "Spying on kids to save kids from spying is stupid",
       "url": "https://pluralistic.net/2026/06/23/destroy-the-village/",
       "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://pluralistic.net/2026/0...",
-      "score": 73
+      "score": 365
     },
     {
       "type": "HackerNews",
-      "title": "Steam Machine launches today",
-      "url": "https://store.steampowered.com/news/group/45479024/view/685257114654870245",
-      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://store.steampowered.com...",
-      "score": 1770
+      "title": "Lift4D: Harmonizing Single-View 3D Estimation for 4D Reconstruction In-the-Wild",
+      "url": "https://lift4d.github.io/",
+      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://lift4d.github.io/...",
+      "score": 56
     },
     {
       "type": "HackerNews",
-      "title": "MSG Made Dossier on Activists Who Opposed Facial Recognition",
-      "url": "https://www.404media.co/madison-square-garden-made-dossier-on-activists-who-opposed-facial-recognition/",
-      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.404media.co/madiso...",
-      "score": 72
+      "title": "Five monitors on a Commodore 128 [video]",
+      "url": "https://www.youtube.com/watch?v=ul5hC3PY1Yg",
+      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.youtube.com/watch?...",
+      "score": 30
     },
     {
       "type": "HackerNews",
       "title": "Mistral OCR 4",
       "url": "https://mistral.ai/news/ocr-4/",
-      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://mistral.ai/news/ocr-4/...",
-      "score": 44
-    },
-    {
-      "type": "HackerNews",
-      "title": "Plotnine",
-      "url": "https://plotnine.org/",
-      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://plotnine.org/...",
-      "score": 147
+      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://mistral.ai/news/ocr-4/...",
+      "score": 229
     },
     {
       "type": "HackerNews",
       "title": "Show HN: Bun-sqlgen – Type-safe raw SQL for Bun, no ORM",
       "url": "https://github.com/ilbertt/bun-sqlgen",
-      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://github.com/ilbertt/bun...",
-      "score": 11
+      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://github.com/ilbertt/bun...",
+      "score": 39
     }
   ]
 }
