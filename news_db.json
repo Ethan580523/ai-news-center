@@ -1,61 +1,61 @@
 {
-  "last_updated": "2026-06-23 22:12:55",
+  "last_updated": "2026-06-24 03:36:29",
   "news": [
     {
       "type": "HackerNews",
-      "title": "German Rail Service Suspended Due to Radio Interference",
-      "url": "https://www.bluewin.ch/en/news/german-rail-service-suspended-due-to-radio-interference-li.3295297",
-      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.bluewin.ch/en/news...",
-      "score": 79
+      "title": "Vulnerability reports are not special anymore",
+      "url": "https://words.filippo.io/vuln-reports/",
+      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://words.filippo.io/vuln-...",
+      "score": 110
     },
     {
       "type": "HackerNews",
       "title": "Jerry's Map",
       "url": "http://www.jerrysmap.com/the-map",
-      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：http://www.jerrysmap.com/the-m...",
-      "score": 250
+      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：http://www.jerrysmap.com/the-m...",
+      "score": 355
     },
     {
       "type": "HackerNews",
-      "title": "All train services in Germany halted after train radio communications disruption",
-      "url": "https://english.news.cn/20260624/65f1b6192cd947e28849776a5aef05c6/c.html",
-      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://english.news.cn/202606...",
-      "score": 63
-    },
-    {
-      "type": "HackerNews",
-      "title": "Don't verify email addresses by sending spam to them",
-      "url": "https://milek7.pl/mailverifyspam/",
-      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://milek7.pl/mailverifysp...",
-      "score": 81
-    },
-    {
-      "type": "HackerNews",
-      "title": "Swift Package Index joins Apple",
-      "url": "https://swiftpackageindex.com/blog/swift-package-index-joins-apple",
-      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://swiftpackageindex.com/...",
-      "score": 138
+      "title": "A man was gifted his dream car by Kevin Mitnick, who he helped put in prison",
+      "url": "https://www.thedrive.com/news/this-man-was-gifted-his-dream-car-by-the-notorious-hacker-he-put-in-prison",
+      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.thedrive.com/news/...",
+      "score": 104
     },
     {
       "type": "HackerNews",
       "title": "FUTO Swipe – A new swipe typing model",
       "url": "https://swipe.futo.tech/",
-      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://swipe.futo.tech/...",
-      "score": 145
+      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://swipe.futo.tech/...",
+      "score": 328
+    },
+    {
+      "type": "HackerNews",
+      "title": "In memory of the man who put red and green squiggles under words",
+      "url": "https://devblogs.microsoft.com/oldnewthing/20260622-00/?p=112451",
+      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://devblogs.microsoft.com...",
+      "score": 204
     },
     {
       "type": "HackerNews",
       "title": "Printing Gaussian Splats",
       "url": "https://www.patreon.com/DanyBittel/posts/printing-splats-161333338",
       "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.patreon.com/DanyBi...",
-      "score": 84
+      "score": 208
     },
     {
       "type": "HackerNews",
-      "title": "Show HN: TikZ Editor – WYSIWYG editor for figures in LaTeX",
-      "url": "https://tikz.dev/editor/",
-      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://tikz.dev/editor/...",
-      "score": 288
+      "title": "Usbliter8: an A12/A13 SecureROM Exploit",
+      "url": "https://ps.tc/pages/blog-usbliter8.html",
+      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://ps.tc/pages/blog-usbli...",
+      "score": 94
+    },
+    {
+      "type": "HackerNews",
+      "title": "Swift Package Index joins Apple",
+      "url": "https://swiftpackageindex.com/blog/swift-package-index-joins-apple",
+      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://swiftpackageindex.com/...",
+      "score": 184
     }
   ]
 }
