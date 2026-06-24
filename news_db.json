@@ -1,61 +1,61 @@
 {
-  "last_updated": "2026-06-24 17:04:17",
+  "last_updated": "2026-06-24 19:45:54",
   "news": [
     {
       "type": "HackerNews",
-      "title": "John Carmack on the mistakes around Quake that ruined id software",
-      "url": "https://twitter.com/ID_AA_Carmack/status/2069799283369345247",
-      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://twitter.com/ID_AA_Carm...",
-      "score": 191
+      "title": "OpenAI unveils its first custom chip, built by Broadcom",
+      "url": "https://techcrunch.com/2026/06/24/openai-unveils-its-first-custom-chip-built-by-broadcom/",
+      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://techcrunch.com/2026/06...",
+      "score": 211
+    },
+    {
+      "type": "HackerNews",
+      "title": "Thomann takes legal action against Fender",
+      "url": "https://www.thomann.de/blog/en/inside/thomann-takes-legal-action-against-fender/",
+      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.thomann.de/blog/en...",
+      "score": 34
     },
     {
       "type": "HackerNews",
       "title": "RubyLLM: A Ruby framework for all major AI providers",
       "url": "https://rubyllm.com/",
-      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://rubyllm.com/...",
-      "score": 164
+      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://rubyllm.com/...",
+      "score": 264
     },
     {
       "type": "HackerNews",
       "title": "We’re making Bunny DNS free",
       "url": "https://bunny.net/blog/were-making-bunny-dns-free/",
-      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://bunny.net/blog/were-ma...",
-      "score": 630
-    },
-    {
-      "type": "HackerNews",
-      "title": "CAPTCHAs have failed for 20 years",
-      "url": "https://www.browserbase.com/blog/why-captchas-are-getting-harder",
-      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.browserbase.com/bl...",
-      "score": 22
-    },
-    {
-      "type": "HackerNews",
-      "title": "Show HN: Nub – A Bun-like all-in-one toolkit for Node.js",
-      "url": "https://github.com/nubjs/nub",
-      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://github.com/nubjs/nub...",
-      "score": 101
-    },
-    {
-      "type": "HackerNews",
-      "title": "I taught a bucket to speak Git",
-      "url": "https://www.tigrisdata.com/blog/objgit/",
-      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.tigrisdata.com/blo...",
-      "score": 20
+      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://bunny.net/blog/were-ma...",
+      "score": 724
     },
     {
       "type": "HackerNews",
       "title": "PR spam today looks like email spam in the early 2000s",
       "url": "https://www.greptile.com/blog/prs-on-openclaw",
-      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.greptile.com/blog/...",
-      "score": 28
+      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.greptile.com/blog/...",
+      "score": 92
     },
     {
       "type": "HackerNews",
-      "title": "For Most of the World, Open-Source AI Is the Only Way Forward",
-      "url": "https://techstrong.ai/articles/for-most-of-the-world-open-source-ai-is-the-only-way-forward/",
-      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://techstrong.ai/articles...",
-      "score": 27
+      "title": "There are a few things that I look back on as my mistakes in the early days",
+      "url": "https://twitter.com/ID_AA_Carmack/status/2069799283369345247",
+      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://twitter.com/ID_AA_Carm...",
+      "score": 385
+    },
+    {
+      "type": "HackerNews",
+      "title": "Computer use in Gemini 3.5 Flash",
+      "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-computer-use-gemini-3-5-flash/",
+      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://blog.google/innovation...",
+      "score": 80
+    },
+    {
+      "type": "HackerNews",
+      "title": "Show HN: Nub – A Bun-like all-in-one toolkit for Node.js",
+      "url": "https://github.com/nubjs/nub",
+      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://github.com/nubjs/nub...",
+      "score": 149
     }
   ]
 }
