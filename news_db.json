@@ -1,61 +1,61 @@
 {
-  "last_updated": "2026-06-25 14:33:09",
+  "last_updated": "2026-06-25 17:11:47",
   "news": [
+    {
+      "type": "HackerNews",
+      "title": "Show HN: I made Google Trends for Hacker News by indexing 18 years of comments",
+      "url": "https://hackernewstrends.com",
+      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://hackernewstrends.com...",
+      "score": 375
+    },
+    {
+      "type": "HackerNews",
+      "title": "Deno 2.9",
+      "url": "https://deno.com/blog/v2.9",
+      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://deno.com/blog/v2.9...",
+      "score": 60
+    },
+    {
+      "type": "HackerNews",
+      "title": "Ford rehires 350 engineers after AI fails to preserve expertise or train juniors",
+      "url": "https://www.bloomberg.com/news/articles/2026-06-25/ford-has-been-rehiring-quality-inspectors-after-ai-fell-short",
+      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.bloomberg.com/news...",
+      "score": 476
+    },
+    {
+      "type": "HackerNews",
+      "title": "Zig's New BitCast Semantics and LLVM Back End Improvements",
+      "url": "https://ziglang.org/devlog/2026/#2026-06-25",
+      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://ziglang.org/devlog/202...",
+      "score": 93
+    },
     {
       "type": "HackerNews",
       "title": "You can't unit test for taste",
       "url": "https://dev.karltryggvason.com/you-cant-unit-test-for-taste/",
       "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://dev.karltryggvason.com...",
-      "score": 92
+      "score": 171
+    },
+    {
+      "type": "HackerNews",
+      "title": "Besimple AI (YC P25) Is Hiring",
+      "url": "https://www.ycombinator.com/companies/besimple-ai/jobs/yWfhhOR-strategic-projects-lead-audio-data",
+      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.ycombinator.com/co...",
+      "score": 1
+    },
+    {
+      "type": "HackerNews",
+      "title": "Apple increases MacBook and iPad prices by 20%",
+      "url": "https://www.ft.com/content/0f067265-2baf-4b6e-8fb2-ed56daef6f3c",
+      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.ft.com/content/0f0...",
+      "score": 229
     },
     {
       "type": "HackerNews",
       "title": "Half-Life 2 in a Browser",
       "url": "https://hl2.slqnt.dev/",
-      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://hl2.slqnt.dev/...",
-      "score": 447
-    },
-    {
-      "type": "HackerNews",
-      "title": "Anthropic says Alibaba illicitly extracted Claude AI model capabilities",
-      "url": "https://www.reuters.com/world/china/anthropic-says-alibaba-illicitly-extracted-claude-ai-model-capabilities-2026-06-24/",
-      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.reuters.com/world/...",
-      "score": 599
-    },
-    {
-      "type": "HackerNews",
-      "title": "The Disappearance of Japan's Animators",
-      "url": "https://economist.com/interactive/1843/2026/06/19/the-strange-disappearance-of-japans-animators",
-      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://economist.com/interact...",
-      "score": 26
-    },
-    {
-      "type": "HackerNews",
-      "title": "Show HN: Turn native language audio into flashcards and shadowing practice",
-      "url": "https://lingochunk.com/try",
-      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://lingochunk.com/try...",
-      "score": 19
-    },
-    {
-      "type": "HackerNews",
-      "title": "Where every major LLM stands politically",
-      "url": "https://trakkr.ai/bias",
-      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://trakkr.ai/bias...",
-      "score": 18
-    },
-    {
-      "type": "HackerNews",
-      "title": "UN hypocrisy in AI Environmental demands",
-      "url": "https://www.thatprivacyguy.com/blog/un-tracking-without-consent/",
-      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.thatprivacyguy.com...",
-      "score": 5
-    },
-    {
-      "type": "HackerNews",
-      "title": "LastPass notifies users of yet another data breach",
-      "url": "https://9to5mac.com/2026/06/23/lastpass-notifies-users-of-yet-another-data-breach/",
-      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://9to5mac.com/2026/06/23...",
-      "score": 204
+      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://hl2.slqnt.dev/...",
+      "score": 531
     }
   ]
 }
