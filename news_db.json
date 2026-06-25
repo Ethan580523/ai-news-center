@@ -1,61 +1,61 @@
 {
-  "last_updated": "2026-06-25 03:35:11",
+  "last_updated": "2026-06-25 09:21:43",
   "news": [
     {
       "type": "HackerNews",
-      "title": "OpenAI unveils its first custom chip, built by Broadcom",
-      "url": "https://techcrunch.com/2026/06/24/openai-unveils-its-first-custom-chip-built-by-broadcom/",
-      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://techcrunch.com/2026/06...",
-      "score": 572
+      "title": "Half-Life 2 in a Browser",
+      "url": "https://hl2.slqnt.dev/",
+      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://hl2.slqnt.dev/...",
+      "score": 209
     },
     {
       "type": "HackerNews",
-      "title": "LuaJIT 3.0 proposed syntax extensions",
-      "url": "https://github.com/LuaJIT/LuaJIT/issues/1475",
-      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://github.com/LuaJIT/LuaJ...",
-      "score": 83
+      "title": "Wikipedia Workers in Britain set global first by seeking union recognition",
+      "url": "https://utaw.tech/news/wikipedia-recognition",
+      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://utaw.tech/news/wikiped...",
+      "score": 60
     },
     {
       "type": "HackerNews",
       "title": "Anthropic says Alibaba illicitly extracted Claude AI model capabilities",
       "url": "https://www.reuters.com/world/china/anthropic-says-alibaba-illicitly-extracted-claude-ai-model-capabilities-2026-06-24/",
-      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.reuters.com/world/...",
-      "score": 128
+      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.reuters.com/world/...",
+      "score": 405
     },
     {
       "type": "HackerNews",
-      "title": "Ending All Respiratory Infections",
-      "url": "https://blog.interceptfund.com/p/ending-respiratory-infections",
-      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://blog.interceptfund.com...",
-      "score": 63
-    },
-    {
-      "type": "HackerNews",
-      "title": "Blogging can just be stating the obvious",
-      "url": "https://blog.jim-nielsen.com/2026/blogging-stating-the-obvious/",
-      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://blog.jim-nielsen.com/2...",
-      "score": 101
-    },
-    {
-      "type": "HackerNews",
-      "title": "Dostoyevsky isn't difficult",
-      "url": "https://www.autodidacts.io/dostoyevsky-isnt-difficult/",
-      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.autodidacts.io/dos...",
-      "score": 62
+      "title": "OpenAI unveils its first custom chip, built by Broadcom",
+      "url": "https://techcrunch.com/2026/06/24/openai-unveils-its-first-custom-chip-built-by-broadcom/",
+      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://techcrunch.com/2026/06...",
+      "score": 698
     },
     {
       "type": "HackerNews",
       "title": "Cloudflare launched self-managed OAuth for all",
       "url": "https://blog.cloudflare.com/oauth-for-all/",
       "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://blog.cloudflare.com/oa...",
-      "score": 16
+      "score": 158
     },
     {
       "type": "HackerNews",
-      "title": "Qualcomm to Acquire Modular",
-      "url": "https://www.reuters.com/business/qualcomm-buy-ai-startup-modular-2026-06-24/",
-      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.reuters.com/busine...",
-      "score": 160
+      "title": "LuaJIT 3.0 proposed syntax extensions",
+      "url": "https://github.com/LuaJIT/LuaJIT/issues/1475",
+      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://github.com/LuaJIT/LuaJ...",
+      "score": 154
+    },
+    {
+      "type": "HackerNews",
+      "title": "Blogging can just be stating the obvious",
+      "url": "https://blog.jim-nielsen.com/2026/blogging-stating-the-obvious/",
+      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://blog.jim-nielsen.com/2...",
+      "score": 227
+    },
+    {
+      "type": "HackerNews",
+      "title": "Bohemia Interactive: Cold War Assault Remastered Source Code on GitHub",
+      "url": "https://github.com/BohemiaInteractive/CWR",
+      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://github.com/BohemiaInte...",
+      "score": 55
     }
   ]
 }
