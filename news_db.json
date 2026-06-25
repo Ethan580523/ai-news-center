@@ -1,61 +1,61 @@
 {
-  "last_updated": "2026-06-25 20:00:24",
+  "last_updated": "2026-06-25 22:21:08",
   "news": [
     {
       "type": "HackerNews",
       "title": "An entire Herculaneum scroll has been read for the first time",
       "url": "https://scrollprize.org/firstscroll",
       "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://scrollprize.org/firsts...",
-      "score": 475
+      "score": 779
+    },
+    {
+      "type": "HackerNews",
+      "title": "Un-0: Generating Images with Coupled Oscillators",
+      "url": "https://unconv.ai/blog/introducing-un-0-generating-images-with-coupled-oscillators/",
+      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://unconv.ai/blog/introdu...",
+      "score": 54
     },
     {
       "type": "HackerNews",
       "title": "Oxide computer 3D rack guided tour",
       "url": "https://explorer.oxide.computer/",
       "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://explorer.oxide.compute...",
-      "score": 125
+      "score": 232
     },
     {
       "type": "HackerNews",
       "title": "IBM debuts sub-1 nanometer chip technology",
       "url": "https://newsroom.ibm.com/2026-06-25-ibm-debuts-worlds-first-sub-1-nanometer-chip-technology",
-      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://newsroom.ibm.com/2026-...",
-      "score": 156
-    },
-    {
-      "type": "HackerNews",
-      "title": "Zig's new bitCast semantics and LLVM back end improvements",
-      "url": "https://ziglang.org/devlog/2026/#2026-06-25",
-      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://ziglang.org/devlog/202...",
-      "score": 164
-    },
-    {
-      "type": "HackerNews",
-      "title": "OS9Map",
-      "url": "https://yllan.org/software/OS9Map/",
-      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://yllan.org/software/OS9...",
-      "score": 109
-    },
-    {
-      "type": "HackerNews",
-      "title": "Show HN: Chess-Inspired Roguelike",
-      "url": "https://princechazz.com",
-      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://princechazz.com...",
-      "score": 86
-    },
-    {
-      "type": "HackerNews",
-      "title": "Apple raises prices of MacBooks, iPads",
-      "url": "https://www.reuters.com/world/asia-pacific/apple-raises-prices-macbooks-ipads-memory-costs-skyrocket-2026-06-25/",
-      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.reuters.com/world/...",
-      "score": 431
+      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://newsroom.ibm.com/2026-...",
+      "score": 223
     },
     {
       "type": "HackerNews",
       "title": "Show HN: OpenKnowledge – open source AI-first alternative to Obsidian/Notion",
       "url": "https://github.com/inkeep/open-knowledge",
       "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://github.com/inkeep/open...",
-      "score": 37
+      "score": 139
+    },
+    {
+      "type": "HackerNews",
+      "title": "An oral history of Bank Python (2021)",
+      "url": "https://calpaterson.com/bank-python.html",
+      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://calpaterson.com/bank-p...",
+      "score": 22
+    },
+    {
+      "type": "HackerNews",
+      "title": "Parallel Parentheses Matching",
+      "url": "https://williamdue.github.io/blog/parallel-parentheses-matching",
+      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://williamdue.github.io/b...",
+      "score": 22
+    },
+    {
+      "type": "HackerNews",
+      "title": "Show HN: Chess-Inspired Roguelike",
+      "url": "https://princechazz.com",
+      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://princechazz.com...",
+      "score": 165
     }
   ]
 }
