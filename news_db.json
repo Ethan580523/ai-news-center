@@ -1,61 +1,61 @@
 {
-  "last_updated": "2026-06-26 19:47:53",
+  "last_updated": "2026-06-26 22:13:00",
   "news": [
     {
       "type": "HackerNews",
       "title": "Previewing GPT‑5.6 Sol: a next-generation model",
       "url": "https://openai.com/index/previewing-gpt-5-6-sol/",
       "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://openai.com/index/previ...",
-      "score": 465
+      "score": 687
     },
     {
       "type": "HackerNews",
-      "title": "MicroVMs: Run isolated sandboxes with full lifecycle control",
-      "url": "https://aws.amazon.com/blogs/aws/run-isolated-sandboxes-with-full-lifecycle-control-aws-lambda-introduces-microvms/",
-      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://aws.amazon.com/blogs/a...",
-      "score": 180
+      "title": "The gap between open weights LLMs and closed source LLMs",
+      "url": "https://blog.doubleword.ai/frontier-os-llm",
+      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://blog.doubleword.ai/fro...",
+      "score": 33
+    },
+    {
+      "type": "HackerNews",
+      "title": "A C++ implementation of a fast hash map and hash set using hopscotch hashing",
+      "url": "https://github.com/Tessil/hopscotch-map",
+      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://github.com/Tessil/hops...",
+      "score": 19
     },
     {
       "type": "HackerNews",
       "title": "U.S. government will decide who gets to use GPT-5.6",
       "url": "https://www.washingtonpost.com/technology/2026/06/26/openai-says-us-government-will-vet-users-its-latest-ai-model/",
       "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.washingtonpost.com...",
-      "score": 220
+      "score": 599
+    },
+    {
+      "type": "HackerNews",
+      "title": "MicroVMs: Run isolated sandboxes with full lifecycle control",
+      "url": "https://aws.amazon.com/blogs/aws/run-isolated-sandboxes-with-full-lifecycle-control-aws-lambda-introduces-microvms/",
+      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://aws.amazon.com/blogs/a...",
+      "score": 214
+    },
+    {
+      "type": "HackerNews",
+      "title": "The \"Bizarre Headgear\" exhibit at the Sam Noble museum",
+      "url": "https://svpow.com/2026/05/15/the-bizarre-headgear-exhibit-at-the-sam-noble-museum-is-incredible/",
+      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://svpow.com/2026/05/15/t...",
+      "score": 58
     },
     {
       "type": "HackerNews",
       "title": "Show HN: Smart model routing directly in Claude, Codex and Cursor",
       "url": "https://github.com/workweave/router",
-      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://github.com/workweave/r...",
-      "score": 87
+      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://github.com/workweave/r...",
+      "score": 114
     },
     {
       "type": "HackerNews",
-      "title": "Gossamer: a Rust-flavoured language with real goroutines and pause-free memory",
-      "url": "https://gossamer-lang.org/",
-      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://gossamer-lang.org/...",
-      "score": 16
-    },
-    {
-      "type": "HackerNews",
-      "title": "Ultrasound imaging of the brain",
-      "url": "https://alephneuro.com/blog/ultrasound-brain",
-      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://alephneuro.com/blog/ul...",
-      "score": 169
-    },
-    {
-      "type": "HackerNews",
-      "title": "Om Malik has died",
-      "url": "https://om.co/2026/06/24/1966-2026/",
-      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://om.co/2026/06/24/1966-...",
-      "score": 1241
-    },
-    {
-      "type": "HackerNews",
-      "title": "An entire Herculaneum scroll has been read for the first time",
-      "url": "https://scrollprize.org/firstscroll",
-      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://scrollprize.org/firsts...",
-      "score": 1596
+      "title": "Hightouch (YC S19) Is Hiring",
+      "url": "https://hightouch.com/careers#open-positions",
+      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://hightouch.com/careers#...",
+      "score": 1
     }
   ]
 }
