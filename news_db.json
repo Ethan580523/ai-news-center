@@ -1,61 +1,61 @@
 {
-  "last_updated": "2026-06-27 16:04:27",
+  "last_updated": "2026-06-27 19:20:40",
   "news": [
     {
       "type": "HackerNews",
-      "title": "DSpark: Speculative decoding accelerates LLM inference [pdf]",
-      "url": "https://github.com/deepseek-ai/DeepSpec/blob/main/DSpark_paper.pdf",
-      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://github.com/deepseek-ai...",
-      "score": 602
+      "title": "Anonymous GitHub account mass-dropping undisclosed 0-days",
+      "url": "https://github.com/bikini/exploitarium",
+      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://github.com/bikini/expl...",
+      "score": 392
     },
     {
       "type": "HackerNews",
       "title": "OpenRA",
       "url": "https://www.openra.net/",
       "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.openra.net/...",
-      "score": 222
+      "score": 411
     },
     {
       "type": "HackerNews",
-      "title": "Underarm Bowling Incident of 1981",
-      "url": "https://en.wikipedia.org/wiki/Underarm_bowling_incident_of_1981",
-      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://en.wikipedia.org/wiki/...",
-      "score": 70
+      "title": "AI Is Designing Radio Chips That Humans Couldn't Even Imagine",
+      "url": "https://spectrum.ieee.org/ai-radio-chip-design",
+      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://spectrum.ieee.org/ai-r...",
+      "score": 83
+    },
+    {
+      "type": "HackerNews",
+      "title": "DSpark: Speculative decoding accelerates LLM inference [pdf]",
+      "url": "https://github.com/deepseek-ai/DeepSpec/blob/main/DSpark_paper.pdf",
+      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://github.com/deepseek-ai...",
+      "score": 671
+    },
+    {
+      "type": "HackerNews",
+      "title": "Turn your site into a place people can bump into each other",
+      "url": "https://cauenapier.com/blog/townsquare_release/",
+      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://cauenapier.com/blog/to...",
+      "score": 27
     },
     {
       "type": "HackerNews",
       "title": "Fintech Engineering Handbook",
       "url": "https://w.pitula.me/fintech-engineering-handbook/",
-      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://w.pitula.me/fintech-en...",
-      "score": 273
+      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://w.pitula.me/fintech-en...",
+      "score": 366
     },
     {
       "type": "HackerNews",
-      "title": "Anonymous GitHub account mass-dropping undisclosed 0-days",
-      "url": "https://github.com/bikini/exploitarium",
-      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://github.com/bikini/expl...",
-      "score": 54
+      "title": "Suspicious Discontinuities (2020)",
+      "url": "https://danluu.com/discontinuities/",
+      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://danluu.com/discontinui...",
+      "score": 141
     },
     {
       "type": "HackerNews",
       "title": "Post-Mythos Cybersecurity: Keep calm and carry on",
       "url": "https://cephalosec.com/blog/cybersecurity-in-the-post-mythos-era-keep-calm-and-carry-on/",
-      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://cephalosec.com/blog/cy...",
-      "score": 30
-    },
-    {
-      "type": "HackerNews",
-      "title": "Suspicious Discontinuities",
-      "url": "https://danluu.com/discontinuities/",
-      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://danluu.com/discontinui...",
-      "score": 56
-    },
-    {
-      "type": "HackerNews",
-      "title": "Zuckerberg's Increasingly Bizarre War on Whistleblowers",
-      "url": "https://pluralistic.net/2026/06/27/zuckerstreisand-2/",
-      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://pluralistic.net/2026/0...",
-      "score": 112
+      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://cephalosec.com/blog/cy...",
+      "score": 86
     }
   ]
 }
