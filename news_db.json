@@ -1,61 +1,61 @@
 {
-  "last_updated": "2026-06-28 13:46:15",
+  "last_updated": "2026-06-28 16:10:24",
   "news": [
+    {
+      "type": "HackerNews",
+      "title": "EU Open Sources Ten-Year Network Development Planning Tools",
+      "url": "https://github.com/open-energy-transition/open-tyndp",
+      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://github.com/open-energy...",
+      "score": 114
+    },
+    {
+      "type": "HackerNews",
+      "title": "5k Restaurant Menus, Years 1880-1920",
+      "url": "https://pudding.cool/2026/06/menu-collection/",
+      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://pudding.cool/2026/06/m...",
+      "score": 69
+    },
+    {
+      "type": "HackerNews",
+      "title": "The curious case of the disappearing Polish S (2015)",
+      "url": "https://aresluna.org/the-curious-case-of-the-disappearing-polish-s/",
+      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://aresluna.org/the-curio...",
+      "score": 96
+    },
+    {
+      "type": "HackerNews",
+      "title": "EU to legislate about Chat Control behind closed doors",
+      "url": "https://www.patrick-breyer.de/en/double-threat-to-private-communications-undemocratic-chat-control-backroom-deals-and-imminent-concessions-spark-relaunch-of-fightchatcontrol-eu/",
+      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.patrick-breyer.de/...",
+      "score": 160
+    },
+    {
+      "type": "HackerNews",
+      "title": "Flock cameras track more than your license plate, and they're spreading fast",
+      "url": "https://www.engadget.com/2203000/flock-cameras-recording-license-plate/",
+      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.engadget.com/22030...",
+      "score": 152
+    },
     {
       "type": "HackerNews",
       "title": "A way to exclude sensitive files issue still open for OpenAI Codex",
       "url": "https://github.com/openai/codex/issues/2847",
-      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://github.com/openai/code...",
-      "score": 34
+      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://github.com/openai/code...",
+      "score": 98
     },
     {
       "type": "HackerNews",
-      "title": "Marfa Public Radio Puts You to Sleep",
-      "url": "https://www.marfapublicradio.org/podcast/marfa-public-radio-puts-you-to-sleep",
-      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.marfapublicradio.o...",
-      "score": 308
+      "title": "Do Babies Dream of Baby Sheep?",
+      "url": "https://devz.cl/posts/do-babies-dream-of-electric-sheep/",
+      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://devz.cl/posts/do-babie...",
+      "score": 22
     },
     {
       "type": "HackerNews",
-      "title": "Kids act would require age checks to get online",
-      "url": "https://www.eff.org/deeplinks/2026/06/kids-act-would-require-age-checks-get-online",
-      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.eff.org/deeplinks/...",
-      "score": 73
-    },
-    {
-      "type": "HackerNews",
-      "title": "DLL that was not present in memory despite not being formally unloaded",
-      "url": "https://devblogs.microsoft.com/oldnewthing/20260625-00/?p=112467",
-      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://devblogs.microsoft.com...",
-      "score": 45
-    },
-    {
-      "type": "HackerNews",
-      "title": "Bashblog – a single bash script to create blogs",
-      "url": "https://github.com/cfenollosa/bashblog",
-      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://github.com/cfenollosa/...",
-      "score": 72
-    },
-    {
-      "type": "HackerNews",
-      "title": "AMD Strix Halo RDMA Cluster Setup Guide",
-      "url": "https://github.com/kyuz0/amd-strix-halo-vllm-toolboxes/blob/main/rdma_cluster/setup_guide.md",
-      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://github.com/kyuz0/amd-s...",
-      "score": 180
-    },
-    {
-      "type": "HackerNews",
-      "title": "Anonymous GitHub account mass-dropping undisclosed 0-days",
-      "url": "https://github.com/bikini/exploitarium",
-      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://github.com/bikini/expl...",
-      "score": 872
-    },
-    {
-      "type": "HackerNews",
-      "title": "The MUMPS 76 Primer – anniversary edition",
-      "url": "https://github.com/rochus-keller/MUMPS/blob/main/docs/MUMPS_Primer.adoc",
-      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://github.com/rochus-kell...",
-      "score": 5
+      "title": "Michigan bill would bar employers from requiring after-hours coms with workers",
+      "url": "https://www.cbsnews.com/detroit/news/workplace-boundaries-act-employees-after-hours/",
+      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.cbsnews.com/detroi...",
+      "score": 56
     }
   ]
 }
