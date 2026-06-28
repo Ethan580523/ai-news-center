@@ -1,61 +1,61 @@
 {
-  "last_updated": "2026-06-28 19:19:45",
+  "last_updated": "2026-06-28 22:01:57",
   "news": [
     {
       "type": "HackerNews",
-      "title": "The cost YAGNI was never about",
-      "url": "https://newsletter.kentbeck.com/p/the-cost-yagni-was-never-about",
-      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://newsletter.kentbeck.co...",
-      "score": 31
+      "title": "GLM 5.2 beats Claude in our benchmarks",
+      "url": "https://semgrep.dev/blog/2026/we-have-mythos-at-home-glm-52-beats-claude-in-our-cyber-benchmarks/",
+      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://semgrep.dev/blog/2026/...",
+      "score": 176
     },
     {
       "type": "HackerNews",
-      "title": "5k Restaurant Menus, Years 1880-1920",
-      "url": "https://pudding.cool/2026/06/menu-collection/",
-      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://pudding.cool/2026/06/m...",
-      "score": 245
+      "title": "5k menus from the New York Public Library’s Buttolph Collection (1880-1920)",
+      "url": "https://pudding.cool/2026/06/menu-story/",
+      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://pudding.cool/2026/06/m...",
+      "score": 293
     },
     {
       "type": "HackerNews",
       "title": "I used Claude Code to get a second opinion on my MRI",
       "url": "https://antoine.fi/mri-analysis-using-claude-code-opus",
-      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://antoine.fi/mri-analysi...",
-      "score": 135
+      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://antoine.fi/mri-analysi...",
+      "score": 258
     },
     {
       "type": "HackerNews",
-      "title": "Working around dragons with the Lemote Yeeloong laptop and OpenBSD",
-      "url": "http://oldvcr.blogspot.com/2026/06/working-around-dragons-with-lemote.html",
-      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：http://oldvcr.blogspot.com/202...",
-      "score": 50
-    },
-    {
-      "type": "HackerNews",
-      "title": "Show HN: Zanagrams",
-      "url": "https://zanagrams.com/",
-      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://zanagrams.com/...",
+      "title": "Historical memory prices 1960-2026",
+      "url": "https://dam.stanford.edu/memory-prices.html",
+      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://dam.stanford.edu/memor...",
       "score": 76
     },
     {
       "type": "HackerNews",
-      "title": "Daisugi, the Japanese technique of growing trees out of other trees (2020)",
-      "url": "https://www.openculture.com/2020/10/daisugi.html",
-      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.openculture.com/20...",
-      "score": 59
+      "title": "TOP500 at ISC’26: We have a New Number 1 Supercomputer",
+      "url": "https://chipsandcheese.com/p/top500-at-isc26-we-have-a-new-number",
+      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://chipsandcheese.com/p/t...",
+      "score": 38
+    },
+    {
+      "type": "HackerNews",
+      "title": "Librepods: AirPods liberated",
+      "url": "https://github.com/librepods-org/librepods",
+      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://github.com/librepods-o...",
+      "score": 179
     },
     {
       "type": "HackerNews",
       "title": "The Boeing 747 begins its final descent",
       "url": "https://www.theatlantic.com/magazine/2026/07/boeing-747-retirement/687304/",
-      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.theatlantic.com/ma...",
-      "score": 51
+      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.theatlantic.com/ma...",
+      "score": 103
     },
     {
       "type": "HackerNews",
-      "title": "Tokenmaxxing is dead, long live tokenmaxxing",
-      "url": "https://12gramsofcarbon.com/p/agentics-tech-things-tokenmaxxing",
-      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://12gramsofcarbon.com/p/...",
-      "score": 41
+      "title": "Working around dragons with the Lemote Yeeloong laptop and OpenBSD",
+      "url": "http://oldvcr.blogspot.com/2026/06/working-around-dragons-with-lemote.html",
+      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：http://oldvcr.blogspot.com/202...",
+      "score": 76
     }
   ]
 }
