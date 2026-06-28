@@ -1,61 +1,61 @@
 {
-  "last_updated": "2026-06-28 08:51:40",
+  "last_updated": "2026-06-28 11:06:59",
   "news": [
     {
       "type": "HackerNews",
       "title": "Marfa Public Radio Puts You to Sleep",
       "url": "https://www.marfapublicradio.org/podcast/marfa-public-radio-puts-you-to-sleep",
       "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.marfapublicradio.o...",
-      "score": 202
+      "score": 250
     },
     {
       "type": "HackerNews",
       "title": "Bashblog – a single bash script to create blogs",
       "url": "https://github.com/cfenollosa/bashblog",
       "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://github.com/cfenollosa/...",
-      "score": 33
-    },
-    {
-      "type": "HackerNews",
-      "title": "Wayfinder Router: deterministic routing of queries between local and hosted LLM",
-      "url": "https://github.com/itsthelore/wayfinder-router",
-      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://github.com/itsthelore/...",
-      "score": 59
+      "score": 56
     },
     {
       "type": "HackerNews",
       "title": "AMD Strix Halo RDMA Cluster Setup Guide",
       "url": "https://github.com/kyuz0/amd-strix-halo-vllm-toolboxes/blob/main/rdma_cluster/setup_guide.md",
-      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://github.com/kyuz0/amd-s...",
-      "score": 126
+      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://github.com/kyuz0/amd-s...",
+      "score": 147
+    },
+    {
+      "type": "HackerNews",
+      "title": "OpenRA",
+      "url": "https://www.openra.net/",
+      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.openra.net/...",
+      "score": 728
     },
     {
       "type": "HackerNews",
       "title": "Show HN: Decomp Academy – Learn to decompile GameCube games into matching C",
       "url": "https://decomp-academy.dev",
       "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://decomp-academy.dev...",
-      "score": 116
-    },
-    {
-      "type": "HackerNews",
-      "title": "OpenRA",
-      "url": "https://www.openra.net/",
-      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.openra.net/...",
-      "score": 694
+      "score": 135
     },
     {
       "type": "HackerNews",
       "title": "Anonymous GitHub account mass-dropping undisclosed 0-days",
       "url": "https://github.com/bikini/exploitarium",
-      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://github.com/bikini/expl...",
-      "score": 791
+      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://github.com/bikini/expl...",
+      "score": 824
+    },
+    {
+      "type": "HackerNews",
+      "title": "Wayfinder Router: deterministic routing of queries between local and hosted LLM",
+      "url": "https://github.com/itsthelore/wayfinder-router",
+      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://github.com/itsthelore/...",
+      "score": 71
     },
     {
       "type": "HackerNews",
       "title": "Choosing a Public DNS Resolver",
       "url": "https://evilbit.de/dns-resolver-guide.html",
-      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://evilbit.de/dns-resolve...",
-      "score": 148
+      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://evilbit.de/dns-resolve...",
+      "score": 178
     }
   ]
 }
