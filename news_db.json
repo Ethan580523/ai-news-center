@@ -1,61 +1,61 @@
 {
-  "last_updated": "2026-06-29 19:57:47",
+  "last_updated": "2026-06-29 22:07:58",
   "news": [
     {
       "type": "HackerNews",
       "title": "Qwen 3.6 27B is the sweet spot for local development",
       "url": "https://quesma.com/blog/qwen-36-is-awesome/",
-      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://quesma.com/blog/qwen-3...",
-      "score": 316
+      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://quesma.com/blog/qwen-3...",
+      "score": 479
+    },
+    {
+      "type": "HackerNews",
+      "title": ".self: A new top-level domain designed to support self-hosting",
+      "url": "https://hccf.onmy.cloud/2026/06/21/reclaiming-our-digital-selves-hccfs-vision-for-a-human-centered-top-level-domain/",
+      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://hccf.onmy.cloud/2026/0...",
+      "score": 123
     },
     {
       "type": "HackerNews",
       "title": "Rocketlab acquires Iridium",
       "url": "https://investors.rocketlabcorp.com/news-releases/news-release-details/rocket-lab-acquire-iridium-historic-deal-creating-fully",
-      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://investors.rocketlabcor...",
-      "score": 269
+      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://investors.rocketlabcor...",
+      "score": 318
     },
     {
       "type": "HackerNews",
       "title": "Ornith-1.0: self-improving open-source models for agentic coding",
       "url": "https://github.com/deepreinforce-ai/Ornith-1",
       "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://github.com/deepreinfor...",
-      "score": 53
+      "score": 112
     },
     {
       "type": "HackerNews",
       "title": "A native graphical shell for SSH",
       "url": "https://probablymarcus.com/blocks/2026/06/28/native-graphical-shell-for-SSH.html",
       "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://probablymarcus.com/blo...",
-      "score": 148
+      "score": 198
     },
     {
       "type": "HackerNews",
-      "title": "The Radiation Exposure Lie",
-      "url": "https://worksinprogress.co/issue/how-to-lie-about-radiation/",
-      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://worksinprogress.co/iss...",
-      "score": 70
+      "title": "Free the Icons",
+      "url": "https://weblog.rogueamoeba.com/2026/06/26/free-the-icons/",
+      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://weblog.rogueamoeba.com...",
+      "score": 12
     },
     {
       "type": "HackerNews",
-      "title": "WATaBoy: JIT-Ing Game Boy Instructions to WASM Beats a Native Interpreter",
-      "url": "https://humphri.es/blog/WATaBoy/",
-      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://humphri.es/blog/WATaBo...",
-      "score": 135
+      "title": "You really shouldn't copy-paste errors into Claude Code",
+      "url": "https://home.robusta.dev/blog/you-really-shouldnt-copy-paste-errors-into-claude-code",
+      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://home.robusta.dev/blog/...",
+      "score": 9
     },
     {
       "type": "HackerNews",
       "title": "Wallace the 6 inch f/2.8 telescope, building it, and hiking with it",
       "url": "https://lucassifoni.info/blog/hiking-with-wallace/",
       "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://lucassifoni.info/blog/...",
-      "score": 49
-    },
-    {
-      "type": "HackerNews",
-      "title": "US Supreme Court rules geofence warrants require constitutional protections",
-      "url": "https://www.theguardian.com/us-news/2026/jun/29/supreme-court-geofence-warrants-case-decision",
-      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.theguardian.com/us...",
-      "score": 256
+      "score": 82
     }
   ]
 }
