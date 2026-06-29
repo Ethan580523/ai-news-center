@@ -1,61 +1,61 @@
 {
-  "last_updated": "2026-06-29 03:57:08",
+  "last_updated": "2026-06-29 10:59:58",
   "news": [
     {
       "type": "HackerNews",
-      "title": "Age verification is just a precursor to automated attribution of speech",
-      "url": "https://nonogra.ph/age-verification-is-just-a-precursor-to-attribution-of-speech-06-29-2026",
-      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://nonogra.ph/age-verific...",
-      "score": 12
+      "title": "HackerRank open sourced its ATS. My resume scored 90/100. Oh wait 74. No – 88",
+      "url": "https://danunparsed.com/p/hackerrank-open-source-ats",
+      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://danunparsed.com/p/hack...",
+      "score": 504
     },
     {
       "type": "HackerNews",
       "title": "GLM 5.2 beats Claude in our benchmarks",
       "url": "https://semgrep.dev/blog/2026/we-have-mythos-at-home-glm-52-beats-claude-in-our-cyber-benchmarks/",
-      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://semgrep.dev/blog/2026/...",
-      "score": 566
+      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://semgrep.dev/blog/2026/...",
+      "score": 876
+    },
+    {
+      "type": "HackerNews",
+      "title": "Pollen (CEO Negus-Fancey, CTO Wright) tried to remove article, and Google helped",
+      "url": "https://blog.pragmaticengineer.com/pollen-tried-to-remove-my-article-about-callum-negus-fancey-and-google-is-assisting-to-it/",
+      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://blog.pragmaticengineer...",
+      "score": 150
+    },
+    {
+      "type": "HackerNews",
+      "title": "Dissecting Apple's Sparse Image Format (ASIF)",
+      "url": "https://schamper.dev/dissecting-apples-sparse-image-format-asif/",
+      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://schamper.dev/dissectin...",
+      "score": 87
+    },
+    {
+      "type": "HackerNews",
+      "title": "NUMA: Cores, memory, and the distance between them",
+      "url": "https://edera.dev/stories/numa-part-1-cores-memory-and-the-distance-between-them",
+      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://edera.dev/stories/numa...",
+      "score": 32
+    },
+    {
+      "type": "HackerNews",
+      "title": "Age verification is just a precursor to automated attribution of speech",
+      "url": "https://nonogra.ph/age-verification-is-just-a-precursor-to-attribution-of-speech-06-29-2026",
+      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://nonogra.ph/age-verific...",
+      "score": 535
+    },
+    {
+      "type": "HackerNews",
+      "title": "We found a bug in the hyper HTTP library",
+      "url": "https://blog.cloudflare.com/hyper-bug/",
+      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://blog.cloudflare.com/hy...",
+      "score": 68
     },
     {
       "type": "HackerNews",
       "title": "Historical memory prices 1960-2026",
       "url": "https://dam.stanford.edu/memory-prices.html",
-      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://dam.stanford.edu/memor...",
-      "score": 219
-    },
-    {
-      "type": "HackerNews",
-      "title": "Better Images of AI",
-      "url": "https://betterimagesofai.org/",
-      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://betterimagesofai.org/...",
-      "score": 32
-    },
-    {
-      "type": "HackerNews",
-      "title": "5k menus from the New York Public Library’s Buttolph Collection (1880-1920)",
-      "url": "https://pudding.cool/2026/06/menu-story/",
-      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://pudding.cool/2026/06/m...",
-      "score": 342
-    },
-    {
-      "type": "HackerNews",
-      "title": "Knowledge Distillation of Black-Box Large Language Models (2024)",
-      "url": "https://arxiv.org/abs/2401.07013",
-      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://arxiv.org/abs/2401.070...",
-      "score": 63
-    },
-    {
-      "type": "HackerNews",
-      "title": "I used Claude Code to get a second opinion on my MRI",
-      "url": "https://antoine.fi/mri-analysis-using-claude-code-opus",
-      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://antoine.fi/mri-analysi...",
-      "score": 370
-    },
-    {
-      "type": "HackerNews",
-      "title": "Tell Congress: Don't Force Age Checks Online",
-      "url": "https://act.eff.org/action/tell-congress-don-t-force-age-checks-online",
-      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://act.eff.org/action/tel...",
-      "score": 67
+      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://dam.stanford.edu/memor...",
+      "score": 318
     }
   ]
 }
