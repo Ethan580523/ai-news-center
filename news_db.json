@@ -1,61 +1,61 @@
 {
-  "last_updated": "2026-06-30 19:58:09",
+  "last_updated": "2026-06-30 22:14:28",
   "news": [
     {
       "type": "HackerNews",
       "title": "Claude Sonnet 5",
       "url": "https://www.anthropic.com/news/claude-sonnet-5",
       "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.anthropic.com/news...",
-      "score": 494
+      "score": 732
     },
     {
       "type": "HackerNews",
       "title": "Claude Code is steganographically marking requests",
       "url": "https://thereallo.dev/blog/claude-code-prompt-steganography",
       "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://thereallo.dev/blog/cla...",
-      "score": 887
+      "score": 1182
+    },
+    {
+      "type": "HackerNews",
+      "title": "Meta's brain-scanning system reads sentences non-invasively, code open source",
+      "url": "https://ai.meta.com/blog/brain2qwerty-brain-ai-human-communication/?_fb_noscript=1",
+      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://ai.meta.com/blog/brain...",
+      "score": 38
     },
     {
       "type": "HackerNews",
       "title": "Claude Science",
       "url": "https://claude.com/product/claude-science",
-      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://claude.com/product/cla...",
-      "score": 197
+      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://claude.com/product/cla...",
+      "score": 294
     },
     {
       "type": "HackerNews",
       "title": "Nano Banana 2 Lite",
       "url": "https://deepmind.google/models/gemini-image/flash-lite/",
       "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://deepmind.google/models...",
-      "score": 176
+      "score": 253
     },
     {
       "type": "HackerNews",
-      "title": "We Are the Last People Who Know How It Works",
-      "url": "https://unix.foo/posts/last-people-who-know-how-it-works/",
-      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://unix.foo/posts/last-pe...",
-      "score": 243
+      "title": "I ported Kubernetes to the browser",
+      "url": "https://ngrok.com/blog/i-ported-kubernetes-to-the-browser",
+      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://ngrok.com/blog/i-porte...",
+      "score": 84
     },
     {
       "type": "HackerNews",
-      "title": "I built a mmWave material classification radar",
+      "title": "How does a pull-back car work? Illustrated teardown",
+      "url": "https://mechanical-pencil.com/products/car",
+      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://mechanical-pencil.com/...",
+      "score": 49
+    },
+    {
+      "type": "HackerNews",
+      "title": "I built a mmWave material classification radar (2025)",
       "url": "https://gauthier-lechevalier.com/radar",
-      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://gauthier-lechevalier.c...",
-      "score": 64
-    },
-    {
-      "type": "HackerNews",
-      "title": "Looking Ahead to Postgres 19",
-      "url": "https://www.snowflake.com/en/blog/engineering/postgresql-19-features-beta/",
-      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.snowflake.com/en/b...",
-      "score": 191
-    },
-    {
-      "type": "HackerNews",
-      "title": "County with 37 Data Centers Asks Schools to 'Conserve Electricity'",
-      "url": "https://www.404media.co/henrico-virginia-datacenter-energy-cost-email/",
-      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.404media.co/henric...",
-      "score": 282
+      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://gauthier-lechevalier.c...",
+      "score": 112
     }
   ]
 }
