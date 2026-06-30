@@ -1,61 +1,61 @@
 {
-  "last_updated": "2026-06-30 09:35:32",
+  "last_updated": "2026-06-30 14:18:34",
   "news": [
+    {
+      "type": "HackerNews",
+      "title": "The US ambassador had Belgian police stop our reporting",
+      "url": "https://europeancorrespondent.com/en/r/the-us-ambassador-had-belgian-police-stop-our-reporting",
+      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://europeancorrespondent....",
+      "score": 431
+    },
+    {
+      "type": "HackerNews",
+      "title": "European digital ID wallets rely on safety services of Google and Apple",
+      "url": "https://waag.org/en/article/european-digital-id-wallets-are-gift-google-and-apple/",
+      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://waag.org/en/article/eu...",
+      "score": 445
+    },
+    {
+      "type": "HackerNews",
+      "title": "Building a custom octocopter from scratch with no prior hardware experience",
+      "url": "https://karolina.mgdubiel.com/drone/",
+      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://karolina.mgdubiel.com/...",
+      "score": 166
+    },
+    {
+      "type": "HackerNews",
+      "title": "Exercise intensity influences body composition in healthy older adults (2025)",
+      "url": "https://www.maturitas.org/article/S0378-5122(25)00571-7/fulltext",
+      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.maturitas.org/arti...",
+      "score": 99
+    },
+    {
+      "type": "HackerNews",
+      "title": "Memoirs of Extraordinary Popular Delusions and the Madness of Crowds",
+      "url": "https://www.gutenberg.org/ebooks/24518",
+      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.gutenberg.org/eboo...",
+      "score": 30
+    },
     {
       "type": "HackerNews",
       "title": "Open Source Low Tech",
       "url": "https://opensourcelowtech.org/",
       "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://opensourcelowtech.org/...",
-      "score": 182
+      "score": 424
+    },
+    {
+      "type": "HackerNews",
+      "title": "Parse, Don't Validate – In a Language That Doesn't Want You To",
+      "url": "https://cekrem.github.io/posts/parse-dont-validate-typescript/",
+      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://cekrem.github.io/posts...",
+      "score": 75
     },
     {
       "type": "HackerNews",
       "title": "Qwen 3.6 27B is the sweet spot for local development",
       "url": "https://quesma.com/blog/qwen-36-is-awesome/",
-      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://quesma.com/blog/qwen-3...",
-      "score": 910
-    },
-    {
-      "type": "HackerNews",
-      "title": ".self: A new top-level domain designed to support self-hosting",
-      "url": "https://hccf.onmy.cloud/2026/06/21/reclaiming-our-digital-selves-hccfs-vision-for-a-human-centered-top-level-domain/",
-      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://hccf.onmy.cloud/2026/0...",
-      "score": 505
-    },
-    {
-      "type": "HackerNews",
-      "title": "Free the Icons",
-      "url": "https://weblog.rogueamoeba.com/2026/06/26/free-the-icons/",
-      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://weblog.rogueamoeba.com...",
-      "score": 456
-    },
-    {
-      "type": "HackerNews",
-      "title": "Memory Safe Context Switching",
-      "url": "https://fil-c.org/context_switches",
-      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://fil-c.org/context_swit...",
-      "score": 126
-    },
-    {
-      "type": "HackerNews",
-      "title": "LongCat-2.0, a large-scale MoE model with 1.6T total and 48B Active",
-      "url": "https://longcat.chat/blog/longcat-2.0/",
-      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://longcat.chat/blog/long...",
-      "score": 142
-    },
-    {
-      "type": "HackerNews",
-      "title": "Exploring PDP-1 Lisp (1960)",
-      "url": "https://obsolescence.dev/pdp1-lisp-introduction.html",
-      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://obsolescence.dev/pdp1-...",
-      "score": 73
-    },
-    {
-      "type": "HackerNews",
-      "title": "Old Computer Challenge",
-      "url": "http://occ.sdf.org/",
-      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：http://occ.sdf.org/...",
-      "score": 62
+      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://quesma.com/blog/qwen-3...",
+      "score": 1020
     }
   ]
 }
