@@ -1,61 +1,61 @@
 {
-  "last_updated": "2026-07-01 09:47:04",
+  "last_updated": "2026-07-01 14:35:43",
   "news": [
+    {
+      "type": "HackerNews",
+      "title": "Why I Stopped Arguing with People",
+      "url": "https://wangcong.org/2026-06-30-why-i-stopped-arguing-with-people.html",
+      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://wangcong.org/2026-06-3...",
+      "score": 215
+    },
+    {
+      "type": "HackerNews",
+      "title": "Asahi Linux 7.1 Progress Report",
+      "url": "https://asahilinux.org/2026/06/progress-report-7-1/",
+      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://asahilinux.org/2026/06...",
+      "score": 347
+    },
+    {
+      "type": "HackerNews",
+      "title": "Single Dose of Frog-Derived Gut Bacterium Eradicates 100% of Tumors in Mice",
+      "url": "https://www.thefocalpoints.com/p/new-study-frog-derived-gut-bacterium",
+      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.thefocalpoints.com...",
+      "score": 256
+    },
+    {
+      "type": "HackerNews",
+      "title": "Launch HN: Parsewise (YC P25) – Reason Across Documents with an API",
+      "url": null,
+      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：...",
+      "score": 10
+    },
     {
       "type": "HackerNews",
       "title": "Claude Code is steganographically marking requests",
       "url": "https://thereallo.dev/blog/claude-code-prompt-steganography",
-      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://thereallo.dev/blog/cla...",
-      "score": 2009
+      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://thereallo.dev/blog/cla...",
+      "score": 2271
     },
     {
       "type": "HackerNews",
-      "title": "Claude Sonnet 5",
-      "url": "https://www.anthropic.com/news/claude-sonnet-5",
-      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.anthropic.com/news...",
-      "score": 1127
-    },
-    {
-      "type": "HackerNews",
-      "title": "Godot will no longer accept AI-authored code contributions",
-      "url": "https://www.pcgamer.com/gaming-industry/open-source-game-engine-godot-will-no-longer-accept-ai-authored-code-contributions-we-cant-trust-heavy-users-of-ai-to-understand-their-code-enough-to-fix-it/",
-      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.pcgamer.com/gaming...",
-      "score": 117
-    },
-    {
-      "type": "HackerNews",
-      "title": "ArXiv's Next Chapter",
-      "url": "https://blog.arxiv.org/2026/06/30/arxivs-next-chapter/",
-      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://blog.arxiv.org/2026/06...",
-      "score": 114
+      "title": "Nintendo has raised its employees base salary by 10%",
+      "url": "https://mynintendonews.com/2026/06/26/nintendo-has-raised-its-employees-base-salary-by-10/",
+      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://mynintendonews.com/202...",
+      "score": 205
     },
     {
       "type": "HackerNews",
       "title": "Newly discovered spider builds spring loaded snare to catch ants",
       "url": "https://phys.org/news/2026-06-newly-australian-ballista-spider-snare.html",
-      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://phys.org/news/2026-06-...",
-      "score": 11
+      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://phys.org/news/2026-06-...",
+      "score": 161
     },
     {
       "type": "HackerNews",
-      "title": "Google copybara: moving code between repositories",
-      "url": "https://github.com/google/copybara",
-      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://github.com/google/copy...",
-      "score": 208
-    },
-    {
-      "type": "HackerNews",
-      "title": "Dexter (YC F24) Is Hiring a Founding Engineer in Berlin",
-      "url": null,
-      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：...",
+      "title": "Manufact (YC S25) Is Hiring a Developer Advocate in SF",
+      "url": "https://www.ycombinator.com/companies/manufact/jobs/4cyWd6S-developer-advocate-partnerships-devrel",
+      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.ycombinator.com/co...",
       "score": 1
-    },
-    {
-      "type": "HackerNews",
-      "title": "The first early human eggs from stem cells",
-      "url": "https://www.conception.bio/science-and-updates/the-first-early-human-eggs-from-stem-cells",
-      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.conception.bio/sci...",
-      "score": 111
     }
   ]
 }
