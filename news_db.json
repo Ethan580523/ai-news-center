@@ -1,61 +1,61 @@
 {
-  "last_updated": "2026-06-30 22:14:28",
+  "last_updated": "2026-07-01 03:55:40",
   "news": [
     {
       "type": "HackerNews",
       "title": "Claude Sonnet 5",
       "url": "https://www.anthropic.com/news/claude-sonnet-5",
       "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.anthropic.com/news...",
-      "score": 732
+      "score": 938
     },
     {
       "type": "HackerNews",
       "title": "Claude Code is steganographically marking requests",
       "url": "https://thereallo.dev/blog/claude-code-prompt-steganography",
-      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://thereallo.dev/blog/cla...",
-      "score": 1182
+      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://thereallo.dev/blog/cla...",
+      "score": 1505
     },
     {
       "type": "HackerNews",
-      "title": "Meta's brain-scanning system reads sentences non-invasively, code open source",
-      "url": "https://ai.meta.com/blog/brain2qwerty-brain-ai-human-communication/?_fb_noscript=1",
-      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://ai.meta.com/blog/brain...",
-      "score": 38
+      "title": "Google copybara: moving code between repositories",
+      "url": "https://github.com/google/copybara",
+      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://github.com/google/copy...",
+      "score": 88
+    },
+    {
+      "type": "HackerNews",
+      "title": "From Julia to Rust: a differentiable tensor stack for scientific computing",
+      "url": "https://tensor4all.org/blog/introducing-tenferro-rs/",
+      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://tensor4all.org/blog/in...",
+      "score": 27
+    },
+    {
+      "type": "HackerNews",
+      "title": "Department of Commerce has lifted export controls on Claude Fable 5 and Mythos 5",
+      "url": "https://twitter.com/AnthropicAI/status/2072106151890809341",
+      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://twitter.com/AnthropicA...",
+      "score": 359
+    },
+    {
+      "type": "HackerNews",
+      "title": "Forestiere Underground Gardens",
+      "url": "https://en.wikipedia.org/wiki/Forestiere_Underground_Gardens",
+      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://en.wikipedia.org/wiki/...",
+      "score": 25
     },
     {
       "type": "HackerNews",
       "title": "Claude Science",
       "url": "https://claude.com/product/claude-science",
       "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://claude.com/product/cla...",
-      "score": 294
+      "score": 389
     },
     {
       "type": "HackerNews",
-      "title": "Nano Banana 2 Lite",
-      "url": "https://deepmind.google/models/gemini-image/flash-lite/",
-      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://deepmind.google/models...",
-      "score": 253
-    },
-    {
-      "type": "HackerNews",
-      "title": "I ported Kubernetes to the browser",
-      "url": "https://ngrok.com/blog/i-ported-kubernetes-to-the-browser",
-      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://ngrok.com/blog/i-porte...",
-      "score": 84
-    },
-    {
-      "type": "HackerNews",
-      "title": "How does a pull-back car work? Illustrated teardown",
-      "url": "https://mechanical-pencil.com/products/car",
-      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://mechanical-pencil.com/...",
-      "score": 49
-    },
-    {
-      "type": "HackerNews",
-      "title": "I built a mmWave material classification radar (2025)",
-      "url": "https://gauthier-lechevalier.com/radar",
-      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://gauthier-lechevalier.c...",
-      "score": 112
+      "title": "From brain waves to words: a new path to communication without surgery",
+      "url": "https://ai.meta.com/blog/brain2qwerty-brain-ai-human-communication/?_fb_noscript=1",
+      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://ai.meta.com/blog/brain...",
+      "score": 121
     }
   ]
 }
