@@ -1,61 +1,61 @@
 {
-  "last_updated": "2026-07-01 19:55:43",
+  "last_updated": "2026-07-01 22:17:08",
   "news": [
     {
       "type": "HackerNews",
-      "title": "ZCode: Claude Code from the Makers of GLM",
-      "url": "https://zcode.z.ai/cn",
-      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://zcode.z.ai/cn...",
-      "score": 77
+      "title": "ZCode – Harness for GLM-5.2",
+      "url": "https://zcode.z.ai/en",
+      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://zcode.z.ai/en...",
+      "score": 27
     },
     {
       "type": "HackerNews",
       "title": "For first time, a cell built from scratch grows and divides",
       "url": "https://www.quantamagazine.org/for-the-first-time-a-cell-built-from-scratch-grows-and-divides-20260701/",
-      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.quantamagazine.org...",
-      "score": 541
+      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.quantamagazine.org...",
+      "score": 639
     },
     {
       "type": "HackerNews",
-      "title": "What to Learn to Be a Graphics Programmer",
+      "title": "Show HN: Searchable directory of 22k+ products from worker-owned co-ops",
+      "url": "https://www.workerowned.info/",
+      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.workerowned.info/...",
+      "score": 54
+    },
+    {
+      "type": "HackerNews",
+      "title": "What to learn to be a graphics programmer",
       "url": "https://blog.demofox.org/2026/07/01/what-to-learn-to-be-a-graphics-programmer/",
-      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://blog.demofox.org/2026/...",
-      "score": 98
+      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://blog.demofox.org/2026/...",
+      "score": 170
     },
     {
       "type": "HackerNews",
       "title": "FFmpeg 9.1's new AAC encoder",
       "url": "https://hydrogenaudio.org/index.php/topic,129691.0.html",
-      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://hydrogenaudio.org/inde...",
-      "score": 146
+      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://hydrogenaudio.org/inde...",
+      "score": 217
     },
     {
       "type": "HackerNews",
       "title": "Physical disc production ending in Jan 2028 for new games on PlayStation",
       "url": "https://blog.playstation.com/2026/07/01/physical-disc-production-ending-in-january-2028-for-new-games-releasing-on-playstation-consoles/",
-      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://blog.playstation.com/2...",
-      "score": 399
-    },
-    {
-      "type": "HackerNews",
-      "title": "Fable 5 Is Back",
-      "url": "https://twitter.com/claudeai/status/2072402636813607381",
-      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://twitter.com/claudeai/s...",
-      "score": 67
-    },
-    {
-      "type": "HackerNews",
-      "title": "How We Made IPFS Content Publishing 10x Faster",
-      "url": "https://probelab.io/blog/optimistic-provide/",
-      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://probelab.io/blog/optim...",
-      "score": 105
+      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://blog.playstation.com/2...",
+      "score": 494
     },
     {
       "type": "HackerNews",
       "title": "Box3D, an open source 3D physics engine",
       "url": "https://box2d.org/posts/2026/06/announcing-box3d/",
-      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://box2d.org/posts/2026/0...",
-      "score": 317
+      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://box2d.org/posts/2026/0...",
+      "score": 368
+    },
+    {
+      "type": "HackerNews",
+      "title": "Ask HN: Who is hiring? (July 2026)",
+      "url": null,
+      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：...",
+      "score": 134
     }
   ]
 }
