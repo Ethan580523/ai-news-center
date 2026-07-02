@@ -1,61 +1,61 @@
 {
-  "last_updated": "2026-07-02 11:35:15",
+  "last_updated": "2026-07-02 14:01:02",
   "news": [
     {
       "type": "HackerNews",
-      "title": "A new Android malware from Google",
+      "title": "Vite+ Beta",
+      "url": "https://voidzero.dev/posts/announcing-vite-plus-beta",
+      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://voidzero.dev/posts/ann...",
+      "score": 110
+    },
+    {
+      "type": "HackerNews",
+      "title": "AI fake news complaining about how AI fake news is the death of real news",
+      "url": "https://www.niemanlab.org/2026/07/now-were-getting-ai-fake-news-complaining-about-how-ai-fake-news-is-the-death-of-real-news/",
+      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.niemanlab.org/2026...",
+      "score": 69
+    },
+    {
+      "type": "HackerNews",
+      "title": "Android Developer Verification: Threat masquerading as Protection",
       "url": "https://f-droid.org/2026/07/01/adv-malware.html",
-      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://f-droid.org/2026/07/01...",
-      "score": 739
+      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://f-droid.org/2026/07/01...",
+      "score": 996
+    },
+    {
+      "type": "HackerNews",
+      "title": "Show HN: ZeroFS – A log-structured filesystem for S3",
+      "url": "https://www.zerofs.net/",
+      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.zerofs.net/...",
+      "score": 7
+    },
+    {
+      "type": "HackerNews",
+      "title": "This blog is written in en-GB",
+      "url": "https://shkspr.mobi/blog/2026/07/this-blog-is-written-in-en-gb/",
+      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://shkspr.mobi/blog/2026/...",
+      "score": 239
+    },
+    {
+      "type": "HackerNews",
+      "title": "Is One Layer Enough? A Single Transformer Layer Matches Full-Parameter RL Train",
+      "url": "https://arxiv.org/abs/2607.01232",
+      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://arxiv.org/abs/2607.012...",
+      "score": 26
     },
     {
       "type": "HackerNews",
       "title": "Kimi K2.7 Code is generally available in GitHub Copilot",
       "url": "https://github.blog/changelog/2026-07-01-kimi-k2-7-is-now-available-in-github-copilot/",
       "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://github.blog/changelog/...",
-      "score": 190
+      "score": 254
     },
     {
       "type": "HackerNews",
-      "title": "The Fall of the Theorem Economy",
-      "url": "https://davidbessis.substack.com/p/the-fall-of-the-theorem-economy",
-      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://davidbessis.substack.c...",
-      "score": 78
-    },
-    {
-      "type": "HackerNews",
-      "title": "Oomwoo, an open-source robot vacuum you build yourself",
-      "url": "https://makerspet.com/blog/building-an-open-source-robot-vacuum-meet-oomwoo/",
-      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://makerspet.com/blog/bui...",
-      "score": 336
-    },
-    {
-      "type": "HackerNews",
-      "title": "My Favorite Keyboards",
-      "url": "https://fabiensanglard.net/keyboards/index.html",
-      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://fabiensanglard.net/key...",
-      "score": 53
-    },
-    {
-      "type": "HackerNews",
-      "title": "ZCode – Harness for GLM-5.2",
-      "url": "https://zcode.z.ai/en",
-      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://zcode.z.ai/en...",
-      "score": 414
-    },
-    {
-      "type": "HackerNews",
-      "title": "Asymmetric Quantization: Near-Lossless Retrieval with 97% Storage Reduction",
-      "url": "https://www.mixedbread.com/blog/asymmetric-quant",
-      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.mixedbread.com/blo...",
-      "score": 44
-    },
-    {
-      "type": "HackerNews",
-      "title": "Bring back crappy forums",
-      "url": "https://tedium.co/2026/07/01/online-web-forums-retrospective/",
-      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://tedium.co/2026/07/01/o...",
-      "score": 318
+      "title": "Hazel (YC W24) Is Hiring for Our Largest Government Contract",
+      "url": "https://www.ycombinator.com/companies/hazel-2/jobs/3epPWgu-full-stack-engineer-ts-sci",
+      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.ycombinator.com/co...",
+      "score": 1
     }
   ]
 }
