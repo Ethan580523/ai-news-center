@@ -1,61 +1,61 @@
 {
-  "last_updated": "2026-07-02 19:24:25",
+  "last_updated": "2026-07-02 22:05:43",
   "news": [
     {
       "type": "HackerNews",
-      "title": "Since Linux 6.9, LUKS suspend stopped wiping disk-encryption keys from memory",
-      "url": "https://mathstodon.xyz/@iblech/116769502749142438",
-      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://mathstodon.xyz/@iblech...",
-      "score": 280
+      "title": "Virginia bans sale of geolocation data",
+      "url": "https://www.hunton.com/privacy-and-cybersecurity-law-blog/virginia-bans-sale-of-geolocation-data",
+      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.hunton.com/privacy...",
+      "score": 116
     },
     {
       "type": "HackerNews",
       "title": "Exapunks (2018)",
       "url": "https://www.zachtronics.com/exapunks/",
       "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.zachtronics.com/ex...",
-      "score": 43
+      "score": 177
+    },
+    {
+      "type": "HackerNews",
+      "title": "Since Linux 6.9, LUKS suspend stopped wiping disk-encryption keys from memory",
+      "url": "https://mathstodon.xyz/@iblech/116769502749142438",
+      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://mathstodon.xyz/@iblech...",
+      "score": 353
+    },
+    {
+      "type": "HackerNews",
+      "title": "EFF letter to FTC on X consent order (2 July 2026) [pdf]",
+      "url": "https://cdn.arstechnica.net/wp-content/uploads/2026/07/EFF-letter-to-FTC-on-X-consent-order-7-2-26.pdf",
+      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://cdn.arstechnica.net/wp...",
+      "score": 71
+    },
+    {
+      "type": "HackerNews",
+      "title": "Lightning Memory-Mapped Database Manager (LMDB) 1.0",
+      "url": "http://www.lmdb.tech/doc/",
+      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：http://www.lmdb.tech/doc/...",
+      "score": 36
+    },
+    {
+      "type": "HackerNews",
+      "title": "Podman v6.0.0",
+      "url": "https://blog.podman.io/2026/07/introducing-podman-v6-0-0/",
+      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://blog.podman.io/2026/07...",
+      "score": 291
     },
     {
       "type": "HackerNews",
       "title": "PeerTube is a free, decentralized and federated video platform",
       "url": "https://github.com/Chocobozzz/PeerTube",
       "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://github.com/Chocobozzz/...",
-      "score": 303
+      "score": 436
     },
     {
       "type": "HackerNews",
-      "title": "Android Developer Verification: Threat masquerading as protection",
-      "url": "https://f-droid.org/2026/07/01/adv-malware.html",
-      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://f-droid.org/2026/07/01...",
-      "score": 1451
-    },
-    {
-      "type": "HackerNews",
-      "title": "How to ask for help from people who don't know you",
-      "url": "https://pradyuprasad.com/writings/how-to-ask-for-help/",
-      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://pradyuprasad.com/writi...",
-      "score": 220
-    },
-    {
-      "type": "HackerNews",
-      "title": "Podman v6.0.0",
-      "url": "https://blog.podman.io/2026/07/introducing-podman-v6-0-0/",
-      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://blog.podman.io/2026/07...",
-      "score": 110
-    },
-    {
-      "type": "HackerNews",
-      "title": "Klara and the Sun Essay Contest – $1k Prize – AI Use Allowed",
-      "url": "https://willpenman.com/klara/",
-      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://willpenman.com/klara/...",
-      "score": 11
-    },
-    {
-      "type": "HackerNews",
-      "title": "Launch HN: Manufact (YC S25) – MCP Cloud",
-      "url": "https://manufact.com",
-      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://manufact.com...",
-      "score": 76
+      "title": "Vulkan is now available on NetBSD",
+      "url": "https://github.com/segaboy/vulkan-netbsd",
+      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://github.com/segaboy/vul...",
+      "score": 56
     }
   ]
 }
