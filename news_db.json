@@ -1,61 +1,61 @@
 {
-  "last_updated": "2026-07-02 16:48:51",
+  "last_updated": "2026-07-02 19:24:25",
   "news": [
     {
       "type": "HackerNews",
       "title": "Since Linux 6.9, LUKS suspend stopped wiping disk-encryption keys from memory",
       "url": "https://mathstodon.xyz/@iblech/116769502749142438",
       "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://mathstodon.xyz/@iblech...",
-      "score": 126
+      "score": 280
+    },
+    {
+      "type": "HackerNews",
+      "title": "Exapunks (2018)",
+      "url": "https://www.zachtronics.com/exapunks/",
+      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.zachtronics.com/ex...",
+      "score": 43
+    },
+    {
+      "type": "HackerNews",
+      "title": "PeerTube is a free, decentralized and federated video platform",
+      "url": "https://github.com/Chocobozzz/PeerTube",
+      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://github.com/Chocobozzz/...",
+      "score": 303
+    },
+    {
+      "type": "HackerNews",
+      "title": "Android Developer Verification: Threat masquerading as protection",
+      "url": "https://f-droid.org/2026/07/01/adv-malware.html",
+      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://f-droid.org/2026/07/01...",
+      "score": 1451
+    },
+    {
+      "type": "HackerNews",
+      "title": "How to ask for help from people who don't know you",
+      "url": "https://pradyuprasad.com/writings/how-to-ask-for-help/",
+      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://pradyuprasad.com/writi...",
+      "score": 220
+    },
+    {
+      "type": "HackerNews",
+      "title": "Podman v6.0.0",
+      "url": "https://blog.podman.io/2026/07/introducing-podman-v6-0-0/",
+      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://blog.podman.io/2026/07...",
+      "score": 110
+    },
+    {
+      "type": "HackerNews",
+      "title": "Klara and the Sun Essay Contest – $1k Prize – AI Use Allowed",
+      "url": "https://willpenman.com/klara/",
+      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://willpenman.com/klara/...",
+      "score": 11
     },
     {
       "type": "HackerNews",
       "title": "Launch HN: Manufact (YC S25) – MCP Cloud",
       "url": "https://manufact.com",
       "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://manufact.com...",
-      "score": 51
-    },
-    {
-      "type": "HackerNews",
-      "title": "24-bit/192kHz music downloads and why they make no sense",
-      "url": "https://people.xiph.org/~xiphmont/demo/neil-young.html#toc_wd2bm",
-      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://people.xiph.org/~xiphm...",
-      "score": 17
-    },
-    {
-      "type": "HackerNews",
-      "title": "Android Developer Verification: Threat masquerading as protection",
-      "url": "https://f-droid.org/2026/07/01/adv-malware.html",
-      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://f-droid.org/2026/07/01...",
-      "score": 1305
-    },
-    {
-      "type": "HackerNews",
-      "title": "How to ask for help from people who don't know you",
-      "url": "https://pradyuprasad.com/writings/how-to-ask-for-help/",
-      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://pradyuprasad.com/writi...",
-      "score": 97
-    },
-    {
-      "type": "HackerNews",
-      "title": "AI can't be listed as inventor on patent applications, Japan's top court rules",
-      "url": "https://japannews.yomiuri.co.jp/science-nature/technology/20260306-314930/",
-      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://japannews.yomiuri.co.j...",
-      "score": 185
-    },
-    {
-      "type": "HackerNews",
-      "title": "PeerTube is a free, decentralized and federated video platform",
-      "url": "https://github.com/Chocobozzz/PeerTube",
-      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://github.com/Chocobozzz/...",
-      "score": 114
-    },
-    {
-      "type": "HackerNews",
-      "title": "Show HN: Mail Memories – A desktop app to rescue photos from Gmail",
-      "url": "https://mailmemories.com",
-      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://mailmemories.com...",
-      "score": 69
+      "score": 76
     }
   ]
 }
