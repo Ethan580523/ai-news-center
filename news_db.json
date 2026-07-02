@@ -1,61 +1,61 @@
 {
-  "last_updated": "2026-07-02 08:55:53",
+  "last_updated": "2026-07-02 11:35:15",
   "news": [
+    {
+      "type": "HackerNews",
+      "title": "A new Android malware from Google",
+      "url": "https://f-droid.org/2026/07/01/adv-malware.html",
+      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://f-droid.org/2026/07/01...",
+      "score": 739
+    },
     {
       "type": "HackerNews",
       "title": "Kimi K2.7 Code is generally available in GitHub Copilot",
       "url": "https://github.blog/changelog/2026-07-01-kimi-k2-7-is-now-available-in-github-copilot/",
       "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://github.blog/changelog/...",
-      "score": 126
+      "score": 190
     },
     {
       "type": "HackerNews",
-      "title": "A new Android malware from Google",
-      "url": "https://f-droid.org/2026/07/01/adv-malware.html",
-      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://f-droid.org/2026/07/01...",
-      "score": 325
-    },
-    {
-      "type": "HackerNews",
-      "title": "We Don't Have to Be This Bad at Improving Society",
-      "url": "https://kasperjunge.com/blog/we-dont-have-to-be-this-bad-at-improving-society/",
-      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://kasperjunge.com/blog/w...",
-      "score": 12
-    },
-    {
-      "type": "HackerNews",
-      "title": "ZCode – Harness for GLM-5.2",
-      "url": "https://zcode.z.ai/en",
-      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://zcode.z.ai/en...",
-      "score": 386
+      "title": "The Fall of the Theorem Economy",
+      "url": "https://davidbessis.substack.com/p/the-fall-of-the-theorem-economy",
+      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://davidbessis.substack.c...",
+      "score": 78
     },
     {
       "type": "HackerNews",
       "title": "Oomwoo, an open-source robot vacuum you build yourself",
       "url": "https://makerspet.com/blog/building-an-open-source-robot-vacuum-meet-oomwoo/",
-      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://makerspet.com/blog/bui...",
-      "score": 271
+      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://makerspet.com/blog/bui...",
+      "score": 336
+    },
+    {
+      "type": "HackerNews",
+      "title": "My Favorite Keyboards",
+      "url": "https://fabiensanglard.net/keyboards/index.html",
+      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://fabiensanglard.net/key...",
+      "score": 53
+    },
+    {
+      "type": "HackerNews",
+      "title": "ZCode – Harness for GLM-5.2",
+      "url": "https://zcode.z.ai/en",
+      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://zcode.z.ai/en...",
+      "score": 414
     },
     {
       "type": "HackerNews",
       "title": "Asymmetric Quantization: Near-Lossless Retrieval with 97% Storage Reduction",
       "url": "https://www.mixedbread.com/blog/asymmetric-quant",
-      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.mixedbread.com/blo...",
-      "score": 16
-    },
-    {
-      "type": "HackerNews",
-      "title": "CursorBench 3.1",
-      "url": "https://cursor.com/evals",
-      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://cursor.com/evals...",
-      "score": 50
+      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.mixedbread.com/blo...",
+      "score": 44
     },
     {
       "type": "HackerNews",
       "title": "Bring back crappy forums",
       "url": "https://tedium.co/2026/07/01/online-web-forums-retrospective/",
       "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://tedium.co/2026/07/01/o...",
-      "score": 241
+      "score": 318
     }
   ]
 }
