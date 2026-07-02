@@ -1,61 +1,61 @@
 {
-  "last_updated": "2026-07-01 22:17:08",
+  "last_updated": "2026-07-02 03:36:37",
   "news": [
     {
       "type": "HackerNews",
       "title": "ZCode – Harness for GLM-5.2",
       "url": "https://zcode.z.ai/en",
-      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://zcode.z.ai/en...",
-      "score": 27
+      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://zcode.z.ai/en...",
+      "score": 252
+    },
+    {
+      "type": "HackerNews",
+      "title": "Building an Open-Source Robot Vacuum – Meet Oomwoo",
+      "url": "https://makerspet.com/blog/building-an-open-source-robot-vacuum-meet-oomwoo/",
+      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://makerspet.com/blog/bui...",
+      "score": 80
+    },
+    {
+      "type": "HackerNews",
+      "title": "Show HN: Searchable directory of 22k+ products from worker-owned co-ops",
+      "url": "https://www.workerowned.info/",
+      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.workerowned.info/...",
+      "score": 262
     },
     {
       "type": "HackerNews",
       "title": "For first time, a cell built from scratch grows and divides",
       "url": "https://www.quantamagazine.org/for-the-first-time-a-cell-built-from-scratch-grows-and-divides-20260701/",
       "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.quantamagazine.org...",
-      "score": 639
+      "score": 766
     },
     {
       "type": "HackerNews",
-      "title": "Show HN: Searchable directory of 22k+ products from worker-owned co-ops",
-      "url": "https://www.workerowned.info/",
-      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.workerowned.info/...",
-      "score": 54
+      "title": "Global review confirms mRNA vaccines are safe, effective and full of promise ",
+      "url": "https://news.ubc.ca/2026/06/mrna-vaccines-are-safe-effective-and-full-of-promise/",
+      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://news.ubc.ca/2026/06/mr...",
+      "score": 174
+    },
+    {
+      "type": "HackerNews",
+      "title": "A new Android malware from Google",
+      "url": "https://f-droid.org/2026/07/01/adv-malware.html",
+      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://f-droid.org/2026/07/01...",
+      "score": 10
+    },
+    {
+      "type": "HackerNews",
+      "title": "Bring Back Crappy Forums",
+      "url": "https://tedium.co/2026/07/01/online-web-forums-retrospective/",
+      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://tedium.co/2026/07/01/o...",
+      "score": 19
     },
     {
       "type": "HackerNews",
       "title": "What to learn to be a graphics programmer",
       "url": "https://blog.demofox.org/2026/07/01/what-to-learn-to-be-a-graphics-programmer/",
-      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://blog.demofox.org/2026/...",
-      "score": 170
-    },
-    {
-      "type": "HackerNews",
-      "title": "FFmpeg 9.1's new AAC encoder",
-      "url": "https://hydrogenaudio.org/index.php/topic,129691.0.html",
-      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://hydrogenaudio.org/inde...",
-      "score": 217
-    },
-    {
-      "type": "HackerNews",
-      "title": "Physical disc production ending in Jan 2028 for new games on PlayStation",
-      "url": "https://blog.playstation.com/2026/07/01/physical-disc-production-ending-in-january-2028-for-new-games-releasing-on-playstation-consoles/",
-      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://blog.playstation.com/2...",
-      "score": 494
-    },
-    {
-      "type": "HackerNews",
-      "title": "Box3D, an open source 3D physics engine",
-      "url": "https://box2d.org/posts/2026/06/announcing-box3d/",
-      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://box2d.org/posts/2026/0...",
-      "score": 368
-    },
-    {
-      "type": "HackerNews",
-      "title": "Ask HN: Who is hiring? (July 2026)",
-      "url": null,
-      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：...",
-      "score": 134
+      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://blog.demofox.org/2026/...",
+      "score": 260
     }
   ]
 }
