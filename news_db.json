@@ -1,61 +1,61 @@
 {
-  "last_updated": "2026-07-03 16:23:39",
+  "last_updated": "2026-07-03 19:22:35",
   "news": [
-    {
-      "type": "HackerNews",
-      "title": "Markets are competitive if and only if P = NP",
-      "url": "https://arxiv.org/abs/2602.20415",
-      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://arxiv.org/abs/2602.204...",
-      "score": 66
-    },
-    {
-      "type": "HackerNews",
-      "title": "Half-Baked Product",
-      "url": "https://weli.dev/blog/half-baked-product/",
-      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://weli.dev/blog/half-bak...",
-      "score": 874
-    },
     {
       "type": "HackerNews",
       "title": "Jamesob's guide to running SOTA LLMs locally",
       "url": "https://github.com/jamesob/local-llm",
-      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://github.com/jamesob/loc...",
-      "score": 27
+      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://github.com/jamesob/loc...",
+      "score": 135
     },
     {
       "type": "HackerNews",
-      "title": "PostgreSQL and the OOM Killer: Why We Use Strict Memory Overcommit",
-      "url": "https://www.ubicloud.com/blog/postgresql-and-the-oom-killer-why-we-use-strict-memory-overcommit",
-      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.ubicloud.com/blog/...",
-      "score": 76
+      "title": "Factories are just rooms",
+      "url": "https://interconnected.org/home/2026/07/03/factories",
+      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://interconnected.org/hom...",
+      "score": 96
     },
     {
       "type": "HackerNews",
-      "title": "America, 1926: What a Forgotten 100-Year-Old Report Says About Who We Are",
-      "url": "https://www.derekthompson.org/p/america-1926-an-absurdly-deep-dive",
-      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.derekthompson.org/...",
-      "score": 14
-    },
-    {
-      "type": "HackerNews",
-      "title": "Valve open source the Steam Machine e-ink screen so you can make your own",
-      "url": "https://www.gamingonlinux.com/2026/07/valve-open-source-the-steam-machine-e-ink-screen-so-you-can-make-your-own/",
-      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.gamingonlinux.com/...",
-      "score": 241
+      "title": "Costco is the anti-Amazon",
+      "url": "https://phenomenalworld.org/analysis/the-anti-amazon/",
+      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://phenomenalworld.org/an...",
+      "score": 48
     },
     {
       "type": "HackerNews",
       "title": "Hunting a 16-year-old SQLite WAL bug with TLA+",
       "url": "https://ubuntu.com/blog/hunting-a-16-year-old-sqlite-bug-with-tla-is-dqlite-affected",
-      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://ubuntu.com/blog/huntin...",
-      "score": 36
+      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://ubuntu.com/blog/huntin...",
+      "score": 102
     },
     {
       "type": "HackerNews",
-      "title": "Give Smart People the Tools to Do Smart Things",
-      "url": "https://superuserdone.com/posts/2026-07-03-give-smart-people-the-tools/",
-      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://superuserdone.com/post...",
+      "title": "My dad helped build North America's oat supply chain: Can it be remade?",
+      "url": "https://ambrook.com/offrange/perspective/how-we-lost-our-oats",
+      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://ambrook.com/offrange/p...",
+      "score": 56
+    },
+    {
+      "type": "HackerNews",
+      "title": "PostgreSQL and the OOM killer: Why we use strict memory overcommit",
+      "url": "https://www.ubicloud.com/blog/postgresql-and-the-oom-killer-why-we-use-strict-memory-overcommit",
+      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.ubicloud.com/blog/...",
+      "score": 120
+    },
+    {
+      "type": "HackerNews",
+      "title": "Show HN: Mcpsnoop – Wireshark for MCP (transparent proxy and live TUI)",
+      "url": "https://github.com/kerlenton/mcpsnoop",
+      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://github.com/kerlenton/m...",
       "score": 16
+    },
+    {
+      "type": "HackerNews",
+      "title": "I Wasn't Allowed Prompting ChatGPT During My Chalk Talk: This Is Discrimination",
+      "url": "https://inpreparation.substack.com/p/opinion-i-was-not-allowed-to-type",
+      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://inpreparation.substack...",
+      "score": 69
     }
   ]
 }
