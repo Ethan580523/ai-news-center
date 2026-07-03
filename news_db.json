@@ -1,61 +1,61 @@
 {
-  "last_updated": "2026-07-03 14:04:08",
+  "last_updated": "2026-07-03 16:23:39",
   "news": [
+    {
+      "type": "HackerNews",
+      "title": "Markets are competitive if and only if P = NP",
+      "url": "https://arxiv.org/abs/2602.20415",
+      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://arxiv.org/abs/2602.204...",
+      "score": 66
+    },
     {
       "type": "HackerNews",
       "title": "Half-Baked Product",
       "url": "https://weli.dev/blog/half-baked-product/",
-      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://weli.dev/blog/half-bak...",
-      "score": 587
+      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://weli.dev/blog/half-bak...",
+      "score": 874
     },
     {
       "type": "HackerNews",
-      "title": "PostgreSQL and the OOM Killer: Why You Must Use Strict Memory Overcommit",
+      "title": "Jamesob's guide to running SOTA LLMs locally",
+      "url": "https://github.com/jamesob/local-llm",
+      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://github.com/jamesob/loc...",
+      "score": 27
+    },
+    {
+      "type": "HackerNews",
+      "title": "PostgreSQL and the OOM Killer: Why We Use Strict Memory Overcommit",
       "url": "https://www.ubicloud.com/blog/postgresql-and-the-oom-killer-why-we-use-strict-memory-overcommit",
       "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.ubicloud.com/blog/...",
-      "score": 31
+      "score": 76
     },
     {
       "type": "HackerNews",
-      "title": "Virginia bans sale of geolocation data",
-      "url": "https://www.hunton.com/privacy-and-cybersecurity-law-blog/virginia-bans-sale-of-geolocation-data",
-      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.hunton.com/privacy...",
-      "score": 891
-    },
-    {
-      "type": "HackerNews",
-      "title": "Zuckerberg 'Admits' Meta's Layoffs Were Ineffective",
-      "url": "https://eshumarneedi.com/2026/07/03/zuckerberg-admits-metas-layoffs-were.html",
-      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://eshumarneedi.com/2026/...",
-      "score": 69
+      "title": "America, 1926: What a Forgotten 100-Year-Old Report Says About Who We Are",
+      "url": "https://www.derekthompson.org/p/america-1926-an-absurdly-deep-dive",
+      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.derekthompson.org/...",
+      "score": 14
     },
     {
       "type": "HackerNews",
       "title": "Valve open source the Steam Machine e-ink screen so you can make your own",
       "url": "https://www.gamingonlinux.com/2026/07/valve-open-source-the-steam-machine-e-ink-screen-so-you-can-make-your-own/",
-      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.gamingonlinux.com/...",
-      "score": 59
+      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.gamingonlinux.com/...",
+      "score": 241
     },
     {
       "type": "HackerNews",
-      "title": "Wordgard: The new in-browser rich-text editor from the creator of ProseMirror",
-      "url": "https://wordgard.net/",
-      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://wordgard.net/...",
-      "score": 90
+      "title": "Hunting a 16-year-old SQLite WAL bug with TLA+",
+      "url": "https://ubuntu.com/blog/hunting-a-16-year-old-sqlite-bug-with-tla-is-dqlite-affected",
+      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://ubuntu.com/blog/huntin...",
+      "score": 36
     },
     {
       "type": "HackerNews",
-      "title": "Right to Local Intelligence",
-      "url": "https://righttointelligence.org/",
-      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://righttointelligence.or...",
-      "score": 351
-    },
-    {
-      "type": "HackerNews",
-      "title": "CarPlay Is Additive",
-      "url": "https://www.caseyliss.com/2026/7/2/carplay-is-additive-you-dolts",
-      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.caseyliss.com/2026...",
-      "score": 415
+      "title": "Give Smart People the Tools to Do Smart Things",
+      "url": "https://superuserdone.com/posts/2026-07-03-give-smart-people-the-tools/",
+      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://superuserdone.com/post...",
+      "score": 16
     }
   ]
 }
