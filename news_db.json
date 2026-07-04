@@ -1,61 +1,61 @@
 {
-  "last_updated": "2026-07-04 02:55:34",
+  "last_updated": "2026-07-04 06:21:11",
   "news": [
     {
       "type": "HackerNews",
-      "title": "Giant trees have no trouble pumping water to top branches",
+      "title": "Agentic coding notes from Galapagos Island",
+      "url": "https://danluu.com/ai-coding/#appendix-agentic-loops-and-writing-this-post",
+      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://danluu.com/ai-coding/#...",
+      "score": 42
+    },
+    {
+      "type": "HackerNews",
+      "title": "David Beazley – Programming Courses",
+      "url": "https://www.dabeaz.com/courses.html",
+      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.dabeaz.com/courses...",
+      "score": 11
+    },
+    {
+      "type": "HackerNews",
+      "title": "Performance per dollar is getting faster and cheaper",
+      "url": "https://www.wafer.ai/blog/glm52-amd",
+      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.wafer.ai/blog/glm5...",
+      "score": 196
+    },
+    {
+      "type": "HackerNews",
+      "title": "Giant trees have no trouble pumping water to top branches: new research",
       "url": "https://news.exeter.ac.uk/faculty-of-environment-science-and-economy/giant-trees-have-no-trouble-pumping-water-to-top-branches/",
       "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://news.exeter.ac.uk/facu...",
-      "score": 107
+      "score": 163
     },
     {
       "type": "HackerNews",
-      "title": "Leanstral 1.5: Proof Abundance for All",
+      "title": "Leanstral 1.5: Proof abundance for all",
       "url": "https://mistral.ai/news/leanstral-1-5/",
       "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://mistral.ai/news/leanst...",
-      "score": 105
+      "score": 166
     },
     {
       "type": "HackerNews",
-      "title": "GLM5.2 on AMD MI355X at 2626 tok/s/node at over 2x lower cost than Blackwell",
-      "url": "https://www.wafer.ai/blog/glm52-amd",
-      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.wafer.ai/blog/glm5...",
-      "score": 113
+      "title": "Mir Books – Books from the Soviet Era",
+      "url": "https://mirtitles.org",
+      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://mirtitles.org...",
+      "score": 21
     },
     {
       "type": "HackerNews",
-      "title": "MSI Center – How to gain SYSTEM privileges in seconds",
-      "url": "https://mrbruh.com/msicenter/",
-      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://mrbruh.com/msicenter/...",
-      "score": 32
+      "title": "Synthesis is harder than analysis",
+      "url": "https://surfingcomplexity.blog/2026/07/03/synthesis-is-harder-than-analysis/",
+      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://surfingcomplexity.blog...",
+      "score": 39
     },
     {
       "type": "HackerNews",
       "title": "Steam Controller Auto-Charge – pilot to magnetic charging puck using CV",
       "url": "https://github.com/FossPrime/Steam-Controller-Auto-Charge",
-      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://github.com/FossPrime/S...",
-      "score": 77
-    },
-    {
-      "type": "HackerNews",
-      "title": "SearXNG: A free internet metasearch engine",
-      "url": "https://github.com/searxng/searxng",
-      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://github.com/searxng/sea...",
-      "score": 143
-    },
-    {
-      "type": "HackerNews",
-      "title": "The circuit that lets your brain think and see",
-      "url": "https://www.engineering.columbia.edu/about/news/circuit-lets-your-brain-think-and-see",
-      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.engineering.columb...",
-      "score": 48
-    },
-    {
-      "type": "HackerNews",
-      "title": "Amsterdam invented the fire department",
-      "url": "https://worksinprogress.co/issue/how-amsterdam-invented-the-fire-department/",
-      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://worksinprogress.co/iss...",
-      "score": 49
+      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://github.com/FossPrime/S...",
+      "score": 114
     }
   ]
 }
