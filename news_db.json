@@ -1,61 +1,61 @@
 {
-  "last_updated": "2026-07-04 13:25:50",
+  "last_updated": "2026-07-04 16:01:49",
   "news": [
+    {
+      "type": "HackerNews",
+      "title": "Potential session/cache leakage between workspace instances or consumer accounts",
+      "url": "https://github.com/anthropics/claude-code/issues/74066",
+      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://github.com/anthropics/...",
+      "score": 120
+    },
+    {
+      "type": "HackerNews",
+      "title": "Explanation of everything you can see in htop/top on Linux",
+      "url": "https://peteris.rocks/blog/htop/",
+      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://peteris.rocks/blog/hto...",
+      "score": 157
+    },
+    {
+      "type": "HackerNews",
+      "title": "What ORMs have taught me: just learn SQL (2014)",
+      "url": "https://wozniak.ca/blog/2014/08/03/1/index.html",
+      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://wozniak.ca/blog/2014/0...",
+      "score": 37
+    },
     {
       "type": "HackerNews",
       "title": "Astrophysicists Puzzle over Webb’s New Universe",
       "url": "https://www.quantamagazine.org/astrophysicists-puzzle-over-webbs-new-universe-20260702/",
       "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.quantamagazine.org...",
-      "score": 67
-    },
-    {
-      "type": "HackerNews",
-      "title": "The Vespa at 80: Why the Italian scooter remains the coolest thing on 2 wheels",
-      "url": "https://www.cbc.ca/news/world/vespa-italy-postwar-design-9.7252641",
-      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.cbc.ca/news/world/...",
-      "score": 32
-    },
-    {
-      "type": "HackerNews",
-      "title": "The bottleneck might be the air in the room",
-      "url": "https://blog.mikebowler.ca/2026/07/03/co2-and-decision-making/",
-      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://blog.mikebowler.ca/202...",
-      "score": 464
+      "score": 124
     },
     {
       "type": "HackerNews",
       "title": "Maybe you should learn something",
       "url": "https://www.marginalia.nu/log/a_135_learn/",
-      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.marginalia.nu/log/...",
-      "score": 182
+      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.marginalia.nu/log/...",
+      "score": 289
     },
     {
       "type": "HackerNews",
       "title": "Postgres data stored in Parquet on S3: LTAP architecture explained",
       "url": "https://www.databricks.com/blog/lakebase-ltap-rethinking-database-storage",
       "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.databricks.com/blo...",
-      "score": 64
+      "score": 109
     },
     {
       "type": "HackerNews",
-      "title": "Performance per dollar is getting faster and cheaper",
-      "url": "https://www.wafer.ai/blog/glm52-amd",
-      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.wafer.ai/blog/glm5...",
-      "score": 282
+      "title": "The bottleneck might be the air in the room",
+      "url": "https://blog.mikebowler.ca/2026/07/03/co2-and-decision-making/",
+      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://blog.mikebowler.ca/202...",
+      "score": 592
     },
     {
       "type": "HackerNews",
-      "title": "Leanstral 1.5: Proof abundance for all",
-      "url": "https://mistral.ai/news/leanstral-1-5/",
-      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://mistral.ai/news/leanst...",
-      "score": 283
-    },
-    {
-      "type": "HackerNews",
-      "title": "Mir Books – Books from the Soviet Era",
-      "url": "https://mirtitles.org",
-      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://mirtitles.org...",
-      "score": 112
+      "title": "Breaking the Bird Barrier: Scientist Decodes Zebra Finch Language",
+      "url": "https://www.freepressjournal.in/education/breaking-the-bird-barrier-scientist-decodes-zebra-finch-language",
+      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.freepressjournal.i...",
+      "score": 28
     }
   ]
 }
