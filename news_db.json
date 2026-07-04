@@ -1,61 +1,61 @@
 {
-  "last_updated": "2026-07-04 10:53:41",
+  "last_updated": "2026-07-04 13:25:50",
   "news": [
+    {
+      "type": "HackerNews",
+      "title": "Astrophysicists Puzzle over Webb’s New Universe",
+      "url": "https://www.quantamagazine.org/astrophysicists-puzzle-over-webbs-new-universe-20260702/",
+      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.quantamagazine.org...",
+      "score": 67
+    },
+    {
+      "type": "HackerNews",
+      "title": "The Vespa at 80: Why the Italian scooter remains the coolest thing on 2 wheels",
+      "url": "https://www.cbc.ca/news/world/vespa-italy-postwar-design-9.7252641",
+      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.cbc.ca/news/world/...",
+      "score": 32
+    },
     {
       "type": "HackerNews",
       "title": "The bottleneck might be the air in the room",
       "url": "https://blog.mikebowler.ca/2026/07/03/co2-and-decision-making/",
-      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://blog.mikebowler.ca/202...",
-      "score": 281
+      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://blog.mikebowler.ca/202...",
+      "score": 464
     },
     {
       "type": "HackerNews",
-      "title": "Astrophysicists Puzzle over Webb's New Universe",
-      "url": "https://www.quantamagazine.org/astrophysicists-puzzle-over-webbs-new-universe-20260702/",
-      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.quantamagazine.org...",
-      "score": 21
+      "title": "Maybe you should learn something",
+      "url": "https://www.marginalia.nu/log/a_135_learn/",
+      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.marginalia.nu/log/...",
+      "score": 182
     },
     {
       "type": "HackerNews",
-      "title": "Mir Books – Books from the Soviet Era",
-      "url": "https://mirtitles.org",
-      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://mirtitles.org...",
-      "score": 91
+      "title": "Postgres data stored in Parquet on S3: LTAP architecture explained",
+      "url": "https://www.databricks.com/blog/lakebase-ltap-rethinking-database-storage",
+      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.databricks.com/blo...",
+      "score": 64
     },
     {
       "type": "HackerNews",
       "title": "Performance per dollar is getting faster and cheaper",
       "url": "https://www.wafer.ai/blog/glm52-amd",
       "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.wafer.ai/blog/glm5...",
-      "score": 254
-    },
-    {
-      "type": "HackerNews",
-      "title": "Agentic coding notes from Galapagos Island",
-      "url": "https://danluu.com/ai-coding/#appendix-agentic-loops-and-writing-this-post",
-      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://danluu.com/ai-coding/#...",
-      "score": 97
+      "score": 282
     },
     {
       "type": "HackerNews",
       "title": "Leanstral 1.5: Proof abundance for all",
       "url": "https://mistral.ai/news/leanstral-1-5/",
-      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://mistral.ai/news/leanst...",
-      "score": 243
+      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://mistral.ai/news/leanst...",
+      "score": 283
     },
     {
       "type": "HackerNews",
-      "title": "Postgres data stored in Parquet on S3: LTAP architecture explained",
-      "url": "https://www.databricks.com/blog/lakebase-ltap-rethinking-database-storage",
-      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.databricks.com/blo...",
-      "score": 32
-    },
-    {
-      "type": "HackerNews",
-      "title": "Giant trees have no trouble pumping water to top branches: new research",
-      "url": "https://news.exeter.ac.uk/faculty-of-environment-science-and-economy/giant-trees-have-no-trouble-pumping-water-to-top-branches/",
-      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://news.exeter.ac.uk/facu...",
-      "score": 208
+      "title": "Mir Books – Books from the Soviet Era",
+      "url": "https://mirtitles.org",
+      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://mirtitles.org...",
+      "score": 112
     }
   ]
 }
