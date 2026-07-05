@@ -1,61 +1,61 @@
 {
-  "last_updated": "2026-07-05 16:08:52",
+  "last_updated": "2026-07-05 19:17:39",
   "news": [
     {
       "type": "HackerNews",
       "title": "Organic Maps",
       "url": "https://organicmaps.app/",
-      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://organicmaps.app/...",
-      "score": 201
+      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://organicmaps.app/...",
+      "score": 528
     },
     {
       "type": "HackerNews",
-      "title": "Phosh 0.56.0",
-      "url": "https://phosh.mobi/releases/rel-0.56.0/",
-      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://phosh.mobi/releases/re...",
-      "score": 114
+      "title": "The Computers Used in Movies",
+      "url": "https://www.starringthecomputer.com/computers.html",
+      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.starringthecompute...",
+      "score": 72
     },
     {
       "type": "HackerNews",
-      "title": "Introduction to Compilers and Language Design",
+      "title": "New AI tutor achieves 0.71-1.30 SD effect size in Dartmouth course [pdf]",
+      "url": "https://intextbooks.science.uu.nl/workshop2026/files/itb26_s1s2.pdf",
+      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://intextbooks.science.uu...",
+      "score": 12
+    },
+    {
+      "type": "HackerNews",
+      "title": "\"These cameras are just like the Eye of Sauron\"",
+      "url": "https://arxiv.org/abs/2602.09239",
+      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://arxiv.org/abs/2602.092...",
+      "score": 68
+    },
+    {
+      "type": "HackerNews",
+      "title": "It's not about physical vs. digital games, it's about ownership",
+      "url": "https://popcar.bearblog.dev/its-about-ownership/",
+      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://popcar.bearblog.dev/it...",
+      "score": 102
+    },
+    {
+      "type": "HackerNews",
+      "title": "Introduction to Compilers and Language Design (2021)",
       "url": "https://dthain.github.io/books/compiler/",
-      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://dthain.github.io/books...",
-      "score": 125
+      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://dthain.github.io/books...",
+      "score": 230
     },
     {
       "type": "HackerNews",
-      "title": "Show your hands honor for the power they bring you",
-      "url": "https://aresluna.org/show-your-hands-honor/",
-      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://aresluna.org/show-your...",
-      "score": 13
+      "title": "The Future of Flipper Zero Development",
+      "url": "https://blog.flipper.net/future-of-flipper-zero-development/",
+      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://blog.flipper.net/futur...",
+      "score": 12
     },
     {
       "type": "HackerNews",
-      "title": "Run Windows 2000 on a DEC Alpha with a new es40 fork",
-      "url": "https://raymii.org/s/blog/Run_Windows_2000_for_Dec_Alpha_on_a_new_es40_fork.html",
-      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://raymii.org/s/blog/Run_...",
-      "score": 23
-    },
-    {
-      "type": "HackerNews",
-      "title": "Airplane Boneyards List and Map",
-      "url": "https://airplaneboneyards.com/airplane-boneyards-list-and-map.htm",
-      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://airplaneboneyards.com/...",
-      "score": 30
-    },
-    {
-      "type": "HackerNews",
-      "title": "Medieval-style fortifications are back in the Sahel",
-      "url": "https://www.economist.com/middle-east-and-africa/2026/06/25/medieval-style-fortifications-are-back-in-the-sahel",
-      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.economist.com/midd...",
-      "score": 38
-    },
-    {
-      "type": "HackerNews",
-      "title": "If you're a button, you have one job",
-      "url": "https://unsung.aresluna.org/if-youre-a-button-you-have-one-job/",
-      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://unsung.aresluna.org/if...",
-      "score": 419
+      "title": "Do you hate XML? (2010)",
+      "url": "https://sigfrid-lundberg.se/entries/2010/07/hate_xml/",
+      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://sigfrid-lundberg.se/en...",
+      "score": 7
     }
   ]
 }
