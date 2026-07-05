@@ -1,61 +1,61 @@
 {
-  "last_updated": "2026-07-05 08:52:12",
+  "last_updated": "2026-07-05 11:03:38",
   "news": [
     {
       "type": "HackerNews",
       "title": "Shadcn/UI now defaults to Base UI instead of Radix",
       "url": "https://ui.shadcn.com/docs/changelog",
-      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://ui.shadcn.com/docs/cha...",
-      "score": 109
+      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://ui.shadcn.com/docs/cha...",
+      "score": 145
     },
     {
       "type": "HackerNews",
-      "title": "sqlite-utils 4.0rc2, mostly written by Claude Fable (for about $149.25)",
-      "url": "https://simonwillison.net/2026/Jul/5/sqlite-utils-fable/",
-      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://simonwillison.net/2026...",
-      "score": 35
+      "title": "If you're a button, you have one job",
+      "url": "https://unsung.aresluna.org/if-youre-a-button-you-have-one-job/",
+      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://unsung.aresluna.org/if...",
+      "score": 241
     },
     {
       "type": "HackerNews",
       "title": "Command and Conquer Generals natively ported to macOS, iPhone, iPad using Fable",
       "url": "https://github.com/ammaarreshi/Generals-Mac-iOS-iPad/tree/main",
       "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://github.com/ammaarreshi...",
-      "score": 553
+      "score": 580
     },
     {
       "type": "HackerNews",
-      "title": "If you're a button, you have one job",
-      "url": "https://unsung.aresluna.org/if-youre-a-button-you-have-one-job/",
-      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://unsung.aresluna.org/if...",
-      "score": 179
+      "title": "Web-based cryptography is always snake oil",
+      "url": "https://www.devever.net/~hl/webcrypto",
+      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.devever.net/~hl/we...",
+      "score": 35
     },
     {
       "type": "HackerNews",
-      "title": "Pandoc Lua Filters",
-      "url": "https://pandoc.org/lua-filters.html",
-      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://pandoc.org/lua-filters...",
-      "score": 58
+      "title": "Fast Software, the Best Software",
+      "url": "https://craigmod.com/essays/fast_software/",
+      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://craigmod.com/essays/fa...",
+      "score": 22
     },
     {
       "type": "HackerNews",
       "title": "GPT-5.5 Codex reasoning-token clustering may be leading to degraded performance",
       "url": "https://github.com/openai/codex/issues/30364",
-      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://github.com/openai/code...",
-      "score": 258
+      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://github.com/openai/code...",
+      "score": 285
     },
     {
       "type": "HackerNews",
-      "title": "Apocketlypse",
-      "url": "https://0dd.company/galleries/triumph/1.html",
-      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://0dd.company/galleries/...",
-      "score": 3
+      "title": "Pandoc Lua Filters",
+      "url": "https://pandoc.org/lua-filters.html",
+      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://pandoc.org/lua-filters...",
+      "score": 74
     },
     {
       "type": "HackerNews",
-      "title": "Megawatts by Microwave",
-      "url": "https://computer.rip/2026-07-04-microwave-and-power.html",
-      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://computer.rip/2026-07-0...",
-      "score": 19
+      "title": "Jellyfish can heal wounds in minutes. Scientists want their secrets",
+      "url": "https://www.mbl.edu/news/jellyfish-can-heal-wounds-minutes-scientists-want-their-secrets",
+      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.mbl.edu/news/jelly...",
+      "score": 131
     }
   ]
 }
