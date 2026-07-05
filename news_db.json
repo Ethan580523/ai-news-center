@@ -1,61 +1,61 @@
 {
-  "last_updated": "2026-07-05 19:17:39",
+  "last_updated": "2026-07-05 22:01:45",
   "news": [
+    {
+      "type": "HackerNews",
+      "title": "Reparaible and open source paper printer",
+      "url": "https://www.opentools.studio/",
+      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.opentools.studio/...",
+      "score": 73
+    },
     {
       "type": "HackerNews",
       "title": "Organic Maps",
       "url": "https://organicmaps.app/",
-      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://organicmaps.app/...",
-      "score": 528
-    },
-    {
-      "type": "HackerNews",
-      "title": "The Computers Used in Movies",
-      "url": "https://www.starringthecomputer.com/computers.html",
-      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.starringthecompute...",
-      "score": 72
+      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://organicmaps.app/...",
+      "score": 691
     },
     {
       "type": "HackerNews",
       "title": "New AI tutor achieves 0.71-1.30 SD effect size in Dartmouth course [pdf]",
       "url": "https://intextbooks.science.uu.nl/workshop2026/files/itb26_s1s2.pdf",
       "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://intextbooks.science.uu...",
-      "score": 12
+      "score": 91
     },
     {
       "type": "HackerNews",
-      "title": "\"These cameras are just like the Eye of Sauron\"",
-      "url": "https://arxiv.org/abs/2602.09239",
-      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://arxiv.org/abs/2602.092...",
-      "score": 68
+      "title": "Completing a Computer Science Degree on Coursera",
+      "url": "https://notesbylex.com/completing-a-computer-science-degree-on-coursera",
+      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://notesbylex.com/complet...",
+      "score": 19
     },
     {
       "type": "HackerNews",
-      "title": "It's not about physical vs. digital games, it's about ownership",
-      "url": "https://popcar.bearblog.dev/its-about-ownership/",
-      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://popcar.bearblog.dev/it...",
-      "score": 102
-    },
-    {
-      "type": "HackerNews",
-      "title": "Introduction to Compilers and Language Design (2021)",
-      "url": "https://dthain.github.io/books/compiler/",
-      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://dthain.github.io/books...",
-      "score": 230
-    },
-    {
-      "type": "HackerNews",
-      "title": "The Future of Flipper Zero Development",
+      "title": "The future of Flipper Zero development",
       "url": "https://blog.flipper.net/future-of-flipper-zero-development/",
       "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://blog.flipper.net/futur...",
+      "score": 150
+    },
+    {
+      "type": "HackerNews",
+      "title": "Show HN: Homegames. An open-source game platform I've been making for 8 years",
+      "url": "https://homegames.io",
+      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://homegames.io...",
+      "score": 13
+    },
+    {
+      "type": "HackerNews",
+      "title": "Dungeon Proof Crawler: learn how to write proofs with RPG",
+      "url": "https://dhilst.github.io/algae/game/index.html",
+      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://dhilst.github.io/algae...",
       "score": 12
     },
     {
       "type": "HackerNews",
-      "title": "Do you hate XML? (2010)",
-      "url": "https://sigfrid-lundberg.se/entries/2010/07/hate_xml/",
-      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://sigfrid-lundberg.se/en...",
-      "score": 7
+      "title": "Starring the Computer",
+      "url": "https://www.starringthecomputer.com/computers.html",
+      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.starringthecompute...",
+      "score": 134
     }
   ]
 }
