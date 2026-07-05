@@ -1,61 +1,61 @@
 {
-  "last_updated": "2026-07-05 11:03:38",
+  "last_updated": "2026-07-05 13:39:13",
   "news": [
     {
       "type": "HackerNews",
-      "title": "Shadcn/UI now defaults to Base UI instead of Radix",
-      "url": "https://ui.shadcn.com/docs/changelog",
-      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://ui.shadcn.com/docs/cha...",
-      "score": 145
+      "title": "Introduction to Compilers and Language Design",
+      "url": "https://dthain.github.io/books/compiler/",
+      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://dthain.github.io/books...",
+      "score": 16
     },
     {
       "type": "HackerNews",
       "title": "If you're a button, you have one job",
       "url": "https://unsung.aresluna.org/if-youre-a-button-you-have-one-job/",
-      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://unsung.aresluna.org/if...",
-      "score": 241
+      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://unsung.aresluna.org/if...",
+      "score": 337
     },
     {
       "type": "HackerNews",
-      "title": "Command and Conquer Generals natively ported to macOS, iPhone, iPad using Fable",
-      "url": "https://github.com/ammaarreshi/Generals-Mac-iOS-iPad/tree/main",
-      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://github.com/ammaarreshi...",
-      "score": 580
+      "title": "Shadcn/UI now defaults to Base UI instead of Radix",
+      "url": "https://ui.shadcn.com/docs/changelog",
+      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://ui.shadcn.com/docs/cha...",
+      "score": 189
     },
     {
       "type": "HackerNews",
-      "title": "Web-based cryptography is always snake oil",
-      "url": "https://www.devever.net/~hl/webcrypto",
-      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.devever.net/~hl/we...",
-      "score": 35
+      "title": "Show HN: KiCad in the Browser",
+      "url": "https://demo.pcbjam.com/",
+      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://demo.pcbjam.com/...",
+      "score": 16
     },
     {
       "type": "HackerNews",
-      "title": "Fast Software, the Best Software",
-      "url": "https://craigmod.com/essays/fast_software/",
-      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://craigmod.com/essays/fa...",
-      "score": 22
+      "title": "Trust your compiler: Modern C++",
+      "url": "https://categorica.io/blog/2026.06.29_trust_your_compiler/",
+      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://categorica.io/blog/202...",
+      "score": 20
     },
     {
       "type": "HackerNews",
-      "title": "GPT-5.5 Codex reasoning-token clustering may be leading to degraded performance",
-      "url": "https://github.com/openai/codex/issues/30364",
-      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://github.com/openai/code...",
-      "score": 285
+      "title": "Claude Design System Prompt",
+      "url": "https://github.com/Trystan-SA/claude-design-system-prompt",
+      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://github.com/Trystan-SA/...",
+      "score": 66
     },
     {
       "type": "HackerNews",
       "title": "Pandoc Lua Filters",
       "url": "https://pandoc.org/lua-filters.html",
-      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://pandoc.org/lua-filters...",
-      "score": 74
+      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://pandoc.org/lua-filters...",
+      "score": 95
     },
     {
       "type": "HackerNews",
-      "title": "Jellyfish can heal wounds in minutes. Scientists want their secrets",
-      "url": "https://www.mbl.edu/news/jellyfish-can-heal-wounds-minutes-scientists-want-their-secrets",
-      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.mbl.edu/news/jelly...",
-      "score": 131
+      "title": "Fast Software, the Best Software (2019)",
+      "url": "https://craigmod.com/essays/fast_software/",
+      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://craigmod.com/essays/fa...",
+      "score": 64
     }
   ]
 }
