@@ -1,61 +1,61 @@
 {
-  "last_updated": "2026-07-05 22:01:45",
+  "last_updated": "2026-07-06 03:33:28",
   "news": [
     {
       "type": "HackerNews",
-      "title": "Reparaible and open source paper printer",
+      "title": "GPT-5.6 Sol Ultra will be in Codex",
+      "url": "https://twitter.com/thsottiaux/status/2073933490513752151",
+      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://twitter.com/thsottiaux...",
+      "score": 104
+    },
+    {
+      "type": "HackerNews",
+      "title": "OpenPrinter",
       "url": "https://www.opentools.studio/",
       "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.opentools.studio/...",
-      "score": 73
+      "score": 517
+    },
+    {
+      "type": "HackerNews",
+      "title": "Al Vigier: Canada's AI strategy shouldn't include secret Palantir bills",
+      "url": "https://www.readtheline.ca/p/al-vigier-canadas-ai-strategy-shouldnt",
+      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.readtheline.ca/p/a...",
+      "score": 113
+    },
+    {
+      "type": "HackerNews",
+      "title": "Has_not_been_viewed_much",
+      "url": "https://iamwillwang.com/notes/has-not-been-viewed-much/",
+      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://iamwillwang.com/notes/...",
+      "score": 114
     },
     {
       "type": "HackerNews",
       "title": "Organic Maps",
       "url": "https://organicmaps.app/",
       "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://organicmaps.app/...",
-      "score": 691
+      "score": 839
     },
     {
       "type": "HackerNews",
-      "title": "New AI tutor achieves 0.71-1.30 SD effect size in Dartmouth course [pdf]",
-      "url": "https://intextbooks.science.uu.nl/workshop2026/files/itb26_s1s2.pdf",
-      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://intextbooks.science.uu...",
-      "score": 91
+      "title": "The Sneakerweb",
+      "url": "https://sneakerweb.org/",
+      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://sneakerweb.org/...",
+      "score": 20
     },
     {
       "type": "HackerNews",
-      "title": "Completing a Computer Science Degree on Coursera",
-      "url": "https://notesbylex.com/completing-a-computer-science-degree-on-coursera",
-      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://notesbylex.com/complet...",
-      "score": 19
-    },
-    {
-      "type": "HackerNews",
-      "title": "The future of Flipper Zero development",
-      "url": "https://blog.flipper.net/future-of-flipper-zero-development/",
-      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://blog.flipper.net/futur...",
-      "score": 150
+      "title": "Does Code Cleanliness Affect Coding Agents?",
+      "url": "https://arxiv.org/abs/2605.20049",
+      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://arxiv.org/abs/2605.200...",
+      "score": 48
     },
     {
       "type": "HackerNews",
       "title": "Show HN: Homegames. An open-source game platform I've been making for 8 years",
       "url": "https://homegames.io",
       "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://homegames.io...",
-      "score": 13
-    },
-    {
-      "type": "HackerNews",
-      "title": "Dungeon Proof Crawler: learn how to write proofs with RPG",
-      "url": "https://dhilst.github.io/algae/game/index.html",
-      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://dhilst.github.io/algae...",
-      "score": 12
-    },
-    {
-      "type": "HackerNews",
-      "title": "Starring the Computer",
-      "url": "https://www.starringthecomputer.com/computers.html",
-      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.starringthecompute...",
-      "score": 134
+      "score": 102
     }
   ]
 }
