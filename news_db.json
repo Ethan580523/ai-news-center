@@ -1,61 +1,61 @@
 {
-  "last_updated": "2026-07-06 03:33:28",
+  "last_updated": "2026-07-06 10:21:51",
   "news": [
+    {
+      "type": "HackerNews",
+      "title": "Real-time map of Great Britain's rail network",
+      "url": "https://www.map.signalbox.io",
+      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.map.signalbox.io...",
+      "score": 36
+    },
     {
       "type": "HackerNews",
       "title": "GPT-5.6 Sol Ultra will be in Codex",
       "url": "https://twitter.com/thsottiaux/status/2073933490513752151",
-      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://twitter.com/thsottiaux...",
-      "score": 104
-    },
-    {
-      "type": "HackerNews",
-      "title": "OpenPrinter",
-      "url": "https://www.opentools.studio/",
-      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.opentools.studio/...",
-      "score": 517
-    },
-    {
-      "type": "HackerNews",
-      "title": "Al Vigier: Canada's AI strategy shouldn't include secret Palantir bills",
-      "url": "https://www.readtheline.ca/p/al-vigier-canadas-ai-strategy-shouldnt",
-      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.readtheline.ca/p/a...",
-      "score": 113
+      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://twitter.com/thsottiaux...",
+      "score": 296
     },
     {
       "type": "HackerNews",
       "title": "Has_not_been_viewed_much",
       "url": "https://iamwillwang.com/notes/has-not-been-viewed-much/",
-      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://iamwillwang.com/notes/...",
-      "score": 114
+      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://iamwillwang.com/notes/...",
+      "score": 311
     },
     {
       "type": "HackerNews",
       "title": "Organic Maps",
       "url": "https://organicmaps.app/",
       "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://organicmaps.app/...",
-      "score": 839
+      "score": 1003
     },
     {
       "type": "HackerNews",
-      "title": "The Sneakerweb",
-      "url": "https://sneakerweb.org/",
-      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://sneakerweb.org/...",
-      "score": 20
+      "title": "Generate parametric, manufacturable 3D models in seconds",
+      "url": "https://kyrall.com/",
+      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://kyrall.com/...",
+      "score": 30
     },
     {
       "type": "HackerNews",
-      "title": "Does Code Cleanliness Affect Coding Agents?",
-      "url": "https://arxiv.org/abs/2605.20049",
-      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://arxiv.org/abs/2605.200...",
-      "score": 48
+      "title": "Building relationships with customers through support didn't turn out as hoped",
+      "url": "https://www.uncommonapps.nyc/p/castro-podcasts-things-i-got-wrong-support",
+      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.uncommonapps.nyc/p...",
+      "score": 139
     },
     {
       "type": "HackerNews",
-      "title": "Show HN: Homegames. An open-source game platform I've been making for 8 years",
-      "url": "https://homegames.io",
-      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://homegames.io...",
-      "score": 102
+      "title": "It's not about physical vs. digital games, it's about ownership",
+      "url": "https://popcar.bearblog.dev/its-about-ownership/",
+      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://popcar.bearblog.dev/it...",
+      "score": 505
+    },
+    {
+      "type": "HackerNews",
+      "title": "Introduction to Genomics for Engineers",
+      "url": "https://learngenomics.dev/docs/biological-foundations/cells-genomes-dna-chromosomes/",
+      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://learngenomics.dev/docs...",
+      "score": 16
     }
   ]
 }
