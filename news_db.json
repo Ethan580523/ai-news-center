@@ -1,61 +1,61 @@
 {
-  "last_updated": "2026-07-08 08:27:54",
+  "last_updated": "2026-07-08 11:04:06",
   "news": [
+    {
+      "type": "HackerNews",
+      "title": "Decoding the obfuscated bash script on a Uniqlo t-shirt",
+      "url": "https://tris.sherliker.net/blog/obfuscated-self-evaluating-bash-script-by-cdn-akamai-being-supplied-to-consumers-via-retail-stores/",
+      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://tris.sherliker.net/blo...",
+      "score": 226
+    },
     {
       "type": "HackerNews",
       "title": "GitLost: We Tricked GitHub's AI Agent into Leaking Private Repos",
       "url": "https://noma.security/blog/gitlost-how-we-tricked-githubs-ai-agent-into-leaking-private-repos/",
-      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://noma.security/blog/git...",
-      "score": 112
+      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://noma.security/blog/git...",
+      "score": 218
     },
     {
       "type": "HackerNews",
       "title": "How to Build a Minimal ZFS NAS Without Synology, QNAP, TrueNAS (2024)",
       "url": "https://neil.computer/notes/how-to-setup-minimal-zfs-nas-without-truenas/",
-      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://neil.computer/notes/ho...",
-      "score": 167
+      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://neil.computer/notes/ho...",
+      "score": 208
     },
     {
       "type": "HackerNews",
       "title": "Tenda firmware (multiple versions) contains hidden authentication backdoor",
       "url": "https://kb.cert.org/vuls/id/213560",
-      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://kb.cert.org/vuls/id/21...",
-      "score": 183
+      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://kb.cert.org/vuls/id/21...",
+      "score": 230
     },
     {
       "type": "HackerNews",
       "title": "Copy That Floppy – Cambridge guide for preserving data from fragile floppy disks",
       "url": "https://www.digipres.org/the-floppy-guide/",
-      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.digipres.org/the-f...",
-      "score": 58
+      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.digipres.org/the-f...",
+      "score": 84
+    },
+    {
+      "type": "HackerNews",
+      "title": "Geosql: A Claude/Codex skill for geospatial data",
+      "url": "https://github.com/dekart-xyz/geosql",
+      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://github.com/dekart-xyz/...",
+      "score": 14
     },
     {
       "type": "HackerNews",
       "title": "Structure and Interpretation of Computer Programs Video Lectures (1986)",
       "url": "https://ocw.mit.edu/courses/6-001-structure-and-interpretation-of-computer-programs-spring-2005/video_galleries/video-lectures/",
       "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://ocw.mit.edu/courses/6-...",
-      "score": 151
-    },
-    {
-      "type": "HackerNews",
-      "title": "GAO: DOE Is Prematurely Excluding Less Expensive Options for Nuclear Cleanup",
-      "url": "https://www.gao.gov/products/gao-26-108193",
-      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.gao.gov/products/g...",
       "score": 193
-    },
-    {
-      "type": "HackerNews",
-      "title": "Canada's only watchmaking school still ticking after 80 years",
-      "url": "https://www.cbc.ca/news/canada/montreal/canada-s-only-watchmaking-school-9.7254211",
-      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.cbc.ca/news/canada...",
-      "score": 129
     },
     {
       "type": "HackerNews",
       "title": "Chat Control 1.0 and 2.0 Explained",
       "url": "https://fightchatcontrol.eu/chat-control-overview",
       "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://fightchatcontrol.eu/ch...",
-      "score": 620
+      "score": 687
     }
   ]
 }
