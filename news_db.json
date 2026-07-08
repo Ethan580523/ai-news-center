@@ -1,61 +1,61 @@
 {
-  "last_updated": "2026-07-08 14:07:01",
+  "last_updated": "2026-07-08 16:38:46",
   "news": [
+    {
+      "type": "HackerNews",
+      "title": "Chatto is now Open Source",
+      "url": "https://www.hmans.dev/blog/chatto-is-open-source",
+      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.hmans.dev/blog/cha...",
+      "score": 128
+    },
+    {
+      "type": "HackerNews",
+      "title": "Mistral's Robostral Navigate: a state of the art robotics navigation model",
+      "url": "https://mistral.ai/news/robostral-navigate/",
+      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://mistral.ai/news/robost...",
+      "score": 184
+    },
     {
       "type": "HackerNews",
       "title": "Decoding the obfuscated bash script on a Uniqlo t-shirt",
       "url": "https://tris.sherliker.net/blog/obfuscated-self-evaluating-bash-script-by-cdn-akamai-being-supplied-to-consumers-via-retail-stores/",
-      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://tris.sherliker.net/blo...",
-      "score": 689
+      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://tris.sherliker.net/blo...",
+      "score": 965
     },
     {
       "type": "HackerNews",
-      "title": "Apple to increase spend with Broadcom to produce billions more U.S. chips",
-      "url": "https://www.apple.com/newsroom/2026/07/apple-to-increase-spend-with-broadcom-to-produce-billions-more-us-chips/",
-      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.apple.com/newsroom...",
-      "score": 119
+      "title": "Cloudflare Meerkat - Globally distributed consensus",
+      "url": "https://blog.cloudflare.com/meerkat-introduction/",
+      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://blog.cloudflare.com/me...",
+      "score": 110
+    },
+    {
+      "type": "HackerNews",
+      "title": "SWE-1.7 Reach Near GPT 5.5 and Opus Intelligence",
+      "url": "https://cognition.com/blog/swe-1-7",
+      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://cognition.com/blog/swe...",
+      "score": 13
     },
     {
       "type": "HackerNews",
       "title": "GitLost: We Tricked GitHub's AI Agent into Leaking Private Repos",
       "url": "https://noma.security/blog/gitlost-how-we-tricked-githubs-ai-agent-into-leaking-private-repos/",
       "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://noma.security/blog/git...",
-      "score": 330
+      "score": 410
     },
     {
       "type": "HackerNews",
-      "title": "EVE Online's Carbon engine is now open source: Fenris Creations explains why",
-      "url": "https://www.gamesindustry.biz/eve-onlines-carbon-engine-is-now-open-source-fenris-creations-explains-why",
-      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.gamesindustry.biz/...",
-      "score": 153
+      "title": "OpenBSD has a use-after-free allowing local privilege escalation to root",
+      "url": "https://nvd.nist.gov/vuln/detail/cve-2026-57589",
+      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://nvd.nist.gov/vuln/deta...",
+      "score": 110
     },
     {
       "type": "HackerNews",
-      "title": "How to Build a Minimal ZFS NAS Without Synology, QNAP, TrueNAS (2024)",
-      "url": "https://neil.computer/notes/how-to-setup-minimal-zfs-nas-without-truenas/",
-      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://neil.computer/notes/ho...",
-      "score": 249
-    },
-    {
-      "type": "HackerNews",
-      "title": "US Food and Drug Administration rejects petition to set PFAS limits in food",
-      "url": "https://www.theguardian.com/us-news/2026/jul/08/us-food-and-drug-administration-rejects-petition-to-set-pfas-limits-in-food",
-      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.theguardian.com/us...",
-      "score": 38
-    },
-    {
-      "type": "HackerNews",
-      "title": "Geosql: A Claude/Codex skill for geospatial data",
-      "url": "https://github.com/dekart-xyz/geosql",
-      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://github.com/dekart-xyz/...",
-      "score": 60
-    },
-    {
-      "type": "HackerNews",
-      "title": "NoiseLang: Where N = 5 is a Dirac delta",
-      "url": "https://manualmeida.dev/articles/noiselang/",
-      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://manualmeida.dev/articl...",
-      "score": 34
+      "title": "Show HN: Kastor – Terraform-style specs for AI agents",
+      "url": "https://github.com/weirdGuy/kastor",
+      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://github.com/weirdGuy/ka...",
+      "score": 12
     }
   ]
 }
