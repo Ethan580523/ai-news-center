@@ -1,61 +1,61 @@
 {
-  "last_updated": "2026-07-08 19:24:55",
+  "last_updated": "2026-07-08 22:05:16",
   "news": [
     {
       "type": "HackerNews",
-      "title": "What Do We Know About the Microplastics Inside Us?",
-      "url": "https://e360.yale.edu/features/cassandra-rauert-interview",
-      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://e360.yale.edu/features...",
-      "score": 83
+      "title": "Separating signal from noise in coding evaluations",
+      "url": "https://openai.com/index/separating-signal-from-noise-coding-evaluations/",
+      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://openai.com/index/separ...",
+      "score": 75
     },
     {
       "type": "HackerNews",
-      "title": "Chatto is now Open Source",
+      "title": "Chatto is now open source",
       "url": "https://www.hmans.dev/blog/chatto-is-open-source",
       "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.hmans.dev/blog/cha...",
-      "score": 404
+      "score": 587
     },
     {
       "type": "HackerNews",
-      "title": "Mistral's Robostral Navigate: a state of the art robotics navigation model",
-      "url": "https://mistral.ai/news/robostral-navigate/",
-      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://mistral.ai/news/robost...",
-      "score": 311
-    },
-    {
-      "type": "HackerNews",
-      "title": "SWE-1.7 Reach Near GPT 5.5 and Opus Intelligence",
-      "url": "https://cognition.com/blog/swe-1-7",
-      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://cognition.com/blog/swe...",
-      "score": 141
-    },
-    {
-      "type": "HackerNews",
-      "title": "Decoding the obfuscated bash script on a Uniqlo t-shirt",
-      "url": "https://tris.sherliker.net/blog/obfuscated-self-evaluating-bash-script-by-cdn-akamai-being-supplied-to-consumers-via-retail-stores/",
-      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://tris.sherliker.net/blo...",
-      "score": 1127
-    },
-    {
-      "type": "HackerNews",
-      "title": "Show HN: Microsoft releases Flint, a visualization language for AI agents",
-      "url": "https://microsoft.github.io/flint-chart/#/",
-      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://microsoft.github.io/fl...",
-      "score": 57
-    },
-    {
-      "type": "HackerNews",
-      "title": "GPT‑Live",
-      "url": "https://openai.com/index/introducing-gpt-live/",
-      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://openai.com/index/intro...",
-      "score": 373
+      "title": "FAANG Simulator",
+      "url": "https://www.abeyk.com/escape-the-rat-race/",
+      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.abeyk.com/escape-t...",
+      "score": 75
     },
     {
       "type": "HackerNews",
       "title": "Grok 4.5",
       "url": "https://x.ai/news/grok-4-5",
-      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://x.ai/news/grok-4-5...",
-      "score": 205
+      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://x.ai/news/grok-4-5...",
+      "score": 358
+    },
+    {
+      "type": "HackerNews",
+      "title": "Decoding the obfuscated bash script on a Uniqlo t-shirt",
+      "url": "https://tris.sherliker.net/blog/obfuscated-self-evaluating-bash-script-by-cdn-akamai-being-supplied-to-consumers-via-retail-stores/",
+      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://tris.sherliker.net/blo...",
+      "score": 1220
+    },
+    {
+      "type": "HackerNews",
+      "title": "Cloudflare Drop",
+      "url": "https://www.cloudflare.com/drop/",
+      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.cloudflare.com/dro...",
+      "score": 122
+    },
+    {
+      "type": "HackerNews",
+      "title": "Mistral's Robostral Navigate: a state of the art robotics navigation model",
+      "url": "https://mistral.ai/news/robostral-navigate/",
+      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://mistral.ai/news/robost...",
+      "score": 368
+    },
+    {
+      "type": "HackerNews",
+      "title": "Turning a pile of documents into a searchable useable knowledge base",
+      "url": "https://github.com/linuxrebel/DocuBrowser",
+      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://github.com/linuxrebel/...",
+      "score": 25
     }
   ]
 }
