@@ -1,61 +1,61 @@
 {
-  "last_updated": "2026-07-08 16:38:46",
+  "last_updated": "2026-07-08 19:24:55",
   "news": [
+    {
+      "type": "HackerNews",
+      "title": "What Do We Know About the Microplastics Inside Us?",
+      "url": "https://e360.yale.edu/features/cassandra-rauert-interview",
+      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://e360.yale.edu/features...",
+      "score": 83
+    },
     {
       "type": "HackerNews",
       "title": "Chatto is now Open Source",
       "url": "https://www.hmans.dev/blog/chatto-is-open-source",
-      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.hmans.dev/blog/cha...",
-      "score": 128
+      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.hmans.dev/blog/cha...",
+      "score": 404
     },
     {
       "type": "HackerNews",
       "title": "Mistral's Robostral Navigate: a state of the art robotics navigation model",
       "url": "https://mistral.ai/news/robostral-navigate/",
-      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://mistral.ai/news/robost...",
-      "score": 184
-    },
-    {
-      "type": "HackerNews",
-      "title": "Decoding the obfuscated bash script on a Uniqlo t-shirt",
-      "url": "https://tris.sherliker.net/blog/obfuscated-self-evaluating-bash-script-by-cdn-akamai-being-supplied-to-consumers-via-retail-stores/",
-      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://tris.sherliker.net/blo...",
-      "score": 965
-    },
-    {
-      "type": "HackerNews",
-      "title": "Cloudflare Meerkat - Globally distributed consensus",
-      "url": "https://blog.cloudflare.com/meerkat-introduction/",
-      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://blog.cloudflare.com/me...",
-      "score": 110
+      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://mistral.ai/news/robost...",
+      "score": 311
     },
     {
       "type": "HackerNews",
       "title": "SWE-1.7 Reach Near GPT 5.5 and Opus Intelligence",
       "url": "https://cognition.com/blog/swe-1-7",
       "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://cognition.com/blog/swe...",
-      "score": 13
+      "score": 141
     },
     {
       "type": "HackerNews",
-      "title": "GitLost: We Tricked GitHub's AI Agent into Leaking Private Repos",
-      "url": "https://noma.security/blog/gitlost-how-we-tricked-githubs-ai-agent-into-leaking-private-repos/",
-      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://noma.security/blog/git...",
-      "score": 410
+      "title": "Decoding the obfuscated bash script on a Uniqlo t-shirt",
+      "url": "https://tris.sherliker.net/blog/obfuscated-self-evaluating-bash-script-by-cdn-akamai-being-supplied-to-consumers-via-retail-stores/",
+      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://tris.sherliker.net/blo...",
+      "score": 1127
     },
     {
       "type": "HackerNews",
-      "title": "OpenBSD has a use-after-free allowing local privilege escalation to root",
-      "url": "https://nvd.nist.gov/vuln/detail/cve-2026-57589",
-      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://nvd.nist.gov/vuln/deta...",
-      "score": 110
+      "title": "Show HN: Microsoft releases Flint, a visualization language for AI agents",
+      "url": "https://microsoft.github.io/flint-chart/#/",
+      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://microsoft.github.io/fl...",
+      "score": 57
     },
     {
       "type": "HackerNews",
-      "title": "Show HN: Kastor – Terraform-style specs for AI agents",
-      "url": "https://github.com/weirdGuy/kastor",
-      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://github.com/weirdGuy/ka...",
-      "score": 12
+      "title": "GPT‑Live",
+      "url": "https://openai.com/index/introducing-gpt-live/",
+      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://openai.com/index/intro...",
+      "score": 373
+    },
+    {
+      "type": "HackerNews",
+      "title": "Grok 4.5",
+      "url": "https://x.ai/news/grok-4-5",
+      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://x.ai/news/grok-4-5...",
+      "score": 205
     }
   ]
 }
