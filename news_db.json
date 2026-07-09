@@ -1,61 +1,61 @@
 {
-  "last_updated": "2026-07-09 15:09:33",
+  "last_updated": "2026-07-09 19:46:08",
   "news": [
+    {
+      "type": "HackerNews",
+      "title": "GPT-5.6",
+      "url": "https://openai.com/index/gpt-5-6/",
+      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://openai.com/index/gpt-5...",
+      "score": 657
+    },
+    {
+      "type": "HackerNews",
+      "title": "ChatGPT Work",
+      "url": "https://openai.com/index/chatgpt-for-your-most-ambitious-work/",
+      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://openai.com/index/chatg...",
+      "score": 237
+    },
+    {
+      "type": "HackerNews",
+      "title": "GLM 5.2 is nearly as accurate as a human book keeper",
+      "url": "https://toot-books.pages.dev/blog/glm-5-2-vat-benchmark",
+      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://toot-books.pages.dev/b...",
+      "score": 63
+    },
     {
       "type": "HackerNews",
       "title": "Show HN: 18 Words",
       "url": "https://18words.com/",
-      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://18words.com/...",
-      "score": 295
+      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://18words.com/...",
+      "score": 664
     },
     {
       "type": "HackerNews",
-      "title": "No leap second will be introduced at the end of December 2026",
-      "url": "https://datacenter.iers.org/data/latestVersion/bulletinC.txt",
-      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://datacenter.iers.org/da...",
-      "score": 52
+      "title": "EU Parliament greenlights Chat Control 1.0",
+      "url": "https://www.patrick-breyer.de/en/eu-parliament-greenlights-chat-control-1-0-breyer-our-children-lose-out/",
+      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.patrick-breyer.de/...",
+      "score": 691
     },
     {
       "type": "HackerNews",
-      "title": "Introducing Muse Spark 1.1",
-      "url": "https://ai.meta.com/blog/introducing-muse-spark-meta-model-api/?_fb_noscript=1",
-      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://ai.meta.com/blog/intro...",
-      "score": 77
+      "title": "Hy3",
+      "url": "https://hy.tencent.com/research/hy3",
+      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://hy.tencent.com/researc...",
+      "score": 225
     },
     {
       "type": "HackerNews",
-      "title": "Show HN: FableCut – A browser video editor AI agents can drive (zero deps)",
-      "url": "https://github.com/ronak-create/FableCut",
-      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://github.com/ronak-creat...",
-      "score": 57
+      "title": "Buried Apple Feature Turns an iPhone into the Perfect Kids' Dumb Phone",
+      "url": "https://www.wired.com/story/this-buried-apple-feature-turns-an-iphone-into-the-perfect-kids-dumb-phone/",
+      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.wired.com/story/th...",
+      "score": 99
     },
     {
       "type": "HackerNews",
-      "title": "Bonnie Tyler, singer of Total Eclipse of the Heart, dies aged 75",
-      "url": "https://www.bbc.com/news/articles/cg5pd9z2487o",
-      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.bbc.com/news/artic...",
-      "score": 252
-    },
-    {
-      "type": "HackerNews",
-      "title": "Meta reuses old RAM in new servers with custom bridge chip",
-      "url": "https://www.networkworld.com/article/4192827/meta-reuses-old-ram-in-new-servers-with-custom-bridge-chip.html",
-      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.networkworld.com/a...",
-      "score": 186
-    },
-    {
-      "type": "HackerNews",
-      "title": "A new way to reflect on how you use Claude",
-      "url": "https://www.anthropic.com/news/reflect-with-claude",
-      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.anthropic.com/news...",
-      "score": 24
-    },
-    {
-      "type": "HackerNews",
-      "title": "Spider venom kills varroa mites without harming honeybees",
-      "url": "https://connectsci.au/news/news-parent/9703/Spider-venom-kills-varroa-mites-without-harming",
-      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://connectsci.au/news/new...",
-      "score": 231
+      "title": "A possible future for Damn Interesting",
+      "url": "https://www.damninteresting.com/a-possible-future/",
+      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.damninteresting.co...",
+      "score": 139
     }
   ]
 }
