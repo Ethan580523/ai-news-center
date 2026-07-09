@@ -1,61 +1,61 @@
 {
-  "last_updated": "2026-07-09 19:46:08",
+  "last_updated": "2026-07-09 22:27:10",
   "news": [
+    {
+      "type": "HackerNews",
+      "title": "Show HN: Getting GLM 5.2 running on my slow computer",
+      "url": "https://github.com/JustVugg/colibri",
+      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://github.com/JustVugg/co...",
+      "score": 165
+    },
     {
       "type": "HackerNews",
       "title": "GPT-5.6",
       "url": "https://openai.com/index/gpt-5-6/",
-      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://openai.com/index/gpt-5...",
-      "score": 657
-    },
-    {
-      "type": "HackerNews",
-      "title": "ChatGPT Work",
-      "url": "https://openai.com/index/chatgpt-for-your-most-ambitious-work/",
-      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://openai.com/index/chatg...",
-      "score": 237
-    },
-    {
-      "type": "HackerNews",
-      "title": "GLM 5.2 is nearly as accurate as a human book keeper",
-      "url": "https://toot-books.pages.dev/blog/glm-5-2-vat-benchmark",
-      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://toot-books.pages.dev/b...",
-      "score": 63
-    },
-    {
-      "type": "HackerNews",
-      "title": "Show HN: 18 Words",
-      "url": "https://18words.com/",
-      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://18words.com/...",
-      "score": 664
+      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://openai.com/index/gpt-5...",
+      "score": 886
     },
     {
       "type": "HackerNews",
       "title": "EU Parliament greenlights Chat Control 1.0",
       "url": "https://www.patrick-breyer.de/en/eu-parliament-greenlights-chat-control-1-0-breyer-our-children-lose-out/",
       "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.patrick-breyer.de/...",
-      "score": 691
+      "score": 865
+    },
+    {
+      "type": "HackerNews",
+      "title": "Show HN: 18 Words",
+      "url": "https://18words.com/",
+      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://18words.com/...",
+      "score": 746
     },
     {
       "type": "HackerNews",
       "title": "Hy3",
       "url": "https://hy.tencent.com/research/hy3",
-      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://hy.tencent.com/researc...",
-      "score": 225
+      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://hy.tencent.com/researc...",
+      "score": 324
     },
     {
       "type": "HackerNews",
-      "title": "Buried Apple Feature Turns an iPhone into the Perfect Kids' Dumb Phone",
-      "url": "https://www.wired.com/story/this-buried-apple-feature-turns-an-iphone-into-the-perfect-kids-dumb-phone/",
-      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.wired.com/story/th...",
-      "score": 99
+      "title": "Train sim created by just one person is being called the best ever made",
+      "url": "https://kotaku.com/a-train-sim-created-by-just-one-person-is-being-called-the-best-ever-made-2000699429",
+      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://kotaku.com/a-train-sim...",
+      "score": 142
     },
     {
       "type": "HackerNews",
-      "title": "A possible future for Damn Interesting",
-      "url": "https://www.damninteresting.com/a-possible-future/",
-      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.damninteresting.co...",
-      "score": 139
+      "title": "No leap second will be introduced at the end of December 2026",
+      "url": "https://datacenter.iers.org/data/latestVersion/bulletinC.txt",
+      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://datacenter.iers.org/da...",
+      "score": 204
+    },
+    {
+      "type": "HackerNews",
+      "title": "A road to Lisp: Why Lisp",
+      "url": "https://scotto.me/blog/2026-07-09-why-lisp/",
+      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://scotto.me/blog/2026-07...",
+      "score": 80
     }
   ]
 }
