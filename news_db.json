@@ -1,61 +1,61 @@
 {
-  "last_updated": "2026-07-09 09:39:02",
+  "last_updated": "2026-07-09 15:09:33",
   "news": [
     {
       "type": "HackerNews",
-      "title": "John Deere owners will get the right to repair equipment under FTC settlement",
-      "url": "https://apnews.com/article/john-deere-right-to-repair-agriculture-equipment-cb7514ffedb95c130a976af661f2bc02",
-      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://apnews.com/article/joh...",
-      "score": 817
+      "title": "Show HN: 18 Words",
+      "url": "https://18words.com/",
+      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://18words.com/...",
+      "score": 295
+    },
+    {
+      "type": "HackerNews",
+      "title": "No leap second will be introduced at the end of December 2026",
+      "url": "https://datacenter.iers.org/data/latestVersion/bulletinC.txt",
+      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://datacenter.iers.org/da...",
+      "score": 52
+    },
+    {
+      "type": "HackerNews",
+      "title": "Introducing Muse Spark 1.1",
+      "url": "https://ai.meta.com/blog/introducing-muse-spark-meta-model-api/?_fb_noscript=1",
+      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://ai.meta.com/blog/intro...",
+      "score": 77
+    },
+    {
+      "type": "HackerNews",
+      "title": "Show HN: FableCut – A browser video editor AI agents can drive (zero deps)",
+      "url": "https://github.com/ronak-create/FableCut",
+      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://github.com/ronak-creat...",
+      "score": 57
+    },
+    {
+      "type": "HackerNews",
+      "title": "Bonnie Tyler, singer of Total Eclipse of the Heart, dies aged 75",
+      "url": "https://www.bbc.com/news/articles/cg5pd9z2487o",
+      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.bbc.com/news/artic...",
+      "score": 252
+    },
+    {
+      "type": "HackerNews",
+      "title": "Meta reuses old RAM in new servers with custom bridge chip",
+      "url": "https://www.networkworld.com/article/4192827/meta-reuses-old-ram-in-new-servers-with-custom-bridge-chip.html",
+      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.networkworld.com/a...",
+      "score": 186
+    },
+    {
+      "type": "HackerNews",
+      "title": "A new way to reflect on how you use Claude",
+      "url": "https://www.anthropic.com/news/reflect-with-claude",
+      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.anthropic.com/news...",
+      "score": 24
     },
     {
       "type": "HackerNews",
       "title": "Spider venom kills varroa mites without harming honeybees",
       "url": "https://connectsci.au/news/news-parent/9703/Spider-venom-kills-varroa-mites-without-harming",
-      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://connectsci.au/news/new...",
-      "score": 112
-    },
-    {
-      "type": "HackerNews",
-      "title": "Why developers are ditching GitHub for Codeberg and self-hosting alternatives",
-      "url": "https://www.howtogeek.com/why-developers-are-ditching-github-for-codeberg-and-self-hosting-alternatives/",
-      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.howtogeek.com/why-...",
-      "score": 63
-    },
-    {
-      "type": "HackerNews",
-      "title": "Cargo-nextest: 3x faster than cargo test, per-test isolation, first-class CI",
-      "url": "https://nexte.st/",
-      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://nexte.st/...",
-      "score": 92
-    },
-    {
-      "type": "HackerNews",
-      "title": "Cloudflare Drop",
-      "url": "https://www.cloudflare.com/drop/",
-      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.cloudflare.com/dro...",
-      "score": 431
-    },
-    {
-      "type": "HackerNews",
-      "title": "I Built the Only 2026 WWII Jeep",
-      "url": "https://www.theautopian.com/i-bet-my-company-on-an-impossible-jeep-build-then-a-miracle-happened/",
-      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.theautopian.com/i-...",
-      "score": 35
-    },
-    {
-      "type": "HackerNews",
-      "title": "Benchmarking coding agents on Databricks' multi-million line codebase",
-      "url": "https://www.databricks.com/blog/benchmarking-coding-agents-databricks-multi-million-line-codebase",
-      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.databricks.com/blo...",
-      "score": 86
-    },
-    {
-      "type": "HackerNews",
-      "title": "Separating signal from noise in coding evaluations",
-      "url": "https://openai.com/index/separating-signal-from-noise-coding-evaluations/",
-      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://openai.com/index/separ...",
-      "score": 214
+      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://connectsci.au/news/new...",
+      "score": 231
     }
   ]
 }
