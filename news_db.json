@@ -1,61 +1,61 @@
 {
-  "last_updated": "2026-07-10 14:26:23",
+  "last_updated": "2026-07-10 16:55:48",
   "news": [
     {
       "type": "HackerNews",
-      "title": "Write code like a human will maintain it",
-      "url": "https://unstack.io/write-code-like-a-human-will-maintain-it",
-      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://unstack.io/write-code-...",
-      "score": 67
-    },
-    {
-      "type": "HackerNews",
-      "title": "Punk, or why I don't stream anymore",
-      "url": "https://geohot.github.io//blog/jekyll/update/2026/05/03/punk-or-why-i-dont-stream.html",
-      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://geohot.github.io//blog...",
-      "score": 57
+      "title": "QuadRF can spot drones and see WiFi through my wall",
+      "url": "https://www.jeffgeerling.com/blog/2026/quadrf-can-spot-drones-and-see-wifi-through-my-wall/",
+      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.jeffgeerling.com/b...",
+      "score": 75
     },
     {
       "type": "HackerNews",
       "title": "Late Bronze Age Collapse",
       "url": "https://acoup.blog/2026/01/30/collections-the-late-bronze-age-collapse-a-very-brief-introduction/",
-      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://acoup.blog/2026/01/30/...",
-      "score": 93
+      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://acoup.blog/2026/01/30/...",
+      "score": 202
     },
     {
       "type": "HackerNews",
-      "title": "Successful Companies Go Blind",
-      "url": "https://ianreppel.org/how-successful-companies-go-blind/",
-      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://ianreppel.org/how-succ...",
-      "score": 14
+      "title": "A Love Letter to Flashcards",
+      "url": "https://lesleylai.info/en/flashcards/",
+      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://lesleylai.info/en/flas...",
+      "score": 42
     },
     {
       "type": "HackerNews",
-      "title": "Scarf has moved away from Haskell",
-      "url": "https://avi.press/posts/2026-07-10-after-7-years-in-production-scarf-has-reluctantly-moved-away-from-haskell.html",
-      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://avi.press/posts/2026-0...",
-      "score": 19
+      "title": "Snails' Teeth Beats Spider Silk as Nature's Strongest Material",
+      "url": "https://www.smithsonianmag.com/smart-news/spider-silk-loses-top-spot-natures-strongest-material-snails-teeth-180954346/",
+      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.smithsonianmag.com...",
+      "score": 10
+    },
+    {
+      "type": "HackerNews",
+      "title": "Lost city discovered beneath Egypt's desert with ancient church",
+      "url": "https://www.dailymail.com/sciencetech/article-15956159/Incredible-lost-city-discovered-Egypts-desert.html",
+      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.dailymail.com/scie...",
+      "score": 58
+    },
+    {
+      "type": "HackerNews",
+      "title": "Write code like a human will maintain it",
+      "url": "https://unstack.io/write-code-like-a-human-will-maintain-it",
+      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://unstack.io/write-code-...",
+      "score": 210
     },
     {
       "type": "HackerNews",
       "title": "Good Tools Are Invisible",
       "url": "https://www.gingerbill.org/article/2026/07/10/good-tools-are-invisible/",
-      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.gingerbill.org/art...",
-      "score": 100
+      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.gingerbill.org/art...",
+      "score": 167
     },
     {
       "type": "HackerNews",
       "title": "GPT-5.6",
       "url": "https://openai.com/index/gpt-5-6/",
-      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://openai.com/index/gpt-5...",
-      "score": 1414
-    },
-    {
-      "type": "HackerNews",
-      "title": "In Emacs, Everything Looks Like a Service",
-      "url": "http://yummymelon.com/devnull/in-emacs-everything-looks-like-a-service.html",
-      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：http://yummymelon.com/devnull/...",
-      "score": 94
+      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://openai.com/index/gpt-5...",
+      "score": 1474
     }
   ]
 }
