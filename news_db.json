@@ -1,61 +1,61 @@
 {
-  "last_updated": "2026-07-11 19:02:30",
+  "last_updated": "2026-07-11 21:49:46",
   "news": [
     {
       "type": "HackerNews",
-      "title": "AI 2040 and the Cult of Intelligence",
-      "url": "https://geohot.github.io//blog/jekyll/update/2026/07/11/ai-2040.html",
-      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://geohot.github.io//blog...",
-      "score": 90
-    },
-    {
-      "type": "HackerNews",
-      "title": "Prefer Strict Tables in SQLite",
-      "url": "https://evanhahn.com/prefer-strict-tables-in-sqlite/",
-      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://evanhahn.com/prefer-st...",
-      "score": 33
-    },
-    {
-      "type": "HackerNews",
-      "title": "Who manages the agents?",
-      "url": "https://www.off-policy.com/dont-go-quietly-into-the-ai-night/",
-      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.off-policy.com/don...",
-      "score": 22
-    },
-    {
-      "type": "HackerNews",
-      "title": "We scaled PgBouncer to 4x throughput",
-      "url": "https://clickhouse.com/blog/pgbouncer-clickhouse-managed-postgres",
-      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://clickhouse.com/blog/pg...",
-      "score": 119
-    },
-    {
-      "type": "HackerNews",
-      "title": "Modern Decor May Be Straining People's Brains",
-      "url": "https://studyfinds.com/modern-decor-may-be-straining-peoples-brains/",
-      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://studyfinds.com/modern-...",
-      "score": 99
-    },
-    {
-      "type": "HackerNews",
-      "title": "How to Hide from Killer Drones",
-      "url": "https://www.economist.com/science-and-technology/2026/07/08/how-to-hide-from-killer-drones",
-      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.economist.com/scie...",
-      "score": 14
+      "title": "Show HN: Ant – A JavaScript runtime and ecosystem",
+      "url": "https://antjs.org",
+      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://antjs.org...",
+      "score": 96
     },
     {
       "type": "HackerNews",
       "title": "Nvidia, CoreWeave, and Nebius: Inside the Circular Financing of the GPU Boom",
       "url": "https://io-fund.com/ai-stocks/nvidia-coreweave-nebius-circular-financing-gpu-boom",
-      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://io-fund.com/ai-stocks/...",
-      "score": 20
+      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://io-fund.com/ai-stocks/...",
+      "score": 88
+    },
+    {
+      "type": "HackerNews",
+      "title": "We scaled PgBouncer to 4x throughput",
+      "url": "https://clickhouse.com/blog/pgbouncer-clickhouse-managed-postgres",
+      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://clickhouse.com/blog/pg...",
+      "score": 151
+    },
+    {
+      "type": "HackerNews",
+      "title": "UPI: Anatomy of a Payment Transaction",
+      "url": "https://timeseriesofindia.com/economy/reads/upi-architecture/",
+      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://timeseriesofindia.com/...",
+      "score": 55
+    },
+    {
+      "type": "HackerNews",
+      "title": "Prefer strict tables in SQLite",
+      "url": "https://evanhahn.com/prefer-strict-tables-in-sqlite/",
+      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://evanhahn.com/prefer-st...",
+      "score": 157
     },
     {
       "type": "HackerNews",
       "title": "The early History of the Singular Value Decomposition (1993) [pdf]",
       "url": "https://www.math.ucdavis.edu/~saito/courses/229A/stewart-svd.pdf",
-      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.math.ucdavis.edu/~...",
-      "score": 55
+      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.math.ucdavis.edu/~...",
+      "score": 74
+    },
+    {
+      "type": "HackerNews",
+      "title": "Biff.graph: structure your Clojure codebase as a queryable graph",
+      "url": "https://github.com/jacobobryant/biff/tree/v2.x/libs/graph",
+      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://github.com/jacobobryan...",
+      "score": 61
+    },
+    {
+      "type": "HackerNews",
+      "title": "ZeroFS vs. Amazon S3 Files",
+      "url": "https://www.zerofs.net/blog/zerofs-vs-aws-s3-files/",
+      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.zerofs.net/blog/ze...",
+      "score": 21
     }
   ]
 }
