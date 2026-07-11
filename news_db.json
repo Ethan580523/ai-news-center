@@ -1,61 +1,61 @@
 {
-  "last_updated": "2026-07-11 07:55:33",
+  "last_updated": "2026-07-11 10:14:17",
   "news": [
     {
       "type": "HackerNews",
       "title": "Einstein's relativity rules chemical bonds in heavy elements, new research shows",
       "url": "https://www.brown.edu/news/2026-07-09/chemical-bonds-relativity",
-      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.brown.edu/news/202...",
-      "score": 208
+      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.brown.edu/news/202...",
+      "score": 250
     },
     {
       "type": "HackerNews",
       "title": "QuadRF can spot drones and see WiFi through my wall",
       "url": "https://www.jeffgeerling.com/blog/2026/quadrf-can-spot-drones-and-see-wifi-through-my-wall/",
-      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.jeffgeerling.com/b...",
-      "score": 544
+      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.jeffgeerling.com/b...",
+      "score": 589
     },
     {
       "type": "HackerNews",
       "title": "Apple sues OpenAI, accuses ex-employees of stealing trade secrets",
       "url": "https://9to5mac.com/2026/07/10/apple-sues-openai-trade-secret-theft/",
-      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://9to5mac.com/2026/07/10...",
-      "score": 970
+      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://9to5mac.com/2026/07/10...",
+      "score": 1087
     },
     {
       "type": "HackerNews",
-      "title": "What's the best way to do authentication in modern applications",
-      "url": "https://neciudan.dev/most-secure-way-to-store-auth-token",
-      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://neciudan.dev/most-secu...",
-      "score": 28
+      "title": "Otary – Image and Geometry Python Library Now Has Tutorials",
+      "url": "https://alexandrepoupeau.com/otary/learn/",
+      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://alexandrepoupeau.com/o...",
+      "score": 16
     },
     {
       "type": "HackerNews",
       "title": "The vintage beauty of Soviet control rooms (2018)",
       "url": "https://designyoutrust.com/2018/01/vintage-beauty-soviet-control-rooms/",
       "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://designyoutrust.com/201...",
-      "score": 50
+      "score": 104
     },
     {
       "type": "HackerNews",
       "title": "An iroh powered smart fan",
       "url": "https://www.iroh.computer/blog/an-iroh-powered-smart-fan",
-      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.iroh.computer/blog...",
-      "score": 87
+      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.iroh.computer/blog...",
+      "score": 108
+    },
+    {
+      "type": "HackerNews",
+      "title": "Almost $1B Later, the US Still Can't Make a Medical Glove",
+      "url": "https://www.bloomberg.com/news/features/2026-07-07/why-it-s-so-difficult-to-produce-100-american-made-medical-gloves",
+      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.bloomberg.com/news...",
+      "score": 21
     },
     {
       "type": "HackerNews",
       "title": "An update on residential proxies and the scraper situation",
       "url": "https://lwn.net/SubscriberLink/1080822/990a8a5e2d379085/",
-      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://lwn.net/SubscriberLink...",
-      "score": 177
-    },
-    {
-      "type": "HackerNews",
-      "title": "SpaceX wants to launch 100k more Starlink satellites for 100x the bandwidth",
-      "url": "https://www.zdnet.com/home-and-office/networking/spacex-wants-to-launch-100000-more-starlink-satellites/",
-      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.zdnet.com/home-and...",
-      "score": 164
+      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://lwn.net/SubscriberLink...",
+      "score": 202
     }
   ]
 }
