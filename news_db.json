@@ -1,61 +1,61 @@
 {
-  "last_updated": "2026-07-11 15:55:55",
+  "last_updated": "2026-07-11 19:02:30",
   "news": [
+    {
+      "type": "HackerNews",
+      "title": "AI 2040 and the Cult of Intelligence",
+      "url": "https://geohot.github.io//blog/jekyll/update/2026/07/11/ai-2040.html",
+      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://geohot.github.io//blog...",
+      "score": 90
+    },
+    {
+      "type": "HackerNews",
+      "title": "Prefer Strict Tables in SQLite",
+      "url": "https://evanhahn.com/prefer-strict-tables-in-sqlite/",
+      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://evanhahn.com/prefer-st...",
+      "score": 33
+    },
+    {
+      "type": "HackerNews",
+      "title": "Who manages the agents?",
+      "url": "https://www.off-policy.com/dont-go-quietly-into-the-ai-night/",
+      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.off-policy.com/don...",
+      "score": 22
+    },
     {
       "type": "HackerNews",
       "title": "We scaled PgBouncer to 4x throughput",
       "url": "https://clickhouse.com/blog/pgbouncer-clickhouse-managed-postgres",
-      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://clickhouse.com/blog/pg...",
-      "score": 23
+      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://clickhouse.com/blog/pg...",
+      "score": 119
     },
     {
       "type": "HackerNews",
-      "title": "Networking and the Internet, from First Principles",
-      "url": "https://fazamhd.com/mental-models/networking/",
-      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://fazamhd.com/mental-mod...",
-      "score": 174
+      "title": "Modern Decor May Be Straining People's Brains",
+      "url": "https://studyfinds.com/modern-decor-may-be-straining-peoples-brains/",
+      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://studyfinds.com/modern-...",
+      "score": 99
     },
     {
       "type": "HackerNews",
-      "title": "Einstein's relativity rules chemical bonds in heavy elements, new research shows",
-      "url": "https://www.brown.edu/news/2026-07-09/chemical-bonds-relativity",
-      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.brown.edu/news/202...",
-      "score": 329
+      "title": "How to Hide from Killer Drones",
+      "url": "https://www.economist.com/science-and-technology/2026/07/08/how-to-hide-from-killer-drones",
+      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.economist.com/scie...",
+      "score": 14
     },
     {
       "type": "HackerNews",
-      "title": "QuadRF can spot drones and see WiFi through my wall",
-      "url": "https://www.jeffgeerling.com/blog/2026/quadrf-can-spot-drones-and-see-wifi-through-my-wall/",
-      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.jeffgeerling.com/b...",
-      "score": 667
+      "title": "Nvidia, CoreWeave, and Nebius: Inside the Circular Financing of the GPU Boom",
+      "url": "https://io-fund.com/ai-stocks/nvidia-coreweave-nebius-circular-financing-gpu-boom",
+      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://io-fund.com/ai-stocks/...",
+      "score": 20
     },
     {
       "type": "HackerNews",
-      "title": "Google Search lets creators know more about their reach",
-      "url": "https://www.theverge.com/tech/961955/google-search-console-reach-platform-properties",
-      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.theverge.com/tech/...",
-      "score": 60
-    },
-    {
-      "type": "HackerNews",
-      "title": "Speculations Concerning the First Ultraintelligent Machine (1965) [pdf]",
-      "url": "https://languagelog.ldc.upenn.edu/myl/Good1964.pdf",
-      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://languagelog.ldc.upenn....",
-      "score": 37
-    },
-    {
-      "type": "HackerNews",
-      "title": "Your code is fast – if you're lucky",
-      "url": "https://tiki.li/blog/lucky_code.html",
-      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://tiki.li/blog/lucky_cod...",
-      "score": 101
-    },
-    {
-      "type": "HackerNews",
-      "title": "Apple sues OpenAI, accuses ex-employees of stealing trade secrets",
-      "url": "https://9to5mac.com/2026/07/10/apple-sues-openai-trade-secret-theft/",
-      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://9to5mac.com/2026/07/10...",
-      "score": 1350
+      "title": "The early History of the Singular Value Decomposition (1993) [pdf]",
+      "url": "https://www.math.ucdavis.edu/~saito/courses/229A/stewart-svd.pdf",
+      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.math.ucdavis.edu/~...",
+      "score": 55
     }
   ]
 }
