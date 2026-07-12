@@ -1,61 +1,61 @@
 {
-  "last_updated": "2026-07-12 19:05:27",
+  "last_updated": "2026-07-12 21:50:12",
   "news": [
+    {
+      "type": "HackerNews",
+      "title": "Since Chronium 148, Math.tanh is now fingerprintable to link underlying OS",
+      "url": "https://scrapfly.dev/posts/browser-math-os-fingerprint/",
+      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://scrapfly.dev/posts/bro...",
+      "score": 58
+    },
+    {
+      "type": "HackerNews",
+      "title": "Tiny Emulators",
+      "url": "https://floooh.github.io/tiny8bit-preview/index.html",
+      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://floooh.github.io/tiny8...",
+      "score": 70
+    },
+    {
+      "type": "HackerNews",
+      "title": "Storm clouds gather over America's financial supremacy",
+      "url": "https://www.economist.com/finance-and-economics/2026/07/12/storm-clouds-gather-over-americas-financial-supremacy",
+      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.economist.com/fina...",
+      "score": 23
+    },
     {
       "type": "HackerNews",
       "title": "Claude Code sends 33k tokens before reading the prompt; OpenCode sends 7k",
       "url": "https://systima.ai/blog/claude-code-vs-opencode-token-overhead",
       "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://systima.ai/blog/claude...",
-      "score": 48
-    },
-    {
-      "type": "HackerNews",
-      "title": "The shingles vaccine may reduce the risk of dementia",
-      "url": "https://www.economist.com/leaders/2026/07/09/a-no-brainer-for-protecting-your-brain",
-      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.economist.com/lead...",
-      "score": 109
+      "score": 317
     },
     {
       "type": "HackerNews",
       "title": "Old and new apps, via modern coding agents",
       "url": "https://terrytao.wordpress.com/2026/07/11/old-and-new-apps-via-modern-coding-agents/",
       "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://terrytao.wordpress.com...",
-      "score": 344
+      "score": 382
     },
     {
       "type": "HackerNews",
-      "title": "Don't you mean extinct?",
-      "url": "https://fabiensanglard.net/extinct/index.html",
-      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://fabiensanglard.net/ext...",
-      "score": 116
+      "title": "Migrating a production AI agent to GPT-5.6: 2.2x faster, 27% cheaper",
+      "url": "https://ploy.ai/blog/migrating-a-production-ai-agent-to-gpt-5-6",
+      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://ploy.ai/blog/migrating...",
+      "score": 57
     },
     {
       "type": "HackerNews",
-      "title": "Automation Without Understanding",
-      "url": "https://arxiv.org/abs/2607.06377",
-      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://arxiv.org/abs/2607.063...",
-      "score": 36
+      "title": "I Learned to Read Again",
+      "url": "https://substack.magazinenongrata.com/p/how-i-learned-to-read-again",
+      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://substack.magazinenongr...",
+      "score": 49
     },
     {
       "type": "HackerNews",
-      "title": "Why write code in 2026",
-      "url": "https://softwaredoug.com/blog/2026/07/09/write-code",
-      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://softwaredoug.com/blog/...",
-      "score": 13
-    },
-    {
-      "type": "HackerNews",
-      "title": "LARP – Revenue infrastructure for serious founders",
-      "url": "https://www.larp.website/",
-      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.larp.website/...",
-      "score": 30
-    },
-    {
-      "type": "HackerNews",
-      "title": "Against Usefulness",
-      "url": "https://www.motivenotes.ai/p/against-usefulness",
-      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.motivenotes.ai/p/a...",
-      "score": 26
+      "title": "I love LLMs, I hate hype",
+      "url": "https://geohot.github.io//blog/jekyll/update/2026/07/12/i-love-llms.html",
+      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://geohot.github.io//blog...",
+      "score": 226
     }
   ]
 }
