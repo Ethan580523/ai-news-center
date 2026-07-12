@@ -1,61 +1,61 @@
 {
-  "last_updated": "2026-07-12 06:00:26",
+  "last_updated": "2026-07-12 10:27:47",
   "news": [
     {
       "type": "HackerNews",
-      "title": "We Know Simple Fluids Can Flow. Turns Out, Some Can Fracture",
-      "url": "https://www.quantamagazine.org/we-know-simple-fluids-can-flow-turns-out-some-can-fracture-20260710/",
-      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.quantamagazine.org...",
-      "score": 71
+      "title": "Show HN: Mindwalk – Replay coding-agent sessions on a 3D map of your codebase",
+      "url": "https://github.com/cosmtrek/mindwalk",
+      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://github.com/cosmtrek/mi...",
+      "score": 60
+    },
+    {
+      "type": "HackerNews",
+      "title": "Vint Cerf, a “father of the Internet”, is retiring",
+      "url": "https://techcrunch.com/2026/06/30/the-father-of-the-internet-is-finally-retiring/",
+      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://techcrunch.com/2026/06...",
+      "score": 72
     },
     {
       "type": "HackerNews",
       "title": "Mesh LLM: distributed AI computing on iroh",
       "url": "https://www.iroh.computer/blog/mesh-llm",
-      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.iroh.computer/blog...",
-      "score": 176
+      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.iroh.computer/blog...",
+      "score": 259
     },
     {
       "type": "HackerNews",
-      "title": "What xAI's Grok Build CLI Actually Sends to xAI",
-      "url": "https://gist.github.com/cereblab/dc9a40bc26120f4540e4e09b75ffb547",
-      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://gist.github.com/cerebl...",
-      "score": 193
+      "title": "Protobuf-py: Protobuf for Python, without compromises",
+      "url": "https://buf.build/blog/protobuf-py",
+      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://buf.build/blog/protobu...",
+      "score": 48
     },
     {
       "type": "HackerNews",
       "title": "Show HN: Ant – A JavaScript runtime and ecosystem",
       "url": "https://antjs.org",
       "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://antjs.org...",
-      "score": 224
+      "score": 271
     },
     {
       "type": "HackerNews",
-      "title": "RISCBoy is an open-source portable games console, designed from scratch",
-      "url": "https://github.com/Wren6991/RISCBoy",
-      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://github.com/Wren6991/RI...",
-      "score": 99
-    },
-    {
-      "type": "HackerNews",
-      "title": "Text Art Tools",
+      "title": "Text art tools",
       "url": "https://hlnet.notion.site/text-art-tools",
-      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://hlnet.notion.site/text...",
-      "score": 7
-    },
-    {
-      "type": "HackerNews",
-      "title": "I Did Not Kill Stanley Lieber: How to Draw (With 9front)",
-      "url": "https://triapul.cz/automa/i_did_not_kill_stanley_lieber",
-      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://triapul.cz/automa/i_di...",
+      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://hlnet.notion.site/text...",
       "score": 40
     },
     {
       "type": "HackerNews",
-      "title": "Why Write Code in 2026",
-      "url": "https://softwaredoug.com/blog/2026/07/09/write-code.html",
-      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://softwaredoug.com/blog/...",
-      "score": 21
+      "title": "Nvidia, CoreWeave, and Nebius: Inside the Circular Financing of the GPU Boom",
+      "url": "https://io-fund.com/ai-stocks/nvidia-coreweave-nebius-circular-financing-gpu-boom",
+      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://io-fund.com/ai-stocks/...",
+      "score": 264
+    },
+    {
+      "type": "HackerNews",
+      "title": "An agent in 100 lines of Lisp",
+      "url": "https://thebeach.dev/posts/lisp-agent/",
+      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://thebeach.dev/posts/lis...",
+      "score": 154
     }
   ]
 }
