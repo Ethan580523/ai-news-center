@@ -1,61 +1,61 @@
 {
-  "last_updated": "2026-07-11 21:49:46",
+  "last_updated": "2026-07-12 02:46:18",
   "news": [
+    {
+      "type": "HackerNews",
+      "title": "Mesh LLM: distributed AI computing on iroh",
+      "url": "https://www.iroh.computer/blog/mesh-llm",
+      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.iroh.computer/blog...",
+      "score": 112
+    },
+    {
+      "type": "HackerNews",
+      "title": "A pure scheme web programming tool",
+      "url": "https://goeteia.dev",
+      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://goeteia.dev...",
+      "score": 21
+    },
+    {
+      "type": "HackerNews",
+      "title": "A dock that wakes up reliably",
+      "url": "https://fabiensanglard.net/tb4/index.html",
+      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://fabiensanglard.net/tb4...",
+      "score": 29
+    },
     {
       "type": "HackerNews",
       "title": "Show HN: Ant – A JavaScript runtime and ecosystem",
       "url": "https://antjs.org",
-      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://antjs.org...",
-      "score": 96
+      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://antjs.org...",
+      "score": 189
     },
     {
       "type": "HackerNews",
-      "title": "Nvidia, CoreWeave, and Nebius: Inside the Circular Financing of the GPU Boom",
-      "url": "https://io-fund.com/ai-stocks/nvidia-coreweave-nebius-circular-financing-gpu-boom",
-      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://io-fund.com/ai-stocks/...",
-      "score": 88
+      "title": "I Did Not Kill Stanley Lieber: How to Draw (With 9front)",
+      "url": "https://triapul.cz/automa/i_did_not_kill_stanley_lieber",
+      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://triapul.cz/automa/i_di...",
+      "score": 17
     },
     {
       "type": "HackerNews",
-      "title": "We scaled PgBouncer to 4x throughput",
-      "url": "https://clickhouse.com/blog/pgbouncer-clickhouse-managed-postgres",
-      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://clickhouse.com/blog/pg...",
-      "score": 151
+      "title": "What xAI's Grok Build CLI Actually Sends to xAI",
+      "url": "https://gist.github.com/cereblab/dc9a40bc26120f4540e4e09b75ffb547",
+      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://gist.github.com/cerebl...",
+      "score": 15
     },
     {
       "type": "HackerNews",
-      "title": "UPI: Anatomy of a Payment Transaction",
-      "url": "https://timeseriesofindia.com/economy/reads/upi-architecture/",
-      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://timeseriesofindia.com/...",
-      "score": 55
+      "title": "RISCBoy is an open-source portable games console, designed from scratch",
+      "url": "https://github.com/Wren6991/RISCBoy",
+      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://github.com/Wren6991/RI...",
+      "score": 67
     },
     {
       "type": "HackerNews",
-      "title": "Prefer strict tables in SQLite",
-      "url": "https://evanhahn.com/prefer-strict-tables-in-sqlite/",
-      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://evanhahn.com/prefer-st...",
-      "score": 157
-    },
-    {
-      "type": "HackerNews",
-      "title": "The early History of the Singular Value Decomposition (1993) [pdf]",
-      "url": "https://www.math.ucdavis.edu/~saito/courses/229A/stewart-svd.pdf",
-      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.math.ucdavis.edu/~...",
-      "score": 74
-    },
-    {
-      "type": "HackerNews",
-      "title": "Biff.graph: structure your Clojure codebase as a queryable graph",
-      "url": "https://github.com/jacobobryant/biff/tree/v2.x/libs/graph",
-      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://github.com/jacobobryan...",
-      "score": 61
-    },
-    {
-      "type": "HackerNews",
-      "title": "ZeroFS vs. Amazon S3 Files",
-      "url": "https://www.zerofs.net/blog/zerofs-vs-aws-s3-files/",
-      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.zerofs.net/blog/ze...",
-      "score": 21
+      "title": "We Know Simple Fluids Can Flow. Turns Out, Some Can Fracture",
+      "url": "https://www.quantamagazine.org/we-know-simple-fluids-can-flow-turns-out-some-can-fracture-20260710/",
+      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.quantamagazine.org...",
+      "score": 6
     }
   ]
 }
