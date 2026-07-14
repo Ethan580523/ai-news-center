@@ -1,61 +1,61 @@
 {
-  "last_updated": "2026-07-14 08:04:28",
+  "last_updated": "2026-07-14 10:45:56",
   "news": [
     {
       "type": "HackerNews",
       "title": "Japan develops a method to recover up to 90% of lithium from used EV batteries",
       "url": "https://tech.supercarblondie.com/japan-recovers-up-to-90-of-lithium-from-used-ev-batteries/",
       "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://tech.supercarblondie.c...",
-      "score": 378
+      "score": 512
+    },
+    {
+      "type": "HackerNews",
+      "title": "Alternative(s) to run CUDA on non-Nvidia hardware",
+      "url": "https://www.hpcwire.com/2026/07/09/spectral-compute-aims-to-set-cuda-free-will-it-succeed/",
+      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.hpcwire.com/2026/0...",
+      "score": 46
+    },
+    {
+      "type": "HackerNews",
+      "title": "Australian energy retailers must provide three hours of free daytime electricity",
+      "url": "https://lenergy.com.au/free-daytime-electricity-is-coming-heres-how-it-actually-works/",
+      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://lenergy.com.au/free-da...",
+      "score": 116
+    },
+    {
+      "type": "HackerNews",
+      "title": "The git history command",
+      "url": "https://lalitm.com/post/git-history/",
+      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://lalitm.com/post/git-hi...",
+      "score": 319
+    },
+    {
+      "type": "HackerNews",
+      "title": "Indian scientists produce most detailed 3D atlas of the human brainstem",
+      "url": "https://www.bbc.com/news/articles/cg53l737v1qo",
+      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.bbc.com/news/artic...",
+      "score": 61
     },
     {
       "type": "HackerNews",
       "title": "YouTrackDB is a general-use object-oriented graph database",
       "url": "https://github.com/JetBrains/youtrackdb",
       "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://github.com/JetBrains/y...",
-      "score": 97
-    },
-    {
-      "type": "HackerNews",
-      "title": "The Git history command deserves more attention",
-      "url": "https://lalitm.com/post/git-history/",
-      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://lalitm.com/post/git-hi...",
-      "score": 256
-    },
-    {
-      "type": "HackerNews",
-      "title": "Fundamentals of Wireless Communication (2005)",
-      "url": "https://web.stanford.edu/~dntse/wireless_book.html",
-      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://web.stanford.edu/~dnts...",
-      "score": 118
-    },
-    {
-      "type": "HackerNews",
-      "title": "How to build a circular LCD clock",
-      "url": "https://blinry.org/lcd-clock/",
-      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://blinry.org/lcd-clock/...",
-      "score": 70
+      "score": 126
     },
     {
       "type": "HackerNews",
       "title": "Building and shipping Mac and iOS apps without opening Xcode",
       "url": "https://scottwillsey.com/building-and-shipping-mac-and-ios-apps-without-ever-opening-xcode/",
       "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://scottwillsey.com/build...",
-      "score": 446
+      "score": 482
     },
     {
       "type": "HackerNews",
-      "title": "The Economics of Recursive Self-Improvement [pdf]",
-      "url": "https://elasticity.institute/rsi-paper.pdf",
-      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://elasticity.institute/r...",
-      "score": 82
-    },
-    {
-      "type": "HackerNews",
-      "title": "Is x86 ready to ACE it?",
-      "url": "https://chipsandcheese.com/p/is-x86-ready-to-ace-it",
-      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://chipsandcheese.com/p/i...",
-      "score": 64
+      "title": "Fundamentals of Wireless Communication (2005)",
+      "url": "https://web.stanford.edu/~dntse/wireless_book.html",
+      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://web.stanford.edu/~dnts...",
+      "score": 137
     }
   ]
 }
