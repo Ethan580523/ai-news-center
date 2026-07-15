@@ -1,61 +1,61 @@
 {
-  "last_updated": "2026-07-15 05:30:58",
+  "last_updated": "2026-07-15 08:09:38",
   "news": [
     {
       "type": "HackerNews",
       "title": "Jurassic Park computers in excruciating detail",
       "url": "https://fabiensanglard.net/jurrasic_park_computers/index.html",
       "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://fabiensanglard.net/jur...",
-      "score": 164
+      "score": 345
+    },
+    {
+      "type": "HackerNews",
+      "title": "I tricked Claude into leaking your deepest, darkest secrets",
+      "url": "https://www.ayush.digital/blog/the-memory-heist",
+      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.ayush.digital/blog...",
+      "score": 155
     },
     {
       "type": "HackerNews",
       "title": "Vancouver PD website features Quick Escape button that wipes itself from history",
       "url": "https://vpd.ca/",
-      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://vpd.ca/...",
-      "score": 202
+      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://vpd.ca/...",
+      "score": 247
+    },
+    {
+      "type": "HackerNews",
+      "title": "RISC-V Is Inevitable: State of the Union Keynote Argues",
+      "url": "https://www.eetimes.com/risc-v-is-inevitable-state-of-the-union-keynote-argues/",
+      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.eetimes.com/risc-v...",
+      "score": 30
     },
     {
       "type": "HackerNews",
       "title": "TS-2026-009: Insecure argument handling in Tailscale SSH permitted root access",
       "url": "https://tailscale.com/security-bulletins",
-      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://tailscale.com/security...",
-      "score": 90
+      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://tailscale.com/security...",
+      "score": 131
     },
     {
       "type": "HackerNews",
       "title": "Bonsai 27B: A 27B-Class model that runs on a phone",
       "url": "https://prismml.com/news/bonsai-27b",
       "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://prismml.com/news/bonsa...",
-      "score": 514
+      "score": 564
     },
     {
       "type": "HackerNews",
-      "title": "Dependabot version updates introduce default package cooldown",
-      "url": "https://github.blog/changelog/2026-07-14-dependabot-version-updates-introduce-default-package-cooldown/",
-      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://github.blog/changelog/...",
-      "score": 145
+      "title": "Andon (manufacturing)",
+      "url": "https://en.wikipedia.org/wiki/Andon_(manufacturing)",
+      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://en.wikipedia.org/wiki/...",
+      "score": 42
     },
     {
       "type": "HackerNews",
       "title": "The Tower Keeps Rising",
       "url": "https://lucumr.pocoo.org/2026/7/13/the-tower-keeps-rising/",
       "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://lucumr.pocoo.org/2026/...",
-      "score": 408
-    },
-    {
-      "type": "HackerNews",
-      "title": "Financing the AI boom: from cash flows to debt [pdf]",
-      "url": "https://www.bis.org/publ/bisbull120.pdf",
-      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.bis.org/publ/bisbu...",
-      "score": 128
-    },
-    {
-      "type": "HackerNews",
-      "title": "Cursor 0day: When Full Disclosure Becomes the Only Protection Left",
-      "url": "https://mindgard.ai/blog/cursor-0day-when-full-disclosure-becomes-the-only-protection-left",
-      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://mindgard.ai/blog/curso...",
-      "score": 307
+      "score": 448
     }
   ]
 }
