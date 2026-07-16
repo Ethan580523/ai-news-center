@@ -1,61 +1,61 @@
 {
-  "last_updated": "2026-07-16 05:40:39",
+  "last_updated": "2026-07-16 08:12:57",
   "news": [
     {
       "type": "HackerNews",
-      "title": "If you want to create a button from scratch, you must first create the universe",
-      "url": "https://madcampos.dev/blog/2026/07/accessibility-from-scratch/",
-      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://madcampos.dev/blog/202...",
-      "score": 46
+      "title": "The lost joy of music piracy",
+      "url": "https://www.pigeonsandplanes.com/read/music-piracy-what-cd-oink-nine-inch-nails-streaming",
+      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.pigeonsandplanes.c...",
+      "score": 212
     },
     {
       "type": "HackerNews",
       "title": "Inkling: Our Open-Weights Model",
       "url": "https://thinkingmachines.ai/news/introducing-inkling/",
-      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://thinkingmachines.ai/ne...",
-      "score": 844
+      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://thinkingmachines.ai/ne...",
+      "score": 930
+    },
+    {
+      "type": "HackerNews",
+      "title": "If you want to create a button from scratch, you must first create the universe",
+      "url": "https://madcampos.dev/blog/2026/07/accessibility-from-scratch/",
+      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://madcampos.dev/blog/202...",
+      "score": 87
+    },
+    {
+      "type": "HackerNews",
+      "title": "Teardown: A Generic 7-Port USB 3.0 Hub That Wasn't",
+      "url": "https://goughlui.com/2026/07/09/teardown-a-generic-7-port-usb-3-0-hub-that-wasnt/",
+      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://goughlui.com/2026/07/0...",
+      "score": 34
     },
     {
       "type": "HackerNews",
       "title": "SQLite should have (Rust-style) editions",
       "url": "https://mort.coffee/home/sqlite-editions/",
       "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://mort.coffee/home/sqlit...",
-      "score": 185
+      "score": 244
     },
     {
       "type": "HackerNews",
-      "title": "Grok Build is open source",
-      "url": "https://github.com/xai-org/grok-build",
-      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://github.com/xai-org/gro...",
-      "score": 360
-    },
-    {
-      "type": "HackerNews",
-      "title": "Bluesky Trademarks ATProto",
-      "url": "https://atproto.com/blog/at-protocol-trademark",
-      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://atproto.com/blog/at-pr...",
-      "score": 54
-    },
-    {
-      "type": "HackerNews",
-      "title": "Making 768 servers look like 1",
-      "url": "https://planetscale.com/blog/making-768-servers-look-like-1",
-      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://planetscale.com/blog/m...",
-      "score": 25
+      "title": "What's the story behind the names of Cloudflare's name servers? (2013)",
+      "url": "https://blog.cloudflare.com/whats-the-story-behind-the-names-of-cloudflares-name-servers/",
+      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://blog.cloudflare.com/wh...",
+      "score": 10
     },
     {
       "type": "HackerNews",
       "title": "1,300 Beautiful Wildlife Illustrations from the 19th Century Now Restored",
       "url": "https://www.openculture.com/2026/07/explore-1300-beautiful-wildlife-illustrations-from-the-19th-century.html",
       "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.openculture.com/20...",
-      "score": 22
+      "score": 69
     },
     {
       "type": "HackerNews",
-      "title": "G# – A modern .NET language with Go, Kotlin, and Swift ergonomics",
-      "url": "https://davidobando.github.io/gsharp/",
-      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://davidobando.github.io/...",
-      "score": 73
+      "title": "Grok Build is open source",
+      "url": "https://github.com/xai-org/grok-build",
+      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://github.com/xai-org/gro...",
+      "score": 421
     }
   ]
 }
