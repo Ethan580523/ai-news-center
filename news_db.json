@@ -1,61 +1,61 @@
 {
-  "last_updated": "2026-07-16 11:00:00",
+  "last_updated": "2026-07-16 13:49:43",
   "news": [
+    {
+      "type": "HackerNews",
+      "title": "OnePlus halts operations in USA and Europe",
+      "url": "https://community.oneplus.com/thread/2170715118587871237",
+      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://community.oneplus.com/...",
+      "score": 211
+    },
+    {
+      "type": "HackerNews",
+      "title": "SpaceX stock erases all its gains and slides below IPO price in intraday trading",
+      "url": "https://www.latimes.com/business/story/2026-07-16/spacex-stock-erases-gains-slides-below-ipo-price-in-intraday-trading",
+      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.latimes.com/busine...",
+      "score": 179
+    },
+    {
+      "type": "HackerNews",
+      "title": "Let's Build PlanetScale from Scratch: Infrastructure",
+      "url": "https://onatm.dev/2026/07/16/homescale-part-1/",
+      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://onatm.dev/2026/07/16/h...",
+      "score": 42
+    },
+    {
+      "type": "HackerNews",
+      "title": "Goes-19 weather satellite enters Safe Hold mode",
+      "url": "https://www.spaceweather.gov/news/goes-19-safe-hold",
+      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.spaceweather.gov/n...",
+      "score": 5
+    },
+    {
+      "type": "HackerNews",
+      "title": "Ente – Opening Our Books",
+      "url": "https://ente.com/open/",
+      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://ente.com/open/...",
+      "score": 63
+    },
     {
       "type": "HackerNews",
       "title": "The lost joy of music piracy",
       "url": "https://www.pigeonsandplanes.com/read/music-piracy-what-cd-oink-nine-inch-nails-streaming",
-      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.pigeonsandplanes.c...",
-      "score": 374
+      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.pigeonsandplanes.c...",
+      "score": 501
     },
     {
       "type": "HackerNews",
       "title": "Where are YC founders now? OpenAI and Anthropic, mostly",
       "url": "https://joinedanthropic.com",
-      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://joinedanthropic.com...",
-      "score": 54
+      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://joinedanthropic.com...",
+      "score": 148
     },
     {
       "type": "HackerNews",
-      "title": "Inkling: Our Open-Weights Model",
-      "url": "https://thinkingmachines.ai/news/introducing-inkling/",
-      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://thinkingmachines.ai/ne...",
-      "score": 1005
-    },
-    {
-      "type": "HackerNews",
-      "title": "If you want to create a button from scratch, you must first create the universe",
-      "url": "https://madcampos.dev/blog/2026/07/accessibility-from-scratch/",
-      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://madcampos.dev/blog/202...",
-      "score": 152
-    },
-    {
-      "type": "HackerNews",
-      "title": "Teardown: A Generic 7-Port USB 3.0 Hub That Wasn't",
-      "url": "https://goughlui.com/2026/07/09/teardown-a-generic-7-port-usb-3-0-hub-that-wasnt/",
-      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://goughlui.com/2026/07/0...",
-      "score": 77
-    },
-    {
-      "type": "HackerNews",
-      "title": "1,300 Beautiful Wildlife Illustrations from the 19th Century Now Restored",
-      "url": "https://www.openculture.com/2026/07/explore-1300-beautiful-wildlife-illustrations-from-the-19th-century.html",
-      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.openculture.com/20...",
-      "score": 112
-    },
-    {
-      "type": "HackerNews",
-      "title": "Grok Build is open source",
-      "url": "https://github.com/xai-org/grok-build",
-      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://github.com/xai-org/gro...",
-      "score": 469
-    },
-    {
-      "type": "HackerNews",
-      "title": "Governments, companies, nonprofits should invest in free, open source AI [pdf]",
-      "url": "https://www.siegelendowment.org/wp-content/uploads/2026/07/fortune-david-siegel-open-source-ai.pdf",
-      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.siegelendowment.or...",
-      "score": 206
+      "title": "How to spend 15 years perfecting a product",
+      "url": "https://refactoring.guru/email/gbb-rollout2",
+      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://refactoring.guru/email...",
+      "score": 3
     }
   ]
 }
