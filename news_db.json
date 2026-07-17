@@ -1,61 +1,61 @@
 {
-  "last_updated": "2026-07-17 02:38:16",
+  "last_updated": "2026-07-17 05:42:17",
   "news": [
+    {
+      "type": "HackerNews",
+      "title": "How Has Roman Concrete Lasted for Millennia? 1,900-Year-Old Latrine Offers Clues",
+      "url": "https://www.smithsonianmag.com/smart-news/how-has-roman-concrete-lasted-for-millennia-a-1900-year-old-latrine-offers-new-clues-about-the-materials-impressive-durability-180989115/",
+      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.smithsonianmag.com...",
+      "score": 44
+    },
     {
       "type": "HackerNews",
       "title": "Kimi K3: Open Frontier Intelligence",
       "url": "https://www.kimi.com/blog/kimi-k3",
       "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.kimi.com/blog/kimi...",
-      "score": 1210
+      "score": 1398
+    },
+    {
+      "type": "HackerNews",
+      "title": "An Engineer's Guide to USB Typе-С (2024)",
+      "url": "https://www.ti.com/lit/eb/slyy228/slyy228.pdf?ts=1759892558029",
+      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.ti.com/lit/eb/slyy...",
+      "score": 79
     },
     {
       "type": "HackerNews",
       "title": "Microsoft Comic Chat is now open source",
       "url": "https://opensource.microsoft.com/blog/2026/07/16/microsoft-comic-chat-is-now-open-source/",
       "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://opensource.microsoft.c...",
-      "score": 557
+      "score": 607
     },
     {
       "type": "HackerNews",
-      "title": "LM Studio Bionic: the AI agent for open models",
-      "url": "https://lmstudio.ai/blog/introducing-lm-studio-bionic",
-      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://lmstudio.ai/blog/intro...",
-      "score": 167
+      "title": "GrapheneOS recommended for domestic abuse victims",
+      "url": "https://privacypros.com.au/privacy-hub/articles/dv-safe-phone-australia/",
+      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://privacypros.com.au/pri...",
+      "score": 48
     },
     {
       "type": "HackerNews",
       "title": "Decoy Font",
       "url": "https://www.mixfont.com/experiments/decoy-font",
       "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.mixfont.com/experi...",
-      "score": 423
+      "score": 478
     },
     {
       "type": "HackerNews",
-      "title": "M 3.9 Experimental Explosion – 147 Km ENE of Ponce Inlet, Florida",
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000t13l/executive",
-      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://earthquake.usgs.gov/ea...",
-      "score": 31
+      "title": "LM Studio Bionic: the AI agent for open models",
+      "url": "https://lmstudio.ai/blog/introducing-lm-studio-bionic",
+      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://lmstudio.ai/blog/intro...",
+      "score": 199
     },
     {
       "type": "HackerNews",
       "title": "$100 AI Music Video: Claude Fable 5 vs. GPT-5.6 Sol",
       "url": "https://www.tryai.dev/blog/ai-music-video-arena-claude-vs-gpt-5.6",
       "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.tryai.dev/blog/ai-...",
-      "score": 146
-    },
-    {
-      "type": "HackerNews",
-      "title": "The Little Book of Reinforcement Learning",
-      "url": "https://github.com/alxndrTL/little-book-rl/",
-      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://github.com/alxndrTL/li...",
-      "score": 62
-    },
-    {
-      "type": "HackerNews",
-      "title": "NotebookLM is now Gemini Notebook",
-      "url": "https://blog.google/innovation-and-ai/products/gemini-notebook/notebooklm-gemini-notebook/",
-      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://blog.google/innovation...",
-      "score": 252
+      "score": 202
     }
   ]
 }
