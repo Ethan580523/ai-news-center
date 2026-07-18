@@ -1,61 +1,61 @@
 {
-  "last_updated": "2026-07-18 15:57:00",
+  "last_updated": "2026-07-18 19:03:28",
   "news": [
+    {
+      "type": "HackerNews",
+      "title": "Goodbye, and Thanks for All the Bikesheds",
+      "url": "https://queue.acm.org/detail.cfm?id=3818307",
+      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://queue.acm.org/detail.c...",
+      "score": 81
+    },
     {
       "type": "HackerNews",
       "title": "GPT-5.6 used a prompt to close a 30-year gap in convex optimization",
       "url": "https://old.reddit.com/r/math/comments/1uxj3cy/after_openais_cdc_proof_announcement_gpt56_used_a/",
       "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://old.reddit.com/r/math/...",
-      "score": 222
+      "score": 359
+    },
+    {
+      "type": "HackerNews",
+      "title": "REO Trucks I4 4WD Pickup Truck Starts at $21,500",
+      "url": "https://reotrucks.com",
+      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://reotrucks.com...",
+      "score": 28
     },
     {
       "type": "HackerNews",
       "title": "Gleam Is Now on Tangled",
       "url": "https://tangled.org/gleam.run/gleam",
-      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://tangled.org/gleam.run/...",
-      "score": 12
+      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://tangled.org/gleam.run/...",
+      "score": 112
     },
     {
       "type": "HackerNews",
-      "title": "Fable 5 vs. GPT-5.6 Sol on an NP-Hard Problem: Does /goal help?",
-      "url": "https://charlesazam.com/blog/fable-5-gpt-5-6-sol-goal/",
-      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://charlesazam.com/blog/f...",
-      "score": 127
+      "title": "The Kimi K3 Moment",
+      "url": "https://stephen.bochinski.dev/blog/2026/07/18/the-kimi-k3-moment/",
+      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://stephen.bochinski.dev/...",
+      "score": 19
     },
     {
       "type": "HackerNews",
-      "title": "Is this the end of the once-mighty GoPro?",
-      "url": "https://amateurphotographer.com/latest/photo-news/going-going-gone-is-this-the-end-of-the-once-mighty-gopro/",
-      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://amateurphotographer.co...",
-      "score": 67
+      "title": "If You Build It, They Will Come",
+      "url": "https://www.benlandautaylor.com/p/if-you-build-it-they-will-come",
+      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.benlandautaylor.co...",
+      "score": 75
     },
     {
       "type": "HackerNews",
-      "title": "Tech note: making your own V-I plots at home",
-      "url": "https://lcamtuf.substack.com/p/tech-note-making-your-own-v-i-plots",
-      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://lcamtuf.substack.com/p...",
-      "score": 25
+      "title": "Elixir-lang.org has a new design",
+      "url": "https://elixir-lang.org/",
+      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://elixir-lang.org/...",
+      "score": 90
     },
     {
       "type": "HackerNews",
-      "title": "LG monitors silently install software through Windows Update without consent",
-      "url": "https://videocardz.com/newz/lg-monitors-silently-install-software-through-windows-update-without-user-consent",
-      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://videocardz.com/newz/lg...",
-      "score": 598
-    },
-    {
-      "type": "HackerNews",
-      "title": "Regressive JPEGs",
-      "url": "https://maurycyz.com/projects/bad_jpeg/",
-      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://maurycyz.com/projects/...",
-      "score": 537
-    },
-    {
-      "type": "HackerNews",
-      "title": "EU ban on destruction of unsold clothes and shoes enters into application",
-      "url": "https://environment.ec.europa.eu/news/ban-destruction-unsold-clothes-and-shoes-enters-application-2026-07-17_en",
-      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://environment.ec.europa....",
-      "score": 80
+      "title": "Our Approach to Bioresilience: Isomorphic Labs and Google DeepMind",
+      "url": "https://deepmind.google/blog/our-approach-to-bioresilience/",
+      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://deepmind.google/blog/o...",
+      "score": 32
     }
   ]
 }
