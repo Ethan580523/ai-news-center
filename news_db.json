@@ -1,61 +1,61 @@
 {
-  "last_updated": "2026-07-18 13:14:38",
+  "last_updated": "2026-07-18 15:57:00",
   "news": [
     {
       "type": "HackerNews",
-      "title": "LG monitors silently install software through Windows Update without consent",
-      "url": "https://videocardz.com/newz/lg-monitors-silently-install-software-through-windows-update-without-user-consent",
-      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://videocardz.com/newz/lg...",
-      "score": 300
+      "title": "GPT-5.6 used a prompt to close a 30-year gap in convex optimization",
+      "url": "https://old.reddit.com/r/math/comments/1uxj3cy/after_openais_cdc_proof_announcement_gpt56_used_a/",
+      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://old.reddit.com/r/math/...",
+      "score": 222
+    },
+    {
+      "type": "HackerNews",
+      "title": "Gleam Is Now on Tangled",
+      "url": "https://tangled.org/gleam.run/gleam",
+      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://tangled.org/gleam.run/...",
+      "score": 12
     },
     {
       "type": "HackerNews",
       "title": "Fable 5 vs. GPT-5.6 Sol on an NP-Hard Problem: Does /goal help?",
       "url": "https://charlesazam.com/blog/fable-5-gpt-5-6-sol-goal/",
-      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://charlesazam.com/blog/f...",
-      "score": 36
+      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://charlesazam.com/blog/f...",
+      "score": 127
+    },
+    {
+      "type": "HackerNews",
+      "title": "Is this the end of the once-mighty GoPro?",
+      "url": "https://amateurphotographer.com/latest/photo-news/going-going-gone-is-this-the-end-of-the-once-mighty-gopro/",
+      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://amateurphotographer.co...",
+      "score": 67
+    },
+    {
+      "type": "HackerNews",
+      "title": "Tech note: making your own V-I plots at home",
+      "url": "https://lcamtuf.substack.com/p/tech-note-making-your-own-v-i-plots",
+      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://lcamtuf.substack.com/p...",
+      "score": 25
+    },
+    {
+      "type": "HackerNews",
+      "title": "LG monitors silently install software through Windows Update without consent",
+      "url": "https://videocardz.com/newz/lg-monitors-silently-install-software-through-windows-update-without-user-consent",
+      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://videocardz.com/newz/lg...",
+      "score": 598
     },
     {
       "type": "HackerNews",
       "title": "Regressive JPEGs",
       "url": "https://maurycyz.com/projects/bad_jpeg/",
       "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://maurycyz.com/projects/...",
-      "score": 456
+      "score": 537
     },
     {
       "type": "HackerNews",
-      "title": "The Computer at the Bottom of a Canal",
-      "url": "https://negroniventurestudios.com/2026/07/18/the-computer-at-the-bottom-of-a-canal/",
-      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://negroniventurestudios....",
-      "score": 47
-    },
-    {
-      "type": "HackerNews",
-      "title": "AWS: Inaccurate Estimated Billing Data – $1.7 billion",
-      "url": null,
-      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：...",
-      "score": 1223
-    },
-    {
-      "type": "HackerNews",
-      "title": "Reviving a 15-year-old netbook with Arch Linux",
-      "url": "https://parksb.github.io/en/article/41.html",
-      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://parksb.github.io/en/ar...",
-      "score": 149
-    },
-    {
-      "type": "HackerNews",
-      "title": "Thanks HN for 15 years of support and helping me find my life's work",
-      "url": null,
-      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：...",
-      "score": 674
-    },
-    {
-      "type": "HackerNews",
-      "title": "Qubes OS Security in the Public Record",
-      "url": "https://arxiv.org/abs/2607.14587",
-      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://arxiv.org/abs/2607.145...",
-      "score": 33
+      "title": "EU ban on destruction of unsold clothes and shoes enters into application",
+      "url": "https://environment.ec.europa.eu/news/ban-destruction-unsold-clothes-and-shoes-enters-application-2026-07-17_en",
+      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://environment.ec.europa....",
+      "score": 80
     }
   ]
 }
