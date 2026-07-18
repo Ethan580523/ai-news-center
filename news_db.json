@@ -1,61 +1,61 @@
 {
-  "last_updated": "2026-07-18 10:17:46",
+  "last_updated": "2026-07-18 13:14:38",
   "news": [
+    {
+      "type": "HackerNews",
+      "title": "LG monitors silently install software through Windows Update without consent",
+      "url": "https://videocardz.com/newz/lg-monitors-silently-install-software-through-windows-update-without-user-consent",
+      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://videocardz.com/newz/lg...",
+      "score": 300
+    },
+    {
+      "type": "HackerNews",
+      "title": "Fable 5 vs. GPT-5.6 Sol on an NP-Hard Problem: Does /goal help?",
+      "url": "https://charlesazam.com/blog/fable-5-gpt-5-6-sol-goal/",
+      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://charlesazam.com/blog/f...",
+      "score": 36
+    },
     {
       "type": "HackerNews",
       "title": "Regressive JPEGs",
       "url": "https://maurycyz.com/projects/bad_jpeg/",
       "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://maurycyz.com/projects/...",
-      "score": 355
+      "score": 456
+    },
+    {
+      "type": "HackerNews",
+      "title": "The Computer at the Bottom of a Canal",
+      "url": "https://negroniventurestudios.com/2026/07/18/the-computer-at-the-bottom-of-a-canal/",
+      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://negroniventurestudios....",
+      "score": 47
     },
     {
       "type": "HackerNews",
       "title": "AWS: Inaccurate Estimated Billing Data – $1.7 billion",
       "url": null,
-      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：...",
-      "score": 1190
-    },
-    {
-      "type": "HackerNews",
-      "title": "Thanks HN for 15 years of support and helping me find my life's work",
-      "url": null,
       "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：...",
-      "score": 602
-    },
-    {
-      "type": "HackerNews",
-      "title": "Porting nanochat to a TPU: what carries over from PyTorch, and what breaks",
-      "url": "https://github.com/tucan9389/nanochat-jax/discussions/1",
-      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://github.com/tucan9389/n...",
-      "score": 32
+      "score": 1223
     },
     {
       "type": "HackerNews",
       "title": "Reviving a 15-year-old netbook with Arch Linux",
       "url": "https://parksb.github.io/en/article/41.html",
       "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://parksb.github.io/en/ar...",
-      "score": 110
+      "score": 149
     },
     {
       "type": "HackerNews",
-      "title": "First atmosphere found on Earth-like planet in habitable zone of distant star",
-      "url": "https://www.bbc.com/news/articles/cy4kdd1e0ejo",
-      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.bbc.com/news/artic...",
-      "score": 461
+      "title": "Thanks HN for 15 years of support and helping me find my life's work",
+      "url": null,
+      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：...",
+      "score": 674
     },
     {
       "type": "HackerNews",
-      "title": "In-toto: A framework to secure the integrity of software supply chains",
-      "url": "https://in-toto.io/",
-      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://in-toto.io/...",
+      "title": "Qubes OS Security in the Public Record",
+      "url": "https://arxiv.org/abs/2607.14587",
+      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://arxiv.org/abs/2607.145...",
       "score": 33
-    },
-    {
-      "type": "HackerNews",
-      "title": "TP-Link Kasa cameras leaked home GPS via unauthenticated UDP for 6 years",
-      "url": "https://github.com/BadChemical/IoT-Vulnerability-Research-Public/blob/main/TP-Link_Kasa_EC71/Kasa_EC71.md",
-      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://github.com/BadChemical...",
-      "score": 136
     }
   ]
 }
