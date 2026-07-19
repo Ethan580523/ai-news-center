@@ -1,61 +1,61 @@
 {
-  "last_updated": "2026-07-19 15:57:47",
+  "last_updated": "2026-07-19 19:05:25",
   "news": [
     {
       "type": "HackerNews",
       "title": "Qwen 3.8",
       "url": "https://twitter.com/Alibaba_Qwen/status/2078759124914098291",
-      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://twitter.com/Alibaba_Qw...",
-      "score": 411
+      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://twitter.com/Alibaba_Qw...",
+      "score": 614
     },
     {
       "type": "HackerNews",
-      "title": "Minecraft: Java Edition now uses SDL3",
-      "url": "https://www.minecraft.net/en-us/article/minecraft-26-3-snapshot-4",
-      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.minecraft.net/en-u...",
-      "score": 128
+      "title": "Show HN: I replaced a $120k bowling center system with $1,600 in ESP32s",
+      "url": null,
+      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：...",
+      "score": 257
+    },
+    {
+      "type": "HackerNews",
+      "title": "Claude Code uses Bun written in Rust now",
+      "url": "https://simonwillison.net/2026/Jul/19/claude-code-in-bun-in-rust/",
+      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://simonwillison.net/2026...",
+      "score": 286
     },
     {
       "type": "HackerNews",
       "title": "What I learned selling 2,500 MIDI recorders: Hardware is not so hard",
       "url": "https://chipweinberger.com/articles/20260719-hardware-is-not-so-hard",
       "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://chipweinberger.com/art...",
-      "score": 212
+      "score": 322
+    },
+    {
+      "type": "HackerNews",
+      "title": "HMD Touch 4G",
+      "url": "https://www.hmd.com/en_int/hmd-touch-4g",
+      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.hmd.com/en_int/hmd...",
+      "score": 29
+    },
+    {
+      "type": "HackerNews",
+      "title": "Bananas sprout in Rayleigh Garden UK after 15 years",
+      "url": "https://www.bbc.com/news/articles/cvg8edqq5g5o",
+      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.bbc.com/news/artic...",
+      "score": 70
     },
     {
       "type": "HackerNews",
       "title": "Blender 5.2 LTS",
       "url": "https://www.blender.org/download/releases/5-2/",
       "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.blender.org/downlo...",
-      "score": 187
+      "score": 267
     },
     {
       "type": "HackerNews",
-      "title": "Bananas sprout in Rayleigh Garden UK after 15 years",
-      "url": "https://www.bbc.com/news/articles/cvg8edqq5g5o",
-      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.bbc.com/news/artic...",
-      "score": 28
-    },
-    {
-      "type": "HackerNews",
-      "title": "Claude Code uses Bun written in Rust now",
-      "url": "https://simonwillison.net/2026/Jul/19/claude-code-in-bun-in-rust/",
-      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://simonwillison.net/2026...",
-      "score": 169
-    },
-    {
-      "type": "HackerNews",
-      "title": "UnifiedIR for Julia",
-      "url": "https://github.com/JuliaLang/julia/pull/62334",
-      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://github.com/JuliaLang/j...",
-      "score": 10
-    },
-    {
-      "type": "HackerNews",
-      "title": "OpenAI reduces Codex Model Context Size from 372k to 272k",
-      "url": "https://github.com/openai/codex/pull/33972/files",
-      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://github.com/openai/code...",
-      "score": 148
+      "title": "Minecraft: Java Edition now uses SDL3",
+      "url": "https://www.minecraft.net/en-us/article/minecraft-26-3-snapshot-4",
+      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.minecraft.net/en-u...",
+      "score": 190
     }
   ]
 }
