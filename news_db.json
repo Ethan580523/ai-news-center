@@ -1,61 +1,61 @@
 {
-  "last_updated": "2026-07-19 10:27:51",
+  "last_updated": "2026-07-19 13:17:14",
   "news": [
     {
       "type": "HackerNews",
-      "title": "Qwen3.8 is launching and going open-weight soon",
-      "url": "https://twitter.com/Alibaba_Qwen/status/2078759124914098291",
-      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://twitter.com/Alibaba_Qw...",
-      "score": 171
+      "title": "Qwen 3.8 Max Preview",
+      "url": "https://www.qwencloud.com/pricing/token-plan",
+      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.qwencloud.com/pric...",
+      "score": 149
+    },
+    {
+      "type": "HackerNews",
+      "title": "What I learned selling 2,500 MIDI recorders: Hardware is not so hard",
+      "url": "https://chipweinberger.com/articles/20260719-hardware-is-not-so-hard",
+      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://chipweinberger.com/art...",
+      "score": 82
+    },
+    {
+      "type": "HackerNews",
+      "title": "Minecraft: Java Edition now uses SDL3",
+      "url": "https://www.minecraft.net/en-us/article/minecraft-26-3-snapshot-4",
+      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.minecraft.net/en-u...",
+      "score": 18
+    },
+    {
+      "type": "HackerNews",
+      "title": "Blender 5.2 LTS",
+      "url": "https://www.blender.org/download/releases/5-2/",
+      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.blender.org/downlo...",
+      "score": 94
     },
     {
       "type": "HackerNews",
       "title": "Transcribe.cpp",
       "url": "https://workshop.cjpais.com/projects/transcribe-cpp",
       "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://workshop.cjpais.com/pr...",
-      "score": 542
+      "score": 590
     },
     {
       "type": "HackerNews",
-      "title": "Speech Recognition and TTS in less than 500kb",
-      "url": "https://github.com/moonshine-ai/moonshine/tree/main/micro",
-      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://github.com/moonshine-a...",
-      "score": 461
+      "title": "I burned all my tokens researching how to save tokens",
+      "url": "https://quesma.com/blog/custom-deep-research-pipeline/",
+      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://quesma.com/blog/custom...",
+      "score": 20
     },
     {
       "type": "HackerNews",
-      "title": "Better and Cheaper Than IPTV",
-      "url": "https://github.com/stupside/castor",
-      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://github.com/stupside/ca...",
-      "score": 208
+      "title": "OpenAI reduces Codex Model Context Size from 372k to 272k",
+      "url": "https://github.com/openai/codex/pull/33972/files",
+      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://github.com/openai/code...",
+      "score": 69
     },
     {
       "type": "HackerNews",
-      "title": "Codex Resets",
-      "url": "https://codex-resets.com/",
-      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://codex-resets.com/...",
-      "score": 191
-    },
-    {
-      "type": "HackerNews",
-      "title": "Mathematicians still don't know the fastest way to multiply numbers",
-      "url": "https://www.scientificamerican.com/article/mathematicians-still-dont-know-the-fastest-way-to-multiply-numbers/",
-      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.scientificamerican...",
-      "score": 118
-    },
-    {
-      "type": "HackerNews",
-      "title": "The Kimi K3 Moment",
-      "url": "https://stephen.bochinski.dev/blog/2026/07/18/the-kimi-k3-moment/",
-      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://stephen.bochinski.dev/...",
-      "score": 417
-    },
-    {
-      "type": "HackerNews",
-      "title": "Searchable field-level encryption on Supabase with CipherStash",
-      "url": "https://supabase.com/blog/searchable-field-level-encryption-with-cipherstash",
-      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://supabase.com/blog/sear...",
-      "score": 37
+      "title": "Qwen3.8 is launching and going open-weight soon",
+      "url": "https://twitter.com/Alibaba_Qwen/status/2078759124914098291",
+      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://twitter.com/Alibaba_Qw...",
+      "score": 283
     }
   ]
 }
