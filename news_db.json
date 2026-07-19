@@ -1,61 +1,61 @@
 {
-  "last_updated": "2026-07-19 02:43:11",
+  "last_updated": "2026-07-19 05:52:47",
   "news": [
     {
       "type": "HackerNews",
       "title": "Transcribe.cpp",
       "url": "https://workshop.cjpais.com/projects/transcribe-cpp",
-      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://workshop.cjpais.com/pr...",
-      "score": 101
+      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://workshop.cjpais.com/pr...",
+      "score": 307
     },
     {
       "type": "HackerNews",
       "title": "Speech Recognition and TTS in less than 500kb",
       "url": "https://github.com/moonshine-ai/moonshine/tree/main/micro",
-      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://github.com/moonshine-a...",
-      "score": 296
+      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://github.com/moonshine-a...",
+      "score": 376
+    },
+    {
+      "type": "HackerNews",
+      "title": "FDA approves new kind of cholesterol pill",
+      "url": "https://www.fda.gov/news-events/press-announcements/fda-approves-first-oral-pcsk9-inhibitor-lower-ldl-cholesterol-adults-high-cholesterol",
+      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.fda.gov/news-event...",
+      "score": 48
     },
     {
       "type": "HackerNews",
       "title": "Better and Cheaper Than IPTV",
       "url": "https://github.com/stupside/castor",
-      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://github.com/stupside/ca...",
-      "score": 33
+      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://github.com/stupside/ca...",
+      "score": 106
+    },
+    {
+      "type": "HackerNews",
+      "title": "Mathematicians still don't know the fastest way to multiply numbers",
+      "url": "https://www.scientificamerican.com/article/mathematicians-still-dont-know-the-fastest-way-to-multiply-numbers/",
+      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.scientificamerican...",
+      "score": 53
+    },
+    {
+      "type": "HackerNews",
+      "title": "LLM-Integrated Multivariable Calculus Course",
+      "url": "https://calculus.academa.ai/",
+      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://calculus.academa.ai/...",
+      "score": 28
     },
     {
       "type": "HackerNews",
       "title": "Classic Amiga titles, free to download",
       "url": "https://amigafreeware.downer.tech/",
-      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://amigafreeware.downer.t...",
-      "score": 61
+      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://amigafreeware.downer.t...",
+      "score": 87
     },
     {
       "type": "HackerNews",
       "title": "If You Build It, They Will Come",
       "url": "https://www.benlandautaylor.com/p/if-you-build-it-they-will-come",
       "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.benlandautaylor.co...",
-      "score": 284
-    },
-    {
-      "type": "HackerNews",
-      "title": "GPT-5.6 used a prompt to close a 30-year gap in convex optimization",
-      "url": "https://old.reddit.com/r/math/comments/1uxj3cy/after_openais_cdc_proof_announcement_gpt56_used_a/",
-      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://old.reddit.com/r/math/...",
-      "score": 510
-    },
-    {
-      "type": "HackerNews",
-      "title": "Mayor Mamdani Says Landlords Can't Use AI Images to Advertise",
-      "url": "https://petapixel.com/2026/07/16/mayor-mamdani-says-landlords-cant-secretly-use-ai-images-to-advertise-properties/",
-      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://petapixel.com/2026/07/...",
-      "score": 253
-    },
-    {
-      "type": "HackerNews",
-      "title": "Mathematicians still don't know the fastest way to multiply numbers",
-      "url": "https://www.scientificamerican.com/article/mathematicians-still-dont-know-the-fastest-way-to-multiply-numbers/",
-      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.scientificamerican...",
-      "score": 10
+      "score": 341
     }
   ]
 }
