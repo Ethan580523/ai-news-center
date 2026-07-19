@@ -1,61 +1,61 @@
 {
-  "last_updated": "2026-07-19 08:17:55",
+  "last_updated": "2026-07-19 10:27:51",
   "news": [
+    {
+      "type": "HackerNews",
+      "title": "Qwen3.8 is launching and going open-weight soon",
+      "url": "https://twitter.com/Alibaba_Qwen/status/2078759124914098291",
+      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://twitter.com/Alibaba_Qw...",
+      "score": 171
+    },
     {
       "type": "HackerNews",
       "title": "Transcribe.cpp",
       "url": "https://workshop.cjpais.com/projects/transcribe-cpp",
-      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://workshop.cjpais.com/pr...",
-      "score": 447
+      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://workshop.cjpais.com/pr...",
+      "score": 542
     },
     {
       "type": "HackerNews",
       "title": "Speech Recognition and TTS in less than 500kb",
       "url": "https://github.com/moonshine-ai/moonshine/tree/main/micro",
       "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://github.com/moonshine-a...",
-      "score": 426
-    },
-    {
-      "type": "HackerNews",
-      "title": "Searchable field-level encryption on Supabase with CipherStash",
-      "url": "https://supabase.com/blog/searchable-field-level-encryption-with-cipherstash",
-      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://supabase.com/blog/sear...",
-      "score": 31
-    },
-    {
-      "type": "HackerNews",
-      "title": "Codex Resets",
-      "url": "https://codex-resets.com/",
-      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://codex-resets.com/...",
-      "score": 162
+      "score": 461
     },
     {
       "type": "HackerNews",
       "title": "Better and Cheaper Than IPTV",
       "url": "https://github.com/stupside/castor",
-      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://github.com/stupside/ca...",
-      "score": 164
+      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://github.com/stupside/ca...",
+      "score": 208
     },
     {
       "type": "HackerNews",
-      "title": "The Kimi K3 Moment",
-      "url": "https://stephen.bochinski.dev/blog/2026/07/18/the-kimi-k3-moment/",
-      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://stephen.bochinski.dev/...",
-      "score": 359
+      "title": "Codex Resets",
+      "url": "https://codex-resets.com/",
+      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://codex-resets.com/...",
+      "score": 191
     },
     {
       "type": "HackerNews",
       "title": "Mathematicians still don't know the fastest way to multiply numbers",
       "url": "https://www.scientificamerican.com/article/mathematicians-still-dont-know-the-fastest-way-to-multiply-numbers/",
       "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.scientificamerican...",
-      "score": 80
+      "score": 118
     },
     {
       "type": "HackerNews",
-      "title": "Scrying the AMD GFX1250 LLVM Tea Leaves",
-      "url": "https://chipsandcheese.com/p/scrying-the-amd-gfx1250-llvm-tea",
-      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://chipsandcheese.com/p/s...",
-      "score": 18
+      "title": "The Kimi K3 Moment",
+      "url": "https://stephen.bochinski.dev/blog/2026/07/18/the-kimi-k3-moment/",
+      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://stephen.bochinski.dev/...",
+      "score": 417
+    },
+    {
+      "type": "HackerNews",
+      "title": "Searchable field-level encryption on Supabase with CipherStash",
+      "url": "https://supabase.com/blog/searchable-field-level-encryption-with-cipherstash",
+      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://supabase.com/blog/sear...",
+      "score": 37
     }
   ]
 }
