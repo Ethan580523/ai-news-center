@@ -1,61 +1,61 @@
 {
-  "last_updated": "2026-07-20 16:23:20",
+  "last_updated": "2026-07-20 19:43:00",
   "news": [
     {
       "type": "HackerNews",
-      "title": "Corners Don't Look Like That: Regarding Screenspace Ambient Occlusion (2012)",
-      "url": "https://nothings.org/gamedev/ssao/",
-      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://nothings.org/gamedev/s...",
-      "score": 70
+      "title": "China's open-weights AI strategy is winning",
+      "url": "https://werd.io/american-ai-is-locked-down-and-proprietary-its-losing/",
+      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://werd.io/american-ai-is...",
+      "score": 563
     },
     {
       "type": "HackerNews",
       "title": "Hacker wipes Romania's land registry database",
       "url": "https://news.risky.biz/risky-bulletin-hacker-wipes-romanias-entire-land-registry-database/",
-      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://news.risky.biz/risky-b...",
-      "score": 278
+      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://news.risky.biz/risky-b...",
+      "score": 462
     },
     {
       "type": "HackerNews",
-      "title": "American AI is locked down and proprietary. It's losing",
-      "url": "https://werd.io/american-ai-is-locked-down-and-proprietary-its-losing/",
-      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://werd.io/american-ai-is...",
-      "score": 114
+      "title": "Kimi Work",
+      "url": "https://www.kimi.com/products/kimi-work",
+      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.kimi.com/products/...",
+      "score": 105
     },
     {
       "type": "HackerNews",
-      "title": "We're Squandering LEDs' Potential to Save Our Night Skies",
-      "url": "https://spectrum.ieee.org/led-light-pollution",
-      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://spectrum.ieee.org/led-...",
-      "score": 106
+      "title": "Jelly UI: Soft-body physics for native HTML form controls",
+      "url": "https://jelly-ui.com/",
+      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://jelly-ui.com/...",
+      "score": 121
     },
     {
       "type": "HackerNews",
-      "title": "Airport Simulator",
-      "url": "https://airport.apunen.com/",
-      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://airport.apunen.com/...",
-      "score": 351
+      "title": "Hyprland 0.55 announced the switch to Lua for its config files",
+      "url": "https://hypr.land/news/update55/",
+      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://hypr.land/news/update5...",
+      "score": 71
     },
     {
       "type": "HackerNews",
-      "title": "Perfection Is Not Over-Engineering",
-      "url": "https://var0.xyz/posts/perfection-is-not-over-engineering.html",
-      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://var0.xyz/posts/perfect...",
-      "score": 74
+      "title": "How we measured AI writing across arXiv, and where the measurement breaks",
+      "url": "https://unslop.run/blog/measuring-ai-writing-on-arxiv",
+      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://unslop.run/blog/measur...",
+      "score": 148
     },
     {
       "type": "HackerNews",
-      "title": "Jaron Lanier: there is no AI (2023)",
-      "url": "https://www.newyorker.com/science/annals-of-artificial-intelligence/there-is-no-ai",
-      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.newyorker.com/scie...",
-      "score": 17
+      "title": "Corners Don't Look Like That: Regarding Screenspace Ambient Occlusion (2012)",
+      "url": "https://nothings.org/gamedev/ssao/",
+      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://nothings.org/gamedev/s...",
+      "score": 118
     },
     {
       "type": "HackerNews",
-      "title": "Kimi K3, Qwen 3.8, and Anthropic's (Potential) Unravelling",
-      "url": "https://www.emergingtrajectories.com/lh/frontier-lab-economics/",
-      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.emergingtrajectori...",
-      "score": 76
+      "title": "Nativ: Run frontier open models locally on your Mac",
+      "url": "https://blaizzy.github.io/nativ/",
+      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://blaizzy.github.io/nati...",
+      "score": 30
     }
   ]
 }
