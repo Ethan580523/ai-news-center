@@ -1,61 +1,61 @@
 {
-  "last_updated": "2026-07-20 02:56:14",
+  "last_updated": "2026-07-20 06:19:39",
   "news": [
     {
       "type": "HackerNews",
       "title": "Show HN: I replaced a $120k bowling center system with $1,600 in ESP32s",
       "url": null,
-      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：...",
-      "score": 1628
+      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：...",
+      "score": 1993
+    },
+    {
+      "type": "HackerNews",
+      "title": "Moonshine: Lets you stream games from your PC to any device running Moonlight",
+      "url": "https://github.com/hgaiser/moonshine",
+      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://github.com/hgaiser/moo...",
+      "score": 84
+    },
+    {
+      "type": "HackerNews",
+      "title": "LoRA Speedrun – a public wall-clock leaderboard for fine-tuning techniques",
+      "url": "https://github.com/Saivineeth147/lora-speedrun",
+      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://github.com/Saivineeth1...",
+      "score": 9
     },
     {
       "type": "HackerNews",
       "title": "Claude Code uses Bun written in Rust now",
       "url": "https://simonwillison.net/2026/Jul/19/claude-code-in-bun-in-rust/",
-      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://simonwillison.net/2026...",
-      "score": 404
+      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://simonwillison.net/2026...",
+      "score": 465
     },
     {
       "type": "HackerNews",
-      "title": "The Zen of Parallel Programming",
-      "url": "https://smolnero.com/posts/the-zen-of-parallel-programming",
-      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://smolnero.com/posts/the...",
-      "score": 116
+      "title": "Korg PS-3300 is back",
+      "url": "https://www.korg.co.uk/blogs/updates/ps3300",
+      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.korg.co.uk/blogs/u...",
+      "score": 25
+    },
+    {
+      "type": "HackerNews",
+      "title": "Orion Browser by Kagi",
+      "url": "https://orionbrowser.com/",
+      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://orionbrowser.com/...",
+      "score": 145
+    },
+    {
+      "type": "HackerNews",
+      "title": "Power companies are using eminent domain to seize land for data centers",
+      "url": "https://fortune.com/2026/07/19/data-center-eminent-domain-public-use/",
+      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://fortune.com/2026/07/19...",
+      "score": 55
     },
     {
       "type": "HackerNews",
       "title": "What I learned selling 2,500 MIDI recorders: Hardware is not so hard",
       "url": "https://chipweinberger.com/articles/20260719-hardware-is-not-so-hard",
-      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://chipweinberger.com/art...",
-      "score": 416
-    },
-    {
-      "type": "HackerNews",
-      "title": "Minecraft: Java Edition now uses SDL3",
-      "url": "https://www.minecraft.net/en-us/article/minecraft-26-3-snapshot-4",
-      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.minecraft.net/en-u...",
-      "score": 276
-    },
-    {
-      "type": "HackerNews",
-      "title": "A new Intel Itanium (IA-64) emulator that boots Windows",
-      "url": "https://raymii.org/s/blog/Intel_Itanium_IA-64-Emulator_that_boots_Windows.html",
-      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://raymii.org/s/blog/Inte...",
-      "score": 52
-    },
-    {
-      "type": "HackerNews",
-      "title": "Biggest Probabilistic Computer Turns Noise into Answers",
-      "url": "https://spectrum.ieee.org/biggest-probabilistic-computer",
-      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://spectrum.ieee.org/bigg...",
-      "score": 41
-    },
-    {
-      "type": "HackerNews",
-      "title": "Who Is America's Homer?",
-      "url": "https://www.plough.com/articles/who-is-americas-homer",
-      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.plough.com/article...",
-      "score": 40
+      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://chipweinberger.com/art...",
+      "score": 459
     }
   ]
 }
