@@ -1,61 +1,61 @@
 {
-  "last_updated": "2026-07-19 21:52:22",
+  "last_updated": "2026-07-20 02:56:14",
   "news": [
     {
       "type": "HackerNews",
       "title": "Show HN: I replaced a $120k bowling center system with $1,600 in ESP32s",
       "url": null,
       "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：...",
-      "score": 916
+      "score": 1628
     },
     {
       "type": "HackerNews",
-      "title": "Qwen 3.8",
-      "url": "https://twitter.com/Alibaba_Qwen/status/2078759124914098291",
-      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://twitter.com/Alibaba_Qw...",
-      "score": 703
+      "title": "Claude Code uses Bun written in Rust now",
+      "url": "https://simonwillison.net/2026/Jul/19/claude-code-in-bun-in-rust/",
+      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://simonwillison.net/2026...",
+      "score": 404
     },
     {
       "type": "HackerNews",
       "title": "The Zen of Parallel Programming",
       "url": "https://smolnero.com/posts/the-zen-of-parallel-programming",
       "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://smolnero.com/posts/the...",
-      "score": 51
+      "score": 116
     },
     {
       "type": "HackerNews",
-      "title": "HomeLab #1: MikroTik as a Home Router",
-      "url": "https://justsomebody.dev/blog/mikrotik-home-router",
-      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://justsomebody.dev/blog/...",
-      "score": 38
+      "title": "What I learned selling 2,500 MIDI recorders: Hardware is not so hard",
+      "url": "https://chipweinberger.com/articles/20260719-hardware-is-not-so-hard",
+      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://chipweinberger.com/art...",
+      "score": 416
     },
     {
       "type": "HackerNews",
       "title": "Minecraft: Java Edition now uses SDL3",
       "url": "https://www.minecraft.net/en-us/article/minecraft-26-3-snapshot-4",
-      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.minecraft.net/en-u...",
-      "score": 235
-    },
-    {
-      "type": "HackerNews",
-      "title": "Claude Code uses Bun written in Rust now",
-      "url": "https://simonwillison.net/2026/Jul/19/claude-code-in-bun-in-rust/",
-      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://simonwillison.net/2026...",
-      "score": 341
+      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.minecraft.net/en-u...",
+      "score": 276
     },
     {
       "type": "HackerNews",
       "title": "A new Intel Itanium (IA-64) emulator that boots Windows",
       "url": "https://raymii.org/s/blog/Intel_Itanium_IA-64-Emulator_that_boots_Windows.html",
-      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://raymii.org/s/blog/Inte...",
-      "score": 13
+      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://raymii.org/s/blog/Inte...",
+      "score": 52
     },
     {
       "type": "HackerNews",
-      "title": "Orion Browser by Kagi",
-      "url": "https://orionbrowser.com/",
-      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://orionbrowser.com/...",
-      "score": 36
+      "title": "Biggest Probabilistic Computer Turns Noise into Answers",
+      "url": "https://spectrum.ieee.org/biggest-probabilistic-computer",
+      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://spectrum.ieee.org/bigg...",
+      "score": 41
+    },
+    {
+      "type": "HackerNews",
+      "title": "Who Is America's Homer?",
+      "url": "https://www.plough.com/articles/who-is-americas-homer",
+      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.plough.com/article...",
+      "score": 40
     }
   ]
 }
