@@ -1,61 +1,61 @@
 {
-  "last_updated": "2026-07-20 06:19:39",
+  "last_updated": "2026-07-20 11:44:45",
   "news": [
+    {
+      "type": "HackerNews",
+      "title": "Exploit brokers pay $500k for WordPress RCEs. I found one with GPT5.6 and $25",
+      "url": "https://slcyber.io/research-center/exploit-brokers-pay-500000-for-a-wordpress-rce-i-found-one-with-gpt5-6/",
+      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://slcyber.io/research-ce...",
+      "score": 162
+    },
     {
       "type": "HackerNews",
       "title": "Show HN: I replaced a $120k bowling center system with $1,600 in ESP32s",
       "url": null,
       "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：...",
-      "score": 1993
+      "score": 2444
     },
     {
       "type": "HackerNews",
       "title": "Moonshine: Lets you stream games from your PC to any device running Moonlight",
       "url": "https://github.com/hgaiser/moonshine",
-      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://github.com/hgaiser/moo...",
-      "score": 84
+      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://github.com/hgaiser/moo...",
+      "score": 217
+    },
+    {
+      "type": "HackerNews",
+      "title": "Airbus Takes Flight from AWS",
+      "url": "https://www.theregister.com/columnists/2026/07/20/airbus-takes-flight-from-aws-what-happens-next-is-critical/5274109",
+      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.theregister.com/co...",
+      "score": 45
     },
     {
       "type": "HackerNews",
       "title": "LoRA Speedrun – a public wall-clock leaderboard for fine-tuning techniques",
       "url": "https://github.com/Saivineeth147/lora-speedrun",
       "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://github.com/Saivineeth1...",
-      "score": 9
+      "score": 97
+    },
+    {
+      "type": "HackerNews",
+      "title": "What does the Riemann zeta function have to do with the distribution of primes?",
+      "url": "https://hidden-phenomena.com/articles/rh",
+      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://hidden-phenomena.com/a...",
+      "score": 15
+    },
+    {
+      "type": "HackerNews",
+      "title": "Eliminating Go bounds checks with unsafe",
+      "url": "https://blog.andr2i.com/posts/2026-07-06-eliminating-go-bound-checks-with-unsafe",
+      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://blog.andr2i.com/posts/...",
+      "score": 21
     },
     {
       "type": "HackerNews",
       "title": "Claude Code uses Bun written in Rust now",
       "url": "https://simonwillison.net/2026/Jul/19/claude-code-in-bun-in-rust/",
-      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://simonwillison.net/2026...",
-      "score": 465
-    },
-    {
-      "type": "HackerNews",
-      "title": "Korg PS-3300 is back",
-      "url": "https://www.korg.co.uk/blogs/updates/ps3300",
-      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.korg.co.uk/blogs/u...",
-      "score": 25
-    },
-    {
-      "type": "HackerNews",
-      "title": "Orion Browser by Kagi",
-      "url": "https://orionbrowser.com/",
-      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://orionbrowser.com/...",
-      "score": 145
-    },
-    {
-      "type": "HackerNews",
-      "title": "Power companies are using eminent domain to seize land for data centers",
-      "url": "https://fortune.com/2026/07/19/data-center-eminent-domain-public-use/",
-      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://fortune.com/2026/07/19...",
-      "score": 55
-    },
-    {
-      "type": "HackerNews",
-      "title": "What I learned selling 2,500 MIDI recorders: Hardware is not so hard",
-      "url": "https://chipweinberger.com/articles/20260719-hardware-is-not-so-hard",
-      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://chipweinberger.com/art...",
-      "score": 459
+      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://simonwillison.net/2026...",
+      "score": 544
     }
   ]
 }
