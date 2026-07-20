@@ -1,61 +1,61 @@
 {
-  "last_updated": "2026-07-20 14:05:09",
+  "last_updated": "2026-07-20 16:23:20",
   "news": [
+    {
+      "type": "HackerNews",
+      "title": "Corners Don't Look Like That: Regarding Screenspace Ambient Occlusion (2012)",
+      "url": "https://nothings.org/gamedev/ssao/",
+      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://nothings.org/gamedev/s...",
+      "score": 70
+    },
     {
       "type": "HackerNews",
       "title": "Hacker wipes Romania's land registry database",
       "url": "https://news.risky.biz/risky-bulletin-hacker-wipes-romanias-entire-land-registry-database/",
       "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://news.risky.biz/risky-b...",
-      "score": 50
+      "score": 278
+    },
+    {
+      "type": "HackerNews",
+      "title": "American AI is locked down and proprietary. It's losing",
+      "url": "https://werd.io/american-ai-is-locked-down-and-proprietary-its-losing/",
+      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://werd.io/american-ai-is...",
+      "score": 114
+    },
+    {
+      "type": "HackerNews",
+      "title": "We're Squandering LEDs' Potential to Save Our Night Skies",
+      "url": "https://spectrum.ieee.org/led-light-pollution",
+      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://spectrum.ieee.org/led-...",
+      "score": 106
     },
     {
       "type": "HackerNews",
       "title": "Airport Simulator",
       "url": "https://airport.apunen.com/",
-      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://airport.apunen.com/...",
-      "score": 221
+      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://airport.apunen.com/...",
+      "score": 351
     },
     {
       "type": "HackerNews",
-      "title": "Stop Using OpenCode",
-      "url": "https://wren.wtf/shower-thoughts/stop-using-opencode/",
-      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://wren.wtf/shower-though...",
-      "score": 131
+      "title": "Perfection Is Not Over-Engineering",
+      "url": "https://var0.xyz/posts/perfection-is-not-over-engineering.html",
+      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://var0.xyz/posts/perfect...",
+      "score": 74
     },
     {
       "type": "HackerNews",
-      "title": "Exploit brokers pay $500k for WordPress RCEs. I found one with GPT5.6 and $25",
-      "url": "https://slcyber.io/research-center/exploit-brokers-pay-500000-for-a-wordpress-rce-i-found-one-with-gpt5-6/",
-      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://slcyber.io/research-ce...",
-      "score": 260
+      "title": "Jaron Lanier: there is no AI (2023)",
+      "url": "https://www.newyorker.com/science/annals-of-artificial-intelligence/there-is-no-ai",
+      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.newyorker.com/scie...",
+      "score": 17
     },
     {
       "type": "HackerNews",
-      "title": "ECC and DDR5",
-      "url": "https://etbe.coker.com.au/2026/07/19/ecc-ddr5/",
-      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://etbe.coker.com.au/2026...",
-      "score": 21
-    },
-    {
-      "type": "HackerNews",
-      "title": "The EU is about to sell our most sensitive data to the US for visa-free travel",
-      "url": "https://edri.org/our-work/the-eu-is-about-to-sell-our-most-sensitive-data-to-the-us-for-visa-free-travel/",
-      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://edri.org/our-work/the-...",
-      "score": 165
-    },
-    {
-      "type": "HackerNews",
-      "title": "Inertia-1: An Open Exploration to a Unified Motion Foundation Model",
-      "url": "https://yang-ai-lab.github.io/Inertia-1/",
-      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://yang-ai-lab.github.io/...",
-      "score": 9
-    },
-    {
-      "type": "HackerNews",
-      "title": "Satan's 19th-Century Bank Note",
-      "url": "https://www.historytoday.com/miscellanies/satans-19th-century-bank-note",
-      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.historytoday.com/m...",
-      "score": 12
+      "title": "Kimi K3, Qwen 3.8, and Anthropic's (Potential) Unravelling",
+      "url": "https://www.emergingtrajectories.com/lh/frontier-lab-economics/",
+      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.emergingtrajectori...",
+      "score": 76
     }
   ]
 }
