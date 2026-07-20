@@ -1,61 +1,61 @@
 {
-  "last_updated": "2026-07-20 11:44:45",
+  "last_updated": "2026-07-20 14:05:09",
   "news": [
+    {
+      "type": "HackerNews",
+      "title": "Hacker wipes Romania's land registry database",
+      "url": "https://news.risky.biz/risky-bulletin-hacker-wipes-romanias-entire-land-registry-database/",
+      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://news.risky.biz/risky-b...",
+      "score": 50
+    },
+    {
+      "type": "HackerNews",
+      "title": "Airport Simulator",
+      "url": "https://airport.apunen.com/",
+      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://airport.apunen.com/...",
+      "score": 221
+    },
+    {
+      "type": "HackerNews",
+      "title": "Stop Using OpenCode",
+      "url": "https://wren.wtf/shower-thoughts/stop-using-opencode/",
+      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://wren.wtf/shower-though...",
+      "score": 131
+    },
     {
       "type": "HackerNews",
       "title": "Exploit brokers pay $500k for WordPress RCEs. I found one with GPT5.6 and $25",
       "url": "https://slcyber.io/research-center/exploit-brokers-pay-500000-for-a-wordpress-rce-i-found-one-with-gpt5-6/",
-      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://slcyber.io/research-ce...",
-      "score": 162
+      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://slcyber.io/research-ce...",
+      "score": 260
     },
     {
       "type": "HackerNews",
-      "title": "Show HN: I replaced a $120k bowling center system with $1,600 in ESP32s",
-      "url": null,
-      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：...",
-      "score": 2444
-    },
-    {
-      "type": "HackerNews",
-      "title": "Moonshine: Lets you stream games from your PC to any device running Moonlight",
-      "url": "https://github.com/hgaiser/moonshine",
-      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://github.com/hgaiser/moo...",
-      "score": 217
-    },
-    {
-      "type": "HackerNews",
-      "title": "Airbus Takes Flight from AWS",
-      "url": "https://www.theregister.com/columnists/2026/07/20/airbus-takes-flight-from-aws-what-happens-next-is-critical/5274109",
-      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.theregister.com/co...",
-      "score": 45
-    },
-    {
-      "type": "HackerNews",
-      "title": "LoRA Speedrun – a public wall-clock leaderboard for fine-tuning techniques",
-      "url": "https://github.com/Saivineeth147/lora-speedrun",
-      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://github.com/Saivineeth1...",
-      "score": 97
-    },
-    {
-      "type": "HackerNews",
-      "title": "What does the Riemann zeta function have to do with the distribution of primes?",
-      "url": "https://hidden-phenomena.com/articles/rh",
-      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://hidden-phenomena.com/a...",
-      "score": 15
-    },
-    {
-      "type": "HackerNews",
-      "title": "Eliminating Go bounds checks with unsafe",
-      "url": "https://blog.andr2i.com/posts/2026-07-06-eliminating-go-bound-checks-with-unsafe",
-      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://blog.andr2i.com/posts/...",
+      "title": "ECC and DDR5",
+      "url": "https://etbe.coker.com.au/2026/07/19/ecc-ddr5/",
+      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://etbe.coker.com.au/2026...",
       "score": 21
     },
     {
       "type": "HackerNews",
-      "title": "Claude Code uses Bun written in Rust now",
-      "url": "https://simonwillison.net/2026/Jul/19/claude-code-in-bun-in-rust/",
-      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://simonwillison.net/2026...",
-      "score": 544
+      "title": "The EU is about to sell our most sensitive data to the US for visa-free travel",
+      "url": "https://edri.org/our-work/the-eu-is-about-to-sell-our-most-sensitive-data-to-the-us-for-visa-free-travel/",
+      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://edri.org/our-work/the-...",
+      "score": 165
+    },
+    {
+      "type": "HackerNews",
+      "title": "Inertia-1: An Open Exploration to a Unified Motion Foundation Model",
+      "url": "https://yang-ai-lab.github.io/Inertia-1/",
+      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://yang-ai-lab.github.io/...",
+      "score": 9
+    },
+    {
+      "type": "HackerNews",
+      "title": "Satan's 19th-Century Bank Note",
+      "url": "https://www.historytoday.com/miscellanies/satans-19th-century-bank-note",
+      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.historytoday.com/m...",
+      "score": 12
     }
   ]
 }
