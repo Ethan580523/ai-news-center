@@ -1,61 +1,61 @@
 {
-  "last_updated": "2026-07-21 05:50:39",
+  "last_updated": "2026-07-21 08:28:15",
   "news": [
     {
       "type": "HackerNews",
-      "title": "Jane Street: Incremental",
+      "title": "Incremental – A library for incremental computations",
       "url": "https://github.com/janestreet/incremental",
-      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://github.com/janestreet/...",
-      "score": 73
+      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://github.com/janestreet/...",
+      "score": 158
     },
     {
       "type": "HackerNews",
       "title": "Who's afraid of Chinese models?",
       "url": "https://stratechery.com/2026/whos-afraid-of-chinese-models/",
-      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://stratechery.com/2026/w...",
-      "score": 482
+      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://stratechery.com/2026/w...",
+      "score": 595
     },
     {
       "type": "HackerNews",
       "title": "Running Doom on Our Custom CPU and Going Viral",
       "url": "https://www.armaangomes.com/blogs/doom/",
-      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.armaangomes.com/bl...",
-      "score": 22
-    },
-    {
-      "type": "HackerNews",
-      "title": "A Koi Pond Mosaic Made from 10 Pounds of 3D Printer Waste",
-      "url": "https://www.instructables.com/A-Koi-Pond-Mosaic-Made-From-10-Pounds-of-3D-Printe/",
-      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.instructables.com/...",
-      "score": 20
-    },
-    {
-      "type": "HackerNews",
-      "title": "Do we just want slaves?",
-      "url": "https://www.yashthapliyal.com/blog/do-we-just-want-slaves",
-      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.yashthapliyal.com/...",
-      "score": 20
+      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.armaangomes.com/bl...",
+      "score": 54
     },
     {
       "type": "HackerNews",
       "title": "Kimi Work",
       "url": "https://www.kimi.com/products/kimi-work",
       "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.kimi.com/products/...",
-      "score": 481
+      "score": 523
+    },
+    {
+      "type": "HackerNews",
+      "title": "Jelly UI: Soft-body physics for native HTML form controls",
+      "url": "https://jelly-ui.com/",
+      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://jelly-ui.com/...",
+      "score": 464
     },
     {
       "type": "HackerNews",
       "title": "Five US tech giants' hidden debts soar to $1.65T on opaque AI funding",
       "url": "https://asia.nikkei.com/business/technology/five-us-tech-giants-hidden-debts-soar-to-1.65tn-on-opaque-ai-funding",
       "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://asia.nikkei.com/busine...",
-      "score": 110
+      "score": 251
     },
     {
       "type": "HackerNews",
-      "title": "Show HN: Ex Situ – open-source spatial index of displaced cultural artifacts",
-      "url": "https://exsitu.app/map",
-      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://exsitu.app/map...",
-      "score": 10
+      "title": "Human mathematicians are being outcounterexampled",
+      "url": "https://xenaproject.wordpress.com/2026/07/20/human-mathematicians-are-being-outcounterexampled/",
+      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://xenaproject.wordpress....",
+      "score": 324
+    },
+    {
+      "type": "HackerNews",
+      "title": "A Koi Pond Mosaic Made from 10 Pounds of 3D Printer Waste",
+      "url": "https://www.instructables.com/A-Koi-Pond-Mosaic-Made-From-10-Pounds-of-3D-Printe/",
+      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.instructables.com/...",
+      "score": 29
     }
   ]
 }
