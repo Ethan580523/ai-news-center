@@ -1,61 +1,61 @@
 {
-  "last_updated": "2026-07-21 02:40:45",
+  "last_updated": "2026-07-21 05:50:39",
   "news": [
+    {
+      "type": "HackerNews",
+      "title": "Jane Street: Incremental",
+      "url": "https://github.com/janestreet/incremental",
+      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://github.com/janestreet/...",
+      "score": 73
+    },
     {
       "type": "HackerNews",
       "title": "Who's afraid of Chinese models?",
       "url": "https://stratechery.com/2026/whos-afraid-of-chinese-models/",
-      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://stratechery.com/2026/w...",
-      "score": 319
+      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://stratechery.com/2026/w...",
+      "score": 482
     },
     {
       "type": "HackerNews",
-      "title": "Jellyfin founder Andrew leaves team",
-      "url": "https://forum.jellyfin.org/t-project-leadership-changes",
-      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://forum.jellyfin.org/t-p...",
-      "score": 87
+      "title": "Running Doom on Our Custom CPU and Going Viral",
+      "url": "https://www.armaangomes.com/blogs/doom/",
+      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.armaangomes.com/bl...",
+      "score": 22
+    },
+    {
+      "type": "HackerNews",
+      "title": "A Koi Pond Mosaic Made from 10 Pounds of 3D Printer Waste",
+      "url": "https://www.instructables.com/A-Koi-Pond-Mosaic-Made-From-10-Pounds-of-3D-Printe/",
+      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.instructables.com/...",
+      "score": 20
+    },
+    {
+      "type": "HackerNews",
+      "title": "Do we just want slaves?",
+      "url": "https://www.yashthapliyal.com/blog/do-we-just-want-slaves",
+      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.yashthapliyal.com/...",
+      "score": 20
     },
     {
       "type": "HackerNews",
       "title": "Kimi Work",
       "url": "https://www.kimi.com/products/kimi-work",
-      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.kimi.com/products/...",
-      "score": 416
+      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.kimi.com/products/...",
+      "score": 481
     },
     {
       "type": "HackerNews",
-      "title": "Human mathematicians are being outcounterexampled",
-      "url": "https://xenaproject.wordpress.com/2026/07/20/human-mathematicians-are-being-outcounterexampled/",
-      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://xenaproject.wordpress....",
-      "score": 232
+      "title": "Five US tech giants' hidden debts soar to $1.65T on opaque AI funding",
+      "url": "https://asia.nikkei.com/business/technology/five-us-tech-giants-hidden-debts-soar-to-1.65tn-on-opaque-ai-funding",
+      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://asia.nikkei.com/busine...",
+      "score": 110
     },
     {
       "type": "HackerNews",
-      "title": "Jelly UI: Soft-body physics for native HTML form controls",
-      "url": "https://jelly-ui.com/",
-      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://jelly-ui.com/...",
-      "score": 361
-    },
-    {
-      "type": "HackerNews",
-      "title": "Hacker wipes Romania's land registry database",
-      "url": "https://news.risky.biz/risky-bulletin-hacker-wipes-romanias-entire-land-registry-database/",
-      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://news.risky.biz/risky-b...",
-      "score": 582
-    },
-    {
-      "type": "HackerNews",
-      "title": "Nativ: Run frontier open models locally on your Mac",
-      "url": "https://blaizzy.github.io/nativ/",
-      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://blaizzy.github.io/nati...",
-      "score": 191
-    },
-    {
-      "type": "HackerNews",
-      "title": "Flock Credibility Lost as It Repeatedly Lies to City Councils, Police, & Public",
-      "url": "https://www.aclu.org/news/privacy-technology/tracking-alpr-cameras/flock-safety-credibility-lost-as-it-repeatedly-lies-to-city-councils-police-departments-and-public-across-the-country",
-      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.aclu.org/news/priv...",
-      "score": 101
+      "title": "Show HN: Ex Situ – open-source spatial index of displaced cultural artifacts",
+      "url": "https://exsitu.app/map",
+      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://exsitu.app/map...",
+      "score": 10
     }
   ]
 }
