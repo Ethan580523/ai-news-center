@@ -1,61 +1,61 @@
 {
-  "last_updated": "2026-07-21 13:49:33",
+  "last_updated": "2026-07-21 16:22:25",
   "news": [
+    {
+      "type": "HackerNews",
+      "title": "Gemini 3.6 Flash, 3.5 Flash-Lite, and 3.5 Flash Cyber",
+      "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-6-flash-3-5-flash-lite-3-5-flash-cyber/",
+      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://blog.google/innovation...",
+      "score": 181
+    },
+    {
+      "type": "HackerNews",
+      "title": "Long Presumed Dead, a Thriving Coral Reef Is Discovered in West Africa",
+      "url": "https://e360.yale.edu/digest/benin-coral-reef",
+      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://e360.yale.edu/digest/b...",
+      "score": 35
+    },
+    {
+      "type": "HackerNews",
+      "title": "NPM's release cooldown is security theater",
+      "url": "https://blog.outv.im/2026/npm-cooldown-security-theater/",
+      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://blog.outv.im/2026/npm-...",
+      "score": 24
+    },
+    {
+      "type": "HackerNews",
+      "title": "PCjs Machines",
+      "url": "https://www.pcjs.org/",
+      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.pcjs.org/...",
+      "score": 73
+    },
+    {
+      "type": "HackerNews",
+      "title": "Apple Defeats Liability for Not Scanning iCloud for CSAM",
+      "url": "https://blog.ericgoldman.org/archives/2026/07/apple-defeats-liability-for-not-scanning-icloud-for-csam-but-the-judge-was-not-pleased-amy-v-apple.htm",
+      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://blog.ericgoldman.org/a...",
+      "score": 132
+    },
     {
       "type": "HackerNews",
       "title": "Qwen-Image-3.0: Rich Content, Authentic Details, Deep Knowledge",
       "url": "https://qwen.ai/blog?id=qwen-image-3.0",
-      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://qwen.ai/blog?id=qwen-i...",
-      "score": 287
+      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://qwen.ai/blog?id=qwen-i...",
+      "score": 427
     },
     {
       "type": "HackerNews",
-      "title": "New US homeownership measure puts people first",
-      "url": "https://www.minneapolisfed.org/article/2026/new-homeownership-measure-puts-people-first",
-      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.minneapolisfed.org...",
-      "score": 101
+      "title": "The World's 2,400 Castles",
+      "url": "https://thecastlemap.com/",
+      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://thecastlemap.com/...",
+      "score": 6
     },
     {
       "type": "HackerNews",
-      "title": "Python 3.15's Ultra-Low Overhead Interpreter Profiling Mode – Ken Jin's Blog",
-      "url": "https://fidget-spinner.github.io/posts/ultra-fast-tracing.html",
-      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://fidget-spinner.github....",
-      "score": 46
-    },
-    {
-      "type": "HackerNews",
-      "title": "Incremental – A library for incremental computations",
-      "url": "https://github.com/janestreet/incremental",
-      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://github.com/janestreet/...",
-      "score": 272
-    },
-    {
-      "type": "HackerNews",
-      "title": "Who's afraid of Chinese models?",
-      "url": "https://stratechery.com/2026/whos-afraid-of-chinese-models/",
-      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://stratechery.com/2026/w...",
-      "score": 778
-    },
-    {
-      "type": "HackerNews",
-      "title": "The Great Steam Deck Crash of 2026: How the New Pricing Decreased Demand by 80%",
-      "url": "https://boilingsteam.com/the-great-steam-deck-volume-crash/",
-      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://boilingsteam.com/the-g...",
-      "score": 22
-    },
-    {
-      "type": "HackerNews",
-      "title": "Motion Sensors and Home Security Gadgets Without Cameras",
-      "url": "https://www.wired.com/story/best-motion-sensors-private-alternatives-security/",
-      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.wired.com/story/be...",
+      "title": "France's Anssi Will Block PQC-Free Products from Certification Starting 2027",
+      "url": "https://postquantum.com/security-pqc/anssi-pqc-certification-2027/",
+      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://postquantum.com/securi...",
       "score": 8
-    },
-    {
-      "type": "HackerNews",
-      "title": "Jelly UI: Soft-body physics for native HTML form controls",
-      "url": "https://jelly-ui.com/",
-      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://jelly-ui.com/...",
-      "score": 578
     }
   ]
 }
