@@ -1,61 +1,61 @@
 {
-  "last_updated": "2026-07-21 11:08:04",
+  "last_updated": "2026-07-21 13:49:33",
   "news": [
     {
       "type": "HackerNews",
       "title": "Qwen-Image-3.0: Rich Content, Authentic Details, Deep Knowledge",
       "url": "https://qwen.ai/blog?id=qwen-image-3.0",
-      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://qwen.ai/blog?id=qwen-i...",
-      "score": 130
+      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://qwen.ai/blog?id=qwen-i...",
+      "score": 287
+    },
+    {
+      "type": "HackerNews",
+      "title": "New US homeownership measure puts people first",
+      "url": "https://www.minneapolisfed.org/article/2026/new-homeownership-measure-puts-people-first",
+      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.minneapolisfed.org...",
+      "score": 101
+    },
+    {
+      "type": "HackerNews",
+      "title": "Python 3.15's Ultra-Low Overhead Interpreter Profiling Mode – Ken Jin's Blog",
+      "url": "https://fidget-spinner.github.io/posts/ultra-fast-tracing.html",
+      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://fidget-spinner.github....",
+      "score": 46
     },
     {
       "type": "HackerNews",
       "title": "Incremental – A library for incremental computations",
       "url": "https://github.com/janestreet/incremental",
-      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://github.com/janestreet/...",
-      "score": 227
+      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://github.com/janestreet/...",
+      "score": 272
     },
     {
       "type": "HackerNews",
       "title": "Who's afraid of Chinese models?",
       "url": "https://stratechery.com/2026/whos-afraid-of-chinese-models/",
       "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://stratechery.com/2026/w...",
-      "score": 683
+      "score": 778
     },
     {
       "type": "HackerNews",
-      "title": "Linux kernel will support $ORIGIN, sort of",
-      "url": "https://fzakaria.com/2026/07/20/linux-kernel-will-support-origin-sort-of",
-      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://fzakaria.com/2026/07/2...",
-      "score": 61
+      "title": "The Great Steam Deck Crash of 2026: How the New Pricing Decreased Demand by 80%",
+      "url": "https://boilingsteam.com/the-great-steam-deck-volume-crash/",
+      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://boilingsteam.com/the-g...",
+      "score": 22
     },
     {
       "type": "HackerNews",
-      "title": "Arduino Launches Plug-and-Play Modules for Long-Range Sensor Projects",
-      "url": "https://www.allaboutcircuits.com/news/arduino-launches-plug-and-play-modules-for-long-range-sensor-projects/",
-      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.allaboutcircuits.c...",
-      "score": 23
-    },
-    {
-      "type": "HackerNews",
-      "title": "Kimi Work",
-      "url": "https://www.kimi.com/products/kimi-work",
-      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.kimi.com/products/...",
-      "score": 572
+      "title": "Motion Sensors and Home Security Gadgets Without Cameras",
+      "url": "https://www.wired.com/story/best-motion-sensors-private-alternatives-security/",
+      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.wired.com/story/be...",
+      "score": 8
     },
     {
       "type": "HackerNews",
       "title": "Jelly UI: Soft-body physics for native HTML form controls",
       "url": "https://jelly-ui.com/",
       "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://jelly-ui.com/...",
-      "score": 517
-    },
-    {
-      "type": "HackerNews",
-      "title": "Running Doom on Our Custom CPU and Going Viral",
-      "url": "https://www.armaangomes.com/blogs/doom/",
-      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.armaangomes.com/bl...",
-      "score": 81
+      "score": 578
     }
   ]
 }
