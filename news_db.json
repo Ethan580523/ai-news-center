@@ -1,61 +1,61 @@
 {
-  "last_updated": "2026-07-22 16:19:23",
+  "last_updated": "2026-07-22 19:18:59",
   "news": [
+    {
+      "type": "HackerNews",
+      "title": "Terrence Tao's ChatGPT Conversation about the Jacobian Conjecture Counterexample",
+      "url": "https://chatgpt.com/share/6a5fdc7a-d6f8-83e8-bbea-8deb42cfed56",
+      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://chatgpt.com/share/6a5f...",
+      "score": 231
+    },
+    {
+      "type": "HackerNews",
+      "title": "GigaToken: ~1000x faster Language model tokenization",
+      "url": "https://github.com/marcelroed/gigatoken/",
+      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://github.com/marcelroed/...",
+      "score": 131
+    },
     {
       "type": "HackerNews",
       "title": "Show HN: Bento - An entire PowerPoint in one HTML file (edit+view+data+collab)",
       "url": "https://bento.page/slides/",
-      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://bento.page/slides/...",
-      "score": 55
-    },
-    {
-      "type": "HackerNews",
-      "title": "Does creatine make you smarter?",
-      "url": "https://dynomight.net/creatine/",
-      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://dynomight.net/creatine...",
-      "score": 77
-    },
-    {
-      "type": "HackerNews",
-      "title": "The startup's Postgres survival guide",
-      "url": "https://hatchet.run/blog/postgres-survival-guide",
-      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://hatchet.run/blog/postg...",
-      "score": 87
-    },
-    {
-      "type": "HackerNews",
-      "title": "Show HN: HN Hall of Fame – browse 3,100 legendary Hacker News links",
-      "url": "https://www.orangecrumbs.com/hall/",
-      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.orangecrumbs.com/h...",
-      "score": 22
-    },
-    {
-      "type": "HackerNews",
-      "title": "Airbus Full Scale Foldable Wing Extensions",
-      "url": "https://www.airbus.com/en/newsroom/press-releases/2026-07-airbus-launches-new-flight-test-programme-for-wing-of-tomorrow",
-      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.airbus.com/en/news...",
-      "score": 21
+      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://bento.page/slides/...",
+      "score": 433
     },
     {
       "type": "HackerNews",
       "title": "Making",
       "url": "https://beej.us/blog/data/ai-making/",
       "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://beej.us/blog/data/ai-m...",
-      "score": 21
+      "score": 174
     },
     {
       "type": "HackerNews",
-      "title": "10 REM\"_(C2SLFF4",
-      "url": "https://beej.us/blog/data/mystery-comment/",
-      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://beej.us/blog/data/myst...",
-      "score": 102
+      "title": "Are AI Labs Pelicanmaxxing?",
+      "url": "https://dylancastillo.co/posts/pelicanmaxxing.html",
+      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://dylancastillo.co/posts...",
+      "score": 76
     },
     {
       "type": "HackerNews",
-      "title": "Launch HN: Unlayer (YC W22) – Add email and document builders to your app",
-      "url": "https://unlayer.com",
-      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://unlayer.com...",
-      "score": 7
+      "title": "The startup's Postgres survival guide",
+      "url": "https://hatchet.run/blog/postgres-survival-guide",
+      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://hatchet.run/blog/postg...",
+      "score": 213
+    },
+    {
+      "type": "HackerNews",
+      "title": "Nobody knows what a used GPU cluster is worth",
+      "url": "https://ciphertalk.substack.com/p/nobody-knows-what-a-used-gpu-cluster",
+      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://ciphertalk.substack.co...",
+      "score": 56
+    },
+    {
+      "type": "HackerNews",
+      "title": "Can a MUD evaluate LLMs? A $99 proof of concept",
+      "url": "https://cruciblebench.ai/",
+      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://cruciblebench.ai/...",
+      "score": 55
     }
   ]
 }
