@@ -1,61 +1,61 @@
 {
-  "last_updated": "2026-07-22 08:28:44",
+  "last_updated": "2026-07-22 11:09:18",
   "news": [
     {
       "type": "HackerNews",
       "title": "OpenAI and Hugging Face address security incident during model evaluation",
       "url": "https://openai.com/index/hugging-face-model-evaluation-security-incident/",
-      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://openai.com/index/huggi...",
-      "score": 1085
+      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://openai.com/index/huggi...",
+      "score": 1216
     },
     {
       "type": "HackerNews",
       "title": "Kimi K3 Is Competitive with Fable; Kimi K3 and Fable Is SoTA",
       "url": "https://fireworks.ai/blog/kimik3-fable",
-      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://fireworks.ai/blog/kimi...",
-      "score": 581
+      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://fireworks.ai/blog/kimi...",
+      "score": 672
     },
     {
       "type": "HackerNews",
-      "title": "Original Apollo 11 Guidance Computer source code for command and lunar modules",
-      "url": "https://github.com/chrislgarry/Apollo-11",
-      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://github.com/chrislgarry...",
-      "score": 57
+      "title": "Introduction to Formal Verification with Lean Part 1",
+      "url": "https://hashcloak.com/blog/tutorial-introduction-to-formal-verification-with-lean-(part-1)",
+      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://hashcloak.com/blog/tut...",
+      "score": 43
     },
     {
       "type": "HackerNews",
       "title": "Intel Starts Shipping High-NA EUV Silicon",
       "url": "https://morethanmoore.substack.com/p/intel-starts-shipping-high-na-euv",
       "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://morethanmoore.substack...",
-      "score": 49
+      "score": 98
     },
     {
       "type": "HackerNews",
-      "title": "Show HN: ReadKinetic – a free, local-first speed reader for your own books",
-      "url": "https://www.readkinetic.com/app/",
-      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.readkinetic.com/ap...",
-      "score": 49
+      "title": "Original Apollo 11 Guidance Computer source code for command and lunar modules",
+      "url": "https://github.com/chrislgarry/Apollo-11",
+      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://github.com/chrislgarry...",
+      "score": 88
     },
     {
       "type": "HackerNews",
       "title": "Advertise in ChatGPT",
       "url": "https://ads.openai.com/",
       "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://ads.openai.com/...",
-      "score": 704
+      "score": 808
     },
     {
       "type": "HackerNews",
       "title": "FreeInk: Open ecosystem for e-readers",
       "url": "https://freeink.org/",
-      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://freeink.org/...",
-      "score": 539
+      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://freeink.org/...",
+      "score": 587
     },
     {
       "type": "HackerNews",
-      "title": "Late.sh – a command-line Clubhouse for computer people",
-      "url": "https://late.sh/",
-      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://late.sh/...",
-      "score": 138
+      "title": "Codeberg: ToU extension to prohibit LLM-extrusions",
+      "url": "https://codeberg.org/Codeberg/org/pulls/1253",
+      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://codeberg.org/Codeberg/...",
+      "score": 23
     }
   ]
 }
