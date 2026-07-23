@@ -1,61 +1,61 @@
 {
-  "last_updated": "2026-07-23 19:17:05",
+  "last_updated": "2026-07-23 22:02:58",
   "news": [
     {
       "type": "HackerNews",
       "title": "Writing by hand is good for your brain",
       "url": "https://nealstephenson.substack.com/p/writing-by-hand-is-good-for-your",
-      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://nealstephenson.substac...",
-      "score": 587
+      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://nealstephenson.substac...",
+      "score": 821
+    },
+    {
+      "type": "HackerNews",
+      "title": "Couple pay >$800k for a gene-editing therapy for their daughter. She died.",
+      "url": "https://www.science.org/content/article/exclusive-death-girl-chinese-gene-editing-trial-was-never-made-public",
+      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.science.org/conten...",
+      "score": 90
+    },
+    {
+      "type": "HackerNews",
+      "title": "Show HN: Echo – Fable-level results at 1/3 the cost using open-weight models",
+      "url": null,
+      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：...",
+      "score": 134
+    },
+    {
+      "type": "HackerNews",
+      "title": "The Beam Engine",
+      "url": "https://glinscott.github.io/beam-engine/",
+      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://glinscott.github.io/be...",
+      "score": 59
+    },
+    {
+      "type": "HackerNews",
+      "title": "Namecheap Gave My Account to an Unverified Third Party Just Because They Asked",
+      "url": null,
+      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：...",
+      "score": 105
     },
     {
       "type": "HackerNews",
       "title": "What happened to TheNumbers.com",
       "url": "https://stephenfollows.com/p/what-just-happened-to-thenumberscom-should-worry-us-all",
-      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://stephenfollows.com/p/w...",
-      "score": 138
+      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://stephenfollows.com/p/w...",
+      "score": 226
+    },
+    {
+      "type": "HackerNews",
+      "title": "Startup founders urge U.S. government not to shut off Chinese open weight AI",
+      "url": "https://www.politico.com/news/2026/07/22/startup-founders-urge-trump-not-to-shut-off-chinese-open-weight-ai-01008992",
+      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.politico.com/news/...",
+      "score": 609
     },
     {
       "type": "HackerNews",
       "title": "Building on ATProto",
       "url": "https://lukekanies.com/writing/building-on-atproto/",
       "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://lukekanies.com/writing...",
-      "score": 35
-    },
-    {
-      "type": "HackerNews",
-      "title": "Software rendering in 500 lines of bare C++",
-      "url": "https://haqr.eu/tinyrenderer/",
-      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://haqr.eu/tinyrenderer/...",
-      "score": 170
-    },
-    {
-      "type": "HackerNews",
-      "title": "Startup founders urge U.S. government not to shut off Chinese open weight AI",
-      "url": "https://www.politico.com/news/2026/07/22/startup-founders-urge-trump-not-to-shut-off-chinese-open-weight-ai-01008992",
-      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.politico.com/news/...",
-      "score": 446
-    },
-    {
-      "type": "HackerNews",
-      "title": "Learn OpenGL, extensive tutorial resource for learning Modern OpenGL",
-      "url": "https://learnopengl.com/",
-      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://learnopengl.com/...",
-      "score": 113
-    },
-    {
-      "type": "HackerNews",
-      "title": "Astronomers may have found the first exomoon",
-      "url": "https://www.eso.org/public/news/eso2610/",
-      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.eso.org/public/new...",
-      "score": 153
-    },
-    {
-      "type": "HackerNews",
-      "title": "Launch HN: Screenpipe (YC S26) – Record how you work and turn that into agents",
-      "url": null,
-      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：...",
-      "score": 29
+      "score": 96
     }
   ]
 }
