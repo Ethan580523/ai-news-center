@@ -1,61 +1,61 @@
 {
-  "last_updated": "2026-07-24 05:49:42",
+  "last_updated": "2026-07-24 08:27:02",
   "news": [
+    {
+      "type": "HackerNews",
+      "title": "Flux 3",
+      "url": "https://bfl.ai/blog/flux-3",
+      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://bfl.ai/blog/flux-3...",
+      "score": 167
+    },
+    {
+      "type": "HackerNews",
+      "title": "The PImpl idiom and the C++26 std:indirect type",
+      "url": "https://mariusbancila.ro/blog/2026/07/23/the-pimpl-idiom-and-the-cpp26-stdindirect-type/",
+      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://mariusbancila.ro/blog/...",
+      "score": 27
+    },
     {
       "type": "HackerNews",
       "title": "Writing by hand is good for your brain",
       "url": "https://nealstephenson.substack.com/p/writing-by-hand-is-good-for-your",
       "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://nealstephenson.substac...",
-      "score": 1147
-    },
-    {
-      "type": "HackerNews",
-      "title": "Show HN: Echo – Fable-level results at 1/3 the cost using open-weight models",
-      "url": null,
-      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：...",
-      "score": 307
-    },
-    {
-      "type": "HackerNews",
-      "title": "The Beam Engine",
-      "url": "https://glinscott.github.io/beam-engine/",
-      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://glinscott.github.io/be...",
-      "score": 248
+      "score": 1267
     },
     {
       "type": "HackerNews",
       "title": "Startup founders urge U.S. government not to shut off Chinese open weight AI",
       "url": "https://www.politico.com/news/2026/07/22/startup-founders-urge-trump-not-to-shut-off-chinese-open-weight-ai-01008992",
       "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.politico.com/news/...",
-      "score": 829
+      "score": 899
+    },
+    {
+      "type": "HackerNews",
+      "title": "Show HN: Echo – Fable-level results at 1/3 the cost using open-weight models",
+      "url": null,
+      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：...",
+      "score": 370
+    },
+    {
+      "type": "HackerNews",
+      "title": "The Beam Engine",
+      "url": "https://glinscott.github.io/beam-engine/",
+      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://glinscott.github.io/be...",
+      "score": 346
     },
     {
       "type": "HackerNews",
       "title": "What happened to TheNumbers.com",
       "url": "https://stephenfollows.com/p/what-just-happened-to-thenumberscom-should-worry-us-all",
-      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://stephenfollows.com/p/w...",
-      "score": 336
-    },
-    {
-      "type": "HackerNews",
-      "title": "What else do people draw on gradient.horse?",
-      "url": "https://rybakov.com/blog/what_else_do_people_draw_on_gradient-copy.horse/",
-      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://rybakov.com/blog/what_...",
-      "score": 84
+      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://stephenfollows.com/p/w...",
+      "score": 364
     },
     {
       "type": "HackerNews",
       "title": "Why Software Factories Fail (or: harness engineering is not enough)",
       "url": "https://github.com/humanlayer/advanced-context-engineering-for-coding-agents/blob/main/wsff.md",
       "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://github.com/humanlayer/...",
-      "score": 246
-    },
-    {
-      "type": "HackerNews",
-      "title": "98.css",
-      "url": "https://jdan.github.io/98.css/#status-bar",
-      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://jdan.github.io/98.css/...",
-      "score": 385
+      "score": 301
     }
   ]
 }
