@@ -1,61 +1,61 @@
 {
-  "last_updated": "2026-07-24 11:02:58",
+  "last_updated": "2026-07-24 13:44:44",
   "news": [
+    {
+      "type": "HackerNews",
+      "title": "Patreon laying off 20% of staff",
+      "url": "https://www.patreon.com/jackconte/posts/painful-update-164628951",
+      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.patreon.com/jackco...",
+      "score": 50
+    },
     {
       "type": "HackerNews",
       "title": "Flux 3 X Mimic: The Next Generation of Video-Action Models",
       "url": "https://bfl.ai/blog/flux-3-mimic",
-      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://bfl.ai/blog/flux-3-mim...",
-      "score": 67
+      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://bfl.ai/blog/flux-3-mim...",
+      "score": 193
+    },
+    {
+      "type": "HackerNews",
+      "title": "It's getting harder to focus every day",
+      "url": "https://glyphack.com/attention/",
+      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://glyphack.com/attention...",
+      "score": 294
+    },
+    {
+      "type": "HackerNews",
+      "title": "I Tried Building a Real App with AI. It Took a Year",
+      "url": "https://www.alexhyett.com/videos/tried-building-app-with-ai-it-took-a-year/",
+      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.alexhyett.com/vide...",
+      "score": 38
     },
     {
       "type": "HackerNews",
       "title": "Flux 3",
       "url": "https://bfl.ai/blog/flux-3",
       "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://bfl.ai/blog/flux-3...",
-      "score": 319
+      "score": 424
     },
     {
       "type": "HackerNews",
-      "title": "It's getting harder to focus every day",
-      "url": "https://glyphack.com/attention/",
-      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://glyphack.com/attention...",
-      "score": 85
+      "title": "My security camera shipped a GitHub admin token in its login page",
+      "url": "https://hhh.hn/hanwha-github-token/",
+      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://hhh.hn/hanwha-github-t...",
+      "score": 27
     },
     {
       "type": "HackerNews",
-      "title": "Writing by hand is good for your brain",
-      "url": "https://nealstephenson.substack.com/p/writing-by-hand-is-good-for-your",
-      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://nealstephenson.substac...",
-      "score": 1336
+      "title": "The case for MUDs in modern times",
+      "url": "https://www.andrewzigler.com/feed/the-case-for-muds-in-modern-times",
+      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.andrewzigler.com/f...",
+      "score": 42
     },
     {
       "type": "HackerNews",
-      "title": "Startup founders urge U.S. government not to shut off Chinese open weight AI",
-      "url": "https://www.politico.com/news/2026/07/22/startup-founders-urge-trump-not-to-shut-off-chinese-open-weight-ai-01008992",
-      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.politico.com/news/...",
-      "score": 959
-    },
-    {
-      "type": "HackerNews",
-      "title": "Claude Cookbook",
-      "url": "https://platform.claude.com/cookbook/",
-      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://platform.claude.com/co...",
-      "score": 80
-    },
-    {
-      "type": "HackerNews",
-      "title": "The Beam Engine",
-      "url": "https://glinscott.github.io/beam-engine/",
-      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://glinscott.github.io/be...",
-      "score": 403
-    },
-    {
-      "type": "HackerNews",
-      "title": "Show HN: Echo – Fable-level results at 1/3 the cost using open-weight models",
-      "url": null,
-      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：...",
-      "score": 394
+      "title": "Ah, the Codeberg Drama",
+      "url": "https://gagliardoni.net/#20260724_codeberg_drama",
+      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://gagliardoni.net/#20260...",
+      "score": 16
     }
   ]
 }
