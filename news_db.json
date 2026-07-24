@@ -1,61 +1,61 @@
 {
-  "last_updated": "2026-07-23 22:02:58",
+  "last_updated": "2026-07-24 02:39:49",
   "news": [
+    {
+      "type": "HackerNews",
+      "title": "98.css",
+      "url": "https://jdan.github.io/98.css/#status-bar",
+      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://jdan.github.io/98.css/...",
+      "score": 262
+    },
     {
       "type": "HackerNews",
       "title": "Writing by hand is good for your brain",
       "url": "https://nealstephenson.substack.com/p/writing-by-hand-is-good-for-your",
-      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://nealstephenson.substac...",
-      "score": 821
+      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://nealstephenson.substac...",
+      "score": 1005
     },
     {
       "type": "HackerNews",
-      "title": "Couple pay >$800k for a gene-editing therapy for their daughter. She died.",
-      "url": "https://www.science.org/content/article/exclusive-death-girl-chinese-gene-editing-trial-was-never-made-public",
-      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.science.org/conten...",
-      "score": 90
+      "title": "The Visual 6502",
+      "url": "http://visual6502.org/JSSim/index.html",
+      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：http://visual6502.org/JSSim/in...",
+      "score": 56
     },
     {
       "type": "HackerNews",
       "title": "Show HN: Echo – Fable-level results at 1/3 the cost using open-weight models",
       "url": null,
-      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：...",
-      "score": 134
+      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：...",
+      "score": 251
     },
     {
       "type": "HackerNews",
       "title": "The Beam Engine",
       "url": "https://glinscott.github.io/beam-engine/",
       "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://glinscott.github.io/be...",
-      "score": 59
-    },
-    {
-      "type": "HackerNews",
-      "title": "Namecheap Gave My Account to an Unverified Third Party Just Because They Asked",
-      "url": null,
-      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：...",
-      "score": 105
+      "score": 181
     },
     {
       "type": "HackerNews",
       "title": "What happened to TheNumbers.com",
       "url": "https://stephenfollows.com/p/what-just-happened-to-thenumberscom-should-worry-us-all",
       "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://stephenfollows.com/p/w...",
-      "score": 226
+      "score": 302
     },
     {
       "type": "HackerNews",
       "title": "Startup founders urge U.S. government not to shut off Chinese open weight AI",
       "url": "https://www.politico.com/news/2026/07/22/startup-founders-urge-trump-not-to-shut-off-chinese-open-weight-ai-01008992",
       "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.politico.com/news/...",
-      "score": 609
+      "score": 747
     },
     {
       "type": "HackerNews",
-      "title": "Building on ATProto",
-      "url": "https://lukekanies.com/writing/building-on-atproto/",
-      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://lukekanies.com/writing...",
-      "score": 96
+      "title": "Why Software Factories Fail (or: harness engineering is not enough)",
+      "url": "https://github.com/humanlayer/advanced-context-engineering-for-coding-agents/blob/main/wsff.md",
+      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://github.com/humanlayer/...",
+      "score": 190
     }
   ]
 }
