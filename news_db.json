@@ -1,61 +1,61 @@
 {
-  "last_updated": "2026-07-24 13:44:44",
+  "last_updated": "2026-07-24 16:41:51",
   "news": [
     {
       "type": "HackerNews",
-      "title": "Patreon laying off 20% of staff",
-      "url": "https://www.patreon.com/jackconte/posts/painful-update-164628951",
-      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.patreon.com/jackco...",
-      "score": 50
+      "title": "My security camera shipped a GitHub admin token in its login page",
+      "url": "https://hhh.hn/hanwha-github-token/",
+      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://hhh.hn/hanwha-github-t...",
+      "score": 288
+    },
+    {
+      "type": "HackerNews",
+      "title": "India's first privately-developed rocket reaches orbit on dramatic debut launch",
+      "url": "https://arstechnica.com/space/2026/07/indias-first-privately-developed-rocket-reaches-orbit-on-dramatic-debut-launch/",
+      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://arstechnica.com/space/...",
+      "score": 245
+    },
+    {
+      "type": "HackerNews",
+      "title": "The front end framework for correctness: built on Effect, architected like Elm",
+      "url": "https://foldkit.dev/",
+      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://foldkit.dev/...",
+      "score": 30
+    },
+    {
+      "type": "HackerNews",
+      "title": "Half-Life 2 running natively on HaikuOS",
+      "url": "https://discuss.haiku-os.org/t/haiku-nvidia-porting-nvidia-driver-for-turing-gpus/16520?page=18",
+      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://discuss.haiku-os.org/t...",
+      "score": 107
     },
     {
       "type": "HackerNews",
       "title": "Flux 3 X Mimic: The Next Generation of Video-Action Models",
       "url": "https://bfl.ai/blog/flux-3-mimic",
       "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://bfl.ai/blog/flux-3-mim...",
-      "score": 193
+      "score": 258
     },
     {
       "type": "HackerNews",
       "title": "It's getting harder to focus every day",
       "url": "https://glyphack.com/attention/",
-      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://glyphack.com/attention...",
-      "score": 294
+      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://glyphack.com/attention...",
+      "score": 509
     },
     {
       "type": "HackerNews",
-      "title": "I Tried Building a Real App with AI. It Took a Year",
-      "url": "https://www.alexhyett.com/videos/tried-building-app-with-ai-it-took-a-year/",
-      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.alexhyett.com/vide...",
-      "score": 38
+      "title": "Government orders GitHub to remove Bluetooth-based chat app Bitchat: Jack Dorsey",
+      "url": "https://www.thehindu.com/news/national/government-orders-github-to-remove-bluetooth-based-chat-app-bitchat-over-security-concerns-jack-dorsey/article71262049.ece",
+      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.thehindu.com/news/...",
+      "score": 140
     },
     {
       "type": "HackerNews",
       "title": "Flux 3",
       "url": "https://bfl.ai/blog/flux-3",
-      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://bfl.ai/blog/flux-3...",
-      "score": 424
-    },
-    {
-      "type": "HackerNews",
-      "title": "My security camera shipped a GitHub admin token in its login page",
-      "url": "https://hhh.hn/hanwha-github-token/",
-      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://hhh.hn/hanwha-github-t...",
-      "score": 27
-    },
-    {
-      "type": "HackerNews",
-      "title": "The case for MUDs in modern times",
-      "url": "https://www.andrewzigler.com/feed/the-case-for-muds-in-modern-times",
-      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.andrewzigler.com/f...",
-      "score": 42
-    },
-    {
-      "type": "HackerNews",
-      "title": "Ah, the Codeberg Drama",
-      "url": "https://gagliardoni.net/#20260724_codeberg_drama",
-      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://gagliardoni.net/#20260...",
-      "score": 16
+      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://bfl.ai/blog/flux-3...",
+      "score": 496
     }
   ]
 }
