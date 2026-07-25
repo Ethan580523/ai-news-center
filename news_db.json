@@ -1,61 +1,61 @@
 {
-  "last_updated": "2026-07-25 10:26:19",
+  "last_updated": "2026-07-25 13:25:40",
   "news": [
     {
       "type": "HackerNews",
       "title": "Android May Soon Restrict On-Device ADB",
       "url": "https://kitsumed.github.io/blog/posts/android-may-soon-restrict-on-device-adb/",
-      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://kitsumed.github.io/blo...",
-      "score": 233
+      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://kitsumed.github.io/blo...",
+      "score": 431
     },
     {
       "type": "HackerNews",
       "title": "Claude Opus 5",
       "url": "https://www.anthropic.com/news/claude-opus-5",
       "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.anthropic.com/news...",
-      "score": 1566
+      "score": 1655
     },
     {
       "type": "HackerNews",
       "title": "Hannah Fry Wins the Leelavati Prize in 2026 for Mathematics Outreach",
       "url": "https://www.maths.cam.ac.uk/features/professor-hannah-fry-wins-leelavati-prize",
-      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.maths.cam.ac.uk/fe...",
-      "score": 236
-    },
-    {
-      "type": "HackerNews",
-      "title": "GC and Exceptions in Wasmtime",
-      "url": "https://bytecodealliance.org/articles/wasmtime-gc",
-      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://bytecodealliance.org/a...",
-      "score": 102
-    },
-    {
-      "type": "HackerNews",
-      "title": "NYC Apartment Aquaponics",
-      "url": "https://erinmurphy.dev/projects/project-2/",
-      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://erinmurphy.dev/project...",
-      "score": 51
-    },
-    {
-      "type": "HackerNews",
-      "title": "ARC-AGI Leaderboard",
-      "url": "https://arcprize.org/leaderboard",
-      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://arcprize.org/leaderboa...",
-      "score": 83
+      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.maths.cam.ac.uk/fe...",
+      "score": 355
     },
     {
       "type": "HackerNews",
       "title": "Building a Tiny 3D Renderer for a Tiny Handheld",
       "url": "https://saffroncr.itch.io/katavatis/devlog/1534514/building-a-tiny-3d-renderer-for-a-tiny-handheld",
       "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://saffroncr.itch.io/kata...",
-      "score": 39
+      "score": 97
     },
     {
       "type": "HackerNews",
-      "title": "UK AISI / Caisi Preliminary Assessment of Kimi K3's Cyber Capabilities",
-      "url": "https://www.nist.gov/news-events/news/2026/07/uk-aisi-caisi-preliminary-assessment-kimi-k3s-cyber-capabilities",
-      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.nist.gov/news-even...",
-      "score": 67
+      "title": "My Images Are Dithered",
+      "url": "https://dead.garden/blog/how-my-images-are-dithered.html",
+      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://dead.garden/blog/how-m...",
+      "score": 20
+    },
+    {
+      "type": "HackerNews",
+      "title": "ARC-AGI Leaderboard",
+      "url": "https://arcprize.org/leaderboard",
+      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://arcprize.org/leaderboa...",
+      "score": 118
+    },
+    {
+      "type": "HackerNews",
+      "title": "The Fedora 45 Sausage Factory",
+      "url": "https://supakeen.com/weblog/the-fedora-45-sausage-factory/",
+      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://supakeen.com/weblog/th...",
+      "score": 18
+    },
+    {
+      "type": "HackerNews",
+      "title": "NYC Apartment Aquaponics",
+      "url": "https://erinmurphy.dev/projects/project-2/",
+      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://erinmurphy.dev/project...",
+      "score": 96
     }
   ]
 }
