@@ -1,61 +1,61 @@
 {
-  "last_updated": "2026-07-25 05:42:24",
+  "last_updated": "2026-07-25 08:05:31",
   "news": [
+    {
+      "type": "HackerNews",
+      "title": "Android May Soon Restrict On-Device ADB",
+      "url": "https://kitsumed.github.io/blog/posts/android-may-soon-restrict-on-device-adb/",
+      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://kitsumed.github.io/blo...",
+      "score": 52
+    },
+    {
+      "type": "HackerNews",
+      "title": "ARC-AGI Leaderboard",
+      "url": "https://arcprize.org/leaderboard",
+      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://arcprize.org/leaderboa...",
+      "score": 50
+    },
     {
       "type": "HackerNews",
       "title": "Claude Opus 5",
       "url": "https://www.anthropic.com/news/claude-opus-5",
-      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.anthropic.com/news...",
-      "score": 1422
+      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.anthropic.com/news...",
+      "score": 1509
     },
     {
       "type": "HackerNews",
       "title": "GC and Exceptions in Wasmtime",
       "url": "https://bytecodealliance.org/articles/wasmtime-gc",
-      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://bytecodealliance.org/a...",
-      "score": 29
+      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://bytecodealliance.org/a...",
+      "score": 70
+    },
+    {
+      "type": "HackerNews",
+      "title": "Hannah Fry Wins the Leelavati Prize in 2026 for Mathematics Outreach",
+      "url": "https://www.maths.cam.ac.uk/features/professor-hannah-fry-wins-leelavati-prize",
+      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.maths.cam.ac.uk/fe...",
+      "score": 129
+    },
+    {
+      "type": "HackerNews",
+      "title": "UK AISI / Caisi Preliminary Assessment of Kimi K3's Cyber Capabilities",
+      "url": "https://www.nist.gov/news-events/news/2026/07/uk-aisi-caisi-preliminary-assessment-kimi-k3s-cyber-capabilities",
+      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.nist.gov/news-even...",
+      "score": 48
     },
     {
       "type": "HackerNews",
       "title": "Postgres LISTEN/NOTIFY actually scales",
       "url": "https://www.dbos.dev/blog/postgres-listen-notify-scalability",
-      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.dbos.dev/blog/post...",
-      "score": 258
+      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.dbos.dev/blog/post...",
+      "score": 294
     },
     {
       "type": "HackerNews",
       "title": "Opus 5 is currently #1 on Artificial Analysis Intelligence Leaderboard",
       "url": "https://artificialanalysis.ai/models",
-      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://artificialanalysis.ai/...",
-      "score": 215
-    },
-    {
-      "type": "HackerNews",
-      "title": "India's first privately-developed rocket reaches orbit on debut launch",
-      "url": "https://arstechnica.com/space/2026/07/indias-first-privately-developed-rocket-reaches-orbit-on-dramatic-debut-launch/",
-      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://arstechnica.com/space/...",
-      "score": 554
-    },
-    {
-      "type": "HackerNews",
-      "title": "Taylor Farms Called White House to Try to Delay Cyclospora Recall",
-      "url": "https://www.wsj.com/health/taylor-farms-cyclospora-recall-delay-call-41fef0bc",
-      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.wsj.com/health/tay...",
-      "score": 142
-    },
-    {
-      "type": "HackerNews",
-      "title": "Sperm Whales blow bubbles to achieve restful, vertical sleep",
-      "url": "https://news.st-andrews.ac.uk/archive/sperm-whales-blow-bubbles-to-achieve-restful-vertical-sleep/",
-      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://news.st-andrews.ac.uk/...",
-      "score": 70
-    },
-    {
-      "type": "HackerNews",
-      "title": "My security camera shipped a GitHub admin token in its login page",
-      "url": "https://hhh.hn/hanwha-github-token/",
-      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://hhh.hn/hanwha-github-t...",
-      "score": 547
+      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://artificialanalysis.ai/...",
+      "score": 267
     }
   ]
 }
