@@ -1,61 +1,61 @@
 {
-  "last_updated": "2026-07-27 12:23:00",
+  "last_updated": "2026-07-27 16:56:50",
   "news": [
     {
       "type": "HackerNews",
-      "title": "How is the Bun Rewrite in Rust going?",
-      "url": "https://lockwood.dev/ai/2026/07/27/how-is-the-bun-rewrite-in-rust-going.html",
-      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://lockwood.dev/ai/2026/0...",
-      "score": 71
+      "title": "Kimi-K3 Technical Report [pdf]",
+      "url": "https://github.com/MoonshotAI/Kimi-K3/blob/main/k3_tech_report.pdf",
+      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://github.com/MoonshotAI/...",
+      "score": 246
     },
     {
       "type": "HackerNews",
       "title": "Kimi-K3 Releases on HuggingFace 7/27",
       "url": "https://huggingface.co/moonshotai/Kimi-K3",
-      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://huggingface.co/moonsho...",
-      "score": 490
+      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://huggingface.co/moonsho...",
+      "score": 947
     },
     {
       "type": "HackerNews",
-      "title": "The Birth of the American 12-string Guitar",
-      "url": "https://www.harpguitars.net/history/grunewald/12-string.htm",
-      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.harpguitars.net/hi...",
-      "score": 20
+      "title": "Glue bonds to nonstick surfaces and wipes clean with ethanol",
+      "url": "https://cen.acs.org/materials/adhesives/glue-bonds-nonstick-surfaces-wipes-clean/104/web/2026/07",
+      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://cen.acs.org/materials/...",
+      "score": 45
     },
     {
       "type": "HackerNews",
-      "title": "If digital computers are conscious, they are conscious at the hardware level",
-      "url": "https://smoothbrains.net/posts/2026-05-09-digital-consciousness.html",
-      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://smoothbrains.net/posts...",
-      "score": 23
+      "title": "The Computer That Helped Win World War II",
+      "url": "https://spectrum.ieee.org/colossus-computer-ieee-milestone",
+      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://spectrum.ieee.org/colo...",
+      "score": 63
     },
     {
       "type": "HackerNews",
-      "title": "PGSimCity - How PostgreSQL Works",
-      "url": "https://nikolays.github.io/PGSimCity/",
-      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://nikolays.github.io/PGS...",
-      "score": 696
+      "title": "Removing React.js from the codebase and adapting Htmx for UI interactivity (2023)",
+      "url": "https://misago-project.org/t/removing-reactjs-from-the-codebase-and-adapting-htmx-for-ui-interactivity/1267/",
+      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://misago-project.org/t/r...",
+      "score": 141
     },
     {
       "type": "HackerNews",
-      "title": "VLC for Unity now supported on Linux",
-      "url": "https://code.videolan.org/videolan/vlc-unity",
-      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://code.videolan.org/vide...",
-      "score": 42
+      "title": "Should you wash your solar panels?",
+      "url": "https://incoherency.co.uk/blog/stories/should-you-wash-your-solar-panels.html",
+      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://incoherency.co.uk/blog...",
+      "score": 136
     },
     {
       "type": "HackerNews",
-      "title": "Magnolias Are So Old That They're Pollinated by Beetles, Not Bees",
-      "url": "https://mymodernmet.com/magnolia-ancient-flowers-beetles/",
-      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://mymodernmet.com/magnol...",
-      "score": 92
+      "title": "AI companies spend record sums on Washington lobbying",
+      "url": "https://www.ft.com/content/d8a5f95e-3b6d-463a-a848-c9ef8e2394db",
+      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.ft.com/content/d8a...",
+      "score": 129
     },
     {
       "type": "HackerNews",
-      "title": "Show HN: Physically accurate black hole you can put in your room",
-      "url": "https://blackhole.plav.in",
-      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://blackhole.plav.in...",
-      "score": 368
+      "title": "Libsm64: Mario 64 as a library for use in external game engines",
+      "url": "https://github.com/libsm64/libsm64",
+      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://github.com/libsm64/lib...",
+      "score": 103
     }
   ]
 }
