@@ -1,61 +1,61 @@
 {
-  "last_updated": "2026-07-27 16:56:50",
+  "last_updated": "2026-07-27 19:26:27",
   "news": [
     {
       "type": "HackerNews",
-      "title": "Kimi-K3 Technical Report [pdf]",
-      "url": "https://github.com/MoonshotAI/Kimi-K3/blob/main/k3_tech_report.pdf",
-      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://github.com/MoonshotAI/...",
-      "score": 246
+      "title": "MAI-Cyber 1",
+      "url": "https://microsoft.ai/news/introducing-mai-cyber-1-flash-inside-mdash/",
+      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://microsoft.ai/news/intr...",
+      "score": 162
     },
     {
       "type": "HackerNews",
-      "title": "Kimi-K3 Releases on HuggingFace 7/27",
+      "title": "Watching Go's new garbage collector move through the heap",
+      "url": "https://theconsensus.dev/p/2026/07/19/observing-gos-garbage-collector-old-and-new.html",
+      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://theconsensus.dev/p/202...",
+      "score": 46
+    },
+    {
+      "type": "HackerNews",
+      "title": "Decathlon Germany adds Wero payment option to decathlon.de website",
+      "url": "https://www.sgieurope.com/e-commerce/decathlon-germany-launches-wero-payment-on-its-website/122397.article",
+      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.sgieurope.com/e-co...",
+      "score": 150
+    },
+    {
+      "type": "HackerNews",
+      "title": "Kimi-K3 on HuggingFace",
       "url": "https://huggingface.co/moonshotai/Kimi-K3",
       "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://huggingface.co/moonsho...",
-      "score": 947
+      "score": 1142
     },
     {
       "type": "HackerNews",
       "title": "Glue bonds to nonstick surfaces and wipes clean with ethanol",
       "url": "https://cen.acs.org/materials/adhesives/glue-bonds-nonstick-surfaces-wipes-clean/104/web/2026/07",
-      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://cen.acs.org/materials/...",
-      "score": 45
+      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://cen.acs.org/materials/...",
+      "score": 93
     },
     {
       "type": "HackerNews",
-      "title": "The Computer That Helped Win World War II",
+      "title": "Self-contained highly-portable Python distributions",
+      "url": "https://gregoryszorc.com/docs/python-build-standalone/main/",
+      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://gregoryszorc.com/docs/...",
+      "score": 21
+    },
+    {
+      "type": "HackerNews",
+      "title": "The computer that helped win World War II",
       "url": "https://spectrum.ieee.org/colossus-computer-ieee-milestone",
       "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://spectrum.ieee.org/colo...",
-      "score": 63
+      "score": 99
     },
     {
       "type": "HackerNews",
-      "title": "Removing React.js from the codebase and adapting Htmx for UI interactivity (2023)",
-      "url": "https://misago-project.org/t/removing-reactjs-from-the-codebase-and-adapting-htmx-for-ui-interactivity/1267/",
-      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://misago-project.org/t/r...",
-      "score": 141
-    },
-    {
-      "type": "HackerNews",
-      "title": "Should you wash your solar panels?",
-      "url": "https://incoherency.co.uk/blog/stories/should-you-wash-your-solar-panels.html",
-      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://incoherency.co.uk/blog...",
-      "score": 136
-    },
-    {
-      "type": "HackerNews",
-      "title": "AI companies spend record sums on Washington lobbying",
-      "url": "https://www.ft.com/content/d8a5f95e-3b6d-463a-a848-c9ef8e2394db",
-      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.ft.com/content/d8a...",
-      "score": 129
-    },
-    {
-      "type": "HackerNews",
-      "title": "Libsm64: Mario 64 as a library for use in external game engines",
-      "url": "https://github.com/libsm64/libsm64",
-      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://github.com/libsm64/lib...",
-      "score": 103
+      "title": "Show HN: FeyNoBg – Automatic background removal model and training library",
+      "url": "https://usefeyn.com/blog/feynobg/",
+      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://usefeyn.com/blog/feyno...",
+      "score": 37
     }
   ]
 }
