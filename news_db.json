@@ -1,61 +1,61 @@
 {
-  "last_updated": "2026-07-27 06:30:39",
+  "last_updated": "2026-07-27 12:23:00",
   "news": [
+    {
+      "type": "HackerNews",
+      "title": "How is the Bun Rewrite in Rust going?",
+      "url": "https://lockwood.dev/ai/2026/07/27/how-is-the-bun-rewrite-in-rust-going.html",
+      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://lockwood.dev/ai/2026/0...",
+      "score": 71
+    },
+    {
+      "type": "HackerNews",
+      "title": "Kimi-K3 Releases on HuggingFace 7/27",
+      "url": "https://huggingface.co/moonshotai/Kimi-K3",
+      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://huggingface.co/moonsho...",
+      "score": 490
+    },
+    {
+      "type": "HackerNews",
+      "title": "The Birth of the American 12-string Guitar",
+      "url": "https://www.harpguitars.net/history/grunewald/12-string.htm",
+      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.harpguitars.net/hi...",
+      "score": 20
+    },
+    {
+      "type": "HackerNews",
+      "title": "If digital computers are conscious, they are conscious at the hardware level",
+      "url": "https://smoothbrains.net/posts/2026-05-09-digital-consciousness.html",
+      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://smoothbrains.net/posts...",
+      "score": 23
+    },
     {
       "type": "HackerNews",
       "title": "PGSimCity - How PostgreSQL Works",
       "url": "https://nikolays.github.io/PGSimCity/",
       "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://nikolays.github.io/PGS...",
-      "score": 400
+      "score": 696
+    },
+    {
+      "type": "HackerNews",
+      "title": "VLC for Unity now supported on Linux",
+      "url": "https://code.videolan.org/videolan/vlc-unity",
+      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://code.videolan.org/vide...",
+      "score": 42
+    },
+    {
+      "type": "HackerNews",
+      "title": "Magnolias Are So Old That They're Pollinated by Beetles, Not Bees",
+      "url": "https://mymodernmet.com/magnolia-ancient-flowers-beetles/",
+      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://mymodernmet.com/magnol...",
+      "score": 92
     },
     {
       "type": "HackerNews",
       "title": "Show HN: Physically accurate black hole you can put in your room",
       "url": "https://blackhole.plav.in",
       "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://blackhole.plav.in...",
-      "score": 208
-    },
-    {
-      "type": "HackerNews",
-      "title": "Decker, a platform that builds on the legacy of Hypercard and classic macOS",
-      "url": "https://beyondloom.com/decker/",
-      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://beyondloom.com/decker/...",
-      "score": 279
-    },
-    {
-      "type": "HackerNews",
-      "title": "Scriptc by Vercel: TypeScript-to-Native compiler, no JavaScript engine in binary",
-      "url": "https://github.com/vercel-labs/scriptc",
-      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://github.com/vercel-labs...",
-      "score": 105
-    },
-    {
-      "type": "HackerNews",
-      "title": "French firefighters face 'pyrocumulonimbus' for first time",
-      "url": "https://www.france24.com/en/live-news/20260726-french-firefighters-face-pyrocumulonimbus-for-first-time",
-      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.france24.com/en/li...",
-      "score": 284
-    },
-    {
-      "type": "HackerNews",
-      "title": "US citizen charged after GrapheneOS phone wipes during airport search",
-      "url": "https://www.techspot.com/news/113236-us-prosecutors-charge-atlanta-man-after-grapheneos-phone.html",
-      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.techspot.com/news/...",
-      "score": 514
-    },
-    {
-      "type": "HackerNews",
-      "title": "We have proof automation now",
-      "url": "https://www.imperialviolet.org/2026/07/26/zstd-lean.html",
-      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.imperialviolet.org...",
-      "score": 139
-    },
-    {
-      "type": "HackerNews",
-      "title": "I wanted a clock that never needed setting. Things escalated",
-      "url": "https://arstechnica.com/gadgets/2026/07/i-wanted-a-clock-that-never-needed-setting-things-escalated/",
-      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://arstechnica.com/gadget...",
-      "score": 75
+      "score": 368
     }
   ]
 }
