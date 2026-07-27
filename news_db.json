@@ -1,61 +1,61 @@
 {
-  "last_updated": "2026-07-26 21:59:03",
+  "last_updated": "2026-07-27 02:55:06",
   "news": [
+    {
+      "type": "HackerNews",
+      "title": "PGSimCity - How PostgreSQL Works",
+      "url": "https://nikolays.github.io/PGSimCity/",
+      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://nikolays.github.io/PGS...",
+      "score": 161
+    },
+    {
+      "type": "HackerNews",
+      "title": "Show HN: Physically accurate black hole you can put in your room",
+      "url": "https://blackhole.plav.in",
+      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://blackhole.plav.in...",
+      "score": 63
+    },
     {
       "type": "HackerNews",
       "title": "Decker, a platform that builds on the legacy of Hypercard and classic macOS",
       "url": "https://beyondloom.com/decker/",
-      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://beyondloom.com/decker/...",
-      "score": 133
+      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://beyondloom.com/decker/...",
+      "score": 238
     },
     {
       "type": "HackerNews",
-      "title": "It's not empowering to hand off the details",
-      "url": "https://davidnicholaswilliams.com/its-not-empowering-to-hand-off-the-details/",
-      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://davidnicholaswilliams....",
-      "score": 100
+      "title": "We have proof automation now",
+      "url": "https://www.imperialviolet.org/2026/07/26/zstd-lean.html",
+      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.imperialviolet.org...",
+      "score": 89
     },
     {
       "type": "HackerNews",
-      "title": "Plasma Tunnels Reveal How Dying Satellites Fall to Earth",
-      "url": "https://spectrum.ieee.org/space-debris-atmosphere-burn-up",
-      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://spectrum.ieee.org/spac...",
-      "score": 14
+      "title": "French firefighters face 'pyrocumulonimbus' for first time",
+      "url": "https://www.france24.com/en/live-news/20260726-french-firefighters-face-pyrocumulonimbus-for-first-time",
+      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.france24.com/en/li...",
+      "score": 197
+    },
+    {
+      "type": "HackerNews",
+      "title": "US citizen charged after GrapheneOS phone wipes during airport search",
+      "url": "https://www.techspot.com/news/113236-us-prosecutors-charge-atlanta-man-after-grapheneos-phone.html",
+      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.techspot.com/news/...",
+      "score": 245
+    },
+    {
+      "type": "HackerNews",
+      "title": "Teaching Kids Forth",
+      "url": "https://gracefulliberty.com/articles/teaching-kids-forth/",
+      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://gracefulliberty.com/ar...",
+      "score": 61
     },
     {
       "type": "HackerNews",
       "title": "Introduction to Data-Oriented Design [pdf]",
       "url": "https://www.gamedevs.org/uploads/introduction-to-data-oriented-design.pdf",
       "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.gamedevs.org/uploa...",
-      "score": 60
-    },
-    {
-      "type": "HackerNews",
-      "title": "Design is compromise",
-      "url": "https://stephango.com/design-is-compromise",
-      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://stephango.com/design-i...",
-      "score": 147
-    },
-    {
-      "type": "HackerNews",
-      "title": "Htmx 4.0, the first JavaScript library to release exclusively on the Game Boy",
-      "url": "https://swag.htmx.org/en-cad/products/htmx-4-the-game",
-      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://swag.htmx.org/en-cad/p...",
-      "score": 282
-    },
-    {
-      "type": "HackerNews",
-      "title": "Multiway Turing Machines (2021 pre-ai)",
-      "url": "https://bulletins.wolframphysics.org/2021/02/multiway-turing-machines/",
-      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://bulletins.wolframphysi...",
-      "score": 11
-    },
-    {
-      "type": "HackerNews",
-      "title": "Simulate cassette tape audio profiles using FFmpeg",
-      "url": "https://github.com/AARomanov1985/Audio-Cassette-Simulation",
-      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://github.com/AARomanov19...",
-      "score": 16
+      "score": 120
     }
   ]
 }
