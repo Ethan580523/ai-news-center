@@ -1,61 +1,61 @@
 {
-  "last_updated": "2026-07-27 22:06:55",
+  "last_updated": "2026-07-28 02:31:45",
   "news": [
+    {
+      "type": "HackerNews",
+      "title": "Our position on open-weights models",
+      "url": "https://www.anthropic.com/news/position-open-weights-models",
+      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.anthropic.com/news...",
+      "score": 487
+    },
+    {
+      "type": "HackerNews",
+      "title": "Benchmarking Opus 5 on SlopCodeBench",
+      "url": "https://github.com/humanlayer/advanced-context-engineering-for-coding-agents/blob/main/benchmarking-opus-5-on-slop-code-bench.md",
+      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://github.com/humanlayer/...",
+      "score": 142
+    },
+    {
+      "type": "HackerNews",
+      "title": "Astronauts describe persistent 'observer' sensation after 6 month missions",
+      "url": "https://spacedaily.com/sd-v-astronauts-returning-from-six-month-missions-describe-a-persistent-observer-sensation-the-feeling-of-watching-their-own-lives-from-a-half-step-outside-the-frame-weeks-after-theyr/",
+      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://spacedaily.com/sd-v-as...",
+      "score": 81
+    },
+    {
+      "type": "HackerNews",
+      "title": "DConf 2026 in London",
+      "url": "https://dconf.org/2026/index.html",
+      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://dconf.org/2026/index.h...",
+      "score": 48
+    },
+    {
+      "type": "HackerNews",
+      "title": "RTX 2080 Ti Memory Upgrade to 22 GB",
+      "url": "https://gpusolutions.net/rbservices/graphics-card-upgrade/",
+      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://gpusolutions.net/rbser...",
+      "score": 26
+    },
     {
       "type": "HackerNews",
       "title": "Watching Go's new garbage collector move through the heap",
       "url": "https://theconsensus.dev/p/2026/07/19/observing-gos-garbage-collector-old-and-new.html",
       "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://theconsensus.dev/p/202...",
-      "score": 125
+      "score": 177
     },
     {
       "type": "HackerNews",
-      "title": "Launch HN: Rise Reforming (YC S26) – Turning Waste Gases into Valuable Chemicals",
-      "url": "https://www.rise-reforming.com",
-      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.rise-reforming.com...",
-      "score": 45
+      "title": "C/C++ projects packaged for Zig",
+      "url": "https://github.com/allyourcodebase",
+      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://github.com/allyourcode...",
+      "score": 32
     },
     {
       "type": "HackerNews",
-      "title": "Self-contained highly-portable Python distributions",
-      "url": "https://gregoryszorc.com/docs/python-build-standalone/main/",
-      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://gregoryszorc.com/docs/...",
-      "score": 77
-    },
-    {
-      "type": "HackerNews",
-      "title": "Ray tracing massive amounts of animated geometry using tetrahedral cages",
-      "url": "https://gpuopen.com/learn/ray-tracing-massive-amounts-animated-geometry/",
-      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://gpuopen.com/learn/ray-...",
-      "score": 43
-    },
-    {
-      "type": "HackerNews",
-      "title": "Glue bonds to nonstick surfaces and wipes clean with ethanol",
-      "url": "https://cen.acs.org/materials/adhesives/glue-bonds-nonstick-surfaces-wipes-clean/104/web/2026/07",
-      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://cen.acs.org/materials/...",
-      "score": 133
-    },
-    {
-      "type": "HackerNews",
-      "title": "Securing Services with Rootless Containers",
-      "url": "https://blog.coderspirit.xyz/blog/2026/07/06/securing-services-with-rootless-containers/",
-      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://blog.coderspirit.xyz/b...",
-      "score": 17
-    },
-    {
-      "type": "HackerNews",
-      "title": "The computer that helped win World War II",
-      "url": "https://spectrum.ieee.org/colossus-computer-ieee-milestone",
-      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://spectrum.ieee.org/colo...",
-      "score": 149
-    },
-    {
-      "type": "HackerNews",
-      "title": "Judge Rejects Google's Attempt to DMCA Its Way Out of Being Scraped",
-      "url": "https://www.techdirt.com/2026/07/27/judge-rejects-googles-attempt-to-dmca-its-way-out-of-being-scraped/",
-      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.techdirt.com/2026/...",
-      "score": 184
+      "title": "The Burau representation of the braid group is faithful for n = 4",
+      "url": "https://arxiv.org/abs/2607.05283",
+      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://arxiv.org/abs/2607.052...",
+      "score": 18
     }
   ]
 }
