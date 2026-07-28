@@ -1,61 +1,61 @@
 {
-  "last_updated": "2026-07-28 08:33:27",
+  "last_updated": "2026-07-28 11:16:35",
   "news": [
     {
       "type": "HackerNews",
       "title": "7.1 Earthquake in Japan",
       "url": "https://www.data.jma.go.jp/multi/quake/quake_detail.html?eventID=20260728163528&lang=en",
       "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.data.jma.go.jp/mul...",
-      "score": 102
+      "score": 269
+    },
+    {
+      "type": "HackerNews",
+      "title": "About the security content of macOS Tahoe 26.6",
+      "url": "https://support.apple.com/en-us/128067",
+      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://support.apple.com/en-u...",
+      "score": 52
     },
     {
       "type": "HackerNews",
       "title": "Our position on open-weights models",
       "url": "https://www.anthropic.com/news/position-open-weights-models",
       "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.anthropic.com/news...",
-      "score": 854
+      "score": 951
+    },
+    {
+      "type": "HackerNews",
+      "title": "Google's Beyond Zero: Enterprise Security for the AI Era",
+      "url": "https://spawn-queue.acm.org/doi/10.1145/3819083",
+      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://spawn-queue.acm.org/do...",
+      "score": 14
     },
     {
       "type": "HackerNews",
       "title": "A $500 RL fine-tune of a 9B open model beat frontier models on catalog review",
       "url": "https://fermisense.com/when-machines-take-the-wheel/",
-      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://fermisense.com/when-ma...",
-      "score": 157
+      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://fermisense.com/when-ma...",
+      "score": 213
+    },
+    {
+      "type": "HackerNews",
+      "title": "How to Survive Boiling Water",
+      "url": "https://taxa.substack.com/p/how-to-survive-boiling-water",
+      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://taxa.substack.com/p/ho...",
+      "score": 45
     },
     {
       "type": "HackerNews",
       "title": "Ars Astronomica – English translations of rare Hebrew and Latin astronomy texts",
       "url": "https://arsastronomica.com/",
       "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://arsastronomica.com/...",
-      "score": 53
+      "score": 70
     },
     {
       "type": "HackerNews",
       "title": "Benchmarking Opus 5 on SlopCodeBench",
       "url": "https://github.com/humanlayer/advanced-context-engineering-for-coding-agents/blob/main/benchmarking-opus-5-on-slop-code-bench.md",
-      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://github.com/humanlayer/...",
-      "score": 267
-    },
-    {
-      "type": "HackerNews",
-      "title": "Neutrino-1 8B",
-      "url": "https://www.fermionresearch.com/models/neutrino-8b/",
-      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.fermionresearch.co...",
-      "score": 67
-    },
-    {
-      "type": "HackerNews",
-      "title": "Vehicle Motion Cues",
-      "url": "https://support.apple.com/guide/iphone/iphone-comfortably-riding-a-vehicle-iph55564cb22/ios",
-      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://support.apple.com/guid...",
-      "score": 90
-    },
-    {
-      "type": "HackerNews",
-      "title": "Using an open model feels surprisingly good",
-      "url": "https://matthewsaltz.com/blog/using-an-open-model-feels-surprisingly-good/",
-      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://matthewsaltz.com/blog/...",
-      "score": 260
+      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://github.com/humanlayer/...",
+      "score": 309
     }
   ]
 }
