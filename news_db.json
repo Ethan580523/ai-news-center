@@ -1,61 +1,61 @@
 {
-  "last_updated": "2026-07-28 14:06:20",
+  "last_updated": "2026-07-28 16:39:44",
   "news": [
+    {
+      "type": "HackerNews",
+      "title": "You Could Have Come Up with Kimi Delta Attention",
+      "url": "https://blog.doubleword.ai/you-could-have-come-up-with-kimi-delta-attention",
+      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://blog.doubleword.ai/you...",
+      "score": 44
+    },
+    {
+      "type": "HackerNews",
+      "title": "Delayed Gratification – Proud to Be 'Last to Breaking News'",
+      "url": "https://www.slow-journalism.com/",
+      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.slow-journalism.co...",
+      "score": 35
+    },
     {
       "type": "HackerNews",
       "title": "7.1 Earthquake in Japan",
       "url": "https://www.data.jma.go.jp/multi/quake/quake_detail.html?eventID=20260728163528&lang=en",
-      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.data.jma.go.jp/mul...",
-      "score": 477
+      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.data.jma.go.jp/mul...",
+      "score": 673
+    },
+    {
+      "type": "HackerNews",
+      "title": "How Do I Profile eBPF Code?",
+      "url": "https://naveensrinivasan.com/posts/2026-07-22-how-do-i-profile-ebpf-code/",
+      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://naveensrinivasan.com/p...",
+      "score": 26
+    },
+    {
+      "type": "HackerNews",
+      "title": "Zig's Incremental Compilation Internals",
+      "url": "https://mlugg.co.uk/posts/incremental-compilation-internals/",
+      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://mlugg.co.uk/posts/incr...",
+      "score": 32
+    },
+    {
+      "type": "HackerNews",
+      "title": "Harmony Explained: Progress Towards a Scientific Theory of Music (2012)",
+      "url": "https://arxiv.org/abs/1202.4212",
+      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://arxiv.org/abs/1202.421...",
+      "score": 37
     },
     {
       "type": "HackerNews",
       "title": "New HIV vaccine shows unprecedented success in preclinical study",
       "url": "https://www.lji.org/news-events/news/post/new-hiv-vaccine-shows-unprecedented-success-in-preclinical-study/",
       "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.lji.org/news-event...",
-      "score": 82
+      "score": 319
     },
     {
       "type": "HackerNews",
-      "title": "Show HN: Formally verified 3D CSG: Trust 93 lines spec, not 1000 lines AI code",
-      "url": "https://github.com/schildep/verified-3d-mesh-intersection",
-      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://github.com/schildep/ve...",
-      "score": 36
-    },
-    {
-      "type": "HackerNews",
-      "title": "Show HN: tale.fyi, we deserve a home for fiction",
-      "url": "https://tale.fyi/@sam/announcing-tale-fyi-read-or-listen-to-an-entire-book-from-a-single-link",
-      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://tale.fyi/@sam/announci...",
+      "title": "Show HN: XY – Fast, composable, GPU-accelerated charts, written in Rust",
+      "url": "https://github.com/reflex-dev/xy",
+      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://github.com/reflex-dev/...",
       "score": 26
-    },
-    {
-      "type": "HackerNews",
-      "title": "About the security content of macOS Tahoe 26.6",
-      "url": "https://support.apple.com/en-us/128067",
-      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://support.apple.com/en-u...",
-      "score": 138
-    },
-    {
-      "type": "HackerNews",
-      "title": "Google's Beyond Zero: Enterprise Security for the AI Era",
-      "url": "https://spawn-queue.acm.org/doi/10.1145/3819083",
-      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://spawn-queue.acm.org/do...",
-      "score": 63
-    },
-    {
-      "type": "HackerNews",
-      "title": "Kimi Linear: An Expressive, Efficient Attention Architecture",
-      "url": "https://arxiv.org/abs/2510.26692",
-      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://arxiv.org/abs/2510.266...",
-      "score": 48
-    },
-    {
-      "type": "HackerNews",
-      "title": "Our position on open-weights models",
-      "url": "https://www.anthropic.com/news/position-open-weights-models",
-      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.anthropic.com/news...",
-      "score": 1040
     }
   ]
 }
