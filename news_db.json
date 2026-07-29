@@ -1,61 +1,61 @@
 {
-  "last_updated": "2026-07-29 02:36:55",
+  "last_updated": "2026-07-29 05:52:02",
   "news": [
+    {
+      "type": "HackerNews",
+      "title": "More Tailscale tricks for your jailbroken Kindle",
+      "url": "https://tailscale.com/blog/jailbroken-kindle-proxy-tun-modes",
+      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://tailscale.com/blog/jai...",
+      "score": 50
+    },
+    {
+      "type": "HackerNews",
+      "title": "User Interfaces of the Demo Scene",
+      "url": "https://www.datagubbe.se/scenegui/",
+      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.datagubbe.se/scene...",
+      "score": 37
+    },
     {
       "type": "HackerNews",
       "title": "Codex Security",
       "url": "https://github.com/openai/codex-security",
-      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://github.com/openai/code...",
-      "score": 362
+      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://github.com/openai/code...",
+      "score": 445
+    },
+    {
+      "type": "HackerNews",
+      "title": "LearnVector – Andrew Ng's AI company building one‑to‑one learning experiences",
+      "url": "https://learnvector.ai/",
+      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://learnvector.ai/...",
+      "score": 122
+    },
+    {
+      "type": "HackerNews",
+      "title": "Transformer Transformer: A Unified Model for Motion-Conditioned Robot Co-Design",
+      "url": "https://transformer-transformer.github.io/",
+      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://transformer-transforme...",
+      "score": 22
     },
     {
       "type": "HackerNews",
       "title": "Show HN: I was tired of opening 2 tabs for every HN link, so I made a userscript",
       "url": "https://github.com/twalichiewicz/HNewhere",
       "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://github.com/twalichiewi...",
-      "score": 144
-    },
-    {
-      "type": "HackerNews",
-      "title": "Half-Life ported to Mac OS 9",
-      "url": "https://mac-classic.com/news/half-life-ported-to-mac-os-9/",
-      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://mac-classic.com/news/h...",
-      "score": 162
+      "score": 217
     },
     {
       "type": "HackerNews",
       "title": "Substack writers, you need a website",
       "url": "https://elizabethtai.com/2026/06/10/substack-writers-you-need-a-website/",
-      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://elizabethtai.com/2026/...",
-      "score": 427
+      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://elizabethtai.com/2026/...",
+      "score": 478
     },
     {
       "type": "HackerNews",
-      "title": "Teach yourself programming in ten years (1998)",
-      "url": "https://www.norvig.com/21-days.html",
-      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.norvig.com/21-days...",
-      "score": 55
-    },
-    {
-      "type": "HackerNews",
-      "title": "LearnVector – Andrew Ng's AI company building one‑to‑one learning experiences",
-      "url": "https://learnvector.ai/",
-      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://learnvector.ai/...",
-      "score": 19
-    },
-    {
-      "type": "HackerNews",
-      "title": "Truth is not a direction: a Tarski attack on LLM probes",
-      "url": "https://abeljansma.nl/2026/07/10/truth-is-not-a-direction.html",
-      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://abeljansma.nl/2026/07/...",
-      "score": 17
-    },
-    {
-      "type": "HackerNews",
-      "title": "Hubble: Open-source notetaking app for you and your agents",
-      "url": "https://www.hubble.md/",
-      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.hubble.md/...",
-      "score": 41
+      "title": "Half-Life ported to Mac OS 9",
+      "url": "https://mac-classic.com/news/half-life-ported-to-mac-os-9/",
+      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://mac-classic.com/news/h...",
+      "score": 200
     }
   ]
 }
