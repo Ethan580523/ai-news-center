@@ -1,61 +1,61 @@
 {
-  "last_updated": "2026-07-29 11:25:16",
+  "last_updated": "2026-07-29 14:09:21",
   "news": [
+    {
+      "type": "HackerNews",
+      "title": "KOReader",
+      "url": "https://koreader.rocks/",
+      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://koreader.rocks/...",
+      "score": 268
+    },
+    {
+      "type": "HackerNews",
+      "title": "Handbook.md shows that long policy documents do not reliably govern agents",
+      "url": "https://arxiv.org/abs/2607.25398",
+      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://arxiv.org/abs/2607.253...",
+      "score": 54
+    },
+    {
+      "type": "HackerNews",
+      "title": "Show HN: Bullshit Detector – agent skills that fact-check videos and articles",
+      "url": "https://github.com/SerhiiKorniienko/bullshit-detector",
+      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://github.com/SerhiiKorni...",
+      "score": 31
+    },
+    {
+      "type": "HackerNews",
+      "title": "Document-borne AI worms can self-propagate through Copilot for Word",
+      "url": "https://enklypesalt.com/posts/context-collapse-part3-ai-worming-through-word/",
+      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://enklypesalt.com/posts/...",
+      "score": 138
+    },
     {
       "type": "HackerNews",
       "title": "More Tailscale tricks for your jailbroken Kindle",
       "url": "https://tailscale.com/blog/jailbroken-kindle-proxy-tun-modes",
       "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://tailscale.com/blog/jai...",
-      "score": 228
+      "score": 294
     },
     {
       "type": "HackerNews",
-      "title": "National Security Determination Threat Posed by Foreign-Produced Robotic Devices [pdf]",
-      "url": "https://www.fcc.gov/sites/default/files/robots-nsd.pdf",
-      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.fcc.gov/sites/defa...",
-      "score": 12
-    },
-    {
-      "type": "HackerNews",
-      "title": "SpecForge – A Platform for Authoring Formal Specifications",
-      "url": "https://docs.imiron.io/v/0.5.10/en/tour.html",
-      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://docs.imiron.io/v/0.5.1...",
-      "score": 16
-    },
-    {
-      "type": "HackerNews",
-      "title": "User Interfaces of the Demo Scene",
-      "url": "https://www.datagubbe.se/scenegui/",
-      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.datagubbe.se/scene...",
-      "score": 235
+      "title": "Disrupting supply chain attacks on NPM and GitHub Actions",
+      "url": "https://github.blog/security/supply-chain-security/disrupting-supply-chain-attacks-on-npm-and-github-actions/",
+      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://github.blog/security/s...",
+      "score": 23
     },
     {
       "type": "HackerNews",
       "title": "Amiga Graphics Archive",
       "url": "https://amiga.lychesis.net/index.html",
-      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://amiga.lychesis.net/ind...",
-      "score": 11
+      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://amiga.lychesis.net/ind...",
+      "score": 73
     },
     {
       "type": "HackerNews",
-      "title": "SQLite in Production: Optimizing WAL Mode, Concurrency, and VFS Layers",
-      "url": "https://micrologics.org/blog/sqlite-in-production-optimizing-wal-mode-concurrency-and-vfs-layers-for-low-latency-app-servers",
-      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://micrologics.org/blog/s...",
-      "score": 83
-    },
-    {
-      "type": "HackerNews",
-      "title": "Lisp moving Forth moving Lisp",
-      "url": "https://letoverlambda.com/textmode.cl/guest/chap8.html",
-      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://letoverlambda.com/text...",
-      "score": 38
-    },
-    {
-      "type": "HackerNews",
-      "title": "Codex Security",
-      "url": "https://github.com/openai/codex-security",
-      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://github.com/openai/code...",
-      "score": 515
+      "title": "SpecForge – A Platform for Authoring Formal Specifications",
+      "url": "https://docs.imiron.io/v/0.5.10/en/tour.html",
+      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://docs.imiron.io/v/0.5.1...",
+      "score": 44
     }
   ]
 }
