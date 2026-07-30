@@ -1,61 +1,61 @@
 {
-  "last_updated": "2026-07-30 05:40:42",
+  "last_updated": "2026-07-30 08:26:00",
   "news": [
+    {
+      "type": "HackerNews",
+      "title": "I Have Thoughts on the iPhone Air",
+      "url": "https://christianselig.com/2026/07/iphone-air-review/",
+      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://christianselig.com/202...",
+      "score": 12
+    },
     {
       "type": "HackerNews",
       "title": "AI's top startups are barely publishing their research",
       "url": "https://www.science.org/content/article/ai-s-top-startups-are-barely-publishing-their-research",
-      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.science.org/conten...",
-      "score": 325
+      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.science.org/conten...",
+      "score": 422
     },
     {
       "type": "HackerNews",
       "title": "The coolest use for the Vision Pro",
       "url": "https://christianselig.com/2026/07/vision-pro-house/",
-      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://christianselig.com/202...",
-      "score": 515
-    },
-    {
-      "type": "HackerNews",
-      "title": "NSF pilots 4-year PhDs with industry research placements",
-      "url": "https://www.nsf.gov/news/nsf-partners-universities-industry-pilot-initiative-four",
-      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.nsf.gov/news/nsf-p...",
-      "score": 61
+      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://christianselig.com/202...",
+      "score": 626
     },
     {
       "type": "HackerNews",
       "title": "Show HN: Open-source engine running Gemma 4 26B in 2 GB RAM on any M-series Mac",
       "url": "https://github.com/drumih/turbo-fieldfare",
       "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://github.com/drumih/turb...",
-      "score": 712
+      "score": 772
     },
     {
       "type": "HackerNews",
       "title": "Superlogical",
       "url": "https://www.superlogical.com/",
       "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.superlogical.com/...",
-      "score": 601
+      "score": 670
     },
     {
       "type": "HackerNews",
       "title": "LLM Honeypot",
       "url": "https://llm2human.pages.dev/",
       "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://llm2human.pages.dev/...",
-      "score": 139
+      "score": 218
+    },
+    {
+      "type": "HackerNews",
+      "title": "London’s most equidistant pub",
+      "url": "https://equidistance.io/londons-most-equidistant-pub/",
+      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://equidistance.io/london...",
+      "score": 33
     },
     {
       "type": "HackerNews",
       "title": "The Productivity Mirage",
       "url": "https://frantic.im/mirage/",
-      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://frantic.im/mirage/...",
-      "score": 138
-    },
-    {
-      "type": "HackerNews",
-      "title": "Keychron announces first open-source firmware for gaming mice",
-      "url": "https://www.digitalfoundry.net/news/2026/07/keychron-announces-first-open-source-firmware-for-gaming-mice",
-      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.digitalfoundry.net...",
-      "score": 331
+      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://frantic.im/mirage/...",
+      "score": 208
     }
   ]
 }
