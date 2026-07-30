@@ -1,61 +1,61 @@
 {
-  "last_updated": "2026-07-30 14:00:47",
+  "last_updated": "2026-07-30 16:25:43",
   "news": [
     {
       "type": "HackerNews",
-      "title": "'VPNs are lawful technical tools,' says EU Court in landmark copyright ruling",
-      "url": "https://remysharp.com/links/2026-07-23-35890312",
-      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://remysharp.com/links/20...",
-      "score": 128
+      "title": "Gemini Robotics 2 brings whole body intelligence to robots",
+      "url": "https://deepmind.google/blog/gemini-robotics-2-brings-whole-body-intelligence-to-robots/",
+      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://deepmind.google/blog/g...",
+      "score": 143
+    },
+    {
+      "type": "HackerNews",
+      "title": "Physicists Solve a Muon Mystery. Now, Old Results Don't Add Up",
+      "url": "https://www.quantamagazine.org/physicists-solve-a-muon-mystery-now-old-results-dont-add-up-20260729/",
+      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.quantamagazine.org...",
+      "score": 29
+    },
+    {
+      "type": "HackerNews",
+      "title": "The Economic Benefit of Refactoring",
+      "url": "https://martinfowler.com/articles/exploring-gen-ai/refactoring-economic-benefit.html",
+      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://martinfowler.com/artic...",
+      "score": 36
+    },
+    {
+      "type": "HackerNews",
+      "title": "Paging Through a Parquet File in DuckDB: File_row_number or Offset?",
+      "url": "https://rusty.today/blog/paging-parquet-duckdb-file-row-number-vs-offset/",
+      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://rusty.today/blog/pagin...",
+      "score": 18
+    },
+    {
+      "type": "HackerNews",
+      "title": "SDL_GPU minimal, single-header, high-performance 2D graphics painting library",
+      "url": "https://github.com/n67094/sdl_gp",
+      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://github.com/n67094/sdl_...",
+      "score": 28
+    },
+    {
+      "type": "HackerNews",
+      "title": "Hacker Public Radio",
+      "url": "https://hackerpublicradio.org/",
+      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://hackerpublicradio.org/...",
+      "score": 45
+    },
+    {
+      "type": "HackerNews",
+      "title": "Launch HN: Prized (YC S26) – Let non-engineer staff build secure internal tools",
+      "url": "https://prized.dev",
+      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://prized.dev...",
+      "score": 39
     },
     {
       "type": "HackerNews",
       "title": "RFC 8890 – The Internet is for End Users (2020)",
       "url": "https://mnot.net/blog/2020/for_the_users",
-      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://mnot.net/blog/2020/for...",
-      "score": 24
-    },
-    {
-      "type": "HackerNews",
-      "title": "Why Is Everyone Trying to Build a Solid-State Battery?",
-      "url": "https://www.construction-physics.com/p/why-is-everyone-trying-to-build-a",
-      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.construction-physi...",
-      "score": 23
-    },
-    {
-      "type": "HackerNews",
-      "title": "Gpiozero Flow",
-      "url": "https://bennuttall.com/blog/2026/07/gpiozero-flow/",
-      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://bennuttall.com/blog/20...",
-      "score": 89
-    },
-    {
-      "type": "HackerNews",
-      "title": "Why Don't People Use Formal Methods?",
-      "url": "https://www.hillelwayne.com/post/why-dont-people-use-formal-methods/",
-      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.hillelwayne.com/po...",
-      "score": 25
-    },
-    {
-      "type": "HackerNews",
-      "title": "Ron Gilbert started production on Thimbleweed Park 2",
-      "url": "https://www.grumpygamer.com/twp2_announce/",
-      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.grumpygamer.com/tw...",
-      "score": 110
-    },
-    {
-      "type": "HackerNews",
-      "title": "How Old Is Ann?",
-      "url": "https://quuxplusone.github.io/blog/2026/07/29/how-old-is-ann/",
-      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://quuxplusone.github.io/...",
-      "score": 19
-    },
-    {
-      "type": "HackerNews",
-      "title": "I made a game where you build a CPU from logic gates",
-      "url": "https://select.supply/game/chipbuilder",
-      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://select.supply/game/chi...",
-      "score": 25
+      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://mnot.net/blog/2020/for...",
+      "score": 58
     }
   ]
 }
