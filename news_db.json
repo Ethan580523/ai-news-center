@@ -1,61 +1,61 @@
 {
-  "last_updated": "2026-07-30 22:04:58",
+  "last_updated": "2026-07-31 02:48:40",
   "news": [
+    {
+      "type": "HackerNews",
+      "title": "The AI Aesthetic",
+      "url": "https://blog.jim-nielsen.com/2026/ai-aesthetic/",
+      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://blog.jim-nielsen.com/2...",
+      "score": 140
+    },
     {
       "type": "HackerNews",
       "title": "Read this before you buy that TV streaming stick",
       "url": "https://krebsonsecurity.com/2026/07/read-this-before-you-buy-that-tv-streaming-stick/",
-      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://krebsonsecurity.com/20...",
-      "score": 389
+      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://krebsonsecurity.com/20...",
+      "score": 589
     },
     {
       "type": "HackerNews",
-      "title": "Stacked PRs are now live on GitHub",
-      "url": "https://github.blog/changelog/2026-07-30-stacked-pull-requests-are-now-in-public-preview/",
-      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://github.blog/changelog/...",
-      "score": 331
-    },
-    {
-      "type": "HackerNews",
-      "title": "Gemini Robotics 2 brings whole body intelligence to robots",
-      "url": "https://deepmind.google/blog/gemini-robotics-2-brings-whole-body-intelligence-to-robots/",
-      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://deepmind.google/blog/g...",
-      "score": 417
+      "title": "I flagged two research papers for fake authors and both were accepted as orals",
+      "url": "https://geospatialml.com/posts/reviewing-ai-slop/",
+      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://geospatialml.com/posts...",
+      "score": 102
     },
     {
       "type": "HackerNews",
       "title": "Agent Skill to Force Docs in ASD-STE100 Simplified Technical English",
       "url": "https://github.com/AminBlg/SimpleEnglish",
       "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://github.com/AminBlg/Sim...",
-      "score": 71
+      "score": 219
     },
     {
       "type": "HackerNews",
-      "title": "CodePen 2.0",
-      "url": "https://chriscoyier.net/2026/07/30/codepen-2-0/",
-      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://chriscoyier.net/2026/0...",
-      "score": 94
+      "title": "Stacked PRs are now live on GitHub",
+      "url": "https://github.blog/changelog/2026-07-30-stacked-pull-requests-are-now-in-public-preview/",
+      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://github.blog/changelog/...",
+      "score": 489
     },
     {
       "type": "HackerNews",
-      "title": "UEFA and its national associations will not participate in FIFA competitions",
-      "url": "https://www.uefa.com/news-media/news/02a7-213a92896eb0-54dfbf454e3b-1000--statement-on-behalf-of-uefa-and-its-55-national-associations/",
-      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.uefa.com/news-medi...",
-      "score": 538
+      "title": "Gemini Robotics 2 brings whole body intelligence to robots",
+      "url": "https://deepmind.google/blog/gemini-robotics-2-brings-whole-body-intelligence-to-robots/",
+      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://deepmind.google/blog/g...",
+      "score": 486
     },
     {
       "type": "HackerNews",
-      "title": "2x, not 10x: coding with LLMs in 2026",
-      "url": "https://obryant.dev/p/2x-not-10x/",
-      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://obryant.dev/p/2x-not-1...",
-      "score": 155
+      "title": "The American Grilled Cheese Sandwich Essay (2024)",
+      "url": "https://buttondown.com/theswordandthesandwich/archive/the-best-american-grilled-cheese-sandwich-essay/",
+      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://buttondown.com/theswor...",
+      "score": 20
     },
     {
       "type": "HackerNews",
-      "title": "Physicists Solve a Muon Mystery. Now, Old Results Don't Add Up",
-      "url": "https://www.quantamagazine.org/physicists-solve-a-muon-mystery-now-old-results-dont-add-up-20260729/",
-      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.quantamagazine.org...",
-      "score": 146
+      "title": "Rune 1.1: adds Python, an Emacs editor, a symbol index and is now free",
+      "url": "https://rune.build/blog/rune-1-1-release",
+      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://rune.build/blog/rune-1...",
+      "score": 51
     }
   ]
 }
