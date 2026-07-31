@@ -1,61 +1,61 @@
 {
-  "last_updated": "2026-07-31 11:28:37",
+  "last_updated": "2026-07-31 14:05:46",
   "news": [
+    {
+      "type": "HackerNews",
+      "title": "DeepSeek V4 Flash 0731 Intelligence, Performance and Price Analysis",
+      "url": "https://artificialanalysis.ai/models/deepseek-v4-flash-ga",
+      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://artificialanalysis.ai/...",
+      "score": 215
+    },
     {
       "type": "HackerNews",
       "title": "The session you cannot take with you",
       "url": "https://earendil.com/posts/session-portability/",
       "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://earendil.com/posts/ses...",
-      "score": 424
+      "score": 553
     },
     {
       "type": "HackerNews",
-      "title": "DeepSeek V4 Flash 0731 Intelligence, Performance and Price Analysis",
-      "url": "https://artificialanalysis.ai/models/deepseek-v4-flash-ga",
-      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://artificialanalysis.ai/...",
-      "score": 47
+      "title": "Google fixed more Chrome bugs in June than over the past two years, thanks to AI",
+      "url": "https://blog.google/security/chrome-stronger-with-every-update/",
+      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://blog.google/security/c...",
+      "score": 233
+    },
+    {
+      "type": "HackerNews",
+      "title": "Situational Awareness Down 67% in July in AI Stock Rout",
+      "url": "https://www.wsj.com/finance/investing/situational-awareness-down-67-in-july-in-ai-stock-rout-cd19901f",
+      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.wsj.com/finance/in...",
+      "score": 27
+    },
+    {
+      "type": "HackerNews",
+      "title": "The End of an Era",
+      "url": "https://hughhowey.com/the-end-of-an-era/",
+      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://hughhowey.com/the-end-...",
+      "score": 186
     },
     {
       "type": "HackerNews",
       "title": "JEP 401: Value Objects (Preview) merged to OpenJDK master",
       "url": "https://github.com/openjdk/jdk/pull/31120",
       "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://github.com/openjdk/jdk...",
-      "score": 138
-    },
-    {
-      "type": "HackerNews",
-      "title": "Google fixed more Chrome bugs in June than over the past two years, thanks to AI",
-      "url": "https://blog.google/security/chrome-stronger-with-every-update/",
-      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://blog.google/security/c...",
-      "score": 131
+      "score": 175
     },
     {
       "type": "HackerNews",
       "title": "DeepSeek-V4-Flash Update",
       "url": "https://api-docs.deepseek.com/updates/",
-      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://api-docs.deepseek.com/...",
-      "score": 343
+      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://api-docs.deepseek.com/...",
+      "score": 438
     },
     {
       "type": "HackerNews",
       "title": "Stacked PRs are now live on GitHub",
       "url": "https://github.blog/changelog/2026-07-30-stacked-pull-requests-are-now-in-public-preview/",
-      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://github.blog/changelog/...",
-      "score": 669
-    },
-    {
-      "type": "HackerNews",
-      "title": "I flagged two research papers for fake authors and both were accepted as orals",
-      "url": "https://geospatialml.com/posts/reviewing-ai-slop/",
-      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://geospatialml.com/posts...",
-      "score": 218
-    },
-    {
-      "type": "HackerNews",
-      "title": "Gemini Robotics 2 brings whole body intelligence to robots",
-      "url": "https://deepmind.google/blog/gemini-robotics-2-brings-whole-body-intelligence-to-robots/",
-      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://deepmind.google/blog/g...",
-      "score": 570
+      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://github.blog/changelog/...",
+      "score": 719
     }
   ]
 }
