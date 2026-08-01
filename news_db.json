@@ -1,61 +1,61 @@
 {
-  "last_updated": "2026-08-01 13:19:51",
+  "last_updated": "2026-08-01 15:59:55",
   "news": [
+    {
+      "type": "HackerNews",
+      "title": "The Art of 64-bit Assembly",
+      "url": "https://nostarch.com/art-64-bit-assembly-v2",
+      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://nostarch.com/art-64-bi...",
+      "score": 43
+    },
     {
       "type": "HackerNews",
       "title": "RipGrep musl binaries occasionally segfault during very-large searches",
       "url": "https://github.com/BurntSushi/ripgrep/issues/3494",
-      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://github.com/BurntSushi/...",
-      "score": 46
+      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://github.com/BurntSushi/...",
+      "score": 140
+    },
+    {
+      "type": "HackerNews",
+      "title": "GitHub has alternatives, but no replacement",
+      "url": "https://lalitm.com/post/github-alternatives/",
+      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://lalitm.com/post/github...",
+      "score": 9
+    },
+    {
+      "type": "HackerNews",
+      "title": "A Surveillance Treaty in Disguise: Canada Signs UN Cybercrime Convention",
+      "url": "https://www.michaelgeist.ca/2026/07/a-surveillance-treaty-in-disguise-the-trouble-with-canadas-quiet-decision-to-sign-the-un-cybercrime-convention/",
+      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.michaelgeist.ca/20...",
+      "score": 110
+    },
+    {
+      "type": "HackerNews",
+      "title": "Charlie Stross – On the non-use of AI in my writing process",
+      "url": "https://www.antipope.org/charlie/blog-static/2026/08/on-the-non-use-of-ai-in-my-wri.html",
+      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.antipope.org/charl...",
+      "score": 23
+    },
+    {
+      "type": "HackerNews",
+      "title": "Indexing the Data Lake for Online Point Queries",
+      "url": "https://engineering.atspotify.com/2026/7/indexing-the-data-lake-for-online-point-queries",
+      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://engineering.atspotify....",
+      "score": 3
+    },
+    {
+      "type": "HackerNews",
+      "title": "Linux on ESP32",
+      "url": "https://github.com/GrieferPig/esp32-s31-linux",
+      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://github.com/GrieferPig/...",
+      "score": 26
     },
     {
       "type": "HackerNews",
       "title": "Elevators",
       "url": "https://john.fun/elevators",
       "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://john.fun/elevators...",
-      "score": 1402
-    },
-    {
-      "type": "HackerNews",
-      "title": "Flint: A Visualization Language for the AI Era",
-      "url": "https://microsoft.github.io/flint-chart/",
-      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://microsoft.github.io/fl...",
-      "score": 157
-    },
-    {
-      "type": "HackerNews",
-      "title": "qm – Multiplayer agent harness for work",
-      "url": "https://github.com/yc-software/qm",
-      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://github.com/yc-software...",
-      "score": 595
-    },
-    {
-      "type": "HackerNews",
-      "title": "Manual: •.,:;?·",
-      "url": "https://type.today/en/journal/dots",
-      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://type.today/en/journal/...",
-      "score": 28
-    },
-    {
-      "type": "HackerNews",
-      "title": "A tiny holdout building in the middle of Macy’s is back in view",
-      "url": "https://ephemeralnewyork.wordpress.com/2026/07/27/hidden-by-billboards-for-over-100-years-the-tiny-holdout-building-in-the-middle-of-macys-is-back-in-view/",
-      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://ephemeralnewyork.wordp...",
-      "score": 72
-    },
-    {
-      "type": "HackerNews",
-      "title": "Kontigo (YC S24) Is Hiring",
-      "url": "https://www.ycombinator.com/companies/kontigo/jobs/xAo6tMt-founding-engineer",
-      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.ycombinator.com/co...",
-      "score": 1
-    },
-    {
-      "type": "HackerNews",
-      "title": "How to Exist",
-      "url": "https://www.raptitude.com/2026/07/how-to-exist/",
-      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.raptitude.com/2026...",
-      "score": 259
+      "score": 1487
     }
   ]
 }
