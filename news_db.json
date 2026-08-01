@@ -1,61 +1,61 @@
 {
-  "last_updated": "2026-08-01 10:39:25",
+  "last_updated": "2026-08-01 13:19:51",
   "news": [
     {
       "type": "HackerNews",
-      "title": "AI doesn't generate working products, that's still your job",
-      "url": "https://weeraman.com/the-prototype-isnt-the-product/",
-      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://weeraman.com/the-proto...",
-      "score": 76
-    },
-    {
-      "type": "HackerNews",
-      "title": "RamenHaus",
-      "url": "https://ramen.haus/",
-      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://ramen.haus/...",
-      "score": 84
+      "title": "RipGrep musl binaries occasionally segfault during very-large searches",
+      "url": "https://github.com/BurntSushi/ripgrep/issues/3494",
+      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://github.com/BurntSushi/...",
+      "score": 46
     },
     {
       "type": "HackerNews",
       "title": "Elevators",
       "url": "https://john.fun/elevators",
-      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://john.fun/elevators...",
-      "score": 1317
+      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://john.fun/elevators...",
+      "score": 1402
     },
     {
       "type": "HackerNews",
       "title": "Flint: A Visualization Language for the AI Era",
       "url": "https://microsoft.github.io/flint-chart/",
-      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://microsoft.github.io/fl...",
-      "score": 127
-    },
-    {
-      "type": "HackerNews",
-      "title": "How to Do Great Work",
-      "url": "https://paulgraham.com/greatwork.html",
-      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://paulgraham.com/greatwo...",
-      "score": 17
-    },
-    {
-      "type": "HackerNews",
-      "title": "Solid Queue 1.6.0 now supports fiber workers",
-      "url": "https://github.com/rails/solid_queue/releases/tag/v1.6.0",
-      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://github.com/rails/solid...",
-      "score": 15
+      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://microsoft.github.io/fl...",
+      "score": 157
     },
     {
       "type": "HackerNews",
       "title": "qm – Multiplayer agent harness for work",
       "url": "https://github.com/yc-software/qm",
-      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://github.com/yc-software...",
-      "score": 579
+      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://github.com/yc-software...",
+      "score": 595
+    },
+    {
+      "type": "HackerNews",
+      "title": "Manual: •.,:;?·",
+      "url": "https://type.today/en/journal/dots",
+      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://type.today/en/journal/...",
+      "score": 28
+    },
+    {
+      "type": "HackerNews",
+      "title": "A tiny holdout building in the middle of Macy’s is back in view",
+      "url": "https://ephemeralnewyork.wordpress.com/2026/07/27/hidden-by-billboards-for-over-100-years-the-tiny-holdout-building-in-the-middle-of-macys-is-back-in-view/",
+      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://ephemeralnewyork.wordp...",
+      "score": 72
+    },
+    {
+      "type": "HackerNews",
+      "title": "Kontigo (YC S24) Is Hiring",
+      "url": "https://www.ycombinator.com/companies/kontigo/jobs/xAo6tMt-founding-engineer",
+      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.ycombinator.com/co...",
+      "score": 1
     },
     {
       "type": "HackerNews",
       "title": "How to Exist",
       "url": "https://www.raptitude.com/2026/07/how-to-exist/",
-      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.raptitude.com/2026...",
-      "score": 213
+      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.raptitude.com/2026...",
+      "score": 259
     }
   ]
 }
