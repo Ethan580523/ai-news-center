@@ -1,61 +1,61 @@
 {
-  "last_updated": "2026-08-01 02:47:08",
+  "last_updated": "2026-08-01 05:54:11",
   "news": [
     {
       "type": "HackerNews",
       "title": "Elevators",
       "url": "https://john.fun/elevators",
-      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://john.fun/elevators...",
-      "score": 930
+      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://john.fun/elevators...",
+      "score": 1104
     },
     {
       "type": "HackerNews",
-      "title": "qm – Multiplayer agent harness for work",
-      "url": "https://github.com/yc-software/qm",
-      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://github.com/yc-software...",
-      "score": 476
+      "title": "Flint: A Visualization Language for the AI Era",
+      "url": "https://microsoft.github.io/flint-chart/",
+      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://microsoft.github.io/fl...",
+      "score": 52
     },
     {
       "type": "HackerNews",
       "title": "How to Exist",
       "url": "https://www.raptitude.com/2026/07/how-to-exist/",
-      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.raptitude.com/2026...",
-      "score": 36
+      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.raptitude.com/2026...",
+      "score": 109
+    },
+    {
+      "type": "HackerNews",
+      "title": "The development pipeline is a production system",
+      "url": "https://sundry.jerryorr.com/2026/07/31/development-pipeline-is-a-production-system",
+      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://sundry.jerryorr.com/20...",
+      "score": 47
+    },
+    {
+      "type": "HackerNews",
+      "title": "qm – Multiplayer agent harness for work",
+      "url": "https://github.com/yc-software/qm",
+      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://github.com/yc-software...",
+      "score": 523
     },
     {
       "type": "HackerNews",
       "title": "Software for One",
       "url": "https://www.ajwaxman.com/writing/software-for-one",
-      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.ajwaxman.com/writi...",
+      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.ajwaxman.com/writi...",
+      "score": 71
+    },
+    {
+      "type": "HackerNews",
+      "title": "What Liberal Arts Education Is for (2024)",
+      "url": "https://innig.net/teaching/liberal-arts-manifesto",
+      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://innig.net/teaching/lib...",
       "score": 10
     },
     {
       "type": "HackerNews",
-      "title": "The Absurdity of Albert Camus",
-      "url": "https://www.historytoday.com/archive/portrait-author-historian/absurdity-albert-camus",
-      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.historytoday.com/a...",
-      "score": 62
-    },
-    {
-      "type": "HackerNews",
-      "title": "Progressive Web Components",
-      "url": "https://arielsalminen.com/2026/progressive-web-components/",
-      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://arielsalminen.com/2026...",
-      "score": 99
-    },
-    {
-      "type": "HackerNews",
-      "title": "June in Servo: real world compat, media queries, SharedWorker, and more",
-      "url": "https://servo.org/blog/2026/07/31/june-in-servo/",
-      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://servo.org/blog/2026/07...",
-      "score": 112
-    },
-    {
-      "type": "HackerNews",
-      "title": "Big Food vs. the People",
-      "url": "https://www.lighthousereports.com/investigation/big-food-vs-the-people/",
-      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.lighthousereports....",
-      "score": 197
+      "title": "BMW Spider-Man in-car advertising",
+      "url": "https://consumerrights.wiki/w/BMW_Spider-Man_in-car_advertising",
+      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://consumerrights.wiki/w/...",
+      "score": 152
     }
   ]
 }
