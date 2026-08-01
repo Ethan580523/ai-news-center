@@ -1,61 +1,61 @@
 {
-  "last_updated": "2026-08-01 15:59:55",
+  "last_updated": "2026-08-01 19:07:16",
   "news": [
+    {
+      "type": "HackerNews",
+      "title": "NetBSD 11.0 Released",
+      "url": "https://blog.netbsd.org/tnf/entry/netbsd_11_0_released",
+      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://blog.netbsd.org/tnf/en...",
+      "score": 59
+    },
     {
       "type": "HackerNews",
       "title": "The Art of 64-bit Assembly",
       "url": "https://nostarch.com/art-64-bit-assembly-v2",
-      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://nostarch.com/art-64-bi...",
-      "score": 43
+      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://nostarch.com/art-64-bi...",
+      "score": 113
+    },
+    {
+      "type": "HackerNews",
+      "title": "Postmortem for Kernel Soundness Bug #14576",
+      "url": "https://leodemoura.github.io/blog/2026-8-1-postmortem-for-kernel-soundness-bug-14576/",
+      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://leodemoura.github.io/b...",
+      "score": 12
+    },
+    {
+      "type": "HackerNews",
+      "title": "Kaisel – Routes as Values. Dart 3 Native Router for Flutter",
+      "url": "https://kaisel.dev/",
+      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://kaisel.dev/...",
+      "score": 28
+    },
+    {
+      "type": "HackerNews",
+      "title": "Explorative modeling: Train on the best of K guesses",
+      "url": "https://alexiglad.github.io/blog/2026/explorative_modeling/",
+      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://alexiglad.github.io/bl...",
+      "score": 45
+    },
+    {
+      "type": "HackerNews",
+      "title": "Pgtestdb's template cloning approach to testing is fast",
+      "url": "https://brandur.org/fragments/pgtestdb",
+      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://brandur.org/fragments/...",
+      "score": 37
+    },
+    {
+      "type": "HackerNews",
+      "title": "Tell HN: I hate your fuzzy search",
+      "url": null,
+      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：...",
+      "score": 33
     },
     {
       "type": "HackerNews",
       "title": "RipGrep musl binaries occasionally segfault during very-large searches",
       "url": "https://github.com/BurntSushi/ripgrep/issues/3494",
-      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://github.com/BurntSushi/...",
-      "score": 140
-    },
-    {
-      "type": "HackerNews",
-      "title": "GitHub has alternatives, but no replacement",
-      "url": "https://lalitm.com/post/github-alternatives/",
-      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://lalitm.com/post/github...",
-      "score": 9
-    },
-    {
-      "type": "HackerNews",
-      "title": "A Surveillance Treaty in Disguise: Canada Signs UN Cybercrime Convention",
-      "url": "https://www.michaelgeist.ca/2026/07/a-surveillance-treaty-in-disguise-the-trouble-with-canadas-quiet-decision-to-sign-the-un-cybercrime-convention/",
-      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.michaelgeist.ca/20...",
-      "score": 110
-    },
-    {
-      "type": "HackerNews",
-      "title": "Charlie Stross – On the non-use of AI in my writing process",
-      "url": "https://www.antipope.org/charlie/blog-static/2026/08/on-the-non-use-of-ai-in-my-wri.html",
-      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.antipope.org/charl...",
-      "score": 23
-    },
-    {
-      "type": "HackerNews",
-      "title": "Indexing the Data Lake for Online Point Queries",
-      "url": "https://engineering.atspotify.com/2026/7/indexing-the-data-lake-for-online-point-queries",
-      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://engineering.atspotify....",
-      "score": 3
-    },
-    {
-      "type": "HackerNews",
-      "title": "Linux on ESP32",
-      "url": "https://github.com/GrieferPig/esp32-s31-linux",
-      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://github.com/GrieferPig/...",
-      "score": 26
-    },
-    {
-      "type": "HackerNews",
-      "title": "Elevators",
-      "url": "https://john.fun/elevators",
-      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://john.fun/elevators...",
-      "score": 1487
+      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://github.com/BurntSushi/...",
+      "score": 202
     }
   ]
 }
