@@ -1,61 +1,61 @@
 {
-  "last_updated": "2026-08-01 05:54:11",
+  "last_updated": "2026-08-01 08:20:16",
   "news": [
+    {
+      "type": "HackerNews",
+      "title": "Ten advances in mathematics and theoretical computer science",
+      "url": "https://openai.com/index/ten-advances-in-mathematics/",
+      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://openai.com/index/ten-a...",
+      "score": 43
+    },
     {
       "type": "HackerNews",
       "title": "Elevators",
       "url": "https://john.fun/elevators",
-      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://john.fun/elevators...",
-      "score": 1104
+      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://john.fun/elevators...",
+      "score": 1239
     },
     {
       "type": "HackerNews",
       "title": "Flint: A Visualization Language for the AI Era",
       "url": "https://microsoft.github.io/flint-chart/",
       "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://microsoft.github.io/fl...",
-      "score": 52
+      "score": 98
     },
     {
       "type": "HackerNews",
       "title": "How to Exist",
       "url": "https://www.raptitude.com/2026/07/how-to-exist/",
       "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.raptitude.com/2026...",
-      "score": 109
-    },
-    {
-      "type": "HackerNews",
-      "title": "The development pipeline is a production system",
-      "url": "https://sundry.jerryorr.com/2026/07/31/development-pipeline-is-a-production-system",
-      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://sundry.jerryorr.com/20...",
-      "score": 47
+      "score": 169
     },
     {
       "type": "HackerNews",
       "title": "qm – Multiplayer agent harness for work",
       "url": "https://github.com/yc-software/qm",
       "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://github.com/yc-software...",
-      "score": 523
+      "score": 549
+    },
+    {
+      "type": "HackerNews",
+      "title": "The development pipeline is a production system",
+      "url": "https://sundry.jerryorr.com/2026/07/31/development-pipeline-is-a-production-system",
+      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://sundry.jerryorr.com/20...",
+      "score": 68
     },
     {
       "type": "HackerNews",
       "title": "Software for One",
       "url": "https://www.ajwaxman.com/writing/software-for-one",
-      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.ajwaxman.com/writi...",
-      "score": 71
+      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.ajwaxman.com/writi...",
+      "score": 93
     },
     {
       "type": "HackerNews",
-      "title": "What Liberal Arts Education Is for (2024)",
-      "url": "https://innig.net/teaching/liberal-arts-manifesto",
-      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://innig.net/teaching/lib...",
-      "score": 10
-    },
-    {
-      "type": "HackerNews",
-      "title": "BMW Spider-Man in-car advertising",
-      "url": "https://consumerrights.wiki/w/BMW_Spider-Man_in-car_advertising",
-      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://consumerrights.wiki/w/...",
-      "score": 152
+      "title": "Attention Decode on AMD MI450 GPUs: A Gluon Kernel Optimization Guide",
+      "url": "https://rocm.blogs.amd.com/software-tools-optimization/gluon-attention-decode-mi450/README.html",
+      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://rocm.blogs.amd.com/sof...",
+      "score": 21
     }
   ]
 }
