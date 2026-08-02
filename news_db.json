@@ -1,61 +1,61 @@
 {
-  "last_updated": "2026-08-02 15:59:57",
+  "last_updated": "2026-08-02 19:09:23",
   "news": [
+    {
+      "type": "HackerNews",
+      "title": "Show HN: Kakehashi – Experimental userspace to run macOS binaries on Linux ARM",
+      "url": "https://github.com/wie-project/kakehashi",
+      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://github.com/wie-project...",
+      "score": 76
+    },
+    {
+      "type": "HackerNews",
+      "title": "Developers are attached to tools because tools encode trust",
+      "url": "https://stackoverflow.blog/2026/07/29/developers-are-attached-to-tools-because-tools-encode-trust/",
+      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://stackoverflow.blog/202...",
+      "score": 44
+    },
+    {
+      "type": "HackerNews",
+      "title": "How the words we teach English language learners changed",
+      "url": "https://pudding.cool/2026/07/essential-words/",
+      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://pudding.cool/2026/07/e...",
+      "score": 132
+    },
+    {
+      "type": "HackerNews",
+      "title": "Rooting, firmware analysis and persistent credentials of TP-Link TL-841N",
+      "url": "https://blog.juni-mp4.com/posts/42/rooting-the-tplink-tl841n-pt1/",
+      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://blog.juni-mp4.com/post...",
+      "score": 39
+    },
+    {
+      "type": "HackerNews",
+      "title": "Show HN: NixOS-DGX-Spark – Nix and NixOS on the DGX Spark",
+      "url": "https://github.com/graham33/nixos-dgx-spark",
+      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://github.com/graham33/ni...",
+      "score": 37
+    },
+    {
+      "type": "HackerNews",
+      "title": "Harvesting SSH Credentials: Insights from My Honeypot Network",
+      "url": "https://uphillsecurity.com/articles/harvesting-ssh-credentials-insights-from-my-honeypot-network/",
+      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://uphillsecurity.com/art...",
+      "score": 13
+    },
     {
       "type": "HackerNews",
       "title": "Twenty Years of RISC OS Open",
       "url": "https://www.riscosopen.org/news/articles/2026/06/20/twenty-years-of-risc-os-open",
-      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.riscosopen.org/new...",
-      "score": 81
+      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.riscosopen.org/new...",
+      "score": 115
     },
     {
       "type": "HackerNews",
       "title": "F*: A general-purpose proof-oriented programming language",
       "url": "https://fstar-lang.org/",
-      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://fstar-lang.org/...",
-      "score": 61
-    },
-    {
-      "type": "HackerNews",
-      "title": "Meshdiff – visually compare two STL versions in the browser, client-side",
-      "url": "https://meshdiff.com/",
-      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://meshdiff.com/...",
-      "score": 114
-    },
-    {
-      "type": "HackerNews",
-      "title": "Show HN: Bor – Open-source policy management for Linux desktops",
-      "url": "https://getbor.dev/blog/2026-08-02-bor-v080-release/",
-      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://getbor.dev/blog/2026-0...",
-      "score": 121
-    },
-    {
-      "type": "HackerNews",
-      "title": "Folding Paper Globes",
-      "url": "https://foldingglobes.com/globes",
-      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://foldingglobes.com/glob...",
-      "score": 60
-    },
-    {
-      "type": "HackerNews",
-      "title": "Fasttracker II clone in C using SDL 2",
-      "url": "https://16-bits.org/ft2.php",
-      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://16-bits.org/ft2.php...",
-      "score": 38
-    },
-    {
-      "type": "HackerNews",
-      "title": "Artificial Intelligence: Ars Notoria and the Promise of Instant Knowledge",
-      "url": "https://publicdomainreview.org/essay/ars-notoria/",
-      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://publicdomainreview.org...",
-      "score": 82
-    },
-    {
-      "type": "HackerNews",
-      "title": "A Rant About “Technology” (2005)",
-      "url": "https://www.ursulakleguin.com/a-rant-about-technology",
-      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.ursulakleguin.com/...",
-      "score": 74
+      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://fstar-lang.org/...",
+      "score": 107
     }
   ]
 }
