@@ -1,61 +1,61 @@
 {
-  "last_updated": "2026-08-02 13:20:20",
+  "last_updated": "2026-08-02 15:59:57",
   "news": [
     {
       "type": "HackerNews",
       "title": "Twenty Years of RISC OS Open",
       "url": "https://www.riscosopen.org/news/articles/2026/06/20/twenty-years-of-risc-os-open",
       "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.riscosopen.org/new...",
-      "score": 15
+      "score": 81
+    },
+    {
+      "type": "HackerNews",
+      "title": "F*: A general-purpose proof-oriented programming language",
+      "url": "https://fstar-lang.org/",
+      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://fstar-lang.org/...",
+      "score": 61
     },
     {
       "type": "HackerNews",
       "title": "Meshdiff – visually compare two STL versions in the browser, client-side",
       "url": "https://meshdiff.com/",
-      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://meshdiff.com/...",
-      "score": 63
+      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://meshdiff.com/...",
+      "score": 114
     },
     {
       "type": "HackerNews",
       "title": "Show HN: Bor – Open-source policy management for Linux desktops",
       "url": "https://getbor.dev/blog/2026-08-02-bor-v080-release/",
-      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://getbor.dev/blog/2026-0...",
-      "score": 68
+      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://getbor.dev/blog/2026-0...",
+      "score": 121
     },
     {
       "type": "HackerNews",
-      "title": "The Vanishing Page: AI Firms Scan Then Destroy Rare Book Editions",
-      "url": "https://dallasexpress.com/national/the-vanishing-page-ai-firms-scan-then-destroy-rare-book-editions/",
-      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://dallasexpress.com/nati...",
-      "score": 43
+      "title": "Folding Paper Globes",
+      "url": "https://foldingglobes.com/globes",
+      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://foldingglobes.com/glob...",
+      "score": 60
     },
     {
       "type": "HackerNews",
-      "title": "Only 8.9% of sites block AI crawlers, but 94.8% are never cited in AI answers",
-      "url": "https://website-auditor.io/ai-visibility-index",
-      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://website-auditor.io/ai-...",
-      "score": 34
-    },
-    {
-      "type": "HackerNews",
-      "title": "Show HN: Syncular – offline-first SQL sync with TypeScript and Rust cores",
-      "url": "https://github.com/syncular/syncular",
-      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://github.com/syncular/sy...",
-      "score": 34
+      "title": "Fasttracker II clone in C using SDL 2",
+      "url": "https://16-bits.org/ft2.php",
+      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://16-bits.org/ft2.php...",
+      "score": 38
     },
     {
       "type": "HackerNews",
       "title": "Artificial Intelligence: Ars Notoria and the Promise of Instant Knowledge",
       "url": "https://publicdomainreview.org/essay/ars-notoria/",
-      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://publicdomainreview.org...",
-      "score": 45
+      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://publicdomainreview.org...",
+      "score": 82
     },
     {
       "type": "HackerNews",
-      "title": "Wikimedia Foundation refuses union recognition, hires union-busting law firm",
-      "url": "https://en.wikipedia.org/wiki/Wikipedia:Wikipedia_Signpost/2026-08-02/News_and_notes",
-      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://en.wikipedia.org/wiki/...",
-      "score": 138
+      "title": "A Rant About “Technology” (2005)",
+      "url": "https://www.ursulakleguin.com/a-rant-about-technology",
+      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.ursulakleguin.com/...",
+      "score": 74
     }
   ]
 }
