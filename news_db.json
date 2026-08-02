@@ -1,61 +1,61 @@
 {
-  "last_updated": "2026-08-01 21:55:45",
+  "last_updated": "2026-08-02 02:46:15",
   "news": [
     {
       "type": "HackerNews",
-      "title": "The Silicon Valley Founder Meat Grinder",
-      "url": "https://zaksa.zip/blog/silicon-valley-founder-meat-grinder/",
-      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://zaksa.zip/blog/silicon...",
-      "score": 107
+      "title": "Go 1.27 Interactive Tour",
+      "url": "https://victoriametrics.com/blog/go-1-27/index.html",
+      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://victoriametrics.com/bl...",
+      "score": 43
     },
     {
       "type": "HackerNews",
-      "title": "How Google helped destroy adoption of RSS feeds (2023)",
-      "url": "https://openrss.org/blog/how-google-helped-destroy-adoption-of-rss-feeds",
-      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://openrss.org/blog/how-g...",
-      "score": 197
+      "title": "Seedance 2.5",
+      "url": "https://seed.bytedance.com/en/blog/one-take-creation-flexible-referencing-introducing-seedance-2-5",
+      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://seed.bytedance.com/en/...",
+      "score": 203
+    },
+    {
+      "type": "HackerNews",
+      "title": "ASRock BC-250: Building the Budget Steam Machine",
+      "url": "https://plug-world.com/posts/2026/asrock-bc250-the-budget-steam-machine/",
+      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://plug-world.com/posts/2...",
+      "score": 15
     },
     {
       "type": "HackerNews",
       "title": "Diátaxis",
       "url": "https://diataxis.fr/",
       "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://diataxis.fr/...",
-      "score": 53
+      "score": 215
     },
     {
       "type": "HackerNews",
-      "title": "Postmortem for Kernel Soundness Bug #14576",
-      "url": "https://leodemoura.github.io/blog/2026-8-1-postmortem-for-kernel-soundness-bug-14576/",
-      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://leodemoura.github.io/b...",
-      "score": 85
+      "title": "Show HN: I'm a 15 Year Old Wannabe Engineer, This Is a Cycloidal Gearbox I Built",
+      "url": "https://github.com/tom-ilan/cycloidal_gearbox",
+      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://github.com/tom-ilan/cy...",
+      "score": 15
     },
     {
       "type": "HackerNews",
-      "title": "The 14 Steps it takes to open my office door with a new phone",
-      "url": "https://shub.club/writings/2026/august/14-steps-to-open-a-door/",
-      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://shub.club/writings/202...",
-      "score": 8
+      "title": "RFC 10015: Deprecating Obsolete Key Exchange Methods in TLS 1.2 and DTLS 1.2",
+      "url": "https://www.rfc-editor.org/rfc/rfc10015.html",
+      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.rfc-editor.org/rfc...",
+      "score": 32
     },
     {
       "type": "HackerNews",
-      "title": "But can your calculator run Linux?",
-      "url": "https://raymii.org/s/articles/But_can_your_calculator_run_Linux.html",
-      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://raymii.org/s/articles/...",
-      "score": 31
+      "title": "AI financial advice is surprisingly good, especially if you ask right questions",
+      "url": "https://mitsloan.mit.edu/ideas-made-to-matter/ai-financial-advice-surprisingly-good-especially-if-you-ask-right-questions",
+      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://mitsloan.mit.edu/ideas...",
+      "score": 185
     },
     {
       "type": "HackerNews",
-      "title": "The Art of 64-bit Assembly",
-      "url": "https://nostarch.com/art-64-bit-assembly-v2",
-      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://nostarch.com/art-64-bi...",
-      "score": 152
-    },
-    {
-      "type": "HackerNews",
-      "title": "CISA Alert: Water Sector PLC Targeting",
-      "url": "https://censys.com/blog/cisa-alert-water-tower-plc-targeting/",
-      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://censys.com/blog/cisa-a...",
-      "score": 26
+      "title": "Four Time Scales for Technology Development and Deployment",
+      "url": "https://rodneybrooks.com/four-time-scales-for-technology-development-and-deployment/",
+      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://rodneybrooks.com/four-...",
+      "score": 5
     }
   ]
 }
