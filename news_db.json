@@ -1,61 +1,61 @@
 {
-  "last_updated": "2026-08-03 02:47:33",
+  "last_updated": "2026-08-03 06:22:36",
   "news": [
     {
       "type": "HackerNews",
-      "title": "CP/M-386 – CP/M for 386 protected mode, derived from CP/M‑68K",
-      "url": "https://github.com/johnsonjh/cpm386",
-      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://github.com/johnsonjh/c...",
-      "score": 33
+      "title": "Qwen3.8-Max: A New Bar for Coding and Cowork",
+      "url": "https://qwen.ai/blog?id=qwen3.8",
+      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://qwen.ai/blog?id=qwen3....",
+      "score": 373
     },
     {
       "type": "HackerNews",
-      "title": "Show HN: Isopolis – isometric pixel map of SF",
+      "title": "Show HN: Isopolis – Isometric pixel map of SF",
       "url": "https://sf.isopolis.city/",
-      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://sf.isopolis.city/...",
-      "score": 40
+      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://sf.isopolis.city/...",
+      "score": 157
     },
     {
       "type": "HackerNews",
       "title": "Karpathy’s Pelican",
       "url": "https://twitter.com/karpathy/status/2083749667410727319",
-      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://twitter.com/karpathy/s...",
-      "score": 458
+      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://twitter.com/karpathy/s...",
+      "score": 530
     },
     {
       "type": "HackerNews",
-      "title": "Why Book Corners won't sync contributions back to OpenStreetMap",
-      "url": "https://www.andreagrandi.it/posts/why-book-corners-wont-sync-contributions-back-to-openstreetmap/",
-      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.andreagrandi.it/po...",
-      "score": 47
+      "title": "CP/M-386 – CP/M for 386 protected mode, derived from CP/M‑68K",
+      "url": "https://github.com/johnsonjh/cpm386",
+      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://github.com/johnsonjh/c...",
+      "score": 58
+    },
+    {
+      "type": "HackerNews",
+      "title": "AI migrated legacy COBOL programs to Java, bugs included",
+      "url": "https://arxiv.org/abs/2607.28271",
+      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://arxiv.org/abs/2607.282...",
+      "score": 24
+    },
+    {
+      "type": "HackerNews",
+      "title": "Why we write our own C and C++ inference engines",
+      "url": "https://localai.io/blog/why-we-write-our-own-engines/",
+      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://localai.io/blog/why-we...",
+      "score": 26
     },
     {
       "type": "HackerNews",
       "title": "Autoregressive Language Model on the 6502 Processor",
       "url": "https://mattbeton.com/blog/bitnet-6502.html",
-      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://mattbeton.com/blog/bit...",
-      "score": 66
-    },
-    {
-      "type": "HackerNews",
-      "title": "Show HN: ssh ssh.place",
-      "url": "https://ssh.place",
-      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://ssh.place...",
-      "score": 30
-    },
-    {
-      "type": "HackerNews",
-      "title": "RFC 9851: TLS 1.2 is in Feature Freeze",
-      "url": "https://www.rfc-editor.org/rfc/rfc9851.html",
-      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.rfc-editor.org/rfc...",
-      "score": 14
+      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://mattbeton.com/blog/bit...",
+      "score": 89
     },
     {
       "type": "HackerNews",
       "title": "Show HN: Kakehashi – Experimental userspace to run macOS binaries on Linux ARM",
       "url": "https://github.com/wie-project/kakehashi",
-      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://github.com/wie-project...",
-      "score": 186
+      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://github.com/wie-project...",
+      "score": 205
     }
   ]
 }
