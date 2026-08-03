@@ -1,61 +1,61 @@
 {
-  "last_updated": "2026-08-03 12:22:28",
+  "last_updated": "2026-08-03 17:08:25",
   "news": [
     {
       "type": "HackerNews",
       "title": "Critical CVE issued for hallucinated SQLite vulnerability",
       "url": "https://research.jfrog.com/post/sqlite-critical-cves-or-llm-slops/",
       "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://research.jfrog.com/pos...",
-      "score": 105
+      "score": 602
     },
     {
       "type": "HackerNews",
-      "title": "Don't be a meat proxy",
-      "url": "https://gruhn.me/blog/2026-08-03/",
-      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://gruhn.me/blog/2026-08-...",
-      "score": 852
+      "title": "Devtools must be open source",
+      "url": "https://blog.exe.dev/devtools-must-be-open-source",
+      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://blog.exe.dev/devtools-...",
+      "score": 176
     },
     {
       "type": "HackerNews",
-      "title": "Qwen3.8-Max: A New Bar for Coding and Cowork",
-      "url": "https://qwen.ai/blog?id=qwen3.8",
-      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://qwen.ai/blog?id=qwen3....",
-      "score": 691
+      "title": "Taylor Farms Has Rewritten Its Cyclospora Statement Four Times in Sixteen Days",
+      "url": "https://www.marlerblog.com/case-news/taylor-farms-has-rewritten-its-cyclospora-statement-four-times-in-sixteen-days-it-still-has-not-said-what-changed-at-that-plant-after-2013-or-why-two-thousand-negative-tests-should-mean-an/",
+      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.marlerblog.com/cas...",
+      "score": 169
     },
     {
       "type": "HackerNews",
-      "title": "Bonsai: Janestreet's UI Library",
-      "url": "https://github.com/janestreet/bonsai",
-      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://github.com/janestreet/...",
-      "score": 86
+      "title": "MiniMax H3 Day-0 Support in ComfyUI: Open Weights, Native Audio, and 2K Video",
+      "url": "https://blog.comfy.org/p/minimax-h3-day-0-support-in-comfyui",
+      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://blog.comfy.org/p/minim...",
+      "score": 145
     },
     {
       "type": "HackerNews",
-      "title": "Show HN: Nightcrawler – A local AI pentesting agent running on a smartphone",
-      "url": "https://github.com/garagehq/nightcrawler/",
-      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://github.com/garagehq/ni...",
+      "title": "Launch HN: Hoplite (YC S26) – Effortlessly deploy cloud coding agents",
+      "url": "https://hoplite.sh",
+      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://hoplite.sh...",
       "score": 12
     },
     {
       "type": "HackerNews",
-      "title": "ICE Collected Nearly 1M People's DNA Last Year–Including Young Children",
-      "url": "https://www.wired.com/story/ice-dna-collection-fbi-codis/",
-      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.wired.com/story/ic...",
-      "score": 50
+      "title": "Andy Pavlo Joins ClickHouse to Establish ClickHouse Labs",
+      "url": "https://clickhouse.com/blog/andy-pavlo-joins-clickhouse",
+      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://clickhouse.com/blog/an...",
+      "score": 114
     },
     {
       "type": "HackerNews",
-      "title": "Prevent cognitive debt by manually retyping LLM-generated code",
-      "url": "https://ankursethi.com/blog/prevent-cognitive-debt-by-manually-retyping-llm-generated-code/",
-      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://ankursethi.com/blog/pr...",
-      "score": 122
+      "title": "Wind and solar overtake fossil fuels in Germany for the first time",
+      "url": "https://www.intellinews.com/wind-and-solar-overtake-fossil-fuels-in-germany-for-the-first-time-ever-458379/",
+      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.intellinews.com/wi...",
+      "score": 73
     },
     {
       "type": "HackerNews",
-      "title": "Octane – React's programming model, compiled",
-      "url": "https://octanejs.dev",
-      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://octanejs.dev...",
-      "score": 48
+      "title": "What's the largest software project AI can complete on its own?",
+      "url": "https://epoch.ai/MirrorCode",
+      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://epoch.ai/MirrorCode...",
+      "score": 24
     }
   ]
 }
