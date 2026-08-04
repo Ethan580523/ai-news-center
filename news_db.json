@@ -1,61 +1,61 @@
 {
-  "last_updated": "2026-08-04 16:50:15",
+  "last_updated": "2026-08-04 19:36:46",
   "news": [
+    {
+      "type": "HackerNews",
+      "title": "Why some people mow a lawn better than others",
+      "url": "https://pudding.cool/2026/06/mow/",
+      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://pudding.cool/2026/06/m...",
+      "score": 67
+    },
     {
       "type": "HackerNews",
       "title": "Show HN: Simple algorithm and color space to generate diverse skin tones",
       "url": "https://toneyalexander.github.io/inclusive-color-space/",
-      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://toneyalexander.github....",
-      "score": 122
+      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://toneyalexander.github....",
+      "score": 303
     },
     {
       "type": "HackerNews",
-      "title": "Ray Bradbury's \"There Will Come Soft Rains\" is set today (2026-08-04)",
-      "url": "https://short-stories.co/@raybradbury/there-will-come-soft-rains-6k8vr4xxlnmj",
-      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://short-stories.co/@rayb...",
-      "score": 423
+      "title": "Waymo – Dallas Open to All",
+      "url": "https://waymo.com/blog/shorts/dallas-open-to-all/",
+      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://waymo.com/blog/shorts/...",
+      "score": 30
     },
     {
       "type": "HackerNews",
-      "title": "When AI Benchmarks Plateau: A Systematic Study of Benchmark Saturation",
-      "url": "https://arxiv.org/abs/2602.16763",
-      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://arxiv.org/abs/2602.167...",
-      "score": 13
+      "title": "Investors in Situational Awareness deserved to lose their shirts",
+      "url": "https://www.economist.com/finance-and-economics/2026/08/04/investors-in-situational-awareness-deserved-to-lose-their-shirts",
+      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.economist.com/fina...",
+      "score": 14
     },
     {
       "type": "HackerNews",
-      "title": "Germany Records Historic 12B KWh Solar Feed-In in July 2026",
-      "url": "https://solarquarter.com/2026/08/03/germany-records-historic-12-billion-kwh-solar-feed-in-in-july-2026/",
-      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://solarquarter.com/2026/...",
-      "score": 80
+      "title": "Mistral's Shieldstral: 3B open-weights model for multimodal moderation",
+      "url": "https://mistral.ai/news/shieldstral/",
+      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://mistral.ai/news/shield...",
+      "score": 57
     },
     {
       "type": "HackerNews",
-      "title": "DeepSeek V4 Flash on a Single AMD MI300X",
-      "url": "https://github.com/ryanzhou/deepseek-v4-flash-mi300x",
-      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://github.com/ryanzhou/de...",
-      "score": 271
+      "title": "Hop.earth – OpenStreetMap based car racing game",
+      "url": "https://hop.earth/?server=lkhr7&route=fQ5nuu9R",
+      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://hop.earth/?server=lkhr...",
+      "score": 33
     },
     {
       "type": "HackerNews",
-      "title": "Dates That Don't Exist (2015)",
-      "url": "https://blog.yossarian.net/2015/06/09/Dates-That-Dont-Exist",
-      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://blog.yossarian.net/201...",
-      "score": 61
+      "title": "The Warp Agent CLI",
+      "url": "https://www.warp.dev/blog/introducing-the-warp-agent-cli-coding-agent",
+      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.warp.dev/blog/intr...",
+      "score": 53
     },
     {
       "type": "HackerNews",
-      "title": "Keyv and friends compromised in active Shai-Hulud supply chain attack",
-      "url": "https://www.aikido.dev/blog/keyv-and-friends-compromised-in-npm-supply-chain-attack",
-      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.aikido.dev/blog/ke...",
-      "score": 130
-    },
-    {
-      "type": "HackerNews",
-      "title": "LLMs reward expertise",
-      "url": "https://www.seangoedecke.com/llms-reward-expertise/",
-      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.seangoedecke.com/l...",
-      "score": 1238
+      "title": "Launch HN: EdotEnv (YC S26) – Quant Trading RL Envs to Teach LLMs Research",
+      "url": "https://edotenv.com/",
+      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://edotenv.com/...",
+      "score": 11
     }
   ]
 }
