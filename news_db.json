@@ -1,61 +1,61 @@
 {
-  "last_updated": "2026-08-04 14:10:32",
+  "last_updated": "2026-08-04 16:50:15",
   "news": [
+    {
+      "type": "HackerNews",
+      "title": "Show HN: Simple algorithm and color space to generate diverse skin tones",
+      "url": "https://toneyalexander.github.io/inclusive-color-space/",
+      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://toneyalexander.github....",
+      "score": 122
+    },
     {
       "type": "HackerNews",
       "title": "Ray Bradbury's \"There Will Come Soft Rains\" is set today (2026-08-04)",
       "url": "https://short-stories.co/@raybradbury/there-will-come-soft-rains-6k8vr4xxlnmj",
-      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://short-stories.co/@rayb...",
-      "score": 176
+      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://short-stories.co/@rayb...",
+      "score": 423
+    },
+    {
+      "type": "HackerNews",
+      "title": "When AI Benchmarks Plateau: A Systematic Study of Benchmark Saturation",
+      "url": "https://arxiv.org/abs/2602.16763",
+      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://arxiv.org/abs/2602.167...",
+      "score": 13
+    },
+    {
+      "type": "HackerNews",
+      "title": "Germany Records Historic 12B KWh Solar Feed-In in July 2026",
+      "url": "https://solarquarter.com/2026/08/03/germany-records-historic-12-billion-kwh-solar-feed-in-in-july-2026/",
+      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://solarquarter.com/2026/...",
+      "score": 80
     },
     {
       "type": "HackerNews",
       "title": "DeepSeek V4 Flash on a Single AMD MI300X",
       "url": "https://github.com/ryanzhou/deepseek-v4-flash-mi300x",
       "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://github.com/ryanzhou/de...",
-      "score": 172
+      "score": 271
     },
     {
       "type": "HackerNews",
-      "title": "Xbox goes down. You can't play games you own on disc",
-      "url": "https://birchtree.me/blog/xbox-goes-down-you-cant-play-games-you-own-on-disc/",
-      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://birchtree.me/blog/xbox...",
-      "score": 191
-    },
-    {
-      "type": "HackerNews",
-      "title": "LLMs reward expertise",
-      "url": "https://www.seangoedecke.com/llms-reward-expertise/",
-      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.seangoedecke.com/l...",
-      "score": 1130
-    },
-    {
-      "type": "HackerNews",
-      "title": "Buckminster Fuller: everything I know",
-      "url": "https://www.bfi.org/about-fuller/everything-i-know/",
-      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.bfi.org/about-full...",
-      "score": 43
-    },
-    {
-      "type": "HackerNews",
-      "title": "Show HN: Fine-tune an 8B model on a 4 GB laptop GPU",
-      "url": "https://github.com/MakazhanAlpamys/Soup",
-      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://github.com/MakazhanAlp...",
-      "score": 40
-    },
-    {
-      "type": "HackerNews",
-      "title": "Harness Engineering for Self-Improvement",
-      "url": "https://lilianweng.github.io/posts/2026-07-04-harness/",
-      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://lilianweng.github.io/p...",
-      "score": 147
+      "title": "Dates That Don't Exist (2015)",
+      "url": "https://blog.yossarian.net/2015/06/09/Dates-That-Dont-Exist",
+      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://blog.yossarian.net/201...",
+      "score": 61
     },
     {
       "type": "HackerNews",
       "title": "Keyv and friends compromised in active Shai-Hulud supply chain attack",
       "url": "https://www.aikido.dev/blog/keyv-and-friends-compromised-in-npm-supply-chain-attack",
-      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.aikido.dev/blog/ke...",
-      "score": 50
+      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.aikido.dev/blog/ke...",
+      "score": 130
+    },
+    {
+      "type": "HackerNews",
+      "title": "LLMs reward expertise",
+      "url": "https://www.seangoedecke.com/llms-reward-expertise/",
+      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.seangoedecke.com/l...",
+      "score": 1238
     }
   ]
 }
