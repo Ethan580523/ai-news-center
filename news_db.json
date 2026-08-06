@@ -1,61 +1,61 @@
 {
-  "last_updated": "2026-08-06 08:35:01",
+  "last_updated": "2026-08-06 11:22:21",
   "news": [
-    {
-      "type": "HackerNews",
-      "title": "Crime Pays but Botany Doesn't",
-      "url": "https://www.crimepaysbutbotanydoesnt.com/reading-list",
-      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.crimepaysbutbotany...",
-      "score": 138
-    },
-    {
-      "type": "HackerNews",
-      "title": "What I love about Django",
-      "url": "https://buttondown.com/blog/what-i-love-about-django",
-      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://buttondown.com/blog/wh...",
-      "score": 26
-    },
     {
       "type": "HackerNews",
       "title": "How to Make a Nintendo 64 Game in 2026",
       "url": "https://phoboslab.org/log/2026/08/xibalba64-making-of",
-      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://phoboslab.org/log/2026...",
-      "score": 29
+      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://phoboslab.org/log/2026...",
+      "score": 127
+    },
+    {
+      "type": "HackerNews",
+      "title": "Crime Pays but Botany Doesn't",
+      "url": "https://www.crimepaysbutbotanydoesnt.com/reading-list",
+      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.crimepaysbutbotany...",
+      "score": 262
     },
     {
       "type": "HackerNews",
       "title": "Let's all meet up in the Y2K",
       "url": "https://blog.gingerbeardman.com/2026/08/06/lets-all-meet-up-in-the-y2k/",
-      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://blog.gingerbeardman.co...",
-      "score": 20
+      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://blog.gingerbeardman.co...",
+      "score": 67
     },
     {
       "type": "HackerNews",
       "title": "Discovery Loop",
       "url": "https://www.discoveryloop.com/",
-      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.discoveryloop.com/...",
-      "score": 739
+      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.discoveryloop.com/...",
+      "score": 775
+    },
+    {
+      "type": "HackerNews",
+      "title": "Pareto Front",
+      "url": "https://en.wikipedia.org/wiki/Pareto_front",
+      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://en.wikipedia.org/wiki/...",
+      "score": 12
     },
     {
       "type": "HackerNews",
       "title": "Changes at Google DeepMind: Demis Hassabis from CEO to Chair, Jeff Dean departs",
       "url": "https://blog.google/company-news/inside-google/message-ceo/next-chapter-ai-momentum/",
-      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://blog.google/company-ne...",
-      "score": 644
+      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://blog.google/company-ne...",
+      "score": 679
     },
     {
       "type": "HackerNews",
       "title": "Zed DeltaDB",
       "url": "https://zed.dev/deltadb",
-      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://zed.dev/deltadb...",
-      "score": 411
+      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://zed.dev/deltadb...",
+      "score": 446
     },
     {
       "type": "HackerNews",
       "title": "The title cards in Blade Runner are amazing",
       "url": "https://randsinrepose.com/archives/blade-runner-title-cards/",
-      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://randsinrepose.com/arch...",
-      "score": 252
+      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://randsinrepose.com/arch...",
+      "score": 288
     }
   ]
 }
