@@ -1,61 +1,61 @@
 {
-  "last_updated": "2026-08-06 14:08:13",
+  "last_updated": "2026-08-06 23:58:48",
   "news": [
+    {
+      "type": "HackerNews",
+      "title": "AMD acquires Taalas to boost inference performance by etching models in silicon",
+      "url": "https://www.theregister.com/systems/2026/08/06/amd-acquires-ai-chip-startup-taalas-to-boost-inference-performance-by-etching-models-into-silicon/5284344",
+      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.theregister.com/sy...",
+      "score": 291
+    },
+    {
+      "type": "HackerNews",
+      "title": "Scientists discover Kelvin-Helmholtz Instability on the surface of the Sun",
+      "url": "https://nso.edu/press-release/nsf-inouye-solar-telescope-enables-major-discovery-of-a-hidden-solar-process/",
+      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://nso.edu/press-release/...",
+      "score": 112
+    },
+    {
+      "type": "HackerNews",
+      "title": "Welcoming the Nepalese Government to Have I Been Pwned",
+      "url": "https://www.troyhunt.com/welcoming-the-nepalese-government-to-have-i-been-pwned/",
+      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.troyhunt.com/welco...",
+      "score": 51
+    },
     {
       "type": "HackerNews",
       "title": "Mario Meets Pareto",
       "url": "https://www.mayerowitz.io/blog/mario-meets-pareto",
-      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.mayerowitz.io/blog...",
-      "score": 194
+      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.mayerowitz.io/blog...",
+      "score": 843
     },
     {
       "type": "HackerNews",
-      "title": "Humans missed 1 in 3 threats approving AI agent commands across 40k game runs",
-      "url": "https://scalex.dev/blog/ai-agent-permissions-stats/",
-      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://scalex.dev/blog/ai-age...",
-      "score": 48
+      "title": "Herdr is joining Y Combinator. The runtime stays open",
+      "url": "https://herdr.dev/blog/herdr-is-joining-y-combinator/",
+      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://herdr.dev/blog/herdr-i...",
+      "score": 121
     },
     {
       "type": "HackerNews",
-      "title": "How to Make a Nintendo 64 Game in 2026",
-      "url": "https://phoboslab.org/log/2026/08/xibalba64-making-of",
-      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://phoboslab.org/log/2026...",
-      "score": 263
+      "title": "Taste Is All That's Left",
+      "url": "https://notashelf.dev/posts/taste-is-all-thats-left",
+      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://notashelf.dev/posts/ta...",
+      "score": 161
     },
     {
       "type": "HackerNews",
-      "title": "Crime Pays but Botany Doesn't",
-      "url": "https://www.crimepaysbutbotanydoesnt.com/reading-list",
-      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.crimepaysbutbotany...",
-      "score": 377
+      "title": "Inside vLLM: Anatomy of a High-Throughput LLM Inference System (2025)",
+      "url": "https://www.aleksagordic.com/blog/vllm",
+      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.aleksagordic.com/b...",
+      "score": 34
     },
     {
       "type": "HackerNews",
-      "title": "Pareto Front",
-      "url": "https://en.wikipedia.org/wiki/Pareto_front",
-      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://en.wikipedia.org/wiki/...",
-      "score": 94
-    },
-    {
-      "type": "HackerNews",
-      "title": "I added a real-time chat to my blog, people used it to attack me",
-      "url": "https://en.andros.dev/blog/b6c32a90/i-added-a-real-time-chat-to-my-blog-people-used-it-to-attack-me/",
-      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://en.andros.dev/blog/b6c...",
-      "score": 3
-    },
-    {
-      "type": "HackerNews",
-      "title": "Discovery Loop",
-      "url": "https://www.discoveryloop.com/",
-      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.discoveryloop.com/...",
-      "score": 810
-    },
-    {
-      "type": "HackerNews",
-      "title": "Changes at Google DeepMind: Demis Hassabis from CEO to Chair, Jeff Dean departs",
-      "url": "https://blog.google/company-news/inside-google/message-ceo/next-chapter-ai-momentum/",
-      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://blog.google/company-ne...",
-      "score": 732
+      "title": "Launch HN: ProvenMetal (YC S26) delivers circuit boards in days instead of weeks",
+      "url": "https://provenmetal.com",
+      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://provenmetal.com...",
+      "score": 180
     }
   ]
 }
