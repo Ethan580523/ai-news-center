@@ -1,61 +1,61 @@
 {
-  "last_updated": "2026-08-06 23:58:48",
+  "last_updated": "2026-08-07 03:11:25",
   "news": [
     {
       "type": "HackerNews",
       "title": "AMD acquires Taalas to boost inference performance by etching models in silicon",
       "url": "https://www.theregister.com/systems/2026/08/06/amd-acquires-ai-chip-startup-taalas-to-boost-inference-performance-by-etching-models-into-silicon/5284344",
-      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.theregister.com/sy...",
-      "score": 291
+      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.theregister.com/sy...",
+      "score": 425
+    },
+    {
+      "type": "HackerNews",
+      "title": "Mario Meets Pareto",
+      "url": "https://www.mayerowitz.io/blog/mario-meets-pareto",
+      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.mayerowitz.io/blog...",
+      "score": 910
     },
     {
       "type": "HackerNews",
       "title": "Scientists discover Kelvin-Helmholtz Instability on the surface of the Sun",
       "url": "https://nso.edu/press-release/nsf-inouye-solar-telescope-enables-major-discovery-of-a-hidden-solar-process/",
-      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://nso.edu/press-release/...",
-      "score": 112
+      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://nso.edu/press-release/...",
+      "score": 158
+    },
+    {
+      "type": "HackerNews",
+      "title": "I stopped trusting USB-C cable labels and started testing them",
+      "url": "https://www.makeuseof.com/i-stopped-trusting-usb-c-cable-labels-started-testing-with-meter-instead/",
+      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.makeuseof.com/i-st...",
+      "score": 101
     },
     {
       "type": "HackerNews",
       "title": "Welcoming the Nepalese Government to Have I Been Pwned",
       "url": "https://www.troyhunt.com/welcoming-the-nepalese-government-to-have-i-been-pwned/",
       "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.troyhunt.com/welco...",
-      "score": 51
-    },
-    {
-      "type": "HackerNews",
-      "title": "Mario Meets Pareto",
-      "url": "https://www.mayerowitz.io/blog/mario-meets-pareto",
-      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.mayerowitz.io/blog...",
-      "score": 843
-    },
-    {
-      "type": "HackerNews",
-      "title": "Herdr is joining Y Combinator. The runtime stays open",
-      "url": "https://herdr.dev/blog/herdr-is-joining-y-combinator/",
-      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://herdr.dev/blog/herdr-i...",
-      "score": 121
+      "score": 102
     },
     {
       "type": "HackerNews",
       "title": "Taste Is All That's Left",
       "url": "https://notashelf.dev/posts/taste-is-all-thats-left",
-      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://notashelf.dev/posts/ta...",
-      "score": 161
+      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://notashelf.dev/posts/ta...",
+      "score": 232
+    },
+    {
+      "type": "HackerNews",
+      "title": "Bioengineered chewing gum may offer a way to fight HPV and other microbes",
+      "url": "https://www.sciencedaily.com/releases/2026/08/260803080917.htm",
+      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.sciencedaily.com/r...",
+      "score": 66
     },
     {
       "type": "HackerNews",
       "title": "Inside vLLM: Anatomy of a High-Throughput LLM Inference System (2025)",
       "url": "https://www.aleksagordic.com/blog/vllm",
       "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.aleksagordic.com/b...",
-      "score": 34
-    },
-    {
-      "type": "HackerNews",
-      "title": "Launch HN: ProvenMetal (YC S26) delivers circuit boards in days instead of weeks",
-      "url": "https://provenmetal.com",
-      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://provenmetal.com...",
-      "score": 180
+      "score": 74
     }
   ]
 }
