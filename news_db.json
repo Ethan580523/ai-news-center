@@ -1,61 +1,61 @@
 {
-  "last_updated": "2026-08-07 10:00:42",
+  "last_updated": "2026-08-07 13:02:16",
   "news": [
     {
       "type": "HackerNews",
-      "title": "AMD acquires Taalas to boost inference performance by etching models in silicon",
-      "url": "https://www.theregister.com/systems/2026/08/06/amd-acquires-ai-chip-startup-taalas-to-boost-inference-performance-by-etching-models-into-silicon/5284344",
-      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.theregister.com/sy...",
-      "score": 663
+      "title": "US strikes $1.2B deal to pay German firm to halt offshore wind projects",
+      "url": "https://www.bbc.com/news/articles/c1e1vg0gjl5o",
+      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.bbc.com/news/artic...",
+      "score": 365
     },
     {
       "type": "HackerNews",
       "title": "New Mexico court orders Meta to pay $567m over harms to children’s mental health",
       "url": "https://www.theguardian.com/technology/2026/aug/06/new-mexico-court-meta",
-      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.theguardian.com/te...",
-      "score": 278
+      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.theguardian.com/te...",
+      "score": 399
     },
     {
       "type": "HackerNews",
-      "title": "What is a product?",
-      "url": "https://roge.onwrite.app/what-is-a-product",
-      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://roge.onwrite.app/what-...",
-      "score": 57
-    },
-    {
-      "type": "HackerNews",
-      "title": "Parsers don't have to be complicated",
-      "url": "https://bkaradzic.github.io/posts/scanner/",
-      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://bkaradzic.github.io/po...",
-      "score": 32
+      "title": "AMD acquires Taalas to boost inference performance by etching models in silicon",
+      "url": "https://www.theregister.com/systems/2026/08/06/amd-acquires-ai-chip-startup-taalas-to-boost-inference-performance-by-etching-models-into-silicon/5284344",
+      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.theregister.com/sy...",
+      "score": 737
     },
     {
       "type": "HackerNews",
       "title": "Taste Is All That's Left",
       "url": "https://notashelf.dev/posts/taste-is-all-thats-left",
-      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://notashelf.dev/posts/ta...",
-      "score": 425
-    },
-    {
-      "type": "HackerNews",
-      "title": "Atomic Clocks",
-      "url": "https://www.nist.gov/atomic-clocks/how-do-atomic-clocks-work",
-      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.nist.gov/atomic-cl...",
-      "score": 63
+      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://notashelf.dev/posts/ta...",
+      "score": 500
     },
     {
       "type": "HackerNews",
       "title": "Scientists discover Kelvin-Helmholtz Instability on the surface of the Sun",
       "url": "https://nso.edu/press-release/nsf-inouye-solar-telescope-enables-major-discovery-of-a-hidden-solar-process/",
-      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://nso.edu/press-release/...",
-      "score": 229
+      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://nso.edu/press-release/...",
+      "score": 255
     },
     {
       "type": "HackerNews",
       "title": "Bioengineered chewing gum may offer a way to fight HPV and other microbes",
       "url": "https://www.sciencedaily.com/releases/2026/08/260803080917.htm",
       "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.sciencedaily.com/r...",
-      "score": 130
+      "score": 156
+    },
+    {
+      "type": "HackerNews",
+      "title": "São Paulo resident transforms degraded area into urban forest",
+      "url": "https://saopaulosecreto.com/en/tiquatira-linear-park-en/",
+      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://saopaulosecreto.com/en...",
+      "score": 190
+    },
+    {
+      "type": "HackerNews",
+      "title": "A quine in Piet – a GIF image that prints itself [video]",
+      "url": "https://www.youtube.com/watch?v=GwMtzhjCzyc",
+      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.youtube.com/watch?...",
+      "score": 28
     }
   ]
 }
