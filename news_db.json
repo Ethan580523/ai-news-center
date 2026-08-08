@@ -1,61 +1,61 @@
 {
-  "last_updated": "2026-08-08 04:10:09",
+  "last_updated": "2026-08-08 06:52:21",
   "news": [
-    {
-      "type": "HackerNews",
-      "title": "The Nixpkgs core team has disbanded",
-      "url": "https://discourse.nixos.org/t/the-nixpkgs-core-team-has-disbanded/79413",
-      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://discourse.nixos.org/t/...",
-      "score": 168
-    },
     {
       "type": "HackerNews",
       "title": "NASA to keep its 48-year-old Voyager 2 probe running for yet another year",
       "url": "https://www.space.com/space-exploration/voyager/nasa-figured-out-how-to-keep-its-48-year-old-voyager-2-probe-running-for-yet-another-year",
-      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.space.com/space-ex...",
-      "score": 78
+      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.space.com/space-ex...",
+      "score": 181
+    },
+    {
+      "type": "HackerNews",
+      "title": "The Nixpkgs core team has disbanded",
+      "url": "https://discourse.nixos.org/t/the-nixpkgs-core-team-has-disbanded/79413",
+      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://discourse.nixos.org/t/...",
+      "score": 258
     },
     {
       "type": "HackerNews",
       "title": "DeepSeek V4 Flash 0731",
       "url": "https://arcprize.org/results/deepseek-v4-flash-0731",
-      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://arcprize.org/results/d...",
-      "score": 514
+      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://arcprize.org/results/d...",
+      "score": 562
+    },
+    {
+      "type": "HackerNews",
+      "title": "Physicist Rigged His Pet Hamster's Wheel to Strava. It Runs Far Every Night",
+      "url": "https://www.runnersworld.com/news/a73355106/hamster-wheel-strava-running/",
+      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.runnersworld.com/n...",
+      "score": 97
     },
     {
       "type": "HackerNews",
       "title": "U.S. Department of Energy Launches the Genesis Open Models Initiative",
       "url": "https://genesisopenmodels.anl.gov/",
-      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://genesisopenmodels.anl....",
-      "score": 151
+      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://genesisopenmodels.anl....",
+      "score": 197
     },
     {
       "type": "HackerNews",
       "title": "Assembly Hall of Shame",
       "url": "https://github.com/xoreaxeaxeax/asm-hall-of-shame",
       "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://github.com/xoreaxeaxea...",
-      "score": 280
+      "score": 307
     },
     {
       "type": "HackerNews",
-      "title": "SupererDuperer",
-      "url": "https://www.shirtpocket.com/blog/supererduperer",
-      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.shirtpocket.com/bl...",
-      "score": 46
+      "title": "What happens if an entire class of workers loses faith in their careers",
+      "url": "https://www.noemamag.com/why-is-everyone-in-tech-so-sad/",
+      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.noemamag.com/why-i...",
+      "score": 544
     },
     {
       "type": "HackerNews",
-      "title": "Physicist Rigged His Pet Hamster's Wheel to Strava. It Runs Far Every Night",
-      "url": "https://www.runnersworld.com/news/a73355106/hamster-wheel-strava-running/",
-      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.runnersworld.com/n...",
-      "score": 27
-    },
-    {
-      "type": "HackerNews",
-      "title": "Ancient Library – 1,060 Greek/Latin texts, click any word to parse it",
-      "url": "https://ancientlibrary.net/",
-      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://ancientlibrary.net/...",
-      "score": 169
+      "title": "As a Windows user, it's a surreal way to install a program",
+      "url": "https://unsung.aresluna.org/as-a-windows-user-its-a-very-surreal-way-to-install-a-program/",
+      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://unsung.aresluna.org/as...",
+      "score": 84
     }
   ]
 }
