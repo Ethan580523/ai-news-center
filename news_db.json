@@ -1,61 +1,61 @@
 {
-  "last_updated": "2026-08-08 12:47:18",
+  "last_updated": "2026-08-08 15:28:40",
   "news": [
     {
       "type": "HackerNews",
-      "title": "A Tome of Forbidden Technologies",
-      "url": "https://ecosophia.net/a-tome-of-forbidden-technologies/",
-      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://ecosophia.net/a-tome-o...",
-      "score": 10
-    },
-    {
-      "type": "HackerNews",
-      "title": "The USSR in 100 Photographs",
-      "url": "https://trinixy.ru/7039-sssr_v_fotografijakh_100_foto.html",
-      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://trinixy.ru/7039-sssr_v...",
-      "score": 44
+      "title": "A domain can now say it is for sale, in DNS",
+      "url": "https://specification.website/spec/foundations/for-sale-dns/",
+      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://specification.website/...",
+      "score": 77
     },
     {
       "type": "HackerNews",
       "title": "DeepMind's WeatherNext model achieves breakthrough forecasting cyclones",
       "url": "https://deepmind.google/blog/weathernext-ai-model-achieves-breakthrough-in-forecasting-cyclones/",
-      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://deepmind.google/blog/w...",
-      "score": 37
+      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://deepmind.google/blog/w...",
+      "score": 199
     },
     {
       "type": "HackerNews",
-      "title": "A Physicist Rigged His Pet Hamster’s Wheel to Upload to Strava",
+      "title": "Gateway 2000's hilariously bad ads in the 90s (Part II)",
+      "url": "https://buttondown.com/suchbadtechads/archive/gateway-2000-part-2/",
+      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://buttondown.com/suchbad...",
+      "score": 26
+    },
+    {
+      "type": "HackerNews",
+      "title": "Voyager 1 FDS Computer Emulator",
+      "url": "https://zaneham.github.io/voyager-fds-emulator/",
+      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://zaneham.github.io/voya...",
+      "score": 21
+    },
+    {
+      "type": "HackerNews",
+      "title": "Don't use your phone while you poop",
+      "url": "https://nate.spot/no-phone-while-poop/",
+      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://nate.spot/no-phone-whi...",
+      "score": 89
+    },
+    {
+      "type": "HackerNews",
+      "title": "A physicist rigged his pet hamster’s wheel to upload to Strava",
       "url": "https://www.runnersworld.com/news/a73355106/hamster-wheel-strava-running/",
-      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.runnersworld.com/n...",
-      "score": 270
+      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.runnersworld.com/n...",
+      "score": 339
     },
     {
       "type": "HackerNews",
       "title": "Hardware backdoors in some x86 CPUs",
       "url": "https://github.com/xoreaxeaxeax/rosenbridge",
       "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://github.com/xoreaxeaxea...",
-      "score": 170
+      "score": 238
     },
     {
       "type": "HackerNews",
-      "title": "DeepSeek V4 Flash 0731",
-      "url": "https://arcprize.org/results/deepseek-v4-flash-0731",
-      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://arcprize.org/results/d...",
-      "score": 672
-    },
-    {
-      "type": "HackerNews",
-      "title": "The CPU is back: Rethinking the CPU-GPU split for LLM inference",
-      "url": "https://www.redhat.com/en/blog/cpu-back-rethinking-cpu-gpu-split-llm-inference",
-      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.redhat.com/en/blog...",
-      "score": 5
-    },
-    {
-      "type": "HackerNews",
-      "title": "U.S. Department of Energy Launches the Genesis Open Models Initiative",
-      "url": "https://genesisopenmodels.anl.gov/",
-      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://genesisopenmodels.anl....",
-      "score": 265
+      "title": "Gentoo bugzilla closed due AI bot scraper overload",
+      "url": "https://social.treehouse.systems/@mgorny/117058483039362779",
+      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://social.treehouse.syste...",
+      "score": 41
     }
   ]
 }
