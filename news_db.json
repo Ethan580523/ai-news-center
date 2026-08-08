@@ -1,61 +1,61 @@
 {
-  "last_updated": "2026-08-08 01:37:50",
+  "last_updated": "2026-08-08 04:10:09",
   "news": [
+    {
+      "type": "HackerNews",
+      "title": "The Nixpkgs core team has disbanded",
+      "url": "https://discourse.nixos.org/t/the-nixpkgs-core-team-has-disbanded/79413",
+      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://discourse.nixos.org/t/...",
+      "score": 168
+    },
+    {
+      "type": "HackerNews",
+      "title": "NASA to keep its 48-year-old Voyager 2 probe running for yet another year",
+      "url": "https://www.space.com/space-exploration/voyager/nasa-figured-out-how-to-keep-its-48-year-old-voyager-2-probe-running-for-yet-another-year",
+      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.space.com/space-ex...",
+      "score": 78
+    },
     {
       "type": "HackerNews",
       "title": "DeepSeek V4 Flash 0731",
       "url": "https://arcprize.org/results/deepseek-v4-flash-0731",
-      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://arcprize.org/results/d...",
-      "score": 464
+      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://arcprize.org/results/d...",
+      "score": 514
     },
     {
       "type": "HackerNews",
       "title": "U.S. Department of Energy Launches the Genesis Open Models Initiative",
       "url": "https://genesisopenmodels.anl.gov/",
       "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://genesisopenmodels.anl....",
-      "score": 81
-    },
-    {
-      "type": "HackerNews",
-      "title": "Should AI labs be treated like the owners of dangerous animals?",
-      "url": "https://www.economist.com/science-and-technology/2026/08/06/should-ai-labs-be-treated-like-the-owners-of-dangerous-animals",
-      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.economist.com/scie...",
-      "score": 29
+      "score": 151
     },
     {
       "type": "HackerNews",
       "title": "Assembly Hall of Shame",
       "url": "https://github.com/xoreaxeaxeax/asm-hall-of-shame",
-      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://github.com/xoreaxeaxea...",
-      "score": 248
+      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://github.com/xoreaxeaxea...",
+      "score": 280
+    },
+    {
+      "type": "HackerNews",
+      "title": "SupererDuperer",
+      "url": "https://www.shirtpocket.com/blog/supererduperer",
+      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.shirtpocket.com/bl...",
+      "score": 46
+    },
+    {
+      "type": "HackerNews",
+      "title": "Physicist Rigged His Pet Hamster's Wheel to Strava. It Runs Far Every Night",
+      "url": "https://www.runnersworld.com/news/a73355106/hamster-wheel-strava-running/",
+      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.runnersworld.com/n...",
+      "score": 27
     },
     {
       "type": "HackerNews",
       "title": "Ancient Library – 1,060 Greek/Latin texts, click any word to parse it",
       "url": "https://ancientlibrary.net/",
-      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://ancientlibrary.net/...",
-      "score": 146
-    },
-    {
-      "type": "HackerNews",
-      "title": "What happens if an entire class of workers loses faith in their careers",
-      "url": "https://www.noemamag.com/why-is-everyone-in-tech-so-sad/",
-      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.noemamag.com/why-i...",
-      "score": 417
-    },
-    {
-      "type": "HackerNews",
-      "title": "Oracle bans AI-generated code from OpenJDK",
-      "url": "https://app.dealroom.co/news/feed/oracle-bans-ai-generated-code-from-openjdk-despite-ellison-s-claim-oracle-isn-t-writing-its-own-code",
-      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://app.dealroom.co/news/f...",
-      "score": 390
-    },
-    {
-      "type": "HackerNews",
-      "title": "Responding to the next frontier of critical cyber capabilities",
-      "url": "https://openai.com/index/responding-next-frontier-critical-cyber-capabilities/",
-      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://openai.com/index/respo...",
-      "score": 153
+      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://ancientlibrary.net/...",
+      "score": 169
     }
   ]
 }
