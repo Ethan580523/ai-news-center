@@ -1,61 +1,61 @@
 {
-  "last_updated": "2026-08-10 15:59:21",
+  "last_updated": "2026-08-10 18:56:42",
   "news": [
     {
       "type": "HackerNews",
-      "title": "Mars Bar from 1991 found – and it's 20g bigger than today's",
-      "url": "https://www.bbc.com/news/articles/c1j1kjy7gewo",
-      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.bbc.com/news/artic...",
-      "score": 44
+      "title": "Learning more about Claude's mathematical capabilities",
+      "url": "https://www.anthropic.com/research/riemann-zeta",
+      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.anthropic.com/rese...",
+      "score": 71
     },
     {
       "type": "HackerNews",
-      "title": "Meta Muse Glimmer – open weights 30B local coding model",
+      "title": "Muse Glimmer: 30B-parameter model optimized for always-on local agent workflows",
       "url": "https://research.meta.ai/blog/introducing-muse-glimmer-open-agentic-model",
       "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://research.meta.ai/blog/...",
-      "score": 615
+      "score": 815
     },
     {
       "type": "HackerNews",
-      "title": "Squeak/Smalltalk 6.1 Release Notes",
-      "url": "https://squeak.org/release_notes/6.1/",
-      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://squeak.org/release_not...",
-      "score": 88
+      "title": "Sonic Pi v5",
+      "url": "https://www.patreon.com/samaaron/posts/sonic-pi-v5-166001392",
+      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.patreon.com/samaar...",
+      "score": 146
     },
     {
       "type": "HackerNews",
-      "title": "50k Boat Names",
-      "url": "https://www.beautifulpublicdata.com/boat-names/",
-      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.beautifulpublicdat...",
-      "score": 82
+      "title": "Launch HN: Stoa Markets (YC S26) – A Marketplace for GPUs and AI Servers",
+      "url": "https://www.stoaexchange.com",
+      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.stoaexchange.com...",
+      "score": 36
     },
     {
       "type": "HackerNews",
-      "title": "Itadakimasu: A Word You Say to the Food, Not the Cook",
-      "url": "https://thetokyohermit.substack.com/p/itadakimasu-a-word-you-say-to-the",
-      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://thetokyohermit.substac...",
-      "score": 15
+      "title": "Show HN: Ante, a coding agent in a single binary that runs offline",
+      "url": "https://github.com/AntigmaLabs/ante",
+      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://github.com/AntigmaLabs...",
+      "score": 79
     },
     {
       "type": "HackerNews",
-      "title": "Docker Sandboxes – Disposable, isolated sandboxes for AI agents",
-      "url": "https://www.docker.com/products/docker-sandboxes/",
-      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.docker.com/product...",
-      "score": 441
+      "title": "Exploiting System Management Mode with a very long interrupt",
+      "url": "https://github.com/xoreaxeaxeax/smiiiiiiiiiiiiiiii",
+      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://github.com/xoreaxeaxea...",
+      "score": 65
     },
     {
       "type": "HackerNews",
-      "title": "Parametron: 50s Japanese computer that uses neither transistors nor vacuum tubes",
-      "url": "https://ethw.org/Milestones:Parametron,_1954",
-      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://ethw.org/Milestones:Pa...",
-      "score": 102
+      "title": "Mark Zuckerberg attacks 'closed' AI rivals as Meta returns to open models",
+      "url": "https://www.ft.com/content/4e3957f8-ea7c-4c46-a3de-cdce8e526878",
+      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.ft.com/content/4e3...",
+      "score": 105
     },
     {
       "type": "HackerNews",
-      "title": "Mistral Patent for \"Code implemented tool calls\"",
-      "url": "https://patentsgazette.uspto.gov/week26/OG/html/1547-5/US12670045-20260630.html",
-      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://patentsgazette.uspto.g...",
-      "score": 101
+      "title": "Midlife Vascular Risk Burden and Dementia-Free Survival Years",
+      "url": "https://www.neurology.org/doi/10.1212/WN9.0000000000000152",
+      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.neurology.org/doi/...",
+      "score": 51
     }
   ]
 }
