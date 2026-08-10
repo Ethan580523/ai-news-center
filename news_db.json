@@ -1,61 +1,61 @@
 {
-  "last_updated": "2026-08-10 07:40:25",
+  "last_updated": "2026-08-10 10:15:34",
   "news": [
     {
       "type": "HackerNews",
       "title": "Docker Sandboxes – Disposable, isolated sandboxes for AI agents",
       "url": "https://www.docker.com/products/docker-sandboxes/",
-      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.docker.com/product...",
-      "score": 93
+      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.docker.com/product...",
+      "score": 216
     },
     {
       "type": "HackerNews",
       "title": "What Happened to HackerOne?",
       "url": "https://blog.teknogeek.io/posts/what-happened-to-hackerone/",
       "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://blog.teknogeek.io/post...",
-      "score": 177
+      "score": 238
     },
     {
       "type": "HackerNews",
-      "title": "Auto mode is now the default in Claude Code",
-      "url": "https://claude.com/blog/auto-mode-default-in-claude-code",
-      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://claude.com/blog/auto-m...",
-      "score": 164
+      "title": "Tail-Call Interpreters in Rust – Jimmy Ostler",
+      "url": "https://lordgoati.us/blog/tail-call/",
+      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://lordgoati.us/blog/tail...",
+      "score": 15
     },
     {
       "type": "HackerNews",
       "title": "Run Android ARM64 VR APKs on Apple Vision Pro",
       "url": "https://github.com/shinyquagsire23/Klepton",
       "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://github.com/shinyquagsi...",
-      "score": 49
+      "score": 81
     },
     {
       "type": "HackerNews",
       "title": "Show HN: Voice driven murder mystery, Interview AI suspects with your voice",
       "url": "https://www.whodunnitai.com/",
-      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.whodunnitai.com/...",
-      "score": 59
+      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.whodunnitai.com/...",
+      "score": 89
+    },
+    {
+      "type": "HackerNews",
+      "title": "An Interesting Fourier Transform – 1/F Noise",
+      "url": "https://www.dsprelated.com/showarticle/40.php",
+      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.dsprelated.com/sho...",
+      "score": 43
     },
     {
       "type": "HackerNews",
       "title": "How I use LLMs to learn complex topics",
       "url": "https://laurentiugabriel.github.io/blog/articles/how-i-use-llms-to-learn/",
-      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://laurentiugabriel.githu...",
-      "score": 597
+      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://laurentiugabriel.githu...",
+      "score": 641
     },
     {
       "type": "HackerNews",
-      "title": "The Philippines' big offshoring industry is growing despite AI",
-      "url": "https://www.economist.com/asia/2026/08/06/the-philippines-big-offshoring-industry-is-growing-despite-ai",
-      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.economist.com/asia...",
-      "score": 23
-    },
-    {
-      "type": "HackerNews",
-      "title": "Turn satellite imagery into a paper globe you fold yourself",
-      "url": "https://foldingglobes.com/",
-      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://foldingglobes.com/...",
-      "score": 40
+      "title": "An alias-based formulation of the borrow checker (2018)",
+      "url": "https://smallcultfollowing.com/babysteps/blog/2018/04/27/an-alias-based-formulation-of-the-borrow-checker/",
+      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://smallcultfollowing.com...",
+      "score": 11
     }
   ]
 }
