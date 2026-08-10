@@ -1,61 +1,61 @@
 {
-  "last_updated": "2026-08-10 01:46:55",
+  "last_updated": "2026-08-10 04:37:12",
   "news": [
+    {
+      "type": "HackerNews",
+      "title": "What Happened to HackerOne?",
+      "url": "https://blog.teknogeek.io/posts/what-happened-to-hackerone/",
+      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://blog.teknogeek.io/post...",
+      "score": 100
+    },
     {
       "type": "HackerNews",
       "title": "How I use LLMs to learn complex topics",
       "url": "https://laurentiugabriel.github.io/blog/articles/how-i-use-llms-to-learn/",
-      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://laurentiugabriel.githu...",
-      "score": 415
+      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://laurentiugabriel.githu...",
+      "score": 504
+    },
+    {
+      "type": "HackerNews",
+      "title": "Turn satellite imagery into a paper globe you fold yourself",
+      "url": "https://foldingglobes.com/",
+      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://foldingglobes.com/...",
+      "score": 19
+    },
+    {
+      "type": "HackerNews",
+      "title": "Show HN: Voice driven murder mystery, Interview AI suspects with your voice",
+      "url": "https://www.whodunnitai.com/",
+      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.whodunnitai.com/...",
+      "score": 8
     },
     {
       "type": "HackerNews",
       "title": "How We Pushed CDC into Postgres",
       "url": "https://www.snowflake.com/en/blog/engineering/postgres-to-snowflake-replication-mirroring/",
-      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.snowflake.com/en/b...",
-      "score": 13
+      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.snowflake.com/en/b...",
+      "score": 53
     },
     {
       "type": "HackerNews",
-      "title": "Mea Culpa – Dark Hours",
-      "url": "https://blog.terrygodier.com/2026/08/09/mea-culpa-dark-hours.html",
-      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://blog.terrygodier.com/2...",
-      "score": 560
-    },
-    {
-      "type": "HackerNews",
-      "title": "\"The Persian MâR-Nâmeh Or, the Book for Taking Omens from Snakes\" (1892)",
-      "url": "https://publicdomainreview.org/collection/marnameh/",
-      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://publicdomainreview.org...",
-      "score": 24
-    },
-    {
-      "type": "HackerNews",
-      "title": "Ask HN: What are you working on? (August 2026)",
-      "url": null,
-      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：...",
-      "score": 170
-    },
-    {
-      "type": "HackerNews",
-      "title": "New Zealand lost its music media, and what we're building to replace it",
-      "url": "https://propelmusic.co.nz/articles/the-sound-went-quiet-nz-music-media",
-      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://propelmusic.co.nz/arti...",
-      "score": 73
+      "title": "Run Android ARM64 VR APKs on Apple Vision Pro",
+      "url": "https://github.com/shinyquagsire23/Klepton",
+      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://github.com/shinyquagsi...",
+      "score": 7
     },
     {
       "type": "HackerNews",
       "title": "Taxi drivers rarely die of Alzheimer's",
       "url": "https://theconversation.com/taxi-drivers-rarely-die-of-alzheimers-how-complex-mental-maps-and-spatial-reasoning-protect-your-brain-286650",
-      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://theconversation.com/ta...",
-      "score": 182
+      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://theconversation.com/ta...",
+      "score": 223
     },
     {
       "type": "HackerNews",
-      "title": "Tuxedo No. 2 – Cocktail recipes",
-      "url": "https://tuxedono2.com",
-      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://tuxedono2.com...",
-      "score": 46
+      "title": "Ask HN: What are you working on? (August 2026)",
+      "url": null,
+      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：...",
+      "score": 201
     }
   ]
 }
