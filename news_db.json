@@ -1,61 +1,61 @@
 {
-  "last_updated": "2026-08-12 10:03:58",
+  "last_updated": "2026-08-12 13:08:14",
   "news": [
+    {
+      "type": "HackerNews",
+      "title": "2026 Eclipse Webcams",
+      "url": "https://jonty.github.io/2026_eclipse_webcams/",
+      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://jonty.github.io/2026_e...",
+      "score": 108
+    },
+    {
+      "type": "HackerNews",
+      "title": "What sort of maths are LLMs good at?",
+      "url": "https://gowers.wordpress.com/2026/08/12/what-sort-of-maths-are-llms-good-at/",
+      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://gowers.wordpress.com/2...",
+      "score": 123
+    },
+    {
+      "type": "HackerNews",
+      "title": "Show HN: Woxi - Open-source Mathematica / Wolfram Language reimplementation",
+      "url": "https://woxi.ad-si.com",
+      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://woxi.ad-si.com...",
+      "score": 111
+    },
     {
       "type": "HackerNews",
       "title": "LinkedIn CringeBot 3000",
       "url": "https://www.cringebot3000.com/",
       "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.cringebot3000.com/...",
-      "score": 174
+      "score": 352
     },
     {
       "type": "HackerNews",
-      "title": "Beef and dairy drive 41% of biodiversity damage linked to global farmland",
-      "url": "https://www.oxfordmartin.ox.ac.uk/news/beef-and-dairy-drive-41-of-biodiversity-damage-linked-to-global-farmland",
-      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.oxfordmartin.ox.ac...",
-      "score": 18
+      "title": "Delphi 13 Community Edition Is Now Available",
+      "url": "https://blogs.embarcadero.com/delphi-13-community-edition-is-now-available/",
+      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://blogs.embarcadero.com/...",
+      "score": 35
     },
     {
       "type": "HackerNews",
-      "title": "The hardest working font in Manhattan (2025)",
-      "url": "https://aresluna.org/the-hardest-working-font-in-manhattan/",
-      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://aresluna.org/the-harde...",
-      "score": 203
+      "title": "Facebook is paying controversial creators to produce rage-bait content",
+      "url": "https://www.abc.net.au/news/2026-08-06/ragebait-how-facebook-is-paying-controversial-creators/106940696",
+      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.abc.net.au/news/20...",
+      "score": 261
     },
     {
       "type": "HackerNews",
-      "title": "Dutch Train Map Simulator",
-      "url": "https://spoorkaart.zaza.dev",
-      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://spoorkaart.zaza.dev...",
-      "score": 18
+      "title": "High-Res Photo Shows Sand-Capped Butte Rising from Mars Plain of Polygons",
+      "url": "https://petapixel.com/2026/08/04/amazing-high-res-photo-shows-a-butte-rising-from-mars/",
+      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://petapixel.com/2026/08/...",
+      "score": 51
     },
     {
       "type": "HackerNews",
-      "title": "Compression is prediction",
-      "url": "https://ngrok.com/blog/compression-is-prediction",
-      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://ngrok.com/blog/compres...",
-      "score": 532
-    },
-    {
-      "type": "HackerNews",
-      "title": "Worms: The Future of Yesterday's Worms Today",
-      "url": "https://worm.net/",
-      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://worm.net/...",
-      "score": 39
-    },
-    {
-      "type": "HackerNews",
-      "title": "A shell exclamation mark is not for yelling. Be lazy",
-      "url": "https://refp.se/articles/your-shell-and-the-lazy-exclamation-mark",
-      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://refp.se/articles/your-...",
-      "score": 74
-    },
-    {
-      "type": "HackerNews",
-      "title": "llama.cpp",
-      "url": "https://llama.app",
-      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://llama.app...",
-      "score": 223
+      "title": "Facebook ads are so hard to block that uBlock Origin stopped filtering them",
+      "url": "https://www.neowin.net/news/facebook-ads-are-so-hard-to-block-that-ublock-origin-stopped-filtering-them/",
+      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.neowin.net/news/fa...",
+      "score": 63
     }
   ]
 }
