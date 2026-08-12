@@ -1,61 +1,61 @@
 {
-  "last_updated": "2026-08-12 19:01:09",
+  "last_updated": "2026-08-12 21:44:06",
   "news": [
     {
       "type": "HackerNews",
       "title": "DeepSeek V4 Pro 0813",
       "url": "https://openrouter.ai/deepseek/deepseek-v4-pro-0813",
       "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://openrouter.ai/deepseek...",
-      "score": 398
+      "score": 605
     },
     {
       "type": "HackerNews",
-      "title": "Zed: Delta",
+      "title": "Delta",
       "url": "https://zed.dev/blog/introducing-delta",
       "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://zed.dev/blog/introduci...",
-      "score": 60
+      "score": 255
     },
     {
       "type": "HackerNews",
       "title": "Tailscale Traces Database Corruption to 16y/o SQLite WAL-Reset Bug",
       "url": "https://tailscale.com/blog/sqlite-wal-reset-bug",
       "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://tailscale.com/blog/sql...",
-      "score": 502
+      "score": 663
     },
     {
       "type": "HackerNews",
       "title": "Qwen3.8-2.4T",
       "url": "https://huggingface.co/Qwen/Qwen3.8-2.4T-A95B",
-      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://huggingface.co/Qwen/Qw...",
-      "score": 240
+      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://huggingface.co/Qwen/Qw...",
+      "score": 387
+    },
+    {
+      "type": "HackerNews",
+      "title": "Grok 4.6 scores 61 on the Artificial Analysis Intelligence Index",
+      "url": "https://artificialanalysis.ai/articles/grok-4-6-benchmarks-and-analysis",
+      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://artificialanalysis.ai/...",
+      "score": 272
+    },
+    {
+      "type": "HackerNews",
+      "title": "People who grew up with high economic connectedness earn more",
+      "url": "https://julienreszka.com/blog/your-key-to-success-isn-t-more-luck-or-hard-work/",
+      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://julienreszka.com/blog/...",
+      "score": 91
     },
     {
       "type": "HackerNews",
       "title": "2026 Eclipse Webcams",
       "url": "https://jonty.github.io/2026_eclipse_webcams/",
-      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://jonty.github.io/2026_e...",
-      "score": 408
+      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://jonty.github.io/2026_e...",
+      "score": 442
     },
     {
       "type": "HackerNews",
       "title": "Tim King, AmigaDOS developer, has died",
       "url": "https://amiga-news.de/en/news/AN-2026-08-00070-EN.html",
-      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://amiga-news.de/en/news/...",
-      "score": 140
-    },
-    {
-      "type": "HackerNews",
-      "title": "Glaciers on the Climate Dashboard",
-      "url": "https://climate.metoffice.cloud/glaciers.html",
-      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://climate.metoffice.clou...",
-      "score": 60
-    },
-    {
-      "type": "HackerNews",
-      "title": "Someone is running mass vulnerability scans, spoofing AI bots like ClaudeBot",
-      "url": "https://knownagents.com/insights",
-      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://knownagents.com/insigh...",
-      "score": 144
+      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://amiga-news.de/en/news/...",
+      "score": 203
     }
   ]
 }
