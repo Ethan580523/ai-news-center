@@ -1,61 +1,61 @@
 {
-  "last_updated": "2026-08-13 10:05:08",
+  "last_updated": "2026-08-13 13:09:11",
   "news": [
+    {
+      "type": "HackerNews",
+      "title": "Deutsche Bank becomes first foreign yuan clearing bank in Europe",
+      "url": "https://tradersunion.com/news/central-banks/show/2973571-deutsche-bank-becomes/",
+      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://tradersunion.com/news/...",
+      "score": 113
+    },
     {
       "type": "HackerNews",
       "title": "ChatGPT Desktop (Codex Desktop) for Linux",
       "url": "https://openai.com/codex/",
-      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://openai.com/codex/...",
-      "score": 138
+      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://openai.com/codex/...",
+      "score": 260
+    },
+    {
+      "type": "HackerNews",
+      "title": "The lattice of sets of natural numbers is rich (2021)",
+      "url": "https://jdh.hamkins.org/the-lattice-of-sets-of-natural-numbers-is-rich/",
+      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://jdh.hamkins.org/the-la...",
+      "score": 57
+    },
+    {
+      "type": "HackerNews",
+      "title": "Picking berries is my meditation",
+      "url": "https://www.tsoon.com/posts/picking-berries-meditation/",
+      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.tsoon.com/posts/pi...",
+      "score": 36
     },
     {
       "type": "HackerNews",
       "title": "DeepSeek V4 Pro 0813",
       "url": "https://openrouter.ai/deepseek/deepseek-v4-pro-0813",
-      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://openrouter.ai/deepseek...",
-      "score": 931
+      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://openrouter.ai/deepseek...",
+      "score": 975
+    },
+    {
+      "type": "HackerNews",
+      "title": "Better Gaussian Splatting in Julia",
+      "url": "https://pxl-th.github.io/blog/better-gs-julia/",
+      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://pxl-th.github.io/blog/...",
+      "score": 11
     },
     {
       "type": "HackerNews",
       "title": "Tracking down the 16-year-old WAL-reset SQLite bug",
       "url": "https://tailscale.com/blog/sqlite-wal-reset-bug",
-      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://tailscale.com/blog/sql...",
-      "score": 1045
+      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://tailscale.com/blog/sql...",
+      "score": 1106
     },
     {
       "type": "HackerNews",
-      "title": "Qwen3.8-2.4T",
-      "url": "https://huggingface.co/Qwen/Qwen3.8-2.4T-A95B",
-      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://huggingface.co/Qwen/Qw...",
-      "score": 628
-    },
-    {
-      "type": "HackerNews",
-      "title": "Delta",
-      "url": "https://zed.dev/blog/introducing-delta",
-      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://zed.dev/blog/introduci...",
-      "score": 553
-    },
-    {
-      "type": "HackerNews",
-      "title": "Principia Mathematica is modern and insightful",
-      "url": "https://okmij.org/ftp/Computation/Impressions/PrincipiaMathematica.html",
-      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://okmij.org/ftp/Computat...",
-      "score": 155
-    },
-    {
-      "type": "HackerNews",
-      "title": "The punched card tabulator",
-      "url": "https://www.ibm.com/history/punched-card-tabulator",
-      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.ibm.com/history/pu...",
-      "score": 14
-    },
-    {
-      "type": "HackerNews",
-      "title": "Antiqua–Fraktur dispute",
-      "url": "https://en.wikipedia.org/wiki/Antiqua%E2%80%93Fraktur_dispute",
-      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://en.wikipedia.org/wiki/...",
-      "score": 92
+      "title": "ATG (YC F25) Is Hiring Member of Technical Staff (Data Platform)",
+      "url": "https://atg.science/careers",
+      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://atg.science/careers...",
+      "score": 1
     }
   ]
 }
