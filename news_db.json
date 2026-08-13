@@ -1,61 +1,61 @@
 {
-  "last_updated": "2026-08-13 13:09:11",
+  "last_updated": "2026-08-13 15:58:01",
   "news": [
     {
       "type": "HackerNews",
-      "title": "Deutsche Bank becomes first foreign yuan clearing bank in Europe",
-      "url": "https://tradersunion.com/news/central-banks/show/2973571-deutsche-bank-becomes/",
-      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://tradersunion.com/news/...",
-      "score": 113
+      "title": "DeepSeek Harness",
+      "url": "https://github.com/deepseek-ai/deepseek-harness",
+      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://github.com/deepseek-ai...",
+      "score": 309
     },
     {
       "type": "HackerNews",
-      "title": "ChatGPT Desktop (Codex Desktop) for Linux",
-      "url": "https://openai.com/codex/",
-      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://openai.com/codex/...",
-      "score": 260
+      "title": "Gloomberb",
+      "url": "https://gloom.sh/",
+      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://gloom.sh/...",
+      "score": 152
     },
     {
       "type": "HackerNews",
-      "title": "The lattice of sets of natural numbers is rich (2021)",
-      "url": "https://jdh.hamkins.org/the-lattice-of-sets-of-natural-numbers-is-rich/",
-      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://jdh.hamkins.org/the-la...",
-      "score": 57
+      "title": "Spaghettifying DRAM",
+      "url": "https://github.com/xoreaxeaxeax/skitter-creek-bath-salts",
+      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://github.com/xoreaxeaxea...",
+      "score": 144
     },
     {
       "type": "HackerNews",
-      "title": "Picking berries is my meditation",
-      "url": "https://www.tsoon.com/posts/picking-berries-meditation/",
-      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.tsoon.com/posts/pi...",
-      "score": 36
+      "title": "AI agents lie, cheat and steal. That is putting off users",
+      "url": "https://www.economist.com/business/2026/08/12/ai-agents-lie-cheat-and-steal-that-is-putting-off-users",
+      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.economist.com/busi...",
+      "score": 128
     },
     {
       "type": "HackerNews",
-      "title": "DeepSeek V4 Pro 0813",
-      "url": "https://openrouter.ai/deepseek/deepseek-v4-pro-0813",
-      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://openrouter.ai/deepseek...",
-      "score": 975
+      "title": "Kubernetes on Oxide: How Customer Needs Shaped Our Integrations",
+      "url": "https://oxide.computer/blog/kubernetes-on-oxide",
+      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://oxide.computer/blog/ku...",
+      "score": 37
     },
     {
       "type": "HackerNews",
-      "title": "Better Gaussian Splatting in Julia",
-      "url": "https://pxl-th.github.io/blog/better-gs-julia/",
-      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://pxl-th.github.io/blog/...",
-      "score": 11
+      "title": "Heart Aerospace Completes First Flight of Largest Electric Aircraft",
+      "url": "https://www.heartaerospace.com/newsroom/heart-aerospace-completes-first-flight-of-world-s-largest-electric-aircraft",
+      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.heartaerospace.com...",
+      "score": 65
     },
     {
       "type": "HackerNews",
-      "title": "Tracking down the 16-year-old WAL-reset SQLite bug",
-      "url": "https://tailscale.com/blog/sqlite-wal-reset-bug",
-      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://tailscale.com/blog/sql...",
-      "score": 1106
+      "title": "Show HN: MCP Memory – Fast Agent Memory Using Google's OKF and SQLite FTS5",
+      "url": "https://github.com/fellowgeek/mcp-memory",
+      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://github.com/fellowgeek/...",
+      "score": 32
     },
     {
       "type": "HackerNews",
-      "title": "ATG (YC F25) Is Hiring Member of Technical Staff (Data Platform)",
-      "url": "https://atg.science/careers",
-      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://atg.science/careers...",
-      "score": 1
+      "title": "I Built a 500k-Domain Search Engine for Makers in a Weekend for $10",
+      "url": "https://alexmorleyfinch.github.io/marlin/history/v1/article/the_birth.html",
+      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://alexmorleyfinch.github...",
+      "score": 39
     }
   ]
 }
