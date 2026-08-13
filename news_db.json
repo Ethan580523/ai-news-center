@@ -1,61 +1,61 @@
 {
-  "last_updated": "2026-08-13 07:25:59",
+  "last_updated": "2026-08-13 10:05:08",
   "news": [
+    {
+      "type": "HackerNews",
+      "title": "ChatGPT Desktop (Codex Desktop) for Linux",
+      "url": "https://openai.com/codex/",
+      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://openai.com/codex/...",
+      "score": 138
+    },
     {
       "type": "HackerNews",
       "title": "DeepSeek V4 Pro 0813",
       "url": "https://openrouter.ai/deepseek/deepseek-v4-pro-0813",
       "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://openrouter.ai/deepseek...",
-      "score": 878
+      "score": 931
     },
     {
       "type": "HackerNews",
-      "title": "We tracked down the 16-year-old WAL-reset SQLite bug",
+      "title": "Tracking down the 16-year-old WAL-reset SQLite bug",
       "url": "https://tailscale.com/blog/sqlite-wal-reset-bug",
-      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://tailscale.com/blog/sql...",
-      "score": 979
-    },
-    {
-      "type": "HackerNews",
-      "title": "Mushroom behind 'tiny people' hallucinations identified",
-      "url": "https://phys.org/news/2026-08-qa-mushroom-tiny-people-hallucinations.html",
-      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://phys.org/news/2026-08-...",
-      "score": 75
-    },
-    {
-      "type": "HackerNews",
-      "title": "Delta",
-      "url": "https://zed.dev/blog/introducing-delta",
-      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://zed.dev/blog/introduci...",
-      "score": 512
+      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://tailscale.com/blog/sql...",
+      "score": 1045
     },
     {
       "type": "HackerNews",
       "title": "Qwen3.8-2.4T",
       "url": "https://huggingface.co/Qwen/Qwen3.8-2.4T-A95B",
       "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://huggingface.co/Qwen/Qw...",
-      "score": 588
+      "score": 628
+    },
+    {
+      "type": "HackerNews",
+      "title": "Delta",
+      "url": "https://zed.dev/blog/introducing-delta",
+      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://zed.dev/blog/introduci...",
+      "score": 553
     },
     {
       "type": "HackerNews",
       "title": "Principia Mathematica is modern and insightful",
       "url": "https://okmij.org/ftp/Computation/Impressions/PrincipiaMathematica.html",
       "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://okmij.org/ftp/Computat...",
-      "score": 129
+      "score": 155
     },
     {
       "type": "HackerNews",
-      "title": "ChatGPT Desktop (Codex Desktop) for Linux",
-      "url": "https://openai.com/codex/",
-      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://openai.com/codex/...",
-      "score": 25
+      "title": "The punched card tabulator",
+      "url": "https://www.ibm.com/history/punched-card-tabulator",
+      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.ibm.com/history/pu...",
+      "score": 14
     },
     {
       "type": "HackerNews",
       "title": "Antiqua–Fraktur dispute",
       "url": "https://en.wikipedia.org/wiki/Antiqua%E2%80%93Fraktur_dispute",
       "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://en.wikipedia.org/wiki/...",
-      "score": 69
+      "score": 92
     }
   ]
 }
