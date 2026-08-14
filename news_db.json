@@ -1,61 +1,61 @@
 {
-  "last_updated": "2026-08-14 15:51:18",
+  "last_updated": "2026-08-14 18:53:03",
   "news": [
     {
       "type": "HackerNews",
-      "title": "Every Fucking Website (2020)",
-      "url": "https://lxe.github.io/everywebsite/",
-      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://lxe.github.io/everyweb...",
-      "score": 329
+      "title": "Qwen 3.8 27B",
+      "url": "https://huggingface.co/Qwen/Qwen3.8-27B-FP8",
+      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://huggingface.co/Qwen/Qw...",
+      "score": 441
     },
     {
       "type": "HackerNews",
-      "title": "When Genius Fails: The Intellectual Arrogance of the AI Labs",
-      "url": "https://weightythoughts.com/p/when-genius-failsthe-intellectual",
-      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://weightythoughts.com/p/...",
-      "score": 67
+      "title": "Count Binface receives over a quarter of votes in Clacton by-election",
+      "url": "https://www.bbc.com/news/articles/ce97mm3vvemo",
+      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.bbc.com/news/artic...",
+      "score": 214
     },
     {
       "type": "HackerNews",
       "title": "Seven books I keep close because I love them",
       "url": "https://blog.plover.com/2026/08/02/",
       "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://blog.plover.com/2026/0...",
-      "score": 26
+      "score": 183
+    },
+    {
+      "type": "HackerNews",
+      "title": "RustDesk now supports true unattended remote access on Wayland",
+      "url": "https://rustdesk.com/blog/unattended-remote-access-wayland/",
+      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://rustdesk.com/blog/unat...",
+      "score": 94
+    },
+    {
+      "type": "HackerNews",
+      "title": "Why does Opus 5 feel worse to work with?",
+      "url": "https://mun-logadan.github.io/why-does-opus-5-feel-worse/",
+      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://mun-logadan.github.io/...",
+      "score": 514
     },
     {
       "type": "HackerNews",
       "title": "GLM-5.3: Frontier coding with emergent cyber capabilities",
       "url": "https://z.ai/blog/glm-5.3",
-      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://z.ai/blog/glm-5.3...",
-      "score": 845
+      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://z.ai/blog/glm-5.3...",
+      "score": 946
     },
     {
       "type": "HackerNews",
       "title": "Introducing Toast 1",
       "url": "https://www.mixedbread.com/blog/toast-1",
       "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.mixedbread.com/blo...",
-      "score": 29
+      "score": 122
     },
     {
       "type": "HackerNews",
-      "title": "Qwen3.8-27B",
-      "url": "https://twitter.com/alibaba_qwen/status/2088280182356611304",
-      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://twitter.com/alibaba_qw...",
-      "score": 142
-    },
-    {
-      "type": "HackerNews",
-      "title": "In Australia, a Home Battery Boom Has Helped Cut Wholesale Power Prices in Half",
-      "url": "https://e360.yale.edu/digest/australia-home-batteries",
-      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://e360.yale.edu/digest/a...",
-      "score": 136
-    },
-    {
-      "type": "HackerNews",
-      "title": "Don't classify, hallucinate!",
-      "url": "https://softwaredoug.com/blog/2026/08/10/hypothetical-classifications",
-      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://softwaredoug.com/blog/...",
-      "score": 135
+      "title": "Maximizing the value of your Claude Code sessions",
+      "url": "https://claude.com/blog/maximizing-the-value-of-your-claude-code-sessions",
+      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://claude.com/blog/maximi...",
+      "score": 56
     }
   ]
 }
