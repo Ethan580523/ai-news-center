@@ -1,61 +1,61 @@
 {
-  "last_updated": "2026-08-14 18:53:03",
+  "last_updated": "2026-08-14 21:24:07",
   "news": [
     {
       "type": "HackerNews",
       "title": "Qwen 3.8 27B",
       "url": "https://huggingface.co/Qwen/Qwen3.8-27B-FP8",
-      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://huggingface.co/Qwen/Qw...",
-      "score": 441
-    },
-    {
-      "type": "HackerNews",
-      "title": "Count Binface receives over a quarter of votes in Clacton by-election",
-      "url": "https://www.bbc.com/news/articles/ce97mm3vvemo",
-      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.bbc.com/news/artic...",
-      "score": 214
+      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://huggingface.co/Qwen/Qw...",
+      "score": 692
     },
     {
       "type": "HackerNews",
       "title": "Seven books I keep close because I love them",
       "url": "https://blog.plover.com/2026/08/02/",
       "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://blog.plover.com/2026/0...",
-      "score": 183
+      "score": 253
+    },
+    {
+      "type": "HackerNews",
+      "title": "Anthropic Risk August 2026 [pdf]",
+      "url": "https://www-cdn.anthropic.com/f61d49fa5596956a5dec75fea0e973bf6a6a8378/Redacted%20Risk%20Report%20August%202026%20.pdf",
+      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www-cdn.anthropic.com/...",
+      "score": 42
     },
     {
       "type": "HackerNews",
       "title": "RustDesk now supports true unattended remote access on Wayland",
       "url": "https://rustdesk.com/blog/unattended-remote-access-wayland/",
-      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://rustdesk.com/blog/unat...",
-      "score": 94
+      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://rustdesk.com/blog/unat...",
+      "score": 162
+    },
+    {
+      "type": "HackerNews",
+      "title": "Study links coffee consumption to metabolic health and sex hormones",
+      "url": "https://www.oulu.fi/en/news/study-links-coffee-consumption-metabolic-health-and-sex-hormones",
+      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.oulu.fi/en/news/st...",
+      "score": 12
     },
     {
       "type": "HackerNews",
       "title": "Why does Opus 5 feel worse to work with?",
       "url": "https://mun-logadan.github.io/why-does-opus-5-feel-worse/",
-      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://mun-logadan.github.io/...",
-      "score": 514
+      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://mun-logadan.github.io/...",
+      "score": 651
     },
     {
       "type": "HackerNews",
-      "title": "GLM-5.3: Frontier coding with emergent cyber capabilities",
-      "url": "https://z.ai/blog/glm-5.3",
-      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://z.ai/blog/glm-5.3...",
-      "score": 946
+      "title": "Google is making private AI practical with homomorphic encryption",
+      "url": "https://blog.google/security/how-google-is-making-private-ai-practical-with-homomorphic-encryption/",
+      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://blog.google/security/h...",
+      "score": 188
     },
     {
       "type": "HackerNews",
-      "title": "Introducing Toast 1",
-      "url": "https://www.mixedbread.com/blog/toast-1",
-      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.mixedbread.com/blo...",
-      "score": 122
-    },
-    {
-      "type": "HackerNews",
-      "title": "Maximizing the value of your Claude Code sessions",
-      "url": "https://claude.com/blog/maximizing-the-value-of-your-claude-code-sessions",
-      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://claude.com/blog/maximi...",
-      "score": 56
+      "title": "What You Gain by Building Your Own Game Engine",
+      "url": "https://eliasfarhan.ch/gamedev/cpp/2026/08/14/srnative-01-why-a-custom-engine.html",
+      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://eliasfarhan.ch/gamedev...",
+      "score": 16
     }
   ]
 }
