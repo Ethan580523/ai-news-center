@@ -1,61 +1,61 @@
 {
-  "last_updated": "2026-08-14 10:00:58",
+  "last_updated": "2026-08-14 13:05:05",
   "news": [
     {
       "type": "HackerNews",
       "title": "GLM-5.3: Frontier coding with emergent cyber capabilities",
       "url": "https://z.ai/blog/glm-5.3",
-      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://z.ai/blog/glm-5.3...",
-      "score": 466
+      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://z.ai/blog/glm-5.3...",
+      "score": 671
     },
     {
       "type": "HackerNews",
-      "title": "Eclipse: The Xiaomi 17 Ultra Confuses the Moon and the Sun",
-      "url": "https://www.frandroid.com/marques/xiaomi/3211257_photo-de-leclipse-on-a-perce-a-jour-la-petite-triche-du-xiaomi-17-ultra-qui-confond-la-lune-et-le-soleil",
-      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.frandroid.com/marq...",
-      "score": 59
+      "title": "Don't classify, hallucinate!",
+      "url": "https://softwaredoug.com/blog/2026/08/10/hypothetical-classifications",
+      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://softwaredoug.com/blog/...",
+      "score": 32
+    },
+    {
+      "type": "HackerNews",
+      "title": "DeepSeek peak/off-peak pricing update",
+      "url": "https://api-docs.deepseek.com/news/news260813/",
+      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://api-docs.deepseek.com/...",
+      "score": 91
+    },
+    {
+      "type": "HackerNews",
+      "title": "Why does Opus 5 feel worse to work with?",
+      "url": "https://mun-logadan.github.io/why-does-opus-5-feel-worse/",
+      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://mun-logadan.github.io/...",
+      "score": 191
     },
     {
       "type": "HackerNews",
       "title": "Gemini 3.7 Flash",
       "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-3-7-flash/",
       "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://blog.google/innovation...",
-      "score": 839
+      "score": 893
+    },
+    {
+      "type": "HackerNews",
+      "title": "Differential Heuristics",
+      "url": "https://www.redblobgames.com/blog/2026-08-08-differential-heuristics/",
+      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.redblobgames.com/b...",
+      "score": 52
     },
     {
       "type": "HackerNews",
       "title": "Accelerating GPT-5.6 Sol Ultrafast",
       "url": "https://www.cerebras.ai/blog/accelerating-gpt-5-6-sol-ultrafast-with-openai",
-      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.cerebras.ai/blog/a...",
-      "score": 602
+      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.cerebras.ai/blog/a...",
+      "score": 649
     },
     {
       "type": "HackerNews",
       "title": "Hello, me. It's been a while",
       "url": "https://themech.net/2026/08/hello-me-its-been-a-while/",
-      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://themech.net/2026/08/he...",
-      "score": 214
-    },
-    {
-      "type": "HackerNews",
-      "title": "Show HN: Lumabri – Run Moe Models on a P2P Swarm with Colibri",
-      "url": "https://github.com/JustVugg/lumabri",
-      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://github.com/JustVugg/lu...",
-      "score": 20
-    },
-    {
-      "type": "HackerNews",
-      "title": "Show HN: C# Game Engine with its own scripting language and IDE",
-      "url": "https://github.com/ArcadeMakerSources/ArcadeMaker",
-      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://github.com/ArcadeMaker...",
-      "score": 46
-    },
-    {
-      "type": "HackerNews",
-      "title": "DeepSeek Harness developer preview",
-      "url": "https://deepseek.com/harness/en/",
-      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://deepseek.com/harness/e...",
-      "score": 662
+      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://themech.net/2026/08/he...",
+      "score": 279
     }
   ]
 }
