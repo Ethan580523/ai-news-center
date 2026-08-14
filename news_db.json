@@ -1,61 +1,61 @@
 {
-  "last_updated": "2026-08-13 21:43:49",
+  "last_updated": "2026-08-14 01:55:10",
   "news": [
     {
       "type": "HackerNews",
       "title": "Gemini 3.7 Flash",
       "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-3-7-flash/",
       "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://blog.google/innovation...",
-      "score": 474
+      "score": 620
+    },
+    {
+      "type": "HackerNews",
+      "title": "Bluesky Protocol Services",
+      "url": "https://atproto.com/blog/introducing-bluesky-protocol-services",
+      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://atproto.com/blog/intro...",
+      "score": 65
+    },
+    {
+      "type": "HackerNews",
+      "title": "SparrowMap – Cameras that watch government vehicles",
+      "url": "https://sparrowmap.com/",
+      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://sparrowmap.com/...",
+      "score": 38
     },
     {
       "type": "HackerNews",
       "title": "Accelerating GPT-5.6 Sol Ultrafast",
       "url": "https://www.cerebras.ai/blog/accelerating-gpt-5-6-sol-ultrafast-with-openai",
-      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.cerebras.ai/blog/a...",
-      "score": 295
+      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.cerebras.ai/blog/a...",
+      "score": 423
     },
     {
       "type": "HackerNews",
       "title": "NP-Overrated",
       "url": "https://gruhn.me/blog/2026-08-13/",
-      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://gruhn.me/blog/2026-08-...",
-      "score": 62
+      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://gruhn.me/blog/2026-08-...",
+      "score": 149
+    },
+    {
+      "type": "HackerNews",
+      "title": "DeepSeek Harness developer preview",
+      "url": "https://deepseek.com/harness/en/",
+      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://deepseek.com/harness/e...",
+      "score": 559
+    },
+    {
+      "type": "HackerNews",
+      "title": "Understanding is the new bottleneck",
+      "url": "https://www.geoffreylitt.com/2026/07/02/understanding-is-the-new-bottleneck",
+      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.geoffreylitt.com/2...",
+      "score": 206
     },
     {
       "type": "HackerNews",
       "title": "Donkey.bas is 45 Years Old – 131 line of Glory",
       "url": "https://donkeybas.com/",
-      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://donkeybas.com/...",
-      "score": 141
-    },
-    {
-      "type": "HackerNews",
-      "title": "Mistral OCR 4.1",
-      "url": "https://docs.mistral.ai/models/ocr-4-1",
-      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://docs.mistral.ai/models...",
-      "score": 200
-    },
-    {
-      "type": "HackerNews",
-      "title": "Spaghettifying DRAM",
-      "url": "https://github.com/xoreaxeaxeax/skitter-creek-bath-salts",
-      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://github.com/xoreaxeaxea...",
-      "score": 428
-    },
-    {
-      "type": "HackerNews",
-      "title": "Choose Boring Technology (2015)",
-      "url": "https://mcfunley.com/choose-boring-technology",
-      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://mcfunley.com/choose-bo...",
-      "score": 172
-    },
-    {
-      "type": "HackerNews",
-      "title": "How Gödel's Proof Works (2020)",
-      "url": "https://www.quantamagazine.org/how-godels-proof-works-20200714/",
-      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.quantamagazine.org...",
-      "score": 39
+      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://donkeybas.com/...",
+      "score": 191
     }
   ]
 }
