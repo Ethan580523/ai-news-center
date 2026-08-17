@@ -1,61 +1,61 @@
 {
-  "last_updated": "2026-08-17 03:49:27",
+  "last_updated": "2026-08-17 06:53:56",
   "news": [
     {
       "type": "HackerNews",
       "title": "Qwen 3.8 27B is excellent, but it defaults to overthinking things",
       "url": "https://simonwillison.net/2026/Aug/16/qwen-38-27b/",
-      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://simonwillison.net/2026...",
-      "score": 141
+      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://simonwillison.net/2026...",
+      "score": 315
     },
     {
       "type": "HackerNews",
       "title": "The Life and Death of Direct File [pdf]",
       "url": "https://www.ischool.berkeley.edu/sites/default/files/vinton_report_5.pdf",
-      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.ischool.berkeley.e...",
-      "score": 108
+      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.ischool.berkeley.e...",
+      "score": 170
+    },
+    {
+      "type": "HackerNews",
+      "title": "A third world engineer responds to “RISC-V: They should have known better”",
+      "url": "https://rvembedded.com/blog_post/12/",
+      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://rvembedded.com/blog_po...",
+      "score": 460
     },
     {
       "type": "HackerNews",
       "title": "AGI-64 Brings Sierra Adventures to the Commodore 64",
       "url": "https://meanhamster.com/news/agi-64-brings-sierra-adventures-to-the-commodore-64",
-      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://meanhamster.com/news/a...",
-      "score": 19
-    },
-    {
-      "type": "HackerNews",
-      "title": "A 3rd World Embedded Engineer Responds to \"RISC-V They Should Have Known Better\"",
-      "url": "https://rvembedded.com/blog_post/12/",
-      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://rvembedded.com/blog_po...",
-      "score": 402
-    },
-    {
-      "type": "HackerNews",
-      "title": "Rhombus 1.1 is now available",
-      "url": "https://blog.racket-lang.org/2026/08/rhombus-v1.1.html",
-      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://blog.racket-lang.org/2...",
-      "score": 30
-    },
-    {
-      "type": "HackerNews",
-      "title": "Claude: System Prompts",
-      "url": "https://platform.claude.com/docs/en/release-notes/system-prompts",
-      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://platform.claude.com/do...",
-      "score": 572
+      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://meanhamster.com/news/a...",
+      "score": 63
     },
     {
       "type": "HackerNews",
       "title": "Reticulum – Decentralized Mesh Network",
       "url": "https://reticulum.network/",
       "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://reticulum.network/...",
-      "score": 36
+      "score": 88
     },
     {
       "type": "HackerNews",
-      "title": "Low-Tech Ceramic Water Filter",
-      "url": "https://wiki.lowtechlab.org/wiki/Filtre_%C3%A0_eau_c%C3%A9ramique/en",
-      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://wiki.lowtechlab.org/wi...",
-      "score": 119
+      "title": "Claude: System Prompts",
+      "url": "https://platform.claude.com/docs/en/release-notes/system-prompts",
+      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://platform.claude.com/do...",
+      "score": 619
+    },
+    {
+      "type": "HackerNews",
+      "title": "Rhombus 1.1 is now available",
+      "url": "https://blog.racket-lang.org/2026/08/rhombus-v1.1.html",
+      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://blog.racket-lang.org/2...",
+      "score": 58
+    },
+    {
+      "type": "HackerNews",
+      "title": "Linear Algebra Done Right – Sheldon Axler",
+      "url": "https://linear.axler.net/",
+      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://linear.axler.net/...",
+      "score": 10
     }
   ]
 }
