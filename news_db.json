@@ -1,61 +1,61 @@
 {
-  "last_updated": "2026-08-16 21:19:15",
+  "last_updated": "2026-08-17 01:14:07",
   "news": [
     {
       "type": "HackerNews",
-      "title": "The Case Against Formal Verification, 50 Years Later",
-      "url": "https://ivan-gavran.github.io/0-social-processes-paper",
-      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://ivan-gavran.github.io/...",
-      "score": 21
+      "title": "The Life and Death of Direct File [pdf]",
+      "url": "https://www.ischool.berkeley.edu/sites/default/files/vinton_report_5.pdf",
+      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.ischool.berkeley.e...",
+      "score": 26
     },
     {
       "type": "HackerNews",
       "title": "A 3rd World Embedded Engineer Responds to \"RISC-V They Should Have Known Better\"",
       "url": "https://rvembedded.com/blog_post/12/",
       "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://rvembedded.com/blog_po...",
-      "score": 231
+      "score": 364
     },
     {
       "type": "HackerNews",
       "title": "Claude: System Prompts",
       "url": "https://platform.claude.com/docs/en/release-notes/system-prompts",
-      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://platform.claude.com/do...",
-      "score": 438
-    },
-    {
-      "type": "HackerNews",
-      "title": "Protobuf has LSP support. You're welcome",
-      "url": "https://buf.build/blog/protobuf-lsp",
-      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://buf.build/blog/protobu...",
-      "score": 53
+      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://platform.claude.com/do...",
+      "score": 530
     },
     {
       "type": "HackerNews",
       "title": "SIMD in the 90s: Programming Intel's Pentium MMX",
       "url": "https://pikuma.com/blog/programming-intel-pentium-mmx-simd",
-      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://pikuma.com/blog/progra...",
-      "score": 23
-    },
-    {
-      "type": "HackerNews",
-      "title": "The AI Credit Resale Economy",
-      "url": "https://vectoral.com/blog/who-are-the-token-brokers",
-      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://vectoral.com/blog/who-...",
-      "score": 188
+      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://pikuma.com/blog/progra...",
+      "score": 68
     },
     {
       "type": "HackerNews",
       "title": "Low-Tech Ceramic Water Filter",
       "url": "https://wiki.lowtechlab.org/wiki/Filtre_%C3%A0_eau_c%C3%A9ramique/en",
       "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://wiki.lowtechlab.org/wi...",
-      "score": 26
+      "score": 89
+    },
+    {
+      "type": "HackerNews",
+      "title": "A quick look at zero-knowledge proofs",
+      "url": "https://bernsteinbear.com/blog/zkp/",
+      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://bernsteinbear.com/blog...",
+      "score": 40
     },
     {
       "type": "HackerNews",
       "title": "Models Are Getting Dumber on Purpose",
       "url": "https://w4g1.dev/blog/models-are-getting-dumber-on-purpose",
-      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://w4g1.dev/blog/models-a...",
-      "score": 153
+      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://w4g1.dev/blog/models-a...",
+      "score": 259
+    },
+    {
+      "type": "HackerNews",
+      "title": "The AI Credit Resale Economy",
+      "url": "https://vectoral.com/blog/who-are-the-token-brokers",
+      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://vectoral.com/blog/who-...",
+      "score": 223
     }
   ]
 }
