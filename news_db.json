@@ -1,61 +1,61 @@
 {
-  "last_updated": "2026-08-17 09:40:26",
+  "last_updated": "2026-08-17 12:42:11",
   "news": [
     {
       "type": "HackerNews",
       "title": "Qwen 3.8 27B is excellent, but it defaults to overthinking things",
       "url": "https://simonwillison.net/2026/Aug/16/qwen-38-27b/",
       "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://simonwillison.net/2026...",
-      "score": 459
-    },
-    {
-      "type": "HackerNews",
-      "title": "Beware the Permanent Periphery",
-      "url": "https://asteriskmag.com/issues/15/beware-the-permanent-periphery",
-      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://asteriskmag.com/issues...",
-      "score": 17
+      "score": 588
     },
     {
       "type": "HackerNews",
       "title": "On A.I. regulation and messaging",
       "url": "https://twitter.com/DarioAmodei/status/2088758816376807762",
-      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://twitter.com/DarioAmode...",
-      "score": 50
+      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://twitter.com/DarioAmode...",
+      "score": 127
     },
     {
       "type": "HackerNews",
-      "title": "GIMP Development Update",
-      "url": "https://www.gimp.org/news/2026/08/16/dev-update-august-2026/",
-      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.gimp.org/news/2026...",
-      "score": 163
-    },
-    {
-      "type": "HackerNews",
-      "title": "A third world engineer responds to “RISC-V: They should have known better”",
-      "url": "https://rvembedded.com/blog_post/12/",
-      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://rvembedded.com/blog_po...",
-      "score": 504
-    },
-    {
-      "type": "HackerNews",
-      "title": "Linear algebra done right",
-      "url": "https://linear.axler.net/",
-      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://linear.axler.net/...",
-      "score": 77
+      "title": "People are worried about America's solvency",
+      "url": "https://www.ft.com/content/e04f286c-f5ed-46d1-8e3f-0bbe4cce4d3e",
+      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.ft.com/content/e04...",
+      "score": 39
     },
     {
       "type": "HackerNews",
       "title": "Anthropic's 'watermark' text adulteration in Claude is a perversion of writing",
       "url": "https://daringfireball.net/2026/08/anthropics_watermark_text_adulteration_in_claude_is_a_perversion_of_writing",
       "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://daringfireball.net/202...",
-      "score": 261
+      "score": 395
+    },
+    {
+      "type": "HackerNews",
+      "title": "A third world engineer responds to “RISC-V: They should have known better”",
+      "url": "https://rvembedded.com/blog_post/12/",
+      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://rvembedded.com/blog_po...",
+      "score": 550
+    },
+    {
+      "type": "HackerNews",
+      "title": "How Go detects struct copies with sync.noCopy",
+      "url": "https://func25.dev/posts/go-sync-nocopy/",
+      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://func25.dev/posts/go-sy...",
+      "score": 6
+    },
+    {
+      "type": "HackerNews",
+      "title": "Show HN: Desktopcolors.com – A museum for solid background colors of classic OS",
+      "url": "https://desktopcolors.com",
+      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://desktopcolors.com...",
+      "score": 37
     },
     {
       "type": "HackerNews",
       "title": "Reticulum – Decentralized Mesh Network",
       "url": "https://reticulum.network/",
-      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://reticulum.network/...",
-      "score": 121
+      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://reticulum.network/...",
+      "score": 151
     }
   ]
 }
