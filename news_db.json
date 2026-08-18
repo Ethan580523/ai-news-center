@@ -1,61 +1,61 @@
 {
-  "last_updated": "2026-08-18 09:32:23",
+  "last_updated": "2026-08-18 12:44:41",
   "news": [
     {
       "type": "HackerNews",
       "title": "Linux 7.3 improves performance when running out of vRAM",
       "url": "https://pixelcluster.dev/VRAM-Overcommit/",
-      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://pixelcluster.dev/VRAM-...",
-      "score": 65
+      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://pixelcluster.dev/VRAM-...",
+      "score": 264
+    },
+    {
+      "type": "HackerNews",
+      "title": "Google buys crashed airline Spirit's data at auction, because AI",
+      "url": "https://www.theregister.com/ai-and-ml/2026/08/18/google-buys-crashed-airline-spirits-data-at-auction-because-ai/5288962",
+      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.theregister.com/ai...",
+      "score": 178
     },
     {
       "type": "HackerNews",
       "title": "How Bluesky draws its logo on screenshots",
       "url": "https://timmarinin.net/2026/bluesky-screenshots/",
-      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://timmarinin.net/2026/bl...",
-      "score": 493
+      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://timmarinin.net/2026/bl...",
+      "score": 587
+    },
+    {
+      "type": "HackerNews",
+      "title": "Teaching my kid to code with a modern MUD",
+      "url": "https://tau.dev/2026/08/07/canon",
+      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://tau.dev/2026/08/07/can...",
+      "score": 17
     },
     {
       "type": "HackerNews",
       "title": "GPT-5.6 Sol Pricing Cut by 50%",
       "url": "https://openrouter.ai/openai/gpt-5.6-sol",
-      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://openrouter.ai/openai/g...",
-      "score": 429
+      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://openrouter.ai/openai/g...",
+      "score": 516
+    },
+    {
+      "type": "HackerNews",
+      "title": "Rethinking Database Programming",
+      "url": "https://acadia.engineering/blog/rethinking-database-programming",
+      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://acadia.engineering/blo...",
+      "score": 108
     },
     {
       "type": "HackerNews",
       "title": "Quake Shareware, a CD-ROM just a little too full",
       "url": "https://fabiensanglard.net/quake_shareware_cd/index.html",
-      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://fabiensanglard.net/qua...",
-      "score": 341
+      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://fabiensanglard.net/qua...",
+      "score": 398
     },
     {
       "type": "HackerNews",
-      "title": "Fairphone 6 and PostmarketOS working main camera",
-      "url": "https://catcrafts.net/posts/fairphone-6-postmarketos-working-main-camera",
-      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://catcrafts.net/posts/fa...",
-      "score": 191
-    },
-    {
-      "type": "HackerNews",
-      "title": "A Preview of DuckDB v2.0",
-      "url": "https://duckdb.org/2026/08/17/duckdb-20-highlights",
-      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://duckdb.org/2026/08/17/...",
-      "score": 637
-    },
-    {
-      "type": "HackerNews",
-      "title": "The Benchmarkpocalypse",
-      "url": "https://danluu.com/benchpocalypse/",
-      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://danluu.com/benchpocaly...",
-      "score": 97
-    },
-    {
-      "type": "HackerNews",
-      "title": "Ranking the Most Brilliantly Colored Birds with Data",
-      "url": "https://moultano.wordpress.com/2026/08/14/fairly-ranking-the-most-brilliant-birds/",
-      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://moultano.wordpress.com...",
-      "score": 15
+      "title": "As Wisconsin cities flee Flock, its shared camera network loses value",
+      "url": "https://arstechnica.com/tech-policy/2026/08/as-wisconsin-cities-flee-flock-its-shared-camera-network-loses-value/",
+      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://arstechnica.com/tech-p...",
+      "score": 37
     }
   ]
 }
