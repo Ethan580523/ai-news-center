@@ -1,61 +1,61 @@
 {
-  "last_updated": "2026-08-20 06:43:33",
+  "last_updated": "2026-08-20 09:33:29",
   "news": [
     {
       "type": "HackerNews",
-      "title": "Why Microsoft Entertainment Pack had a sticker announcing that it had Tetris?",
-      "url": "https://devblogs.microsoft.com/oldnewthing/20260818-00/?p=112621",
+      "title": "Don't Paste the AI, please",
+      "url": "https://dontpastetheai.com/",
+      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://dontpastetheai.com/...",
+      "score": 136
+    },
+    {
+      "type": "HackerNews",
+      "title": "Windows brings out the Rorschach test in everyone",
+      "url": "https://devblogs.microsoft.com/oldnewthing/20030825-00/?p=42803",
       "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://devblogs.microsoft.com...",
-      "score": 34
+      "score": 155
     },
     {
       "type": "HackerNews",
       "title": "OpenRouter is joining Stripe",
       "url": "https://openrouter.ai/blog/announcements/openrouter-is-joining-stripe/",
-      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://openrouter.ai/blog/ann...",
-      "score": 788
+      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://openrouter.ai/blog/ann...",
+      "score": 836
     },
     {
       "type": "HackerNews",
       "title": "Turns are Better than Radians (2022)",
       "url": "https://www.computerenhance.com/p/turns-are-better-than-radians",
-      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.computerenhance.co...",
-      "score": 138
+      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.computerenhance.co...",
+      "score": 201
     },
     {
       "type": "HackerNews",
       "title": "Go 1.27",
       "url": "https://go.dev/blog/go1.27",
-      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://go.dev/blog/go1.27...",
-      "score": 576
-    },
-    {
-      "type": "HackerNews",
-      "title": "A faster way to calculate the day of the week",
-      "url": "https://www.benjoffe.com/fast-day-of-week",
-      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.benjoffe.com/fast-...",
-      "score": 100
+      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://go.dev/blog/go1.27...",
+      "score": 633
     },
     {
       "type": "HackerNews",
       "title": "Google has stopped pushing Git tags for some Android source code",
       "url": "https://grapheneos.social/@GrapheneOS/117057099753905023",
-      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://grapheneos.social/@Gra...",
-      "score": 432
+      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://grapheneos.social/@Gra...",
+      "score": 546
+    },
+    {
+      "type": "HackerNews",
+      "title": "A faster way to calculate the day of the week",
+      "url": "https://www.benjoffe.com/fast-day-of-week",
+      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.benjoffe.com/fast-...",
+      "score": 142
     },
     {
       "type": "HackerNews",
       "title": "Manabu Kosaka's Handmade Paper Sculptures",
       "url": "https://coca11272000.wixsite.com/manabukosaka",
       "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://coca11272000.wixsite.c...",
-      "score": 103
-    },
-    {
-      "type": "HackerNews",
-      "title": "Unlocking a locked/deactivated e-waste Cricut Maker",
-      "url": "https://sprocketfox.io/xssfox/2026/07/01/cricut-unlock/",
-      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://sprocketfox.io/xssfox/...",
-      "score": 186
+      "score": 128
     }
   ]
 }
