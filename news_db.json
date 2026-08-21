@@ -1,61 +1,61 @@
 {
-  "last_updated": "2026-08-21 06:44:50",
+  "last_updated": "2026-08-21 09:35:26",
   "news": [
     {
       "type": "HackerNews",
-      "title": "Codex on AWS bedrock bug causing 10x charges",
-      "url": "https://github.com/openai/codex/issues/37674",
-      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://github.com/openai/code...",
-      "score": 94
+      "title": "The Lost Treasure of Sid Meier's Pirates",
+      "url": "https://remapradio.com/articles/the-lost-treasure-of-sid-meiers-pirates/",
+      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://remapradio.com/article...",
+      "score": 63
+    },
+    {
+      "type": "HackerNews",
+      "title": "We Rebuilt the Linux MicroVM Stack on Apple Silicon",
+      "url": "https://encore.dev/blog/firecracker-apple-silicon",
+      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://encore.dev/blog/firecr...",
+      "score": 57
     },
     {
       "type": "HackerNews",
       "title": "The August 17 outage",
       "url": "https://github.blog/news-insights/company-news/the-august-17-outage-and-the-work-ahead/",
       "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://github.blog/news-insig...",
-      "score": 449
+      "score": 520
     },
     {
       "type": "HackerNews",
       "title": "I like 'em thick: an apology to my English teachers",
       "url": "https://www.experimental-history.com/p/i-like-em-thick",
-      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.experimental-histo...",
-      "score": 672
-    },
-    {
-      "type": "HackerNews",
-      "title": "The Religious Experience of Philip K. Dick by R. Crumb (1986)",
-      "url": "https://philipdick.com/resources/miscellaneous/the-religious-experience-of-philip-k-dick-by-r-crumb-from-weirdo-17/",
-      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://philipdick.com/resourc...",
-      "score": 12
+      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.experimental-histo...",
+      "score": 729
     },
     {
       "type": "HackerNews",
       "title": "HTML Can Do That",
       "url": "https://chrisburnell.com/html-can-do-that/",
       "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://chrisburnell.com/html-...",
-      "score": 702
+      "score": 798
+    },
+    {
+      "type": "HackerNews",
+      "title": "Version Control for Everything",
+      "url": "https://tyoverby.com/posts/version-control-for-everything-else/",
+      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://tyoverby.com/posts/ver...",
+      "score": 37
     },
     {
       "type": "HackerNews",
       "title": "Malicious Rust crate Arrayref runs a build-time payload",
       "url": "https://safedep.io/arrayref-proc-macro1-rust-build-time-malware/",
-      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://safedep.io/arrayref-pr...",
-      "score": 463
+      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://safedep.io/arrayref-pr...",
+      "score": 493
     },
     {
       "type": "HackerNews",
-      "title": "I should have loved biology (2020)",
-      "url": "https://jsomers.net/i-should-have-loved-biology/",
-      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://jsomers.net/i-should-h...",
-      "score": 247
-    },
-    {
-      "type": "HackerNews",
-      "title": "Ox Alpha",
-      "url": "https://openrouter.ai/stealth/ox-alpha",
-      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://openrouter.ai/stealth/...",
-      "score": 92
+      "title": "The case against a C alternative (2022)",
+      "url": "https://c3.handmade.network/blog/p/8486-the_case_against_a_c_alternative",
+      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://c3.handmade.network/bl...",
+      "score": 19
     }
   ]
 }
