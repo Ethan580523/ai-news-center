@@ -1,61 +1,61 @@
 {
-  "last_updated": "2026-08-21 18:35:13",
+  "last_updated": "2026-08-21 21:23:23",
   "news": [
     {
       "type": "HackerNews",
       "title": "Kobo can run apps now",
       "url": "https://bandarlabs.github.io/Cobalt/",
       "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://bandarlabs.github.io/C...",
-      "score": 111
-    },
-    {
-      "type": "HackerNews",
-      "title": "Kagi added a setting for removing paywalled links from search results",
-      "url": "https://kagi.com/changelog#11296",
-      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://kagi.com/changelog#112...",
-      "score": 744
+      "score": 309
     },
     {
       "type": "HackerNews",
       "title": "Felony Bench",
       "url": "https://www.felonybench.com/",
-      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.felonybench.com/...",
-      "score": 157
+      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.felonybench.com/...",
+      "score": 360
     },
     {
       "type": "HackerNews",
-      "title": "I accidentally logged hundreds of thousands of phone calls to military bases",
-      "url": "https://lina.sh/blog/hijacking-e164-arpa",
-      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://lina.sh/blog/hijacking...",
-      "score": 240
-    },
-    {
-      "type": "HackerNews",
-      "title": "DeepSeek-v4-flash-vision-exp",
-      "url": "https://api-docs.deepseek.com/guides/vision/",
-      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://api-docs.deepseek.com/...",
-      "score": 386
-    },
-    {
-      "type": "HackerNews",
-      "title": "Rebuilding our Electron meeting-recording engine in Swift",
-      "url": "https://circleback.ai/blog/how-we-rebuilt-our-electron-recording-engine-in-swift",
-      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://circleback.ai/blog/how...",
-      "score": 22
-    },
-    {
-      "type": "HackerNews",
-      "title": "How we made a text-to-speech model respond in sub-50 ms",
-      "url": "https://nari-labs.com/blog/qwen3-tts-speed-cost-frontier/",
-      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://nari-labs.com/blog/qwe...",
-      "score": 29
+      "title": "Scientists release biggest 2D map of the universe",
+      "url": "https://newscenter.lbl.gov/2026/08/10/scientists-release-biggest-2d-map-of-the-universe/",
+      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://newscenter.lbl.gov/202...",
+      "score": 77
     },
     {
       "type": "HackerNews",
       "title": "AI boosted homework scores, then exam scores dropped: study",
       "url": "https://www.economist.com/graphic-detail/2026/08/18/does-ai-stop-children-from-learning",
       "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.economist.com/grap...",
-      "score": 56
+      "score": 162
+    },
+    {
+      "type": "HackerNews",
+      "title": "Kagi added a setting for removing paywalled links from search results",
+      "url": "https://kagi.com/changelog#11296",
+      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://kagi.com/changelog#112...",
+      "score": 894
+    },
+    {
+      "type": "HackerNews",
+      "title": "Felony charges for citizen deleting phone data at US Border",
+      "url": "https://www.nytimes.com/2026/08/21/us/politics/samuel-tunick-deleted-phone-felony.html",
+      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.nytimes.com/2026/0...",
+      "score": 273
+    },
+    {
+      "type": "HackerNews",
+      "title": "SalesPatriot (YC W25) Is Hiring Forward Deployed Engineers",
+      "url": "https://www.ycombinator.com/companies/salespatriot/jobs/M46X6YX-forward-deployed-engineer",
+      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.ycombinator.com/co...",
+      "score": 1
+    },
+    {
+      "type": "HackerNews",
+      "title": "I accidentally logged hundreds of thousands of phone calls to military bases",
+      "url": "https://lina.sh/blog/hijacking-e164-arpa",
+      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://lina.sh/blog/hijacking...",
+      "score": 355
     }
   ]
 }
