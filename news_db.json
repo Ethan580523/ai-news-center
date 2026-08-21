@@ -1,61 +1,61 @@
 {
-  "last_updated": "2026-08-21 03:49:41",
+  "last_updated": "2026-08-21 06:44:50",
   "news": [
     {
       "type": "HackerNews",
-      "title": "AI companies destroy physical books – let's scan rare books before it's too late",
-      "url": "https://annas-archive.gl/blog/physical-destruction.html",
-      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://annas-archive.gl/blog/...",
-      "score": 80
+      "title": "Codex on AWS bedrock bug causing 10x charges",
+      "url": "https://github.com/openai/codex/issues/37674",
+      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://github.com/openai/code...",
+      "score": 94
     },
     {
       "type": "HackerNews",
       "title": "The August 17 outage",
       "url": "https://github.blog/news-insights/company-news/the-august-17-outage-and-the-work-ahead/",
-      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://github.blog/news-insig...",
-      "score": 379
+      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://github.blog/news-insig...",
+      "score": 449
     },
     {
       "type": "HackerNews",
       "title": "I like 'em thick: an apology to my English teachers",
       "url": "https://www.experimental-history.com/p/i-like-em-thick",
       "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.experimental-histo...",
-      "score": 607
+      "score": 672
+    },
+    {
+      "type": "HackerNews",
+      "title": "The Religious Experience of Philip K. Dick by R. Crumb (1986)",
+      "url": "https://philipdick.com/resources/miscellaneous/the-religious-experience-of-philip-k-dick-by-r-crumb-from-weirdo-17/",
+      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://philipdick.com/resourc...",
+      "score": 12
     },
     {
       "type": "HackerNews",
       "title": "HTML Can Do That",
       "url": "https://chrisburnell.com/html-can-do-that/",
-      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://chrisburnell.com/html-...",
-      "score": 620
+      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://chrisburnell.com/html-...",
+      "score": 702
     },
     {
       "type": "HackerNews",
       "title": "Malicious Rust crate Arrayref runs a build-time payload",
       "url": "https://safedep.io/arrayref-proc-macro1-rust-build-time-malware/",
       "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://safedep.io/arrayref-pr...",
-      "score": 415
+      "score": 463
     },
     {
       "type": "HackerNews",
       "title": "I should have loved biology (2020)",
       "url": "https://jsomers.net/i-should-have-loved-biology/",
-      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://jsomers.net/i-should-h...",
-      "score": 207
+      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://jsomers.net/i-should-h...",
+      "score": 247
     },
     {
       "type": "HackerNews",
-      "title": "Make a 6-Tesla-class high-temperature superconducting dipole magnet at 4.2 K",
-      "url": "https://journals.aps.org/prab/abstract/10.1103/4nhs-bkwh",
-      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://journals.aps.org/prab/...",
-      "score": 18
-    },
-    {
-      "type": "HackerNews",
-      "title": "There's no such thing as a small software team anymore",
-      "url": "https://jacob.gold/posts/theres-no-such-thing-as-a-small-software-team/",
-      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://jacob.gold/posts/there...",
-      "score": 39
+      "title": "Ox Alpha",
+      "url": "https://openrouter.ai/stealth/ox-alpha",
+      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://openrouter.ai/stealth/...",
+      "score": 92
     }
   ]
 }
