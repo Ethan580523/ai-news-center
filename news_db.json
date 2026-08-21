@@ -1,61 +1,61 @@
 {
-  "last_updated": "2026-08-21 12:45:52",
+  "last_updated": "2026-08-21 15:32:12",
   "news": [
     {
       "type": "HackerNews",
-      "title": "DeepSeek-v4-flash-vision-exp",
-      "url": "https://api-docs.deepseek.com/guides/vision/",
-      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://api-docs.deepseek.com/...",
-      "score": 174
+      "title": "Kagi added a setting for removing paywalled links from search results",
+      "url": "https://kagi.com/changelog#11296",
+      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://kagi.com/changelog#112...",
+      "score": 321
     },
     {
       "type": "HackerNews",
       "title": "AI companies destroy physical books – let's scan rare books before it's too late",
       "url": "https://annas-archive.pk/blog/physical-destruction.html",
-      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://annas-archive.pk/blog/...",
-      "score": 130
+      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://annas-archive.pk/blog/...",
+      "score": 475
     },
     {
       "type": "HackerNews",
-      "title": "TigerBeetle Core System Architecture: Deconstructing Performance Engineering",
-      "url": "https://ixuvo.com/blog/tigerbeetle-core-system-architecture-performance-engineering",
-      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://ixuvo.com/blog/tigerbe...",
-      "score": 34
+      "title": "Claudette: Make Claude Stop Talking Like a BuzzFeed Article",
+      "url": "https://github.com/adnanakil/nobuzz/blob/main/README.md",
+      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://github.com/adnanakil/n...",
+      "score": 38
     },
     {
       "type": "HackerNews",
-      "title": "The Lost Treasure of Sid Meier's Pirates",
-      "url": "https://remapradio.com/articles/the-lost-treasure-of-sid-meiers-pirates/",
-      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://remapradio.com/article...",
-      "score": 144
+      "title": "DeepSeek-v4-flash-vision-exp",
+      "url": "https://api-docs.deepseek.com/guides/vision/",
+      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://api-docs.deepseek.com/...",
+      "score": 310
     },
     {
       "type": "HackerNews",
-      "title": "Small, native web tricks worth remembering",
-      "url": "https://htmlcat.net/",
-      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://htmlcat.net/...",
-      "score": 88
+      "title": "What Happens When the Cost of Intelligence Drops 100x",
+      "url": "https://catalystneuro.com/blog/cost-of-intelligence-drops-100x/",
+      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://catalystneuro.com/blog...",
+      "score": 65
     },
     {
       "type": "HackerNews",
-      "title": "We Rebuilt the Linux MicroVM Stack on Apple Silicon",
-      "url": "https://encore.dev/blog/firecracker-apple-silicon",
-      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://encore.dev/blog/firecr...",
-      "score": 110
+      "title": "What We Lost When Search Stopped Making Us Think",
+      "url": "https://blog.8ball.space/what-we-lost-when-search/",
+      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://blog.8ball.space/what-...",
+      "score": 32
     },
     {
       "type": "HackerNews",
-      "title": "Kino: A high-performance Ractor web server for Ruby 4.0",
-      "url": "https://github.com/yaroslav/kino",
-      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://github.com/yaroslav/ki...",
-      "score": 14
+      "title": "I accidentally logged phone calls to military bases",
+      "url": "https://lina.sh/blog/hijacking-e164-arpa",
+      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://lina.sh/blog/hijacking...",
+      "score": 65
     },
     {
       "type": "HackerNews",
-      "title": "Flat Chair by Sara Paculdo",
-      "url": "https://www.toxel.com/tech/2026/08/07/flat-chair-by-sara-paculdo/",
-      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.toxel.com/tech/202...",
-      "score": 51
+      "title": "c100",
+      "url": "https://caligra.com/c100/",
+      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://caligra.com/c100/...",
+      "score": 9
     }
   ]
 }
