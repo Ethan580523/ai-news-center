@@ -1,61 +1,61 @@
 {
-  "last_updated": "2026-08-22 03:40:43",
+  "last_updated": "2026-08-22 06:38:44",
   "news": [
     {
       "type": "HackerNews",
       "title": "There's no reason for software to be slow anymore",
       "url": "https://danluu.com/perf-opt/",
-      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://danluu.com/perf-opt/...",
-      "score": 119
+      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://danluu.com/perf-opt/...",
+      "score": 297
     },
     {
       "type": "HackerNews",
-      "title": "Felony Bench",
-      "url": "https://www.felonybench.com/",
-      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.felonybench.com/...",
-      "score": 573
-    },
-    {
-      "type": "HackerNews",
-      "title": "Kobo can run apps now",
-      "url": "https://bandarlabs.github.io/Cobalt/",
-      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://bandarlabs.github.io/C...",
-      "score": 455
-    },
-    {
-      "type": "HackerNews",
-      "title": "Rust Glancer: Rust LSP using 100x less RAM",
-      "url": "https://rust-glancer.github.io/blog/hello-world/",
-      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://rust-glancer.github.io...",
-      "score": 65
+      "title": "GPT 5.6 Sol 20% price reduction",
+      "url": "https://developers.openai.com/api/docs/models/gpt-5.6-sol",
+      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://developers.openai.com/...",
+      "score": 34
     },
     {
       "type": "HackerNews",
       "title": "Initial focus for our partnership with Motorola is a regular non-folding device",
       "url": "https://grapheneos.social/@GrapheneOS/117136278553665985",
       "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://grapheneos.social/@Gra...",
-      "score": 29
+      "score": 89
+    },
+    {
+      "type": "HackerNews",
+      "title": "Felony Bench",
+      "url": "https://www.felonybench.com/",
+      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.felonybench.com/...",
+      "score": 616
+    },
+    {
+      "type": "HackerNews",
+      "title": "Kobo can run apps now",
+      "url": "https://bandarlabs.github.io/Cobalt/",
+      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://bandarlabs.github.io/C...",
+      "score": 488
+    },
+    {
+      "type": "HackerNews",
+      "title": "Rust Glancer: Rust LSP using 100x less RAM",
+      "url": "https://rust-glancer.github.io/blog/hello-world/",
+      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://rust-glancer.github.io...",
+      "score": 111
+    },
+    {
+      "type": "HackerNews",
+      "title": "Felony charges for citizen deleting phone data at US Border",
+      "url": "https://www.nytimes.com/2026/08/21/us/politics/samuel-tunick-deleted-phone-felony.html",
+      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.nytimes.com/2026/0...",
+      "score": 694
     },
     {
       "type": "HackerNews",
       "title": "Three important steps in my maturation process",
       "url": "https://thomasdullien.github.io/posts/2026-08-21-three-important-steps-in-my-maturation-process/",
-      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://thomasdullien.github.i...",
-      "score": 82
-    },
-    {
-      "type": "HackerNews",
-      "title": "Scientists release biggest 2D map of the universe",
-      "url": "https://newscenter.lbl.gov/2026/08/10/scientists-release-biggest-2d-map-of-the-universe/",
-      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://newscenter.lbl.gov/202...",
-      "score": 161
-    },
-    {
-      "type": "HackerNews",
-      "title": "Kagi added a setting for removing paywalled links from search results",
-      "url": "https://kagi.com/changelog#11296",
-      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://kagi.com/changelog#112...",
-      "score": 1041
+      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://thomasdullien.github.i...",
+      "score": 112
     }
   ]
 }
