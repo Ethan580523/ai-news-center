@@ -1,32 +1,46 @@
 {
-  "last_updated": "2026-08-22 15:19:50",
+  "last_updated": "2026-08-22 18:29:23",
   "news": [
     {
       "type": "HackerNews",
-      "title": "The New MCP Roadmap",
-      "url": "https://blog.modelcontextprotocol.io/posts/mcp-roadmap/",
-      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://blog.modelcontextproto...",
-      "score": 42
-    },
-    {
-      "type": "HackerNews",
-      "title": "A Kantian Critique of \"Sorry\" by Justin Bieber",
-      "url": "https://decodingvibes.com/blog/a-kantian-critique-of-sorry-by-justin-bieber/",
-      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://decodingvibes.com/blog...",
-      "score": 83
-    },
-    {
-      "type": "HackerNews",
-      "title": "Munder Difflin – Agent harness to run an office of your clones",
-      "url": "https://munderdiffl.in/",
-      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://munderdiffl.in/...",
-      "score": 152
+      "title": "ElevenLabs, TwelveLabs, ThirteenLabs",
+      "url": "https://quantumi.sh/public/labs.html",
+      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://quantumi.sh/public/lab...",
+      "score": 130
     },
     {
       "type": "HackerNews",
       "title": "A Friendly Introduction to Racket",
       "url": "https://geometridae.bearblog.dev/a-friendly-introduction-to-racket/",
-      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://geometridae.bearblog.d...",
+      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://geometridae.bearblog.d...",
+      "score": 72
+    },
+    {
+      "type": "HackerNews",
+      "title": "RF Cafe",
+      "url": "https://www.rfcafe.com/",
+      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.rfcafe.com/...",
+      "score": 34
+    },
+    {
+      "type": "HackerNews",
+      "title": "Munder Difflin – Agent harness to run an office of your clones",
+      "url": "https://munderdiffl.in/",
+      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://munderdiffl.in/...",
+      "score": 201
+    },
+    {
+      "type": "HackerNews",
+      "title": "New MCP Roadmap",
+      "url": "https://blog.modelcontextprotocol.io/posts/mcp-roadmap/",
+      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://blog.modelcontextproto...",
+      "score": 129
+    },
+    {
+      "type": "HackerNews",
+      "title": "Hister – A private, full content search index that you control",
+      "url": "https://hister.org/",
+      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://hister.org/...",
       "score": 20
     },
     {
@@ -34,28 +48,14 @@
       "title": "Z80 – The 1970s Microprocessor Still Alive (2021)",
       "url": "https://www.computer.org/csdl/magazine/mi/2021/06/09623402/1yJTvlRLmhi",
       "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.computer.org/csdl/...",
-      "score": 66
+      "score": 89
     },
     {
       "type": "HackerNews",
-      "title": "A formal degree and algorithmic problem-solving is the answer. Always has been",
-      "url": "https://zaksa.zip/blog/formal-education-is-the-answer/",
-      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://zaksa.zip/blog/formal-...",
-      "score": 28
-    },
-    {
-      "type": "HackerNews",
-      "title": "Show HN: Rotation via Double Reflection",
-      "url": "https://static.laszlokorte.de/rotor-reflect/",
-      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://static.laszlokorte.de/...",
-      "score": 11
-    },
-    {
-      "type": "HackerNews",
-      "title": "Hook, hold, harvest and hide: Meta's alleged strategy laid out in first week",
-      "url": "https://www.theguardian.com/technology/2026/aug/22/meta-trial-children-privacy",
-      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.theguardian.com/te...",
-      "score": 117
+      "title": "Learning about \"The Unix Time-Sharing System\"",
+      "url": "https://playtechnique.io/long/the-unix-time-sharing-system.html",
+      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://playtechnique.io/long/...",
+      "score": 15
     }
   ]
 }
