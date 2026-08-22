@@ -1,61 +1,61 @@
 {
-  "last_updated": "2026-08-21 21:23:23",
+  "last_updated": "2026-08-22 01:11:54",
   "news": [
     {
       "type": "HackerNews",
       "title": "Kobo can run apps now",
       "url": "https://bandarlabs.github.io/Cobalt/",
-      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://bandarlabs.github.io/C...",
-      "score": 309
+      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://bandarlabs.github.io/C...",
+      "score": 420
     },
     {
       "type": "HackerNews",
       "title": "Felony Bench",
       "url": "https://www.felonybench.com/",
-      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.felonybench.com/...",
-      "score": 360
+      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.felonybench.com/...",
+      "score": 507
+    },
+    {
+      "type": "HackerNews",
+      "title": "Three important steps in my maturation process",
+      "url": "https://thomasdullien.github.io/posts/2026-08-21-three-important-steps-in-my-maturation-process/",
+      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://thomasdullien.github.i...",
+      "score": 35
     },
     {
       "type": "HackerNews",
       "title": "Scientists release biggest 2D map of the universe",
       "url": "https://newscenter.lbl.gov/2026/08/10/scientists-release-biggest-2d-map-of-the-universe/",
       "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://newscenter.lbl.gov/202...",
-      "score": 77
-    },
-    {
-      "type": "HackerNews",
-      "title": "AI boosted homework scores, then exam scores dropped: study",
-      "url": "https://www.economist.com/graphic-detail/2026/08/18/does-ai-stop-children-from-learning",
-      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.economist.com/grap...",
-      "score": 162
+      "score": 143
     },
     {
       "type": "HackerNews",
       "title": "Kagi added a setting for removing paywalled links from search results",
       "url": "https://kagi.com/changelog#11296",
       "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://kagi.com/changelog#112...",
-      "score": 894
-    },
-    {
-      "type": "HackerNews",
-      "title": "Felony charges for citizen deleting phone data at US Border",
-      "url": "https://www.nytimes.com/2026/08/21/us/politics/samuel-tunick-deleted-phone-felony.html",
-      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.nytimes.com/2026/0...",
-      "score": 273
-    },
-    {
-      "type": "HackerNews",
-      "title": "SalesPatriot (YC W25) Is Hiring Forward Deployed Engineers",
-      "url": "https://www.ycombinator.com/companies/salespatriot/jobs/M46X6YX-forward-deployed-engineer",
-      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.ycombinator.com/co...",
-      "score": 1
+      "score": 1001
     },
     {
       "type": "HackerNews",
       "title": "I accidentally logged hundreds of thousands of phone calls to military bases",
       "url": "https://lina.sh/blog/hijacking-e164-arpa",
-      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://lina.sh/blog/hijacking...",
-      "score": 355
+      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://lina.sh/blog/hijacking...",
+      "score": 436
+    },
+    {
+      "type": "HackerNews",
+      "title": "Show HN: OzBrain, a shared brain for knowledge between agents and your team",
+      "url": "https://ozbrain.com",
+      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://ozbrain.com...",
+      "score": 30
+    },
+    {
+      "type": "HackerNews",
+      "title": "People of ACM – Russ Cox",
+      "url": "https://www.acm.org/articles/people-of-acm/2026/russ-cox",
+      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.acm.org/articles/p...",
+      "score": 90
     }
   ]
 }
