@@ -1,61 +1,61 @@
 {
-  "last_updated": "2026-08-22 12:37:30",
+  "last_updated": "2026-08-22 15:19:50",
   "news": [
     {
       "type": "HackerNews",
-      "title": "Canada suspends trade negotiations with USA and match tariffs dollar for dollar",
-      "url": "https://www.pm.gc.ca/en/news/statements/2026/08/21/statement-prime-minister-carney-canada-us-trade-negotiations",
-      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.pm.gc.ca/en/news/s...",
-      "score": 333
+      "title": "The New MCP Roadmap",
+      "url": "https://blog.modelcontextprotocol.io/posts/mcp-roadmap/",
+      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://blog.modelcontextproto...",
+      "score": 42
+    },
+    {
+      "type": "HackerNews",
+      "title": "A Kantian Critique of \"Sorry\" by Justin Bieber",
+      "url": "https://decodingvibes.com/blog/a-kantian-critique-of-sorry-by-justin-bieber/",
+      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://decodingvibes.com/blog...",
+      "score": 83
     },
     {
       "type": "HackerNews",
       "title": "Munder Difflin – Agent harness to run an office of your clones",
       "url": "https://munderdiffl.in/",
-      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://munderdiffl.in/...",
-      "score": 47
+      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://munderdiffl.in/...",
+      "score": 152
     },
     {
       "type": "HackerNews",
-      "title": "Z80–The 1970s Microprocessor Still Alive",
+      "title": "A Friendly Introduction to Racket",
+      "url": "https://geometridae.bearblog.dev/a-friendly-introduction-to-racket/",
+      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://geometridae.bearblog.d...",
+      "score": 20
+    },
+    {
+      "type": "HackerNews",
+      "title": "Z80 – The 1970s Microprocessor Still Alive (2021)",
       "url": "https://www.computer.org/csdl/magazine/mi/2021/06/09623402/1yJTvlRLmhi",
-      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.computer.org/csdl/...",
-      "score": 32
+      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.computer.org/csdl/...",
+      "score": 66
     },
     {
       "type": "HackerNews",
-      "title": "Rust Glancer: Rust LSP using 100x less RAM",
-      "url": "https://rust-glancer.github.io/blog/hello-world/",
-      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://rust-glancer.github.io...",
-      "score": 299
+      "title": "A formal degree and algorithmic problem-solving is the answer. Always has been",
+      "url": "https://zaksa.zip/blog/formal-education-is-the-answer/",
+      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://zaksa.zip/blog/formal-...",
+      "score": 28
     },
     {
       "type": "HackerNews",
-      "title": "Felony Bench",
-      "url": "https://www.felonybench.com/",
-      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.felonybench.com/...",
-      "score": 752
+      "title": "Show HN: Rotation via Double Reflection",
+      "url": "https://static.laszlokorte.de/rotor-reflect/",
+      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://static.laszlokorte.de/...",
+      "score": 11
     },
     {
       "type": "HackerNews",
-      "title": "Kobo can run apps now",
-      "url": "https://bandarlabs.github.io/Cobalt/",
-      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://bandarlabs.github.io/C...",
-      "score": 583
-    },
-    {
-      "type": "HackerNews",
-      "title": "Felony charges for citizen deleting phone data at US Border",
-      "url": "https://www.nytimes.com/2026/08/21/us/politics/samuel-tunick-deleted-phone-felony.html",
-      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.nytimes.com/2026/0...",
-      "score": 859
-    },
-    {
-      "type": "HackerNews",
-      "title": "There's no reason for software to be slow anymore",
-      "url": "https://danluu.com/perf-opt/",
-      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://danluu.com/perf-opt/...",
-      "score": 484
+      "title": "Hook, hold, harvest and hide: Meta's alleged strategy laid out in first week",
+      "url": "https://www.theguardian.com/technology/2026/aug/22/meta-trial-children-privacy",
+      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.theguardian.com/te...",
+      "score": 117
     }
   ]
 }
