@@ -1,61 +1,61 @@
 {
-  "last_updated": "2026-08-22 21:20:45",
+  "last_updated": "2026-08-23 01:18:18",
   "news": [
     {
       "type": "HackerNews",
-      "title": "hdiutil is deprecated in macOS 27 Golden Gate",
-      "url": "https://lapcatsoftware.com/articles/2026/8/7.html",
-      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://lapcatsoftware.com/art...",
-      "score": 100
+      "title": "NanoGPT Speedrun Frontier",
+      "url": "https://www.primeintellect.ai/research/nanogpt-speedrun",
+      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.primeintellect.ai/...",
+      "score": 42
     },
     {
       "type": "HackerNews",
       "title": "Scrap",
       "url": "https://twitter.com/moxie/status/2091218652133732491",
       "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://twitter.com/moxie/stat...",
-      "score": 142
-    },
-    {
-      "type": "HackerNews",
-      "title": "NetBSD and My Life (2005)",
-      "url": "https://mail-index.netbsd.org/netbsd-advocacy/2005/09/10/0000.html",
-      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://mail-index.netbsd.org/...",
-      "score": 53
-    },
-    {
-      "type": "HackerNews",
-      "title": "ElevenLabs, TwelveLabs, ThirteenLabs",
-      "url": "https://quantumi.sh/public/labs.html",
-      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://quantumi.sh/public/lab...",
-      "score": 255
-    },
-    {
-      "type": "HackerNews",
-      "title": "Hister – A private, full content search index that you control",
-      "url": "https://hister.org/",
-      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://hister.org/...",
-      "score": 150
+      "score": 307
     },
     {
       "type": "HackerNews",
       "title": "Why your local LLM feels dumber than it is",
       "url": "https://forum.level1techs.com/t/why-your-local-llm-feels-dumber-than-it-is/253917",
       "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://forum.level1techs.com/...",
-      "score": 39
+      "score": 172
     },
     {
       "type": "HackerNews",
-      "title": "A Friendly Introduction to Racket",
-      "url": "https://geometridae.bearblog.dev/a-friendly-introduction-to-racket/",
-      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://geometridae.bearblog.d...",
-      "score": 117
+      "title": "ElevenLabs, TwelveLabs, ThirteenLabs",
+      "url": "https://quantumi.sh/public/labs.html",
+      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://quantumi.sh/public/lab...",
+      "score": 295
     },
     {
       "type": "HackerNews",
-      "title": "ATProto spaces: A new extension to ATProto that enables non-public data",
-      "url": "https://atproto.com/blog/atproto-spaces-alpha",
-      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://atproto.com/blog/atpro...",
-      "score": 63
+      "title": "Hister – A private, full content search index that you control",
+      "url": "https://hister.org/",
+      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://hister.org/...",
+      "score": 228
+    },
+    {
+      "type": "HackerNews",
+      "title": "NetBSD and my life (2005)",
+      "url": "https://mail-index.netbsd.org/netbsd-advocacy/2005/09/10/0000.html",
+      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://mail-index.netbsd.org/...",
+      "score": 94
+    },
+    {
+      "type": "HackerNews",
+      "title": "Figmimic – A bookmarklet to copy any webpage into Figma as editable layers",
+      "url": "https://marcua.net/minitools/figmimic/",
+      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://marcua.net/minitools/f...",
+      "score": 4
+    },
+    {
+      "type": "HackerNews",
+      "title": "RF Cafe",
+      "url": "https://www.rfcafe.com/",
+      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.rfcafe.com/...",
+      "score": 148
     }
   ]
 }
