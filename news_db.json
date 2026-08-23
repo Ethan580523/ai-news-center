@@ -1,61 +1,61 @@
 {
-  "last_updated": "2026-08-23 15:21:22",
+  "last_updated": "2026-08-23 18:28:13",
   "news": [
+    {
+      "type": "HackerNews",
+      "title": "I spent $266 and four AI models to own my tablet. GLM-5.3 finished it in a day",
+      "url": "https://ericpardee.github.io/fire-hd-ownership/",
+      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://ericpardee.github.io/f...",
+      "score": 324
+    },
+    {
+      "type": "HackerNews",
+      "title": "GLM-5.3 (open-weight) beat Anthropic/OpenAI models – for 1/5 the cost",
+      "url": "https://reinvently.co.uk/tools/ed-o-meter/",
+      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://reinvently.co.uk/tools...",
+      "score": 175
+    },
+    {
+      "type": "HackerNews",
+      "title": "How Complex Systems Fail (1998)",
+      "url": "https://how.complexsystems.fail/",
+      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://how.complexsystems.fai...",
+      "score": 114
+    },
     {
       "type": "HackerNews",
       "title": "Malware infects Android-based automotive head unit firmware",
       "url": "https://securelist.com/android-head-unit-malware/121106/",
-      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://securelist.com/android...",
-      "score": 88
+      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://securelist.com/android...",
+      "score": 164
+    },
+    {
+      "type": "HackerNews",
+      "title": "A website for debloated open source alternatives",
+      "url": "https://debloat.dev/",
+      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://debloat.dev/...",
+      "score": 45
+    },
+    {
+      "type": "HackerNews",
+      "title": "Why Sal Khan't: On Learning by Making but Teaching by Telling",
+      "url": "https://punyamishra.com/2026/04/16/why-sal-khant-on-learning-by-making-but-teaching-by-telling/",
+      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://punyamishra.com/2026/0...",
+      "score": 41
     },
     {
       "type": "HackerNews",
       "title": "My favorite nonfiction books about cults, scams, and schemes",
       "url": "https://bookdna.com/best-books/nonfiction-about-cults-scams-and-schemes",
       "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://bookdna.com/best-books...",
-      "score": 48
+      "score": 117
     },
     {
       "type": "HackerNews",
-      "title": "What Is a Harness?",
-      "url": "https://earendil.com/posts/what-is-a-harness/",
-      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://earendil.com/posts/wha...",
-      "score": 27
-    },
-    {
-      "type": "HackerNews",
-      "title": "Sydney Marathon medal mistakenly depicts Munich stadium",
-      "url": "https://www.bbc.com/news/articles/cvg92y1wzn8o",
-      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.bbc.com/news/artic...",
-      "score": 89
-    },
-    {
-      "type": "HackerNews",
-      "title": "Things I want in a modern relational query language",
-      "url": "https://sporks.space/2026/08/19/things-i-want-in-a-modern-relational-query-language/",
-      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://sporks.space/2026/08/1...",
-      "score": 19
-    },
-    {
-      "type": "HackerNews",
-      "title": "To become a better writer, read as much as you can",
-      "url": "https://nappertime.com/the-golden-rule-of-becoming-a-better-writer/",
-      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://nappertime.com/the-gol...",
-      "score": 315
-    },
-    {
-      "type": "HackerNews",
-      "title": "Slovakia finds Russian backdoor in traffic speed cameras",
-      "url": "https://risky.biz/risky-bulletin-slovakia-finds-russian-backdoor-in-traffic-speed-cameras/",
-      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://risky.biz/risky-bullet...",
-      "score": 29
-    },
-    {
-      "type": "HackerNews",
-      "title": "The End of an Athlon",
-      "url": "http://www.os2museum.com/wp/the-end-of-an-athlon/",
-      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：http://www.os2museum.com/wp/th...",
-      "score": 144
+      "title": "Coconut Oil Jet Fuel Matches Kerosene's Efficiency in Engine Tests",
+      "url": "https://studyfinds.com/coconut-oil-jet-fuel-matches-kerosenes-efficiency-in-engine-tests/",
+      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://studyfinds.com/coconut...",
+      "score": 63
     }
   ]
 }
