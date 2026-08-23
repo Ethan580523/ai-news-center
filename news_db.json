@@ -1,61 +1,61 @@
 {
-  "last_updated": "2026-08-23 06:39:25",
+  "last_updated": "2026-08-23 09:26:38",
   "news": [
-    {
-      "type": "HackerNews",
-      "title": "MartyPC is a cross-platform emulator of early PCs written in Rust",
-      "url": "https://martypc.net/",
-      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://martypc.net/...",
-      "score": 73
-    },
-    {
-      "type": "HackerNews",
-      "title": "The Golden Rule for Becoming a Better Writer",
-      "url": "https://nappertime.com/the-golden-rule-of-becoming-a-better-writer/",
-      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://nappertime.com/the-gol...",
-      "score": 48
-    },
     {
       "type": "HackerNews",
       "title": "The End of an Athlon",
       "url": "http://www.os2museum.com/wp/the-end-of-an-athlon/",
       "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：http://www.os2museum.com/wp/th...",
-      "score": 9
+      "score": 73
     },
     {
       "type": "HackerNews",
-      "title": "I Dream of Quieter Computing",
-      "url": "https://henry.codes/writing/i-dream-of-quieter-computing/",
-      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://henry.codes/writing/i-...",
-      "score": 46
+      "title": "JIT Compiling Code in 5μs",
+      "url": "https://malisper.me/jit-compiling-code-in-5-us/",
+      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://malisper.me/jit-compil...",
+      "score": 53
     },
     {
       "type": "HackerNews",
-      "title": "The Art and Beauty of Blade Runner (2015)",
-      "url": "https://nappertime.com/the-art-of-and-beauty-of-blade-runner/",
-      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://nappertime.com/the-art...",
-      "score": 52
+      "title": "To become a better writer, read as much as you can",
+      "url": "https://nappertime.com/the-golden-rule-of-becoming-a-better-writer/",
+      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://nappertime.com/the-gol...",
+      "score": 131
+    },
+    {
+      "type": "HackerNews",
+      "title": "MartyPC is a cross-platform emulator of early PCs written in Rust",
+      "url": "https://martypc.net/",
+      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://martypc.net/...",
+      "score": 112
+    },
+    {
+      "type": "HackerNews",
+      "title": "Tragically, as many as 9625 out of every 10k individuals may be neurotypical",
+      "url": "https://erikengdahl.se/autism/isnt/",
+      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://erikengdahl.se/autism/...",
+      "score": 22
     },
     {
       "type": "HackerNews",
       "title": "Why your local LLM feels dumber than it is",
       "url": "https://forum.level1techs.com/t/why-your-local-llm-feels-dumber-than-it-is/253917",
-      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://forum.level1techs.com/...",
-      "score": 279
+      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://forum.level1techs.com/...",
+      "score": 343
     },
     {
       "type": "HackerNews",
-      "title": "Scrap (2006)",
-      "url": "https://twitter.com/moxie/status/2091218652133732491",
-      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://twitter.com/moxie/stat...",
-      "score": 364
+      "title": "I Dream of Quieter Computing",
+      "url": "https://henry.codes/writing/i-dream-of-quieter-computing/",
+      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://henry.codes/writing/i-...",
+      "score": 68
     },
     {
       "type": "HackerNews",
-      "title": "ElevenLabs, TwelveLabs, ThirteenLabs",
-      "url": "https://quantumi.sh/public/labs.html",
-      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://quantumi.sh/public/lab...",
-      "score": 365
+      "title": "Fast and Hard Code",
+      "url": "https://lucumr.pocoo.org/2026/8/22/fast-hard-code/",
+      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://lucumr.pocoo.org/2026/...",
+      "score": 17
     }
   ]
 }
