@@ -1,61 +1,61 @@
 {
-  "last_updated": "2026-08-24 09:46:58",
+  "last_updated": "2026-08-24 12:49:13",
   "news": [
     {
       "type": "HackerNews",
-      "title": "Everything I own, owned",
-      "url": "https://schlarp.com/posts/everything-i-own-owned/",
-      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://schlarp.com/posts/ever...",
-      "score": 895
+      "title": "SeL4 security proofs now complete on AArch64",
+      "url": "https://proofcraft.systems/news-2026/#2026-08-21",
+      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://proofcraft.systems/new...",
+      "score": 36
     },
     {
       "type": "HackerNews",
       "title": "I were 17, I'd learn how to build LLMs from scratch",
       "url": "https://twitter.com/paulg/status/2091544343589060625",
-      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://twitter.com/paulg/stat...",
-      "score": 103
+      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://twitter.com/paulg/stat...",
+      "score": 240
+    },
+    {
+      "type": "HackerNews",
+      "title": "Everything I own, owned",
+      "url": "https://schlarp.com/posts/everything-i-own-owned/",
+      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://schlarp.com/posts/ever...",
+      "score": 1075
+    },
+    {
+      "type": "HackerNews",
+      "title": "Omakase Computing",
+      "url": "https://learn.omacom.io/3/omacom/76/omakase-computing",
+      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://learn.omacom.io/3/omac...",
+      "score": 29
     },
     {
       "type": "HackerNews",
       "title": "FDA clears blood test to aid evaluation for Alzheimer's disease",
       "url": "https://medicine.washu.edu/news/fda-clears-blood-test-to-aid-evaluation-for-alzheimers-disease/",
-      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://medicine.washu.edu/new...",
-      "score": 40
-    },
-    {
-      "type": "HackerNews",
-      "title": "Anthropic's best AI model struggles to attract users as cheaper tools thrive",
-      "url": "https://www.ft.com/content/5ee49718-c258-4f01-aa32-7e5b76ae5245",
-      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.ft.com/content/5ee...",
-      "score": 510
-    },
-    {
-      "type": "HackerNews",
-      "title": "OCR It – pull text out of un-copyable documents for your LLM",
-      "url": "https://github.com/thiagotigaz/ocr-it",
-      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://github.com/thiagotigaz...",
-      "score": 28
-    },
-    {
-      "type": "HackerNews",
-      "title": "How I find problems to solve as a staff engineer",
-      "url": "https://lalitm.com/post/find-problems-staff-engineer/",
-      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://lalitm.com/post/find-p...",
-      "score": 412
-    },
-    {
-      "type": "HackerNews",
-      "title": "Andreessen Horowitz is investing billions into a bleak future",
-      "url": "https://www.modelrepublic.org/articles/a16z-portfolio",
-      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.modelrepublic.org/...",
-      "score": 136
+      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://medicine.washu.edu/new...",
+      "score": 77
     },
     {
       "type": "HackerNews",
       "title": "Executable Is a SQLite Database",
       "url": "https://fzakaria.com/2026/08/23/your-executable-is-a-sqlite-database",
-      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://fzakaria.com/2026/08/2...",
-      "score": 58
+      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://fzakaria.com/2026/08/2...",
+      "score": 175
+    },
+    {
+      "type": "HackerNews",
+      "title": "The Future Belongs to the Weird",
+      "url": "https://essays.georgestrakhov.com/weird/",
+      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://essays.georgestrakhov....",
+      "score": 45
+    },
+    {
+      "type": "HackerNews",
+      "title": "Agent Is Not the Model",
+      "url": "https://code.joejag.com/2026/your-agent-is-not-the-model.html",
+      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://code.joejag.com/2026/y...",
+      "score": 9
     }
   ]
 }
