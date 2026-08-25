@@ -1,61 +1,61 @@
 {
-  "last_updated": "2026-08-25 06:46:01",
+  "last_updated": "2026-08-25 09:34:05",
   "news": [
     {
       "type": "HackerNews",
       "title": "iCloud+ Hide My Email addresses will remain on icloud.com",
       "url": "https://developer.apple.com/news/?id=1ptvdtcm",
       "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://developer.apple.com/ne...",
-      "score": 385
+      "score": 459
     },
     {
       "type": "HackerNews",
       "title": "Xiaomi: New CPU matches Apple cores single threaded, much faster multithreaded",
       "url": "https://twitter.com/lemire/status/2091894299289874926",
-      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://twitter.com/lemire/sta...",
-      "score": 815
+      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://twitter.com/lemire/sta...",
+      "score": 862
     },
     {
       "type": "HackerNews",
       "title": "MS Paint and Photos inivisibly watermark even locally generated output with GUID",
       "url": "https://xusheng.dev/posts/reversing/mspaint_invisible_watermark/main/",
-      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://xusheng.dev/posts/reve...",
-      "score": 658
-    },
-    {
-      "type": "HackerNews",
-      "title": "Nostr is an inclusive communication commons",
-      "url": "https://nostr.org/",
-      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://nostr.org/...",
-      "score": 90
+      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://xusheng.dev/posts/reve...",
+      "score": 707
     },
     {
       "type": "HackerNews",
       "title": "How Universities Should Prepare Founders",
       "url": "https://paulgraham.com/prepare.html",
       "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://paulgraham.com/prepare...",
-      "score": 87
+      "score": 122
     },
     {
       "type": "HackerNews",
-      "title": "Show HN: Screen memory without screenshots, just text to Markdown",
-      "url": "https://github.com/dragthelake/ambient-context",
-      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://github.com/dragthelake...",
-      "score": 21
+      "title": "SiFive's First Server Platform",
+      "url": "https://chipsandcheese.com/p/sifives-first-server-platform",
+      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://chipsandcheese.com/p/s...",
+      "score": 51
     },
     {
       "type": "HackerNews",
       "title": "How Europe is killing makers and micro-entrepreneurs",
       "url": "https://lectronz.com/u/lectronz/articles/how-europe-is-killing-makers-and-micro-entrepreneurs",
       "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://lectronz.com/u/lectron...",
-      "score": 1214
+      "score": 1349
     },
     {
       "type": "HackerNews",
       "title": "Moon (2024)",
       "url": "https://ciechanow.ski/moon/",
       "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://ciechanow.ski/moon/...",
-      "score": 150
+      "score": 185
+    },
+    {
+      "type": "HackerNews",
+      "title": "Headlong: A Microharness for Persistent Agents",
+      "url": "https://www.laude.org/updates/headlong-a-microharness-for-persistent-agents",
+      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.laude.org/updates/...",
+      "score": 54
     }
   ]
 }
