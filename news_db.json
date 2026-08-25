@@ -1,61 +1,61 @@
 {
-  "last_updated": "2026-08-25 01:13:59",
+  "last_updated": "2026-08-25 03:48:13",
   "news": [
     {
       "type": "HackerNews",
       "title": "iCloud+ Hide My Email addresses will remain on icloud.com",
       "url": "https://developer.apple.com/news/?id=1ptvdtcm",
-      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://developer.apple.com/ne...",
-      "score": 201
+      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://developer.apple.com/ne...",
+      "score": 286
     },
     {
       "type": "HackerNews",
       "title": "Xiaomi: New CPU matches Apple cores single threaded, much faster multithreaded",
       "url": "https://twitter.com/lemire/status/2091894299289874926",
       "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://twitter.com/lemire/sta...",
-      "score": 719
+      "score": 764
     },
     {
       "type": "HackerNews",
       "title": "MS Paint and Photos inivisibly watermark even locally generated output with GUID",
       "url": "https://xusheng.dev/posts/reversing/mspaint_invisible_watermark/main/",
-      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://xusheng.dev/posts/reve...",
-      "score": 550
+      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://xusheng.dev/posts/reve...",
+      "score": 598
+    },
+    {
+      "type": "HackerNews",
+      "title": "How Universities Should Prepare Founders",
+      "url": "https://paulgraham.com/prepare.html",
+      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://paulgraham.com/prepare...",
+      "score": 43
     },
     {
       "type": "HackerNews",
       "title": "Moon (2024)",
       "url": "https://ciechanow.ski/moon/",
       "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://ciechanow.ski/moon/...",
-      "score": 90
+      "score": 119
+    },
+    {
+      "type": "HackerNews",
+      "title": "Was Modern Art a CIA Psy-Op? (2020)",
+      "url": "https://daily.jstor.org/was-modern-art-really-a-cia-psy-op/",
+      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://daily.jstor.org/was-mo...",
+      "score": 32
+    },
+    {
+      "type": "HackerNews",
+      "title": "How Europe is killing makers and micro-entrepreneurs",
+      "url": "https://lectronz.com/u/lectronz/articles/how-europe-is-killing-makers-and-micro-entrepreneurs",
+      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://lectronz.com/u/lectron...",
+      "score": 1108
     },
     {
       "type": "HackerNews",
       "title": "The entire city of San Francisco as a video game",
       "url": "https://sf.thijs.gg/",
       "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://sf.thijs.gg/...",
-      "score": 332
-    },
-    {
-      "type": "HackerNews",
-      "title": "How Europe is killing makers and micro-entrepreneurs",
-      "url": "https://lectronz.com/u/lectronz/articles/how-europe-is-killing-makers-and-micro-entrepreneurs",
-      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://lectronz.com/u/lectron...",
-      "score": 1047
-    },
-    {
-      "type": "HackerNews",
-      "title": "Bookshelf – Self-hosted eBook library that runs on object storage",
-      "url": "https://github.com/murerkinn/bookshelf",
-      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://github.com/murerkinn/b...",
-      "score": 25
-    },
-    {
-      "type": "HackerNews",
-      "title": "One corner of China’s internet is insisting that the Tang Dynasty never existed",
-      "url": "https://www.cnn.com/2026/08/19/style/china-tang-dynasty-never-existed-hoax-intl-hnk",
-      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.cnn.com/2026/08/19...",
-      "score": 119
+      "score": 376
     }
   ]
 }
