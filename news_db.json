@@ -1,61 +1,61 @@
 {
-  "last_updated": "2026-08-26 16:16:55",
+  "last_updated": "2026-08-26 19:45:39",
   "news": [
     {
       "type": "HackerNews",
-      "title": "AWS Acquires DuckDB",
-      "url": "https://ducklabs.com/news/2026/08/26/ducklabs-to-join-aws",
-      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://ducklabs.com/news/2026...",
-      "score": 609
+      "title": "Tailcat",
+      "url": "https://github.com/tailscale/tailcat",
+      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://github.com/tailscale/t...",
+      "score": 202
     },
     {
       "type": "HackerNews",
       "title": "GLM-5.3-Flash",
       "url": "https://z.ai/blog/glm-5.3-flash",
-      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://z.ai/blog/glm-5.3-flas...",
-      "score": 339
+      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://z.ai/blog/glm-5.3-flas...",
+      "score": 666
     },
     {
       "type": "HackerNews",
-      "title": "Qwen3.8-Flash-Next: A New Architecture, Towards Ultimate Cost-Efficiency",
-      "url": "https://qwen.ai/blog?id=qwen3.8-flash-next",
-      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://qwen.ai/blog?id=qwen3....",
-      "score": 351
+      "title": "Study Reveals UnitedHealth's Profit Margins Four Times What It Claimed [pdf]",
+      "url": "https://insurancewatchdogcoalition.com/wp-content/uploads/2026/08/UHG-Profits-Study_August-2026.pdf",
+      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://insurancewatchdogcoali...",
+      "score": 120
+    },
+    {
+      "type": "HackerNews",
+      "title": "An ongoing 3D-printer AGPL violation",
+      "url": "https://lwn.net/SubscriberLink/1089390/46116614cc74b814/",
+      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://lwn.net/SubscriberLink...",
+      "score": 144
+    },
+    {
+      "type": "HackerNews",
+      "title": "AWS Acquires DuckLabs",
+      "url": "https://ducklabs.com/news/2026/08/26/ducklabs-to-join-aws",
+      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://ducklabs.com/news/2026...",
+      "score": 832
+    },
+    {
+      "type": "HackerNews",
+      "title": "Designation of Autistici/Inventati as a Specially Designated Global Terrorist",
+      "url": "https://www.state.gov/releases/office-of-the-spokesperson/2026/08/designation-of-autistici-inventati-as-a-specially-designated-global-terrorist/",
+      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.state.gov/releases...",
+      "score": 41
     },
     {
       "type": "HackerNews",
       "title": "Nebula Sans",
       "url": "https://www.nebulasans.com",
-      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.nebulasans.com...",
-      "score": 84
+      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.nebulasans.com...",
+      "score": 248
     },
     {
       "type": "HackerNews",
-      "title": "Taylor Farms: How One Company's Reach Became a National Risk",
-      "url": "https://farmaction.us/taylorfarmsreport/",
-      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://farmaction.us/taylorfa...",
-      "score": 74
-    },
-    {
-      "type": "HackerNews",
-      "title": "GLM-5.3-Flash Intelligence, Performance and Price Analysis",
-      "url": "https://artificialanalysis.ai/models/glm-5-3-flash",
-      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://artificialanalysis.ai/...",
-      "score": 57
-    },
-    {
-      "type": "HackerNews",
-      "title": "France reaches 94.9% fiber coverage in 2026",
-      "url": "https://cartefibre.arcep.fr",
-      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://cartefibre.arcep.fr...",
-      "score": 89
-    },
-    {
-      "type": "HackerNews",
-      "title": "Launch HN: Risklytics (YC S26) – Insurance brokerage for frontier tech companies",
-      "url": "https://www.risklytics.ai/",
-      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.risklytics.ai/...",
-      "score": 4
+      "title": "Qwen3.8-Flash-Next",
+      "url": "https://qwen.ai/blog?id=qwen3.8-flash-next",
+      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://qwen.ai/blog?id=qwen3....",
+      "score": 510
     }
   ]
 }
