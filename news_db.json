@@ -1,61 +1,61 @@
 {
-  "last_updated": "2026-08-26 09:40:28",
+  "last_updated": "2026-08-26 12:50:52",
   "news": [
     {
       "type": "HackerNews",
-      "title": "Apple introduces M6 and M5 Ultra",
-      "url": "https://www.apple.com/newsroom/2026/08/apple-introduces-m6-and-m5-ultra-for-a-big-leap-in-performance-and-ai-compute/",
-      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.apple.com/newsroom...",
-      "score": 1142
+      "title": "Omarchy is full of security holes",
+      "url": "https://blog.happyfellow.dev/merchants-of-insecurity/",
+      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://blog.happyfellow.dev/m...",
+      "score": 130
     },
     {
       "type": "HackerNews",
-      "title": "Stalking the Wily Hacker: 40 years later – Cliff Stoll [video]",
-      "url": "https://www.youtube.com/watch?v=656058JxTM0",
-      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.youtube.com/watch?...",
-      "score": 98
-    },
-    {
-      "type": "HackerNews",
-      "title": "Show HN: Buslens – where can I get to by bus? (UK)",
-      "url": "https://rupertlinacre.com/buslens/",
-      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://rupertlinacre.com/busl...",
-      "score": 16
+      "title": "RAG Is Simpler Than You Think",
+      "url": "https://www.lighthousenewsletter.com/p/rag-is-simpler-than-you-think",
+      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.lighthousenewslett...",
+      "score": 167
     },
     {
       "type": "HackerNews",
       "title": "Oldinsurancemaps.net is now a Charter Project",
       "url": "https://openstreetmap.us/news/2026/08/oim-charter-project/",
-      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://openstreetmap.us/news/...",
-      "score": 4
+      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://openstreetmap.us/news/...",
+      "score": 95
     },
     {
       "type": "HackerNews",
-      "title": "FDA authorizes first wearable device that monitors ketone and blood sugar levels",
-      "url": "https://www.fda.gov/news-events/press-announcements/fda-authorizes-first-wearable-device-continuously-monitors-both-ketone-levels-and-blood-sugar",
-      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.fda.gov/news-event...",
-      "score": 397
+      "title": "Z.ai confirms Ox Alpha is a new GLM-series model and will release its weights",
+      "url": "https://www.bloomberg.com/news/articles/2026-08-26/china-s-z-ai-made-ox-alpha-stealth-model-that-rivals-deepseek",
+      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.bloomberg.com/news...",
+      "score": 196
     },
     {
       "type": "HackerNews",
-      "title": "OpenAI Jalapeño: Better than Nvidia Blackwell",
-      "url": "https://newsletter.semianalysis.com/p/openai-jalapeno-better-than-nvidia",
-      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://newsletter.semianalysi...",
-      "score": 483
+      "title": "Apple introduces M6 and M5 Ultra",
+      "url": "https://www.apple.com/newsroom/2026/08/apple-introduces-m6-and-m5-ultra-for-a-big-leap-in-performance-and-ai-compute/",
+      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.apple.com/newsroom...",
+      "score": 1207
     },
     {
       "type": "HackerNews",
-      "title": "Queryable Executables",
-      "url": "https://fzakaria.com/2026/08/24/actually-queryable-executables",
-      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://fzakaria.com/2026/08/2...",
-      "score": 181
+      "title": "Beyond Recall and the Illusion of Competence",
+      "url": "https://var0.xyz/posts/beyond-recall-and-the-illusion-of-competence.html",
+      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://var0.xyz/posts/beyond-...",
+      "score": 33
     },
     {
       "type": "HackerNews",
-      "title": "Harvest (IBM 7950): Supercomputer for cryptanalysis at the NSA in the Cold War",
-      "url": "https://spectrum.ieee.org/cold-war-codebreaker-nsa-ibm",
-      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://spectrum.ieee.org/cold...",
-      "score": 36
+      "title": "XCancel and Nitter are receiving C&D letters from XCorp",
+      "url": null,
+      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：...",
+      "score": 98
+    },
+    {
+      "type": "HackerNews",
+      "title": "Proliferate (YC S25) Is Hiring",
+      "url": "https://www.ycombinator.com/companies/proliferate/jobs/OgpCKYJ-founding-product-engineer",
+      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.ycombinator.com/co...",
+      "score": 1
     }
   ]
 }
