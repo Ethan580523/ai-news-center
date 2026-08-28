@@ -1,61 +1,61 @@
 {
-  "last_updated": "2026-08-28 14:56:16",
+  "last_updated": "2026-08-28 23:54:43",
   "news": [
     {
       "type": "HackerNews",
-      "title": "\"IT WoRKs BeTter in the App \"",
-      "url": "https://shkspr.mobi/blog/2026/08/it-works-better-in-the-app/",
-      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://shkspr.mobi/blog/2026/...",
-      "score": 277
+      "title": "GUIs should be fully keyboard-driven",
+      "url": "https://ckardaris.com/blog/2026/08/28/keyboard-driven-guis.html",
+      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://ckardaris.com/blog/202...",
+      "score": 550
     },
     {
       "type": "HackerNews",
-      "title": "Get your Windows license refund",
-      "url": "https://en.refund4freedom.org/",
-      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://en.refund4freedom.org/...",
-      "score": 99
+      "title": "Htmx 4.0",
+      "url": "https://four.htmx.org/announcements/2026-08-28-htmx-4.0.0-is-released",
+      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://four.htmx.org/announce...",
+      "score": 476
+    },
+    {
+      "type": "HackerNews",
+      "title": "Just the rumour of a bug is enough to find an exploit these days",
+      "url": "https://anil.recoil.org/notes/rumour-is-the-exploit",
+      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://anil.recoil.org/notes/...",
+      "score": 235
+    },
+    {
+      "type": "HackerNews",
+      "title": "U.S. sanctions against the A/I Collective",
+      "url": "https://www.inventati.org/",
+      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.inventati.org/...",
+      "score": 449
+    },
+    {
+      "type": "HackerNews",
+      "title": "Boot a Virtual iPhone via Apple's Virtualization.framework",
+      "url": "https://github.com/Lakr233/vphone-cli",
+      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://github.com/Lakr233/vph...",
+      "score": 9
     },
     {
       "type": "HackerNews",
       "title": "Inception-style curved map for turn-by-turn directions",
       "url": "https://www.orbify.eu/demo/",
       "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.orbify.eu/demo/...",
-      "score": 84
+      "score": 403
     },
     {
       "type": "HackerNews",
-      "title": "OpenAI: Migrating to HTTPX2",
-      "url": "https://github.com/openai/openai-python/blob/main/httpx2.md",
-      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://github.com/openai/open...",
-      "score": 103
+      "title": "Curvature Beziers: Improving on a timeless recipe",
+      "url": "https://acko.net/blog/curvature-beziers/",
+      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://acko.net/blog/curvatur...",
+      "score": 66
     },
     {
       "type": "HackerNews",
-      "title": "OpenStreetMap State of the Map 2026",
-      "url": "https://2026.stateofthemap.org/",
-      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://2026.stateofthemap.org...",
-      "score": 24
-    },
-    {
-      "type": "HackerNews",
-      "title": "Hilariously Fast Volume Computation with the Divergence Theorem",
-      "url": "https://alyssarosenzweig.ca/blog/hilariously-fast-volume-computation-with-the-divergence-theorem.html",
-      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://alyssarosenzweig.ca/bl...",
-      "score": 164
-    },
-    {
-      "type": "HackerNews",
-      "title": "EPA says power for data centers can sidestep pollution laws",
-      "url": "https://www.epa.gov/newsreleases/epa-issues-permitting-guidance-further-president-trumps-agenda-promoting-data-centers",
-      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.epa.gov/newsreleas...",
-      "score": 129
-    },
-    {
-      "type": "HackerNews",
-      "title": "The Twelve-Factor App",
-      "url": "https://12factor.net/",
-      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://12factor.net/...",
-      "score": 15
+      "title": "Judge rules Trump administration’s blacklisting of Anthropic was illegal",
+      "url": "https://www.nytimes.com/2026/08/27/technology/anthropic-government-blacklisting-ruling.html",
+      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.nytimes.com/2026/0...",
+      "score": 495
     }
   ]
 }
