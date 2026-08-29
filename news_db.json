@@ -1,61 +1,61 @@
 {
-  "last_updated": "2026-08-29 05:53:20",
+  "last_updated": "2026-08-29 12:23:45",
   "news": [
     {
       "type": "HackerNews",
-      "title": "Boot a Virtual iPhone via Apple's Virtualization.framework",
-      "url": "https://github.com/Lakr233/vphone-cli",
-      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://github.com/Lakr233/vph...",
-      "score": 199
+      "title": "Iceland votes on whether to restart talks on joining EU",
+      "url": "https://www.bbc.com/news/articles/cn45vdxyvvlo",
+      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.bbc.com/news/artic...",
+      "score": 58
+    },
+    {
+      "type": "HackerNews",
+      "title": "Samsung's Processing-in-Memory (PIM)",
+      "url": "https://chipsandcheese.com/p/hot-chips-2026-samsungs-processing",
+      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://chipsandcheese.com/p/h...",
+      "score": 134
     },
     {
       "type": "HackerNews",
       "title": "GUIs should be fully keyboard-driven",
       "url": "https://ckardaris.com/blog/2026/08/28/keyboard-driven-guis.html",
-      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://ckardaris.com/blog/202...",
-      "score": 715
+      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://ckardaris.com/blog/202...",
+      "score": 863
     },
     {
       "type": "HackerNews",
-      "title": "TurboKV: Insanely fast Rust key-value store",
-      "url": "https://github.com/kingroryg/turbokv",
-      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://github.com/kingroryg/t...",
-      "score": 56
+      "title": "Hunting Down a Go Runtime Bug on 32-Bit Embedded Systems",
+      "url": "https://sigma-star.at/blog/2026/08/go-runtime-netpoll-bug/",
+      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://sigma-star.at/blog/202...",
+      "score": 39
+    },
+    {
+      "type": "HackerNews",
+      "title": "Boot a Virtual iPhone via Apple's Virtualization.framework",
+      "url": "https://github.com/Lakr233/vphone-cli",
+      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://github.com/Lakr233/vph...",
+      "score": 302
+    },
+    {
+      "type": "HackerNews",
+      "title": "Europe's last regular standard-gauge steam passenger service",
+      "url": "https://parowozowniawolsztyn.pl/?page_id=2141",
+      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://parowozowniawolsztyn.p...",
+      "score": 59
     },
     {
       "type": "HackerNews",
       "title": "Htmx 4.0",
       "url": "https://four.htmx.org/announcements/2026-08-28-htmx-4.0.0-is-released",
       "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://four.htmx.org/announce...",
-      "score": 597
+      "score": 699
     },
     {
       "type": "HackerNews",
-      "title": "StemDeck, a free, open-source and local AI stem separator",
-      "url": "https://github.com/stemdeckapp/stemdeck",
-      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://github.com/stemdeckapp...",
-      "score": 60
-    },
-    {
-      "type": "HackerNews",
-      "title": "Our decision on Cursor following its acquisition by SpaceX",
-      "url": "https://openai.com/index/our-decision-on-cursor-following-its-acquisition-by-spacex/",
-      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://openai.com/index/our-d...",
-      "score": 323
-    },
-    {
-      "type": "HackerNews",
-      "title": "9th Circuit sides with states in Kalshi gambling fight",
-      "url": "https://azmirror.com/2026/08/28/9th-circuit-sides-with-states-in-kalshi-gambling-fight-potentially-reviving-arizonas-prosecution/",
-      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://azmirror.com/2026/08/2...",
-      "score": 108
-    },
-    {
-      "type": "HackerNews",
-      "title": "U.S. sanctions against the A/I Collective",
-      "url": "https://www.inventati.org/",
-      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.inventati.org/...",
-      "score": 541
+      "title": "TurboKV: Insanely fast Rust key-value store",
+      "url": "https://github.com/kingroryg/turbokv",
+      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://github.com/kingroryg/t...",
+      "score": 124
     }
   ]
 }
