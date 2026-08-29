@@ -1,61 +1,61 @@
 {
-  "last_updated": "2026-08-29 12:23:45",
+  "last_updated": "2026-08-29 18:11:25",
   "news": [
     {
       "type": "HackerNews",
-      "title": "Iceland votes on whether to restart talks on joining EU",
-      "url": "https://www.bbc.com/news/articles/cn45vdxyvvlo",
-      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.bbc.com/news/artic...",
-      "score": 58
+      "title": "SQLite as a Document Database (2020)",
+      "url": "https://dgl.cx/2020/06/sqlite-json-support",
+      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://dgl.cx/2020/06/sqlite-...",
+      "score": 84
+    },
+    {
+      "type": "HackerNews",
+      "title": "Tether: iMessage, SMS, etc. on Linux",
+      "url": "https://zackbartel.com/blog/2026/08/tether/",
+      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://zackbartel.com/blog/20...",
+      "score": 97
+    },
+    {
+      "type": "HackerNews",
+      "title": "Sleepwalker: Passive Backdoor with Its Own Command Language",
+      "url": "https://r136a1.dev/2026/08/24/sleepwalker-a-passive-backdoor-with-its-own-command-language/",
+      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://r136a1.dev/2026/08/24/...",
+      "score": 19
+    },
+    {
+      "type": "HackerNews",
+      "title": "Indirect Calling of Nested Functions on GCC Without Executable Stack",
+      "url": "https://uecker.codeberg.page/2026-08-29.html",
+      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://uecker.codeberg.page/2...",
+      "score": 42
+    },
+    {
+      "type": "HackerNews",
+      "title": "Show HN: Typebase – A single-folder back end you write in TypeScript",
+      "url": "https://typebase.io",
+      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://typebase.io...",
+      "score": 61
+    },
+    {
+      "type": "HackerNews",
+      "title": "Glacier Mice",
+      "url": "https://en.wikipedia.org/wiki/Glacier_mice",
+      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://en.wikipedia.org/wiki/...",
+      "score": 179
     },
     {
       "type": "HackerNews",
       "title": "Samsung's Processing-in-Memory (PIM)",
       "url": "https://chipsandcheese.com/p/hot-chips-2026-samsungs-processing",
-      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://chipsandcheese.com/p/h...",
-      "score": 134
+      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://chipsandcheese.com/p/h...",
+      "score": 210
     },
     {
       "type": "HackerNews",
-      "title": "GUIs should be fully keyboard-driven",
-      "url": "https://ckardaris.com/blog/2026/08/28/keyboard-driven-guis.html",
-      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://ckardaris.com/blog/202...",
-      "score": 863
-    },
-    {
-      "type": "HackerNews",
-      "title": "Hunting Down a Go Runtime Bug on 32-Bit Embedded Systems",
-      "url": "https://sigma-star.at/blog/2026/08/go-runtime-netpoll-bug/",
-      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://sigma-star.at/blog/202...",
-      "score": 39
-    },
-    {
-      "type": "HackerNews",
-      "title": "Boot a Virtual iPhone via Apple's Virtualization.framework",
-      "url": "https://github.com/Lakr233/vphone-cli",
-      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://github.com/Lakr233/vph...",
-      "score": 302
-    },
-    {
-      "type": "HackerNews",
-      "title": "Europe's last regular standard-gauge steam passenger service",
-      "url": "https://parowozowniawolsztyn.pl/?page_id=2141",
-      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://parowozowniawolsztyn.p...",
-      "score": 59
-    },
-    {
-      "type": "HackerNews",
-      "title": "Htmx 4.0",
-      "url": "https://four.htmx.org/announcements/2026-08-28-htmx-4.0.0-is-released",
-      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://four.htmx.org/announce...",
-      "score": 699
-    },
-    {
-      "type": "HackerNews",
-      "title": "TurboKV: Insanely fast Rust key-value store",
-      "url": "https://github.com/kingroryg/turbokv",
-      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://github.com/kingroryg/t...",
-      "score": 124
+      "title": "Nancy Grace Roman Space Telescope",
+      "url": "https://science.nasa.gov/mission/roman-space-telescope/",
+      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://science.nasa.gov/missi...",
+      "score": 55
     }
   ]
 }
