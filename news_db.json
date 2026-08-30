@@ -1,61 +1,61 @@
 {
-  "last_updated": "2026-08-30 20:38:53",
+  "last_updated": "2026-08-30 23:13:35",
   "news": [
+    {
+      "type": "HackerNews",
+      "title": "\"I just chose words carefully.\"",
+      "url": "https://unsung.aresluna.org/i-just-chose-words-carefully/",
+      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://unsung.aresluna.org/i-...",
+      "score": 23
+    },
     {
       "type": "HackerNews",
       "title": "Creepy Crawlies",
       "url": "https://people.kernel.org/monsieuricon/creepy-crawlies",
       "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://people.kernel.org/mons...",
-      "score": 614
+      "score": 834
     },
     {
       "type": "HackerNews",
       "title": "Haiku R1/beta6 has been released",
       "url": "https://www.haiku-os.org/news/2026-08-26_haiku_r1_beta6",
       "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.haiku-os.org/news/...",
-      "score": 179
+      "score": 225
     },
     {
       "type": "HackerNews",
       "title": "Cores in space: The core memory module from a 1980 Spacelab computer",
       "url": "https://www.righto.com/2026/08/spacelab-core-memory.html",
-      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.righto.com/2026/08...",
+      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.righto.com/2026/08...",
+      "score": 52
+    },
+    {
+      "type": "HackerNews",
+      "title": "Show HN: NFC Energy-Harvesting PCB Business Card with an MCU",
+      "url": "https://wilsonharper.net/projects/businesscard/",
+      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://wilsonharper.net/proje...",
+      "score": 70
+    },
+    {
+      "type": "HackerNews",
+      "title": "Thoughts on Pope Leo XIV's Magnifica Humanitas",
+      "url": "https://adropincalm.com/blog/thoughts-on-magnifica-humanitas/",
+      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://adropincalm.com/blog/t...",
       "score": 10
-    },
-    {
-      "type": "HackerNews",
-      "title": "1kB Website as Status Symbol",
-      "url": "https://async.cat/blog",
-      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://async.cat/blog...",
-      "score": 12
-    },
-    {
-      "type": "HackerNews",
-      "title": "Why open source rocks – a new SM750 (Silicon Motion GPU) HDMI Driver",
-      "url": "https://github.com/KodeMunkie/sm750hdmifb",
-      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://github.com/KodeMunkie/...",
-      "score": 25
-    },
-    {
-      "type": "HackerNews",
-      "title": "Coordination Headwind: How Organizations Are Like Slime Molds",
-      "url": "https://komoroske.com/slime-mold/",
-      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://komoroske.com/slime-mo...",
-      "score": 80
     },
     {
       "type": "HackerNews",
       "title": "Sort branches by last commit date",
       "url": "https://ryangreenberg.com/til/git-branches-by-commit-date/",
       "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://ryangreenberg.com/til/...",
-      "score": 21
+      "score": 64
     },
     {
       "type": "HackerNews",
-      "title": "METR and Redwood Offer Holy %^ Postmortem of the HuggingFace Hack",
-      "url": "https://thezvi.wordpress.com/2026/08/29/metr-and-redwood-offer-holy-postmortem-of-the-huggingface-hack/",
-      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://thezvi.wordpress.com/2...",
-      "score": 143
+      "title": "Continuous Diffusion Language Models (CDLM's)",
+      "url": "https://sander.ai/2026/08/24/continuous-dlms.html",
+      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://sander.ai/2026/08/24/c...",
+      "score": 37
     }
   ]
 }
