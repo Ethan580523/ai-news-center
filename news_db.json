@@ -1,61 +1,61 @@
 {
-  "last_updated": "2026-08-30 11:22:12",
+  "last_updated": "2026-08-30 16:09:07",
   "news": [
     {
       "type": "HackerNews",
-      "title": "Longest Straight Line Paths on Water or Land on the Earth (2018)",
-      "url": "https://arxiv.org/abs/1804.07389",
-      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://arxiv.org/abs/1804.073...",
-      "score": 66
+      "title": "Creepy Crawlies",
+      "url": "https://people.kernel.org/monsieuricon/creepy-crawlies",
+      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://people.kernel.org/mons...",
+      "score": 213
+    },
+    {
+      "type": "HackerNews",
+      "title": "No AI Fridays",
+      "url": "https://noaifridays.com/",
+      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://noaifridays.com/...",
+      "score": 195
+    },
+    {
+      "type": "HackerNews",
+      "title": "Hacking IKEA Furniture",
+      "url": "https://greenlightning.eu/diy/hacking-ikea-furniture/",
+      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://greenlightning.eu/diy/...",
+      "score": 129
+    },
+    {
+      "type": "HackerNews",
+      "title": "Casey Muratori – The Root of the Root of All Evil – BSC 2026 [video]",
+      "url": "https://www.youtube.com/watch?v=hpj6r6CjJf8",
+      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.youtube.com/watch?...",
+      "score": 172
     },
     {
       "type": "HackerNews",
       "title": "Arbitrary code execution in QubesOS via copy-to-VM error reporting backchannel",
       "url": "https://www.qubes-os.org/news/2026/08/29/qsb-118/",
       "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.qubes-os.org/news/...",
-      "score": 45
+      "score": 143
     },
     {
       "type": "HackerNews",
-      "title": "Spark: Sparklines in your shell",
-      "url": "https://git.zx2c4.com/spark/about/",
-      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://git.zx2c4.com/spark/ab...",
-      "score": 15
+      "title": "Haiku R1/beta6 has been released",
+      "url": "https://www.haiku-os.org/news/2026-08-26_haiku_r1_beta6",
+      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.haiku-os.org/news/...",
+      "score": 3
     },
     {
       "type": "HackerNews",
-      "title": "Brits would quite like their private messages to stay private",
-      "url": "https://www.theregister.com/security/2026/08/30/turns-out-brits-would-quite-like-their-private-messages-to-stay-private/5292994",
-      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.theregister.com/se...",
-      "score": 91
+      "title": "European Commission Revives Push for Encryption Backdoors in ProtectEU Strategy",
+      "url": "https://reclaimthenet.org/eu-protecteu-strategy-encryption-backdoor-law-enforcement",
+      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://reclaimthenet.org/eu-p...",
+      "score": 42
     },
     {
       "type": "HackerNews",
-      "title": "Everyone Should Build Their Own Network Stack",
-      "url": "https://blog.lyc8503.net/en/post/dn42-2-dnet/",
-      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://blog.lyc8503.net/en/po...",
-      "score": 13
-    },
-    {
-      "type": "HackerNews",
-      "title": "RISC-V is now officially supported by CPython",
-      "url": "https://blog.python.org/2026/08/riscv-now-officially-supported/",
-      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://blog.python.org/2026/0...",
-      "score": 186
-    },
-    {
-      "type": "HackerNews",
-      "title": "Xcena and Samsung's Near Memory Compute CXL Device",
-      "url": "https://chipsandcheese.com/p/hot-chips-2026-xcena-and-samsungs",
-      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://chipsandcheese.com/p/h...",
-      "score": 16
-    },
-    {
-      "type": "HackerNews",
-      "title": "Hy4 preview",
-      "url": "https://www.tencent.com/tencent-releases-and-open-sources-tencent-hy4-preview/",
-      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.tencent.com/tencen...",
-      "score": 314
+      "title": "Longest Straight Line Paths on Water or Land on the Earth (2018)",
+      "url": "https://arxiv.org/abs/1804.07389",
+      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://arxiv.org/abs/1804.073...",
+      "score": 158
     }
   ]
 }
