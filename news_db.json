@@ -1,61 +1,61 @@
 {
-  "last_updated": "2026-08-30 23:13:35",
+  "last_updated": "2026-08-31 04:00:54",
   "news": [
     {
       "type": "HackerNews",
-      "title": "\"I just chose words carefully.\"",
+      "title": "“I just chose words carefully”",
       "url": "https://unsung.aresluna.org/i-just-chose-words-carefully/",
-      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://unsung.aresluna.org/i-...",
-      "score": 23
+      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://unsung.aresluna.org/i-...",
+      "score": 407
     },
     {
       "type": "HackerNews",
       "title": "Creepy Crawlies",
       "url": "https://people.kernel.org/monsieuricon/creepy-crawlies",
-      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://people.kernel.org/mons...",
-      "score": 834
+      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://people.kernel.org/mons...",
+      "score": 977
+    },
+    {
+      "type": "HackerNews",
+      "title": "Understanding ChatGPT Work",
+      "url": "https://simonwillison.net/2026/Aug/30/understanding-chatgpt-work/",
+      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://simonwillison.net/2026...",
+      "score": 75
+    },
+    {
+      "type": "HackerNews",
+      "title": "It takes 5 cloud services to hear my doorbell",
+      "url": "https://blog.vghaisas.com/rube-goldberg-doorbell/",
+      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://blog.vghaisas.com/rube...",
+      "score": 35
+    },
+    {
+      "type": "HackerNews",
+      "title": "Matrox: Graphics for Professionals",
+      "url": "https://www.abortretry.fail/p/matrox",
+      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.abortretry.fail/p/...",
+      "score": 45
     },
     {
       "type": "HackerNews",
       "title": "Haiku R1/beta6 has been released",
       "url": "https://www.haiku-os.org/news/2026-08-26_haiku_r1_beta6",
       "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.haiku-os.org/news/...",
-      "score": 225
+      "score": 270
+    },
+    {
+      "type": "HackerNews",
+      "title": "CobaltC – The Successor to C?",
+      "url": "https://strawberry9.github.io/the-wrong-memory/Appendix_06.html",
+      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://strawberry9.github.io/...",
+      "score": 9
     },
     {
       "type": "HackerNews",
       "title": "Cores in space: The core memory module from a 1980 Spacelab computer",
       "url": "https://www.righto.com/2026/08/spacelab-core-memory.html",
-      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.righto.com/2026/08...",
-      "score": 52
-    },
-    {
-      "type": "HackerNews",
-      "title": "Show HN: NFC Energy-Harvesting PCB Business Card with an MCU",
-      "url": "https://wilsonharper.net/projects/businesscard/",
-      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://wilsonharper.net/proje...",
-      "score": 70
-    },
-    {
-      "type": "HackerNews",
-      "title": "Thoughts on Pope Leo XIV's Magnifica Humanitas",
-      "url": "https://adropincalm.com/blog/thoughts-on-magnifica-humanitas/",
-      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://adropincalm.com/blog/t...",
-      "score": 10
-    },
-    {
-      "type": "HackerNews",
-      "title": "Sort branches by last commit date",
-      "url": "https://ryangreenberg.com/til/git-branches-by-commit-date/",
-      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://ryangreenberg.com/til/...",
-      "score": 64
-    },
-    {
-      "type": "HackerNews",
-      "title": "Continuous Diffusion Language Models (CDLM's)",
-      "url": "https://sander.ai/2026/08/24/continuous-dlms.html",
-      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://sander.ai/2026/08/24/c...",
-      "score": 37
+      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.righto.com/2026/08...",
+      "score": 90
     }
   ]
 }
