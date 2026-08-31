@@ -1,61 +1,61 @@
 {
-  "last_updated": "2026-08-31 12:51:39",
+  "last_updated": "2026-08-31 20:40:11",
   "news": [
     {
       "type": "HackerNews",
-      "title": "OpenShot 4.0: Record, Edit, and Color Like Never Before",
-      "url": "https://www.openshot.org/blog/2026/08/30/openshot-40-record-edit-color-like-never-before/",
-      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.openshot.org/blog/...",
-      "score": 180
+      "title": "I turned my security cameras into an automatic bird identification system",
+      "url": "https://jasontucker.blog/how-i-turned-my-security-cameras-into-an-automatic-bird-identification-system-with-birdnet-go/",
+      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://jasontucker.blog/how-i...",
+      "score": 237
     },
     {
       "type": "HackerNews",
-      "title": "AI-Written Code Is Still *Your* Code. Are You OK with That?",
-      "url": "https://martiansoftware.com/articles/ai-written-code-is-still-yours",
-      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://martiansoftware.com/ar...",
-      "score": 29
+      "title": "A walkable ASCII cyberpunk city in one HTML file [video]",
+      "url": "https://www.youtube.com/watch?v=3YtygAx_C6A",
+      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.youtube.com/watch?...",
+      "score": 100
     },
     {
       "type": "HackerNews",
-      "title": "“I just chose words carefully”",
-      "url": "https://unsung.aresluna.org/i-just-chose-words-carefully/",
-      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://unsung.aresluna.org/i-...",
-      "score": 918
+      "title": "Playa Phone",
+      "url": "https://playaphone.com/",
+      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://playaphone.com/...",
+      "score": 376
     },
     {
       "type": "HackerNews",
-      "title": "Agent Memory as a File Format",
-      "url": "https://calpaterson.com/memoryfields.html",
-      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://calpaterson.com/memory...",
-      "score": 25
+      "title": "Show HN: Laser Graffiti",
+      "url": "https://laser.consti.de",
+      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://laser.consti.de...",
+      "score": 61
     },
     {
       "type": "HackerNews",
-      "title": "Breaking Claude Code Opus 5 Auto Mode",
-      "url": "https://embracethered.com/blog/posts/2026/breaking-claude-code-opus-5-and-automode/",
-      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://embracethered.com/blog...",
-      "score": 138
+      "title": "Smartphone LED detects hidden cameras with AI",
+      "url": "https://www.chosun.com/english/industry-en/2026/08/30/SBFXUIJQYZEARKP5T4FBAY25HQ/",
+      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.chosun.com/english...",
+      "score": 67
     },
     {
       "type": "HackerNews",
-      "title": "What I Learned About AI Trust from Reconciling over 100B Transactions",
-      "url": "https://engineering.moniepoint.com/what-i-learned-about-ai-trust-from-reconciling",
-      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://engineering.moniepoint...",
-      "score": 8
+      "title": "Dwarf Fortress is getting the mother of all magic updates",
+      "url": "https://www.rockpapershotgun.com/dwarf-fortress-is-getting-the-mother-of-all-magic-updates-extending-to-the-fundamental-cosmological-makeup-of-the-universe",
+      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.rockpapershotgun.c...",
+      "score": 182
     },
     {
       "type": "HackerNews",
-      "title": "Malleable software = solid bases and custom code",
-      "url": "https://www.mdubakov.me/malleable-software-solid-bases-custom-code/",
-      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.mdubakov.me/mallea...",
-      "score": 11
+      "title": "Tmp.0ut, Vol. 5",
+      "url": "https://tmpout.sh/5/",
+      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://tmpout.sh/5/...",
+      "score": 75
     },
     {
       "type": "HackerNews",
-      "title": "I Think the Military Commissary's Freezers Were Hacked",
-      "url": "https://signalandsilence.substack.com/p/i-think-someone-hacked-the-commissary",
-      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://signalandsilence.subst...",
-      "score": 44
+      "title": "Apple caught off guard by AI demand for Mac Mini and Mac Studio",
+      "url": "https://www.macrumors.com/2026/08/30/apple-unexpected-mac-mini-and-studio-demand/",
+      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.macrumors.com/2026...",
+      "score": 191
     }
   ]
 }
