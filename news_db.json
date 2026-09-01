@@ -1,61 +1,61 @@
 {
-  "last_updated": "2026-09-01 00:24:06",
+  "last_updated": "2026-09-01 08:20:39",
   "news": [
     {
       "type": "HackerNews",
-      "title": "Google Has Removed MV2 Extensions from the Chrome Web Store, Including UBO",
-      "url": "https://webiterate.dev/google-removed-extensions-ublock-origin-108/",
-      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://webiterate.dev/google-...",
-      "score": 399
+      "title": "GPU World",
+      "url": "https://www.gpuworld.org/",
+      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.gpuworld.org/...",
+      "score": 178
     },
     {
       "type": "HackerNews",
-      "title": "Run macOS Software on Linux",
-      "url": "https://www.darlinghq.org/",
-      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.darlinghq.org/...",
-      "score": 47
+      "title": "Fastpotify",
+      "url": "https://fastpotify.rocks/",
+      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://fastpotify.rocks/...",
+      "score": 316
     },
     {
       "type": "HackerNews",
-      "title": "Evidence of Fraud in an Influential Study About Procrastination",
-      "url": "https://datacolada.org/138",
-      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://datacolada.org/138...",
-      "score": 18
+      "title": "Tmp.0ut Volume 5",
+      "url": "https://tmpout.sh/5/",
+      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://tmpout.sh/5/...",
+      "score": 32
+    },
+    {
+      "type": "HackerNews",
+      "title": "Restroom Archive",
+      "url": "https://restroomarchive.com",
+      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://restroomarchive.com...",
+      "score": 101
     },
     {
       "type": "HackerNews",
       "title": "I turned my security cameras into an automatic bird identification system",
       "url": "https://jasontucker.blog/how-i-turned-my-security-cameras-into-an-automatic-bird-identification-system-with-birdnet-go/",
       "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://jasontucker.blog/how-i...",
-      "score": 350
-    },
-    {
-      "type": "HackerNews",
-      "title": "'Mad honey' that can stop your heart is being sold online",
-      "url": "https://phys.org/news/2026-08-mad-honey-heart-sold-online.html",
-      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://phys.org/news/2026-08-...",
-      "score": 119
+      "score": 477
     },
     {
       "type": "HackerNews",
       "title": "Playa Phone",
       "url": "https://playaphone.com/",
-      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://playaphone.com/...",
-      "score": 472
+      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://playaphone.com/...",
+      "score": 607
     },
     {
       "type": "HackerNews",
       "title": "A walkable ASCII cyberpunk city in one HTML file [video]",
       "url": "https://www.youtube.com/watch?v=3YtygAx_C6A",
-      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.youtube.com/watch?...",
-      "score": 186
+      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.youtube.com/watch?...",
+      "score": 312
     },
     {
       "type": "HackerNews",
-      "title": "Lion-man – the oldest confirmed statue ever discovered",
-      "url": "https://en.wikipedia.org/wiki/Lion-man",
-      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://en.wikipedia.org/wiki/...",
-      "score": 29
+      "title": "Terence Tao explains 6 essential mathematical concepts [video]",
+      "url": "https://www.youtube.com/watch?v=OOMx2BHHWtE",
+      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.youtube.com/watch?...",
+      "score": 399
     }
   ]
 }
