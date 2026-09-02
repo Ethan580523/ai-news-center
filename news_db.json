@@ -1,61 +1,61 @@
 {
-  "last_updated": "2026-09-02 16:03:20",
+  "last_updated": "2026-09-02 20:34:57",
   "news": [
     {
       "type": "HackerNews",
-      "title": "Gemini 3.8 Flash",
-      "url": "https://deepmind.google/models/model-cards/gemini-3-8-flash/",
-      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://deepmind.google/models...",
-      "score": 147
+      "title": "Muse Spark 1.3",
+      "url": "https://developer.meta.com/ai/models/muse-spark/",
+      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://developer.meta.com/ai/...",
+      "score": 125
     },
     {
       "type": "HackerNews",
-      "title": "A Note from LWN",
-      "url": "https://lwn.net/Articles/1090585/",
-      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://lwn.net/Articles/10905...",
-      "score": 417
+      "title": "Gemini 3.8 Flash and 3.8 Flash Cyber",
+      "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/3-8-flash-and-3-8-flash-cyber/",
+      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://blog.google/innovation...",
+      "score": 665
     },
     {
       "type": "HackerNews",
-      "title": "GrapheneOS says Pixel 11 has MTE support after all",
-      "url": "https://grapheneos.social/@GrapheneOS/117194007157499435",
-      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://grapheneos.social/@Gra...",
-      "score": 80
+      "title": "Google avoids a breakup of its ad tech business",
+      "url": "https://www.nytimes.com/2026/09/02/technology/google-ad-tech-remedies.html",
+      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.nytimes.com/2026/0...",
+      "score": 100
+    },
+    {
+      "type": "HackerNews",
+      "title": "I wanna live an NPC life",
+      "url": "https://signalundefied.bearblog.dev/i-wanna-live-an-npc-life/",
+      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://signalundefied.bearblo...",
+      "score": 18
+    },
+    {
+      "type": "HackerNews",
+      "title": "Wendell Berry has died",
+      "url": "https://www.nytimes.com/2026/08/31/us/wendell-berry-dead.html",
+      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.nytimes.com/2026/0...",
+      "score": 61
+    },
+    {
+      "type": "HackerNews",
+      "title": "Fable 5.1 World Modeling",
+      "url": "https://github.com/PhiloLabs/fable51-worlds",
+      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://github.com/PhiloLabs/f...",
+      "score": 16
+    },
+    {
+      "type": "HackerNews",
+      "title": "Can I opt out of my input or output data being used for training?",
+      "url": "https://help.mistral.ai/en/articles/455207-can-i-opt-out-of-my-input-or-output-data-being-used-for-training",
+      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://help.mistral.ai/en/art...",
+      "score": 321
     },
     {
       "type": "HackerNews",
       "title": "Biggest dark matter detector spots a single weird particle",
       "url": "https://www.science.org/content/article/world-s-biggest-dark-matter-detector-spots-single-weird-particle",
       "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.science.org/conten...",
-      "score": 100
-    },
-    {
-      "type": "HackerNews",
-      "title": "Mistral now trains on user input by default, except on enterprise tier",
-      "url": "https://help.mistral.ai/en/articles/455207-can-i-opt-out-of-my-input-or-output-data-being-used-for-training",
-      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://help.mistral.ai/en/art...",
-      "score": 156
-    },
-    {
-      "type": "HackerNews",
-      "title": "Three sites made 215,128 “best software” pages for AI. Perplexity cites them",
-      "url": "https://trellner.com/reports/manufactured-sources-behind-ai-recommendations/",
-      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://trellner.com/reports/m...",
-      "score": 127
-    },
-    {
-      "type": "HackerNews",
-      "title": "Exit the Cave",
-      "url": "https://turtlespace.blog/p/exit-the-cave",
-      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://turtlespace.blog/p/exi...",
-      "score": 46
-    },
-    {
-      "type": "HackerNews",
-      "title": "Poisson Disk Sampling",
-      "url": "https://stripeacross.com/posts/poisson-disk-sampling/",
-      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://stripeacross.com/posts...",
-      "score": 52
+      "score": 208
     }
   ]
 }
