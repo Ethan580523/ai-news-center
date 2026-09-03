@@ -1,61 +1,61 @@
 {
-  "last_updated": "2026-09-03 10:45:29",
+  "last_updated": "2026-09-03 15:53:19",
   "news": [
+    {
+      "type": "HackerNews",
+      "title": "Grok Outage",
+      "url": "https://status.x.ai/",
+      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://status.x.ai/...",
+      "score": 65
+    },
+    {
+      "type": "HackerNews",
+      "title": "Audacity 4.0",
+      "url": "https://github.com/audacity/audacity/releases/tag/Audacity-4.0.0",
+      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://github.com/audacity/au...",
+      "score": 665
+    },
+    {
+      "type": "HackerNews",
+      "title": "ChatGPT Is Throwing 404",
+      "url": "https://chatgpt.com/",
+      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://chatgpt.com/...",
+      "score": 301
+    },
+    {
+      "type": "HackerNews",
+      "title": "New York Times and The Athletic workers demand company scrap Kalshi deal",
+      "url": "https://newsguild.org/new-york-times-and-the-athletic-workers-demand-company-scrap-kalshi-deal/",
+      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://newsguild.org/new-york...",
+      "score": 28
+    },
+    {
+      "type": "HackerNews",
+      "title": "Any Human Ever – One life, drawn at random from all who have ever lived",
+      "url": "https://anyhumanever.com/",
+      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://anyhumanever.com/...",
+      "score": 48
+    },
+    {
+      "type": "HackerNews",
+      "title": "Elevated Errors for Multiple Models",
+      "url": "https://status.claude.com/incidents/461yvfrzpwtt",
+      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://status.claude.com/inci...",
+      "score": 171
+    },
     {
       "type": "HackerNews",
       "title": "Pre-Release of Polars 2.0",
       "url": "https://pola.rs/posts/announcing-polars-2/",
-      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://pola.rs/posts/announci...",
-      "score": 175
+      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://pola.rs/posts/announci...",
+      "score": 309
     },
     {
       "type": "HackerNews",
       "title": "The Browser's Main Thread Is Expensive",
       "url": "https://kciter.so/posts/the-expensive-main-thread/en/",
-      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://kciter.so/posts/the-ex...",
-      "score": 84
-    },
-    {
-      "type": "HackerNews",
-      "title": "Muse Spark 1.3",
-      "url": "https://developer.meta.com/ai/models/muse-spark/",
-      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://developer.meta.com/ai/...",
-      "score": 593
-    },
-    {
-      "type": "HackerNews",
-      "title": "Gemini 3.8 Flash and 3.8 Flash Cyber",
-      "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/3-8-flash-and-3-8-flash-cyber/",
-      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://blog.google/innovation...",
-      "score": 1038
-    },
-    {
-      "type": "HackerNews",
-      "title": "Three schoolgirls in Kinsale pulled up a pea plant covered in warts (2016)",
-      "url": "https://scienceblog.com/b-three-schoolgirls-in-kinsale-pulled-up-a-pea-plant-covered-in-warts-and-instead-of-binning-it-spent-three-years-testing-13000-seeds-in-a-spare-bedroom-the-bacteria-living-in-those-warts-made-barley/",
-      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://scienceblog.com/b-thre...",
-      "score": 64
-    },
-    {
-      "type": "HackerNews",
-      "title": "What I Learned from My Mom (1941-2026)",
-      "url": "https://experimentalliving.substack.com/p/what-i-learned-from-my-mom-1941-2026",
-      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://experimentalliving.sub...",
-      "score": 22
-    },
-    {
-      "type": "HackerNews",
-      "title": "Three sites made 215,128 “best software” pages for AI. Perplexity cites them",
-      "url": "https://trellner.com/reports/manufactured-sources-behind-ai-recommendations/",
-      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://trellner.com/reports/m...",
-      "score": 431
-    },
-    {
-      "type": "HackerNews",
-      "title": "Fish Bad, Sugar Good and Other Medieval Ideas About Food",
-      "url": "https://lithub.com/fish-bad-sugar-good-and-other-medieval-ideas-about-food/",
-      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://lithub.com/fish-bad-su...",
-      "score": 5
+      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://kciter.so/posts/the-ex...",
+      "score": 278
     }
   ]
 }
