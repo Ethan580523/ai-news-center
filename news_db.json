@@ -1,61 +1,61 @@
 {
-  "last_updated": "2026-09-04 10:43:55",
+  "last_updated": "2026-09-04 15:51:07",
   "news": [
+    {
+      "type": "HackerNews",
+      "title": "Google AI Mode shows same products 21.6% more expensive than traditional search",
+      "url": "https://productrise.app/blog/google-ai-mode-prefers-more-expensive-products",
+      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://productrise.app/blog/g...",
+      "score": 210
+    },
+    {
+      "type": "HackerNews",
+      "title": "Discovery of a new OpenAI agent message board",
+      "url": "https://collusion.wiki/",
+      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://collusion.wiki/...",
+      "score": 654
+    },
+    {
+      "type": "HackerNews",
+      "title": "Solving the Jane Street Reverse Engineering Challenge",
+      "url": "https://jestoph.com/2026/09/04/jane-street-challenge.html",
+      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://jestoph.com/2026/09/04...",
+      "score": 238
+    },
     {
       "type": "HackerNews",
       "title": "GPT-6 Astra",
       "url": "https://openai.com/index/gpt-6-astra/",
-      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://openai.com/index/gpt-6...",
-      "score": 1844
+      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://openai.com/index/gpt-6...",
+      "score": 2009
+    },
+    {
+      "type": "HackerNews",
+      "title": "The Two Abstractions of System Design: Hide or Reduce",
+      "url": "http://muratbuffalo.blogspot.com/2026/05/the-two-abstractions-of-system-design.html",
+      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：http://muratbuffalo.blogspot.c...",
+      "score": 40
+    },
+    {
+      "type": "HackerNews",
+      "title": "Ok, but Does It Scale?",
+      "url": "https://spacetimedb.com/blog/how-does-spacetime-scale",
+      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://spacetimedb.com/blog/h...",
+      "score": 61
     },
     {
       "type": "HackerNews",
       "title": ".name Termination",
       "url": "https://neil.fraser.name/news/2026/09/03/",
       "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://neil.fraser.name/news/...",
-      "score": 1855
+      "score": 2059
     },
     {
       "type": "HackerNews",
-      "title": "Carbon-aware electricity pricing, measured daily on 38 grids",
-      "url": "https://carbonawarepricing.com/",
-      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://carbonawarepricing.com...",
-      "score": 39
-    },
-    {
-      "type": "HackerNews",
-      "title": "The Raspberry Pi Interactive Timeline · 2006–2026",
-      "url": "https://raspberry.tips/en/raspberrypi-infos/raspberry-pi-history-timeline",
-      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://raspberry.tips/en/rasp...",
-      "score": 26
-    },
-    {
-      "type": "HackerNews",
-      "title": "Qwen 3.8 27B available on Cerebras at 1500 tokens/s",
-      "url": "https://inference-docs.cerebras.ai/models/overview",
-      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://inference-docs.cerebra...",
-      "score": 573
-    },
-    {
-      "type": "HackerNews",
-      "title": "Authorization terminology is a mess: Let's fix it",
-      "url": "https://idpro.org/authorization-terminology-is-a-mess-lets-fix-it/",
-      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://idpro.org/authorizatio...",
-      "score": 53
-    },
-    {
-      "type": "HackerNews",
-      "title": "Solving the Jane Street Reverse Engineering Challenge",
-      "url": "https://jestoph.com/2026/09/04/jane-street-challenge.html",
-      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://jestoph.com/2026/09/04...",
-      "score": 6
-    },
-    {
-      "type": "HackerNews",
-      "title": "Hackers Had a Live Feed of Every ID Verification Company Scanned for over a Year",
-      "url": "http://www.techdirt.com/2026/09/03/hackers-had-a-live-feed-of-every-id-this-verification-company-scanned-for-over-a-year/",
-      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：http://www.techdirt.com/2026/0...",
-      "score": 171
+      "title": "Elevator of the Year Winner Modernization of the Metropolis Trust Building",
+      "url": "https://www.starelevator.com/projects/star-elevator-modernization-of-the-metropolis-trust-building",
+      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.starelevator.com/p...",
+      "score": 79
     }
   ]
 }
