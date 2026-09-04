@@ -1,61 +1,61 @@
 {
-  "last_updated": "2026-09-04 03:11:27",
+  "last_updated": "2026-09-04 10:43:55",
   "news": [
     {
       "type": "HackerNews",
       "title": "GPT-6 Astra",
       "url": "https://openai.com/index/gpt-6-astra/",
       "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://openai.com/index/gpt-6...",
-      "score": 1408
+      "score": 1844
     },
     {
       "type": "HackerNews",
       "title": ".name Termination",
       "url": "https://neil.fraser.name/news/2026/09/03/",
       "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://neil.fraser.name/news/...",
-      "score": 1438
+      "score": 1855
+    },
+    {
+      "type": "HackerNews",
+      "title": "Carbon-aware electricity pricing, measured daily on 38 grids",
+      "url": "https://carbonawarepricing.com/",
+      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://carbonawarepricing.com...",
+      "score": 39
+    },
+    {
+      "type": "HackerNews",
+      "title": "The Raspberry Pi Interactive Timeline · 2006–2026",
+      "url": "https://raspberry.tips/en/raspberrypi-infos/raspberry-pi-history-timeline",
+      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://raspberry.tips/en/rasp...",
+      "score": 26
     },
     {
       "type": "HackerNews",
       "title": "Qwen 3.8 27B available on Cerebras at 1500 tokens/s",
       "url": "https://inference-docs.cerebras.ai/models/overview",
       "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://inference-docs.cerebra...",
-      "score": 471
+      "score": 573
     },
     {
       "type": "HackerNews",
-      "title": "Project Xanadu: Even More Hindsight",
-      "url": "https://gwern.net/xanadu",
-      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://gwern.net/xanadu...",
-      "score": 16
+      "title": "Authorization terminology is a mess: Let's fix it",
+      "url": "https://idpro.org/authorization-terminology-is-a-mess-lets-fix-it/",
+      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://idpro.org/authorizatio...",
+      "score": 53
     },
     {
       "type": "HackerNews",
-      "title": "New type of dice guarantees no tie when deciding who goes first",
-      "url": "https://www.cbc.ca/lite/story/9.7328614",
-      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.cbc.ca/lite/story/...",
-      "score": 59
+      "title": "Solving the Jane Street Reverse Engineering Challenge",
+      "url": "https://jestoph.com/2026/09/04/jane-street-challenge.html",
+      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://jestoph.com/2026/09/04...",
+      "score": 6
     },
     {
       "type": "HackerNews",
-      "title": "The largest electric aircraft just flew [video]",
-      "url": "https://www.youtube.com/watch?v=nM86DBOqgPM",
-      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.youtube.com/watch?...",
-      "score": 215
-    },
-    {
-      "type": "HackerNews",
-      "title": "Artificial beaver dams saw juvenile coho salmon survival rates go from 8% to 60%",
-      "url": "https://www.discoverwildlife.com/animal-facts/artificial-beaver-dams-california",
-      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.discoverwildlife.c...",
-      "score": 179
-    },
-    {
-      "type": "HackerNews",
-      "title": "Which tools do Claude, Codex and Cursor choose? We measured 17k runs to find out",
-      "url": "https://armature.tech/blog/which-tools-coding-agents-install",
-      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://armature.tech/blog/whi...",
-      "score": 119
+      "title": "Hackers Had a Live Feed of Every ID Verification Company Scanned for over a Year",
+      "url": "http://www.techdirt.com/2026/09/03/hackers-had-a-live-feed-of-every-id-this-verification-company-scanned-for-over-a-year/",
+      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：http://www.techdirt.com/2026/0...",
+      "score": 171
     }
   ]
 }
