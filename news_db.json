@@ -1,61 +1,61 @@
 {
-  "last_updated": "2026-09-03 22:59:14",
+  "last_updated": "2026-09-04 03:11:27",
   "news": [
     {
       "type": "HackerNews",
       "title": "GPT-6 Astra",
       "url": "https://openai.com/index/gpt-6-astra/",
-      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://openai.com/index/gpt-6...",
-      "score": 1086
-    },
-    {
-      "type": "HackerNews",
-      "title": "Qwen 3.8 27B available on Cerebras at 1500 tokens/s",
-      "url": "https://inference-docs.cerebras.ai/models/overview",
-      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://inference-docs.cerebra...",
-      "score": 391
+      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://openai.com/index/gpt-6...",
+      "score": 1408
     },
     {
       "type": "HackerNews",
       "title": ".name Termination",
       "url": "https://neil.fraser.name/news/2026/09/03/",
       "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://neil.fraser.name/news/...",
-      "score": 1201
+      "score": 1438
+    },
+    {
+      "type": "HackerNews",
+      "title": "Qwen 3.8 27B available on Cerebras at 1500 tokens/s",
+      "url": "https://inference-docs.cerebras.ai/models/overview",
+      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://inference-docs.cerebra...",
+      "score": 471
+    },
+    {
+      "type": "HackerNews",
+      "title": "Project Xanadu: Even More Hindsight",
+      "url": "https://gwern.net/xanadu",
+      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://gwern.net/xanadu...",
+      "score": 16
+    },
+    {
+      "type": "HackerNews",
+      "title": "New type of dice guarantees no tie when deciding who goes first",
+      "url": "https://www.cbc.ca/lite/story/9.7328614",
+      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.cbc.ca/lite/story/...",
+      "score": 59
     },
     {
       "type": "HackerNews",
       "title": "The largest electric aircraft just flew [video]",
       "url": "https://www.youtube.com/watch?v=nM86DBOqgPM",
-      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.youtube.com/watch?...",
-      "score": 130
+      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.youtube.com/watch?...",
+      "score": 215
+    },
+    {
+      "type": "HackerNews",
+      "title": "Artificial beaver dams saw juvenile coho salmon survival rates go from 8% to 60%",
+      "url": "https://www.discoverwildlife.com/animal-facts/artificial-beaver-dams-california",
+      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.discoverwildlife.c...",
+      "score": 179
     },
     {
       "type": "HackerNews",
       "title": "Which tools do Claude, Codex and Cursor choose? We measured 17k runs to find out",
       "url": "https://armature.tech/blog/which-tools-coding-agents-install",
       "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://armature.tech/blog/whi...",
-      "score": 46
-    },
-    {
-      "type": "HackerNews",
-      "title": "Porting my 1993 Amiga game to Godot, with an LLM reading the 68000 assembly",
-      "url": "https://babyloniantwins.com/blog/porting-a-1993-amiga-game-to-godot/",
-      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://babyloniantwins.com/bl...",
-      "score": 154
-    },
-    {
-      "type": "HackerNews",
-      "title": "K2 Horizon: A connected fleet of six open models",
-      "url": "https://ifm.ai/blog/k2/",
-      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://ifm.ai/blog/k2/...",
-      "score": 234
-    },
-    {
-      "type": "HackerNews",
-      "title": "Any Human Ever – One life, drawn at random from all who have ever lived",
-      "url": "https://anyhumanever.com/",
-      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://anyhumanever.com/...",
-      "score": 419
+      "score": 119
     }
   ]
 }
