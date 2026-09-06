@@ -1,61 +1,61 @@
 {
-  "last_updated": "2026-09-06 03:13:52",
+  "last_updated": "2026-09-06 10:22:15",
   "news": [
+    {
+      "type": "HackerNews",
+      "title": "Isar Aerospace reaches orbit and deploys payloads on second flight",
+      "url": "https://isaraerospace.com/press/history-for-european-spaceflight-isar-aerospace-reaches-orbit-and-deploys-payloads-on-second-flight",
+      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://isaraerospace.com/pres...",
+      "score": 148
+    },
     {
       "type": "HackerNews",
       "title": "Cloud in a Bottle: making self-hosting accessible to everyone",
       "url": "https://cloudinabottle.org/blog/launch-post",
-      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://cloudinabottle.org/blo...",
-      "score": 176
+      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://cloudinabottle.org/blo...",
+      "score": 418
     },
     {
       "type": "HackerNews",
-      "title": "GPT-6 Astra on robot arms",
-      "url": "https://openai.robocurve.org/gpt-6-astra/",
-      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://openai.robocurve.org/g...",
-      "score": 38
+      "title": "Play GTA Vice City in the Browser",
+      "url": "https://quenq.com/apps/vice-city-online/",
+      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://quenq.com/apps/vice-ci...",
+      "score": 52
+    },
+    {
+      "type": "HackerNews",
+      "title": "Music Theory for Programmers",
+      "url": "https://runjs.app/blog/music-theory-for-programmers",
+      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://runjs.app/blog/music-t...",
+      "score": 137
     },
     {
       "type": "HackerNews",
       "title": "The revolt of the reader",
       "url": "https://bcantrill.dtrace.org/2026/09/05/the-revolt-of-the-reader/",
-      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://bcantrill.dtrace.org/2...",
-      "score": 160
+      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://bcantrill.dtrace.org/2...",
+      "score": 362
     },
     {
       "type": "HackerNews",
-      "title": "Private German rocket makes history, reaches orbit from European soil",
-      "url": "https://www.space.com/space-exploration/launches-spacecraft/isar-aerospace-second-launch-norway-andoya-spaceport-spectrum-rocket",
-      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.space.com/space-ex...",
-      "score": 394
+      "title": "You Don't Have a Right to Safe Drinking Water, US Court Rules",
+      "url": "https://www.motherjones.com/politics/2026/09/drinking-water-mississippi-lawsuit/",
+      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.motherjones.com/po...",
+      "score": 87
     },
     {
       "type": "HackerNews",
-      "title": "Learn Programming with OCaml",
-      "url": "https://usr.lmf.cnrs.fr/lpo/",
-      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://usr.lmf.cnrs.fr/lpo/...",
-      "score": 189
+      "title": "IBM Quantum Nighthawk R2",
+      "url": "https://www.ibm.com/quantum/blog/nighthawk-r2",
+      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.ibm.com/quantum/bl...",
+      "score": 13
     },
     {
       "type": "HackerNews",
-      "title": "Chrome again exempts Google from user site data settings",
-      "url": "https://lapcatsoftware.com/articles/2026/9/1.html",
-      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://lapcatsoftware.com/art...",
-      "score": 111
-    },
-    {
-      "type": "HackerNews",
-      "title": "The \"$60 Gaming PC\" – AMD BC-250 (2025)",
-      "url": "https://devquasar.com/hardware/the-60-gaming-pc-amd-bc-250/",
-      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://devquasar.com/hardware...",
-      "score": 294
-    },
-    {
-      "type": "HackerNews",
-      "title": "RecurseCenter.return()",
-      "url": "https://mm-dev.rocks/series/recursecenter.return/",
-      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://mm-dev.rocks/series/re...",
-      "score": 14
+      "title": "The ColorChecker, photography's most important 24 squares, turns 50",
+      "url": "https://www.dpreview.com/news/the-colorchecker-photographys-most-important-24-squares-turns-50/",
+      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.dpreview.com/news/...",
+      "score": 64
     }
   ]
 }
