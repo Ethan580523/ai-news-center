@@ -1,61 +1,61 @@
 {
-  "last_updated": "2026-09-05 22:39:40",
+  "last_updated": "2026-09-06 03:13:52",
   "news": [
     {
       "type": "HackerNews",
-      "title": "The Real Luxuries In Life",
-      "url": "https://feld.com/archives/2026/09/the-real-luxuries-in-life/",
-      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://feld.com/archives/2026...",
-      "score": 393
+      "title": "Cloud in a Bottle: making self-hosting accessible to everyone",
+      "url": "https://cloudinabottle.org/blog/launch-post",
+      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://cloudinabottle.org/blo...",
+      "score": 176
     },
     {
       "type": "HackerNews",
-      "title": "Finite time blowup for an averaged three-dimensional Navier-Stokes equation (2014)",
-      "url": "https://terrytao.wordpress.com/2014/02/04/finite-time-blowup-for-an-averaged-three-dimensional-navier-stokes-equation/",
-      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://terrytao.wordpress.com...",
-      "score": 42
+      "title": "GPT-6 Astra on robot arms",
+      "url": "https://openai.robocurve.org/gpt-6-astra/",
+      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://openai.robocurve.org/g...",
+      "score": 38
+    },
+    {
+      "type": "HackerNews",
+      "title": "The revolt of the reader",
+      "url": "https://bcantrill.dtrace.org/2026/09/05/the-revolt-of-the-reader/",
+      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://bcantrill.dtrace.org/2...",
+      "score": 160
     },
     {
       "type": "HackerNews",
       "title": "Private German rocket makes history, reaches orbit from European soil",
       "url": "https://www.space.com/space-exploration/launches-spacecraft/isar-aerospace-second-launch-norway-andoya-spaceport-spectrum-rocket",
       "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.space.com/space-ex...",
-      "score": 196
+      "score": 394
     },
     {
       "type": "HackerNews",
       "title": "Learn Programming with OCaml",
       "url": "https://usr.lmf.cnrs.fr/lpo/",
       "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://usr.lmf.cnrs.fr/lpo/...",
-      "score": 131
+      "score": 189
     },
     {
       "type": "HackerNews",
-      "title": "LLMs as a Cognitive Virus",
-      "url": "https://arxiv.org/abs/2609.03344",
-      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://arxiv.org/abs/2609.033...",
-      "score": 115
+      "title": "Chrome again exempts Google from user site data settings",
+      "url": "https://lapcatsoftware.com/articles/2026/9/1.html",
+      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://lapcatsoftware.com/art...",
+      "score": 111
     },
     {
       "type": "HackerNews",
       "title": "The \"$60 Gaming PC\" – AMD BC-250 (2025)",
       "url": "https://devquasar.com/hardware/the-60-gaming-pc-amd-bc-250/",
-      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://devquasar.com/hardware...",
-      "score": 236
+      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://devquasar.com/hardware...",
+      "score": 294
     },
     {
       "type": "HackerNews",
-      "title": "Show HN: Fly By – retro biplane flying game",
-      "url": "https://michaelteter.com/flyby.html",
-      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://michaelteter.com/flyby...",
-      "score": 8
-    },
-    {
-      "type": "HackerNews",
-      "title": "Balrogg: Demonically compacting (up to 15%) lossless Vorbis/Opus recompressor",
-      "url": "https://github.com/iczelia/balrogg",
-      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://github.com/iczelia/bal...",
-      "score": 46
+      "title": "RecurseCenter.return()",
+      "url": "https://mm-dev.rocks/series/recursecenter.return/",
+      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://mm-dev.rocks/series/re...",
+      "score": 14
     }
   ]
 }
