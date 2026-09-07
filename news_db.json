@@ -1,61 +1,61 @@
 {
-  "last_updated": "2026-09-07 11:43:18",
+  "last_updated": "2026-09-07 17:21:15",
   "news": [
+    {
+      "type": "HackerNews",
+      "title": "De-Brainrot Vacations",
+      "url": "https://devz.cl/posts/i-spent-my-vacations-de-brainrotting/",
+      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://devz.cl/posts/i-spent-...",
+      "score": 379
+    },
+    {
+      "type": "HackerNews",
+      "title": "bzip3",
+      "url": "https://github.com/iczelia/bzip3",
+      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://github.com/iczelia/bzi...",
+      "score": 178
+    },
     {
       "type": "HackerNews",
       "title": "Keep Our Servers Running",
       "url": "https://blog.archive.org/2026/09/01/keep-our-servers-running-your-recurring-donation-goes-3x-this-september/",
-      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://blog.archive.org/2026/...",
-      "score": 561
-    },
-    {
-      "type": "HackerNews",
-      "title": "Live map of public transport in Belgium",
-      "url": "https://openbaarvervoerbelgie.be/",
-      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://openbaarvervoerbelgie....",
-      "score": 63
+      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://blog.archive.org/2026/...",
+      "score": 789
     },
     {
       "type": "HackerNews",
       "title": "Caltech Mathathon – first hackathon ever devoted to research level mathematics",
       "url": "https://mathathonchallenge.com/index.html",
       "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://mathathonchallenge.com...",
-      "score": 37
+      "score": 146
     },
     {
       "type": "HackerNews",
-      "title": "Speculative Decoding in vLLM on AMD GPUs",
-      "url": "https://vllm.ai/blog/2026-08-23-speculative-decoding-amd-gpus",
-      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://vllm.ai/blog/2026-08-2...",
-      "score": 32
+      "title": "Simple Is Not Small",
+      "url": "https://jyn.dev/simple-is-not-the-same-as-small/",
+      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://jyn.dev/simple-is-not-...",
+      "score": 69
     },
     {
       "type": "HackerNews",
-      "title": "Impedance Matching",
-      "url": "https://www.edge.org/response-detail/27238",
-      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.edge.org/response-...",
-      "score": 18
-    },
-    {
-      "type": "HackerNews",
-      "title": "US refuses payout for soldiers who died in Iran 'because it isn't a war'",
-      "url": "https://www.telegraph.co.uk/world-news/2026/09/06/pentagon-refused-payout-soldiers-died-in-iran-war/",
-      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.telegraph.co.uk/wo...",
-      "score": 50
+      "title": "Live map of public transport in Belgium",
+      "url": "https://openbaarvervoerbelgie.be/",
+      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://openbaarvervoerbelgie....",
+      "score": 142
     },
     {
       "type": "HackerNews",
       "title": "LG smart TVs caught logging audio with screen off and snooping on local devices",
       "url": "https://www.notebookcheck.net/LG-smart-TVs-caught-logging-audio-with-screen-off-and-snooping-on-local-devices.1391214.0.html",
       "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.notebookcheck.net/...",
-      "score": 279
+      "score": 904
     },
     {
       "type": "HackerNews",
-      "title": "'You Can See Everything' Review: Nathan Fielder's Doc About Elizabeth Holmes",
-      "url": "https://variety.com/2026/film/reviews/nathan-fielder-surprise-film-telluride-elizabeth-holmes-1236853513/",
-      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://variety.com/2026/film/...",
-      "score": 71
+      "title": "Splash-free urinals (2025)",
+      "url": "https://academic.oup.com/pnasnexus/article/4/4/pgaf087/8098745?login=false",
+      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://academic.oup.com/pnasn...",
+      "score": 172
     }
   ]
 }
