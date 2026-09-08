@@ -1,61 +1,61 @@
 {
-  "last_updated": "2026-09-08 16:05:50",
+  "last_updated": "2026-09-08 20:46:48",
   "news": [
+    {
+      "type": "HackerNews",
+      "title": "100s of flights cancelled at UK airports due to ATC issue",
+      "url": "https://www.bbc.com/news/live/c6x2z0yy32ejt",
+      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.bbc.com/news/live/...",
+      "score": 97
+    },
     {
       "type": "HackerNews",
       "title": "Google DeepMind Releases AlphaGenome Atlas",
       "url": "https://blog.google/innovation-and-ai/models-and-research/google-deepmind/alphagenome-atlas/",
-      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://blog.google/innovation...",
-      "score": 98
+      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://blog.google/innovation...",
+      "score": 398
+    },
+    {
+      "type": "HackerNews",
+      "title": "Kimi K3 (2.8T) at 1 token/s on a MacBook Pro, streamed from four SSDs",
+      "url": "https://github.com/argonautlabsai/deltafin",
+      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://github.com/argonautlab...",
+      "score": 24
+    },
+    {
+      "type": "HackerNews",
+      "title": "Muse: Meta's personal AI agent, features and capabilities",
+      "url": "https://ai.meta.com/muse/",
+      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://ai.meta.com/muse/...",
+      "score": 136
     },
     {
       "type": "HackerNews",
       "title": "DaVinci Resolve 21.1",
       "url": "https://www.blackmagicdesign.com/media/release/20260908-03",
-      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.blackmagicdesign.c...",
-      "score": 168
-    },
-    {
-      "type": "HackerNews",
-      "title": "LibreOffice breaks download records after declaring it has no AI features",
-      "url": "https://manualdousuario.net/en/libreoffice-download-record-no-ai/",
-      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://manualdousuario.net/en...",
-      "score": 397
-    },
-    {
-      "type": "HackerNews",
-      "title": "ZX Spectrum: Experimenting with 1-Bit Sound",
-      "url": "https://bumbershootsoft.wordpress.com/2026/09/05/zx-spectrum-experimenting-with-1-bit-sound/",
-      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://bumbershootsoft.wordpr...",
-      "score": 30
+      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.blackmagicdesign.c...",
+      "score": 302
     },
     {
       "type": "HackerNews",
       "title": "Benchmarking Qwen3.8 27B quantizations: 4-bit holds up, 1-bit collapses",
       "url": "https://quesma.com/blog/qwen38-27b-quantizations-benchmarked/",
-      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://quesma.com/blog/qwen38...",
-      "score": 27
+      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://quesma.com/blog/qwen38...",
+      "score": 168
     },
     {
       "type": "HackerNews",
-      "title": "Show HN: Copperhead – Hardware as Fast as Software",
-      "url": "https://copperhead.sh/",
-      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://copperhead.sh/...",
-      "score": 105
+      "title": "Mercury 2.5",
+      "url": "https://www.inceptionlabs.ai/blog/introducing-mercury-2-5",
+      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.inceptionlabs.ai/b...",
+      "score": 10
     },
     {
       "type": "HackerNews",
-      "title": "How Climate Resilient Are the Largest Cities?",
-      "url": "https://alphageo.ai/how-climate-resilient-are-the-worlds-largest-cities/",
-      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://alphageo.ai/how-climat...",
-      "score": 32
-    },
-    {
-      "type": "HackerNews",
-      "title": "The two Christian saints who are the Buddha",
-      "url": "https://signoregalilei.com/2026/08/30/the-two-christian-saints-who-are-secretly-the-buddha/",
-      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://signoregalilei.com/202...",
-      "score": 53
+      "title": "On the Navier–Stokes Millennium Prize Problem",
+      "url": "https://openai.com/index/navier-stokes-solution/",
+      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://openai.com/index/navie...",
+      "score": 809
     }
   ]
 }
