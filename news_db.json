@@ -1,61 +1,61 @@
 {
-  "last_updated": "2026-09-08 03:20:06",
+  "last_updated": "2026-09-08 10:42:07",
   "news": [
+    {
+      "type": "HackerNews",
+      "title": "Among European Companies That Use a CDN, Nearly 9 in 10 Use Cloudflare",
+      "url": "https://ciphercue.com/blog/european-cdn-concentration-cloudflare-nine-in-ten",
+      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://ciphercue.com/blog/eur...",
+      "score": 108
+    },
+    {
+      "type": "HackerNews",
+      "title": "We built our house for LAN parties",
+      "url": "https://lanparty.house/",
+      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://lanparty.house/...",
+      "score": 120
+    },
+    {
+      "type": "HackerNews",
+      "title": "Why getting your hands dirty is good for you",
+      "url": "https://www.bbc.com/future/article/20260904-how-getting-your-hands-dirty-boosts-your-health-within-weeks",
+      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.bbc.com/future/art...",
+      "score": 21
+    },
     {
       "type": "HackerNews",
       "title": "I've factored the RSA keys of a Certificate Authority from the 90s",
       "url": "https://mcpherrin.ca/2026/09/07/rsa.html",
-      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://mcpherrin.ca/2026/09/0...",
-      "score": 121
+      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://mcpherrin.ca/2026/09/0...",
+      "score": 346
+    },
+    {
+      "type": "HackerNews",
+      "title": "Antiquated HTML Snippets and Artefacts",
+      "url": "https://vale.rocks/posts/html-relics",
+      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://vale.rocks/posts/html-...",
+      "score": 11
+    },
+    {
+      "type": "HackerNews",
+      "title": "There's a new \"Google Jail\" for independent wikis",
+      "url": "https://weirdgloop.org/blog/google-jail",
+      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://weirdgloop.org/blog/go...",
+      "score": 176
+    },
+    {
+      "type": "HackerNews",
+      "title": "Mistral raises €3B",
+      "url": "https://mistral.ai/news/mistral-makes-sovereign-open-weight-ai-to-frontier/",
+      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://mistral.ai/news/mistra...",
+      "score": 488
     },
     {
       "type": "HackerNews",
       "title": "TALA Is Open-Source",
       "url": "https://d2lang.com/blog/tala-is-open-source/",
-      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://d2lang.com/blog/tala-i...",
-      "score": 103
-    },
-    {
-      "type": "HackerNews",
-      "title": "Jellyfin 12.0",
-      "url": "https://jellyfin.org/posts/jellyfin-release-12.0/",
-      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://jellyfin.org/posts/jel...",
-      "score": 110
-    },
-    {
-      "type": "HackerNews",
-      "title": "Watch Los Angeles get built, one building at a time (1880–2026)",
-      "url": "https://lax-skyline.parcelscope.net/",
-      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://lax-skyline.parcelscop...",
-      "score": 235
-    },
-    {
-      "type": "HackerNews",
-      "title": "Leaving VMware just got harder after Broadcom pulled VDDK downloads",
-      "url": "https://www.virtualizationhowto.com/2026/09/leaving-vmware-just-got-harder-after-broadcom-pulled-vddk-downloads/",
-      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.virtualizationhowt...",
-      "score": 114
-    },
-    {
-      "type": "HackerNews",
-      "title": "Show HN: Stuxnet – A reconstructed source code of the infamous cyber-weapon",
-      "url": "https://github.com/Sadpainy/Stuxnet",
-      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://github.com/Sadpainy/St...",
-      "score": 114
-    },
-    {
-      "type": "HackerNews",
-      "title": "John Margolies' photographs of roadside America",
-      "url": "https://publicdomainreview.org/collection/john-margolies-photographs-of-roadside-america/",
-      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://publicdomainreview.org...",
-      "score": 31
-    },
-    {
-      "type": "HackerNews",
-      "title": "Trusting-Trust Attack against an Entire Linux Distribution",
-      "url": "https://arxiv.org/abs/2607.24888",
-      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://arxiv.org/abs/2607.248...",
-      "score": 167
+      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://d2lang.com/blog/tala-i...",
+      "score": 233
     }
   ]
 }
