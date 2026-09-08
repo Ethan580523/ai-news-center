@@ -1,61 +1,61 @@
 {
-  "last_updated": "2026-09-07 21:10:25",
+  "last_updated": "2026-09-08 03:20:06",
   "news": [
+    {
+      "type": "HackerNews",
+      "title": "I've factored the RSA keys of a Certificate Authority from the 90s",
+      "url": "https://mcpherrin.ca/2026/09/07/rsa.html",
+      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://mcpherrin.ca/2026/09/0...",
+      "score": 121
+    },
+    {
+      "type": "HackerNews",
+      "title": "TALA Is Open-Source",
+      "url": "https://d2lang.com/blog/tala-is-open-source/",
+      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://d2lang.com/blog/tala-i...",
+      "score": 103
+    },
+    {
+      "type": "HackerNews",
+      "title": "Jellyfin 12.0",
+      "url": "https://jellyfin.org/posts/jellyfin-release-12.0/",
+      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://jellyfin.org/posts/jel...",
+      "score": 110
+    },
     {
       "type": "HackerNews",
       "title": "Watch Los Angeles get built, one building at a time (1880–2026)",
       "url": "https://lax-skyline.parcelscope.net/",
-      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://lax-skyline.parcelscop...",
-      "score": 106
+      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://lax-skyline.parcelscop...",
+      "score": 235
     },
     {
       "type": "HackerNews",
-      "title": "Finding a bug in Dummit and Foote's Abstract Algebra",
-      "url": "https://kallus.org/blog/dummit_and_foote.html",
-      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://kallus.org/blog/dummit...",
+      "title": "Leaving VMware just got harder after Broadcom pulled VDDK downloads",
+      "url": "https://www.virtualizationhowto.com/2026/09/leaving-vmware-just-got-harder-after-broadcom-pulled-vddk-downloads/",
+      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.virtualizationhowt...",
+      "score": 114
+    },
+    {
+      "type": "HackerNews",
+      "title": "Show HN: Stuxnet – A reconstructed source code of the infamous cyber-weapon",
+      "url": "https://github.com/Sadpainy/Stuxnet",
+      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://github.com/Sadpainy/St...",
+      "score": 114
+    },
+    {
+      "type": "HackerNews",
+      "title": "John Margolies' photographs of roadside America",
+      "url": "https://publicdomainreview.org/collection/john-margolies-photographs-of-roadside-america/",
+      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://publicdomainreview.org...",
       "score": 31
-    },
-    {
-      "type": "HackerNews",
-      "title": "WeatherNext 3",
-      "url": "https://deepmind.google/science/weathernext/",
-      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://deepmind.google/scienc...",
-      "score": 110
     },
     {
       "type": "HackerNews",
       "title": "Trusting-Trust Attack against an Entire Linux Distribution",
       "url": "https://arxiv.org/abs/2607.24888",
       "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://arxiv.org/abs/2607.248...",
-      "score": 51
-    },
-    {
-      "type": "HackerNews",
-      "title": "Scientists observe Einstein's gravity in the quantum world",
-      "url": "https://www.ox.ac.uk/news/2026-08-28-scientists-observe-einsteins-gravity-in-the-quantum-world",
-      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.ox.ac.uk/news/2026...",
-      "score": 40
-    },
-    {
-      "type": "HackerNews",
-      "title": "Macbeth and His Problems",
-      "url": "https://porticoquarterly.com/essay/macbeth-and-his-problems/",
-      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://porticoquarterly.com/e...",
-      "score": 6
-    },
-    {
-      "type": "HackerNews",
-      "title": "Methods for Random Gradients (2024)",
-      "url": "https://justinjay.wang/methods-for-random-gradients/",
-      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://justinjay.wang/methods...",
-      "score": 31
-    },
-    {
-      "type": "HackerNews",
-      "title": "Decoding the NEC V20 Microcode",
-      "url": "https://martypc.blogspot.com/2026/09/decoding-nec-v20-microcode.html",
-      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://martypc.blogspot.com/2...",
-      "score": 85
+      "score": 167
     }
   ]
 }
