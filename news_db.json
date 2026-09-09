@@ -1,61 +1,61 @@
 {
-  "last_updated": "2026-09-09 03:23:41",
+  "last_updated": "2026-09-09 10:50:44",
   "news": [
+    {
+      "type": "HackerNews",
+      "title": "How GPT‑5.6 Sol helps run quantum computing experiments",
+      "url": "https://openai.com/index/codex-quantum-computing-experiments/",
+      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://openai.com/index/codex...",
+      "score": 75
+    },
     {
       "type": "HackerNews",
       "title": "Muse – Meta’s personal AI agent",
       "url": "https://ai.meta.com/muse/",
-      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://ai.meta.com/muse/...",
-      "score": 357
+      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://ai.meta.com/muse/...",
+      "score": 526
+    },
+    {
+      "type": "HackerNews",
+      "title": "Lotus Notes and the dangers of starting from scratch",
+      "url": "https://buttondown.com/blog/lotus-notes-email",
+      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://buttondown.com/blog/lo...",
+      "score": 11
+    },
+    {
+      "type": "HackerNews",
+      "title": "Navier-Stokes – Tristan Buckmaster [pdf]",
+      "url": "https://cims.nyu.edu/~tristanb/statement.pdf",
+      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://cims.nyu.edu/~tristanb...",
+      "score": 1715
+    },
+    {
+      "type": "HackerNews",
+      "title": "On Really Trying (2009)",
+      "url": "https://gwern.net/on-really-trying",
+      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://gwern.net/on-really-tr...",
+      "score": 59
+    },
+    {
+      "type": "HackerNews",
+      "title": "Tension wood: A 'muscle' that can both bend and straighten plants",
+      "url": "https://phys.org/news/2026-09-trees-muscle-posture-newly-role.html",
+      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://phys.org/news/2026-09-...",
+      "score": 123
     },
     {
       "type": "HackerNews",
       "title": "How to build a printer",
       "url": "https://nishantjosh.dev/blogs/how-to-build-a-fking-printer/",
-      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://nishantjosh.dev/blogs/...",
-      "score": 174
-    },
-    {
-      "type": "HackerNews",
-      "title": "Large language models develop novel social biases through adaptive exploration",
-      "url": "https://openreview.net/challenge?redirect=%2Fforum%3Fid%3Dpc7fqaOcAH",
-      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://openreview.net/challen...",
-      "score": 110
+      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://nishantjosh.dev/blogs/...",
+      "score": 346
     },
     {
       "type": "HackerNews",
       "title": "AlphaGenome Atlas: a high-resolution map of human DNA",
       "url": "https://blog.google/innovation-and-ai/models-and-research/google-deepmind/alphagenome-atlas/",
       "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://blog.google/innovation...",
-      "score": 506
-    },
-    {
-      "type": "HackerNews",
-      "title": "Trees use a \"muscle\", tension wood, to correct their posture",
-      "url": "https://phys.org/news/2026-09-trees-muscle-posture-newly-role.html",
-      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://phys.org/news/2026-09-...",
-      "score": 11
-    },
-    {
-      "type": "HackerNews",
-      "title": "27.5KB language-agnostic WebGPU syntax highlighter",
-      "url": "https://gpu-lexer.vercel.app/",
-      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://gpu-lexer.vercel.app/...",
-      "score": 21
-    },
-    {
-      "type": "HackerNews",
-      "title": "An Accidental Blackboard",
-      "url": "https://martinfowler.com/articles/exploring-gen-ai/an-accidental-blackboard.html",
-      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://martinfowler.com/artic...",
-      "score": 16
-    },
-    {
-      "type": "HackerNews",
-      "title": "DaVinci Resolve 21.1",
-      "url": "https://www.blackmagicdesign.com/media/release/20260908-03",
-      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.blackmagicdesign.c...",
-      "score": 365
+      "score": 566
     }
   ]
 }
