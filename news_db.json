@@ -1,61 +1,61 @@
 {
-  "last_updated": "2026-09-10 15:54:55",
+  "last_updated": "2026-09-10 20:28:35",
   "news": [
+    {
+      "type": "HackerNews",
+      "title": "I have a theory that software drives people insane",
+      "url": "https://graybeard.ing/software-drives-people-insane/",
+      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://graybeard.ing/software...",
+      "score": 318
+    },
+    {
+      "type": "HackerNews",
+      "title": "Rust is tier-1 language at Microsoft",
+      "url": "https://rustfoundation.org/media/guest-post-rust-is-tier-1-language-at-microsoft/",
+      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://rustfoundation.org/med...",
+      "score": 504
+    },
+    {
+      "type": "HackerNews",
+      "title": "Genuine Creativity Is Your New Moat (2026)",
+      "url": "https://www.inventbuild.studio/blog/genuine-creativity-is-your-new-moat",
+      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.inventbuild.studio...",
+      "score": 50
+    },
+    {
+      "type": "HackerNews",
+      "title": "Cognition launches new SWE-2 model, Rivaling Fable 5.1 and GPT-Astra",
+      "url": "https://cognition.com/blog/swe-2",
+      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://cognition.com/blog/swe...",
+      "score": 224
+    },
+    {
+      "type": "HackerNews",
+      "title": "More questions about whether researchers can trust OpenAI with unpublished math",
+      "url": "https://mathstodon.xyz/@andreasthom/117240535270608201",
+      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://mathstodon.xyz/@andrea...",
+      "score": 366
+    },
+    {
+      "type": "HackerNews",
+      "title": "NASA Color Trick Was Meant for Mars. Now It's Unveiling Rock Art on Earth",
+      "url": "https://gizmodo.com/this-nasa-color-trick-was-meant-for-mars-now-its-unveiling-rock-art-on-earth-2000809844",
+      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://gizmodo.com/this-nasa-...",
+      "score": 171
+    },
     {
       "type": "HackerNews",
       "title": "Shopify moves back to Native from React Native",
       "url": "https://shopify.engineering/back-to-native",
-      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://shopify.engineering/ba...",
-      "score": 264
+      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://shopify.engineering/ba...",
+      "score": 566
     },
     {
       "type": "HackerNews",
-      "title": "Rust Is Tier-1 Language at Microsoft",
-      "url": "https://rustfoundation.org/media/guest-post-rust-is-tier-1-language-at-microsoft/",
-      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://rustfoundation.org/med...",
-      "score": 198
-    },
-    {
-      "type": "HackerNews",
-      "title": "Hitachi launches CO2 heat pump water heaters with solar-friendly tariff controls",
-      "url": "https://www.pv-magazine.com/2026/09/07/hitachi-launches-co2-heat-pump-water-heaters-with-solar-friendly-tariff-controls/",
-      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.pv-magazine.com/20...",
-      "score": 177
-    },
-    {
-      "type": "HackerNews",
-      "title": "Amazon pilots ad services in ChatGPT",
-      "url": "https://www.marketingdive.com/news/amazon-pilots-ad-services-in-chatgpt-what-marketers-need-to-know/829945/",
-      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.marketingdive.com/...",
-      "score": 72
-    },
-    {
-      "type": "HackerNews",
-      "title": "What algorithm did Windows XP use to choose your initial user picture?",
-      "url": "https://devblogs.microsoft.com/oldnewthing/20260909-00/?p=112683",
-      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://devblogs.microsoft.com...",
-      "score": 242
-    },
-    {
-      "type": "HackerNews",
-      "title": "List of references on Sony websites to players \"owning\" their digital games",
-      "url": "https://consumerrights.wiki/w/Sony_PlayStation_digital_game_ownership_lawsuit",
-      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://consumerrights.wiki/w/...",
-      "score": 184
-    },
-    {
-      "type": "HackerNews",
-      "title": ">10x More Efficient Pretraining",
-      "url": "https://magic.dev/blog/pretraining#",
-      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://magic.dev/blog/pretrai...",
-      "score": 18
-    },
-    {
-      "type": "HackerNews",
-      "title": "To write non-fiction, draw the trunk, then the rest of the tree",
-      "url": "https://devz.cl/posts/how-to-write/",
-      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://devz.cl/posts/how-to-w...",
-      "score": 39
+      "title": "Music Theory for the 21st-Century Classroom",
+      "url": "https://musictheory.pugetsound.edu/mt21c/MusicTheory.html",
+      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://musictheory.pugetsound...",
+      "score": 67
     }
   ]
 }
