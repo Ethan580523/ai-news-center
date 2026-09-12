@@ -1,61 +1,61 @@
 {
-  "last_updated": "2026-09-11 23:00:05",
+  "last_updated": "2026-09-12 03:23:47",
   "news": [
     {
       "type": "HackerNews",
       "title": "A misalignment of AI in mathematics",
       "url": "https://mathandai.org/",
-      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://mathandai.org/...",
-      "score": 496
+      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://mathandai.org/...",
+      "score": 715
+    },
+    {
+      "type": "HackerNews",
+      "title": "Pandas Should Go Extinct",
+      "url": "https://eddie.codes/posts/pandas-should-go-extinct/",
+      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://eddie.codes/posts/pand...",
+      "score": 17
     },
     {
       "type": "HackerNews",
       "title": "I spent $220 on Google app ads and 60% of the installs were robots",
       "url": "https://dayzlegame.com/blog/google-ads-bot-farm/",
-      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://dayzlegame.com/blog/go...",
-      "score": 186
-    },
-    {
-      "type": "HackerNews",
-      "title": "GrapheneOS' rewritten Messages app is released",
-      "url": "https://github.com/GrapheneOS/Messaging/releases/tag/13",
-      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://github.com/GrapheneOS/...",
-      "score": 157
+      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://dayzlegame.com/blog/go...",
+      "score": 358
     },
     {
       "type": "HackerNews",
       "title": "A Design Space Exploration of Async/Await",
       "url": "https://cel.cs.brown.edu/blog/design-space-async-await/",
-      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://cel.cs.brown.edu/blog/...",
-      "score": 80
+      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://cel.cs.brown.edu/blog/...",
+      "score": 177
     },
     {
       "type": "HackerNews",
-      "title": "Project Blinkenlights",
-      "url": "https://blinkenlights.de/en/",
-      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://blinkenlights.de/en/...",
-      "score": 13
+      "title": "OpenAI agents carried out an undisclosed attack on RubyGems",
+      "url": "https://www.rubyhack.ai/",
+      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.rubyhack.ai/...",
+      "score": 422
     },
     {
       "type": "HackerNews",
-      "title": "Show HN: ResolveHQ – A Helpdesk Built on Cloudflare Workers, D1, R2 and Queues",
-      "url": "https://github.com/mirza-rizvi/ResolveHQ",
-      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://github.com/mirza-rizvi...",
-      "score": 11
+      "title": "Google stole open source code without crediting the authors (Artemis/Minitap)",
+      "url": "https://www.minitap.ai/blog/i-expected-better-from-google",
+      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.minitap.ai/blog/i-...",
+      "score": 5
     },
     {
       "type": "HackerNews",
-      "title": "Litelm: LiteLLM Without the Bloat",
-      "url": "https://github.com/kennethwolters/litelm",
-      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://github.com/kennethwolt...",
-      "score": 79
+      "title": "GrapheneOS' rewritten Messages app is released",
+      "url": "https://github.com/GrapheneOS/Messaging/releases/tag/13",
+      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://github.com/GrapheneOS/...",
+      "score": 217
     },
     {
       "type": "HackerNews",
-      "title": "Λ Snap – An inviting programming language for kids and adults for CS study",
-      "url": "https://snap.berkeley.edu/",
-      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://snap.berkeley.edu/...",
-      "score": 92
+      "title": "AI researchers debate how close we are to recursive self-improvement",
+      "url": "https://www.dwarkesh.com/p/john-beren-charlie",
+      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.dwarkesh.com/p/joh...",
+      "score": 62
     }
   ]
 }
