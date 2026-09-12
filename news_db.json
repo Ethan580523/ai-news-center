@@ -1,61 +1,61 @@
 {
-  "last_updated": "2026-09-12 10:11:23",
+  "last_updated": "2026-09-12 15:06:09",
   "news": [
     {
       "type": "HackerNews",
-      "title": "Retrospectively Reverse-Engineering Apple's Neural Engine",
-      "url": "https://eiln.github.io/posts/ane.html",
-      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://eiln.github.io/posts/a...",
-      "score": 81
+      "title": "A Mathematical Framework for Transformer Circuits (2021)",
+      "url": "https://transformer-circuits.pub/2021/framework/index.html",
+      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://transformer-circuits.p...",
+      "score": 21
     },
     {
       "type": "HackerNews",
       "title": "IKEA made a mod for Skyrim [video]",
       "url": "https://www.youtube.com/watch?v=iZODN0QUgjI",
-      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.youtube.com/watch?...",
-      "score": 114
+      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.youtube.com/watch?...",
+      "score": 361
+    },
+    {
+      "type": "HackerNews",
+      "title": "Fuck it, make it anyway",
+      "url": "https://www.joelotter.com/posts/2026/09/make-it-anyway/",
+      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.joelotter.com/post...",
+      "score": 312
+    },
+    {
+      "type": "HackerNews",
+      "title": "Retrospectively Reverse-Engineering Apple's Neural Engine",
+      "url": "https://eiln.github.io/posts/ane.html",
+      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://eiln.github.io/posts/a...",
+      "score": 158
     },
     {
       "type": "HackerNews",
       "title": "A misalignment of AI in mathematics",
       "url": "https://mathandai.org/",
       "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://mathandai.org/...",
-      "score": 935
+      "score": 1073
+    },
+    {
+      "type": "HackerNews",
+      "title": "LRU is harder to beat than the KV-cache papers suggest",
+      "url": "https://github.com/gauravapiscean/agentic-kv-cache",
+      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://github.com/gauravapisc...",
+      "score": 29
+    },
+    {
+      "type": "HackerNews",
+      "title": "Performance of WebAssembly Runtimes in 2026",
+      "url": "https://00f.net/2026/06/23/webassembly-runtimes-2026/",
+      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://00f.net/2026/06/23/web...",
+      "score": 20
     },
     {
       "type": "HackerNews",
       "title": "I spent $220 on Google app ads and 60% of the installs were robots",
       "url": "https://dayzlegame.com/blog/google-ads-bot-farm/",
-      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://dayzlegame.com/blog/go...",
-      "score": 533
-    },
-    {
-      "type": "HackerNews",
-      "title": "Navier-Stokes Announcement",
-      "url": "https://www.claymath.org/news/navier-stokes-announcement/",
-      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.claymath.org/news/...",
-      "score": 166
-    },
-    {
-      "type": "HackerNews",
-      "title": "google.com/goto: Google's anti-scraping update",
-      "url": "https://www.autom.dev/blog/google-search-goto-links",
-      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.autom.dev/blog/goo...",
-      "score": 433
-    },
-    {
-      "type": "HackerNews",
-      "title": "A Design Space Exploration of Async/Await",
-      "url": "https://cel.cs.brown.edu/blog/design-space-async-await/",
-      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://cel.cs.brown.edu/blog/...",
-      "score": 289
-    },
-    {
-      "type": "HackerNews",
-      "title": "Great Lakes sturgeon may be 400 years old:Scientists rethinking how to save them",
-      "url": "https://www.cbc.ca/news/canada/ontario-great-lakes-sturgeon-lifespan-study-9.7329250",
-      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.cbc.ca/news/canada...",
-      "score": 69
+      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://dayzlegame.com/blog/go...",
+      "score": 641
     }
   ]
 }
