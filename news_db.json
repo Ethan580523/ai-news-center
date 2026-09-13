@@ -1,61 +1,61 @@
 {
-  "last_updated": "2026-09-13 15:42:19",
+  "last_updated": "2026-09-13 20:24:14",
   "news": [
     {
       "type": "HackerNews",
-      "title": "Flock worker calls police on reporter filming public camera installation",
-      "url": "https://www.investigatetv.com/2026/09/08/flock-worker-calls-police-investigatetv-reporter-filming-public-camera-installation/",
-      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.investigatetv.com/...",
-      "score": 286
+      "title": "Why is Google still serving dodgy ads?",
+      "url": "https://www.atomic14.com/2026/09/13/why-is-google-still-serving-dodgy-ads",
+      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.atomic14.com/2026/...",
+      "score": 282
+    },
+    {
+      "type": "HackerNews",
+      "title": "There Is No AI (It's Just People) with Jaron Lanier",
+      "url": "https://singjupost.com/startalk-there-is-no-ai-really-its-just-people-w-jaron-lanier-transcript/",
+      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://singjupost.com/startal...",
+      "score": 16
     },
     {
       "type": "HackerNews",
       "title": "Astra and Fable still hack on simple variants of alignment evals from 2025",
       "url": "https://www.lesswrong.com/posts/munJKF7iWMsWJLAH2/astra-and-fable-still-hack-on-simple-variants-of-alignment",
       "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.lesswrong.com/post...",
-      "score": 49
+      "score": 292
+    },
+    {
+      "type": "HackerNews",
+      "title": "Global Shortage Has Led to Motor Oil Rationing at Costco",
+      "url": "https://guessingheadlights.com/global-shortage-has-led-to-motor-oil-rationing-at-costco/",
+      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://guessingheadlights.com...",
+      "score": 80
+    },
+    {
+      "type": "HackerNews",
+      "title": "Data collected by cars and sold to third parties",
+      "url": "https://www.theverge.com/column/994172/your-car-is-selling-your-data",
+      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.theverge.com/colum...",
+      "score": 172
+    },
+    {
+      "type": "HackerNews",
+      "title": "Mark Zuckerberg: \"Cambridge Analytica\" (2017)",
+      "url": "https://twitter.com/TechEmails/status/2099214399840059428",
+      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://twitter.com/TechEmails...",
+      "score": 7
     },
     {
       "type": "HackerNews",
       "title": "JetKVM Mini",
       "url": "https://jetkvm.com/blog/introducing-jetkvm-mini",
-      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://jetkvm.com/blog/introd...",
-      "score": 336
+      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://jetkvm.com/blog/introd...",
+      "score": 456
     },
     {
       "type": "HackerNews",
-      "title": "'Fingerprints' inside the Sun could reveal if it once swallowed a planet",
-      "url": "https://ras.ac.uk/news-and-press/research-highlights/fingerprints-inside-sun-could-reveal-if-it-once-swallowed-planet",
-      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://ras.ac.uk/news-and-pre...",
-      "score": 49
-    },
-    {
-      "type": "HackerNews",
-      "title": "Why are AI agents lying, cheating and coordinating?",
-      "url": "https://yoshuabengio.org/en/publication/why-are-ai-agents-lying-cheating-and-coordinating",
-      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://yoshuabengio.org/en/pu...",
-      "score": 432
-    },
-    {
-      "type": "HackerNews",
-      "title": "Reverse engineering my e-scooter and rewriting the firmware in Rust",
-      "url": "https://bensimms.moe/reverse-engineering-scooter/",
-      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://bensimms.moe/reverse-e...",
-      "score": 101
-    },
-    {
-      "type": "HackerNews",
-      "title": "TailTalk: A modern async user space AppleTalk stack with Rust and Tokio",
-      "url": "https://github.com/FeralFirmware/TailTalk/",
-      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://github.com/FeralFirmwa...",
-      "score": 37
-    },
-    {
-      "type": "HackerNews",
-      "title": "Why is the x86 undefined instruction called ud2? Why 2?",
-      "url": "https://devblogs.microsoft.com/oldnewthing/20260910-00/?p=112689",
-      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://devblogs.microsoft.com...",
-      "score": 16
+      "title": "Julia 1.13 Highlights",
+      "url": "https://julialang.org/blog/2026/09/julia-1.13-highlights/",
+      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://julialang.org/blog/202...",
+      "score": 20
     }
   ]
 }
