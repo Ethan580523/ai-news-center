@@ -1,61 +1,61 @@
 {
-  "last_updated": "2026-09-13 22:54:55",
+  "last_updated": "2026-09-14 03:40:03",
   "news": [
     {
       "type": "HackerNews",
       "title": "Fable 5.1 Solves the Cyphral Distich, a 370-year-old cipher",
       "url": "https://www.vals.ai/blogs/fable-solves-cyphral-distich",
-      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.vals.ai/blogs/fabl...",
-      "score": 217
+      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.vals.ai/blogs/fabl...",
+      "score": 565
+    },
+    {
+      "type": "HackerNews",
+      "title": "Spaceships (Reverse Asteroid)",
+      "url": "https://spaceships.treybastian.com/",
+      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://spaceships.treybastian...",
+      "score": 63
     },
     {
       "type": "HackerNews",
       "title": "Why is Google still serving dodgy ads?",
       "url": "https://www.atomic14.com/2026/09/13/why-is-google-still-serving-dodgy-ads",
-      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.atomic14.com/2026/...",
-      "score": 453
+      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.atomic14.com/2026/...",
+      "score": 652
     },
     {
       "type": "HackerNews",
-      "title": "Julia 1.13 Highlights",
-      "url": "https://julialang.org/blog/2026/09/julia-1.13-highlights/",
-      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://julialang.org/blog/202...",
-      "score": 105
+      "title": "Registration without a phone number on Signal will use zero-knowledge proofs",
+      "url": "https://community.signalusers.org/t/registration-without-a-phone-number/2222?page=10",
+      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://community.signalusers....",
+      "score": 115
+    },
+    {
+      "type": "HackerNews",
+      "title": "Open-Source AI and Open Models Reading List",
+      "url": "https://www.interconnects.ai/p/open-source-ai-reading-list",
+      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.interconnects.ai/p...",
+      "score": 41
     },
     {
       "type": "HackerNews",
       "title": "Astra and Fable still hack on simple variants of alignment evals from 2025",
       "url": "https://www.lesswrong.com/posts/munJKF7iWMsWJLAH2/astra-and-fable-still-hack-on-simple-variants-of-alignment",
       "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.lesswrong.com/post...",
-      "score": 346
+      "score": 395
     },
     {
       "type": "HackerNews",
-      "title": "Flawed Routers Flood University of Wisconsin Internet Time Server (2003)",
-      "url": "https://pages.cs.wisc.edu/~plonka/netgear-sntp/",
-      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://pages.cs.wisc.edu/~plo...",
-      "score": 30
+      "title": "Julia 1.13 highlights",
+      "url": "https://julialang.org/blog/2026/09/julia-1.13-highlights/",
+      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://julialang.org/blog/202...",
+      "score": 172
     },
     {
       "type": "HackerNews",
-      "title": "Data collected by cars and sold to third parties",
-      "url": "https://www.theverge.com/column/994172/your-car-is-selling-your-data",
-      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.theverge.com/colum...",
-      "score": 246
-    },
-    {
-      "type": "HackerNews",
-      "title": "JetKVM Mini",
-      "url": "https://jetkvm.com/blog/introducing-jetkvm-mini",
-      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://jetkvm.com/blog/introd...",
-      "score": 505
-    },
-    {
-      "type": "HackerNews",
-      "title": "Bad Code Is Kudzu",
-      "url": "https://vickiboykis.com/2026/09/01/bad-code-is-kudzu/",
-      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://vickiboykis.com/2026/0...",
-      "score": 25
+      "title": "The Malicious Use of Artificial Intelligence",
+      "url": "https://arxiv.org/abs/1802.07228",
+      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://arxiv.org/abs/1802.072...",
+      "score": 18
     }
   ]
 }
