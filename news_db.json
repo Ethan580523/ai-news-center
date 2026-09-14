@@ -1,61 +1,61 @@
 {
-  "last_updated": "2026-09-14 03:40:03",
+  "last_updated": "2026-09-14 11:57:58",
   "news": [
+    {
+      "type": "HackerNews",
+      "title": "EuroBirdPortal – Live bird movements across Europe",
+      "url": "https://www.eurobirdportal.org/ebp/en/",
+      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.eurobirdportal.org...",
+      "score": 95
+    },
     {
       "type": "HackerNews",
       "title": "Fable 5.1 Solves the Cyphral Distich, a 370-year-old cipher",
       "url": "https://www.vals.ai/blogs/fable-solves-cyphral-distich",
-      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.vals.ai/blogs/fabl...",
-      "score": 565
+      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.vals.ai/blogs/fabl...",
+      "score": 1019
+    },
+    {
+      "type": "HackerNews",
+      "title": "A 386 PC for Your RP2350",
+      "url": "https://github.com/rh1tech/frank-386",
+      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://github.com/rh1tech/fra...",
+      "score": 67
+    },
+    {
+      "type": "HackerNews",
+      "title": "An atlas of periodic solutions to the three-body problem",
+      "url": "https://www.threebodyorbits.com/",
+      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.threebodyorbits.co...",
+      "score": 57
+    },
+    {
+      "type": "HackerNews",
+      "title": "Who Aligns the Aligners?",
+      "url": "https://prestonbyrne.com/2026/09/13/aligners/",
+      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://prestonbyrne.com/2026/...",
+      "score": 9
+    },
+    {
+      "type": "HackerNews",
+      "title": "OpenArch – PyTorch implementations of modern LLM architectures",
+      "url": "https://github.com/anuj0456/OpenArch",
+      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://github.com/anuj0456/Op...",
+      "score": 46
     },
     {
       "type": "HackerNews",
       "title": "Spaceships (Reverse Asteroid)",
       "url": "https://spaceships.treybastian.com/",
-      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://spaceships.treybastian...",
-      "score": 63
-    },
-    {
-      "type": "HackerNews",
-      "title": "Why is Google still serving dodgy ads?",
-      "url": "https://www.atomic14.com/2026/09/13/why-is-google-still-serving-dodgy-ads",
-      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.atomic14.com/2026/...",
-      "score": 652
+      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://spaceships.treybastian...",
+      "score": 271
     },
     {
       "type": "HackerNews",
       "title": "Registration without a phone number on Signal will use zero-knowledge proofs",
       "url": "https://community.signalusers.org/t/registration-without-a-phone-number/2222?page=10",
-      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://community.signalusers....",
-      "score": 115
-    },
-    {
-      "type": "HackerNews",
-      "title": "Open-Source AI and Open Models Reading List",
-      "url": "https://www.interconnects.ai/p/open-source-ai-reading-list",
-      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.interconnects.ai/p...",
-      "score": 41
-    },
-    {
-      "type": "HackerNews",
-      "title": "Astra and Fable still hack on simple variants of alignment evals from 2025",
-      "url": "https://www.lesswrong.com/posts/munJKF7iWMsWJLAH2/astra-and-fable-still-hack-on-simple-variants-of-alignment",
-      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.lesswrong.com/post...",
-      "score": 395
-    },
-    {
-      "type": "HackerNews",
-      "title": "Julia 1.13 highlights",
-      "url": "https://julialang.org/blog/2026/09/julia-1.13-highlights/",
-      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://julialang.org/blog/202...",
-      "score": 172
-    },
-    {
-      "type": "HackerNews",
-      "title": "The Malicious Use of Artificial Intelligence",
-      "url": "https://arxiv.org/abs/1802.07228",
-      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://arxiv.org/abs/1802.072...",
-      "score": 18
+      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://community.signalusers....",
+      "score": 299
     }
   ]
 }
