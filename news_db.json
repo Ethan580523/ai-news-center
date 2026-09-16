@@ -1,61 +1,61 @@
 {
-  "last_updated": "2026-09-15 23:25:49",
+  "last_updated": "2026-09-16 03:37:43",
   "news": [
     {
       "type": "HackerNews",
       "title": "Introducing System One Models and Jev",
       "url": "https://typesafe.ai/blog/introducing-system-one-models-and-jev",
       "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://typesafe.ai/blog/intro...",
-      "score": 582
+      "score": 891
     },
     {
       "type": "HackerNews",
       "title": "Show HN: An e-ink frame that hears birds and draws them as 1800s illustrations",
       "url": "https://github.com/arnegiacomo/fugleramme",
-      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://github.com/arnegiacomo...",
-      "score": 1216
+      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://github.com/arnegiacomo...",
+      "score": 1382
     },
     {
       "type": "HackerNews",
-      "title": "An Update on Wayback Machine Access",
+      "title": "Negativland, Culture Jamming, and the Art of Making Something New",
+      "url": "https://blog.archive.org/2026/09/11/negativland-culture-jamming-and-the-art-of-making-something-new/",
+      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://blog.archive.org/2026/...",
+      "score": 18
+    },
+    {
+      "type": "HackerNews",
+      "title": "An update on Wayback Machine access",
       "url": "https://blog.archive.org/2026/09/15/an-update-on-wayback-machine-access/",
-      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://blog.archive.org/2026/...",
-      "score": 324
-    },
-    {
-      "type": "HackerNews",
-      "title": "German Rheinmetall open-sources its Battlesuite connected weapon system protcol",
-      "url": "https://rheinmetall.github.io/onboardapi-documentation/9.10.0/index.html",
-      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://rheinmetall.github.io/...",
-      "score": 90
+      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://blog.archive.org/2026/...",
+      "score": 423
     },
     {
       "type": "HackerNews",
       "title": "Gemini 3.8 Live and 3.8 Live Extended Thinking",
       "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-8-live-gemini-3-8-live-extended-thinking/",
-      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://blog.google/innovation...",
-      "score": 247
+      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://blog.google/innovation...",
+      "score": 334
     },
     {
       "type": "HackerNews",
-      "title": "Jean-Pierre Serre is 100 years old today",
-      "url": "https://mathshistory.st-andrews.ac.uk/Biographies/Serre/",
-      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://mathshistory.st-andrew...",
-      "score": 70
+      "title": "German Rheinmetall open-sources its Battlesuite connected weapon system protcol",
+      "url": "https://rheinmetall.github.io/onboardapi-documentation/9.10.0/index.html",
+      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://rheinmetall.github.io/...",
+      "score": 148
     },
     {
       "type": "HackerNews",
-      "title": "We got admin access to Baseten's production GitHub in 25 minutes",
-      "url": "https://www.strix.ai/blog/baseten-harbor-github-pat-takeover",
-      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.strix.ai/blog/base...",
-      "score": 184
+      "title": "Apple Reference Image: A New Approach for Verified Photography",
+      "url": "https://security.apple.com/blog/apple-reference-image/",
+      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://security.apple.com/blo...",
+      "score": 25
     },
     {
       "type": "HackerNews",
-      "title": "Why I'm still bearish on LLMs after Navier-Stokes",
-      "url": "https://dank.systems/posts/2026-09-15-ai-bear.html",
-      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://dank.systems/posts/202...",
-      "score": 58
+      "title": "Building a Linux GPU Driver for the M4 Mac Mini in One Month",
+      "url": "https://codyho.dev/blog/gpu-driver/",
+      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://codyho.dev/blog/gpu-dr...",
+      "score": 192
     }
   ]
 }
