@@ -1,61 +1,61 @@
 {
-  "last_updated": "2026-09-17 11:05:21",
+  "last_updated": "2026-09-17 16:21:58",
   "news": [
+    {
+      "type": "HackerNews",
+      "title": "Fujitsu launches made-in-Japan next-generation CPU FUJITSU-MONAKA",
+      "url": "https://global.fujitsu/en-global/pr/news/2026/09/14-02",
+      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://global.fujitsu/en-glob...",
+      "score": 255
+    },
+    {
+      "type": "HackerNews",
+      "title": "Rate limits on GitLab.com are changing",
+      "url": "https://about.gitlab.com/blog/rate-limit-change-2026/",
+      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://about.gitlab.com/blog/...",
+      "score": 35
+    },
+    {
+      "type": "HackerNews",
+      "title": "Artificial intelligence now beats some of the best human forecasters",
+      "url": "https://www.economist.com/science-and-technology/2026/09/16/artificial-intelligence-now-beats-some-of-the-best-human-forecasters",
+      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.economist.com/scie...",
+      "score": 26
+    },
+    {
+      "type": "HackerNews",
+      "title": "OpenAI's Misalignment Framework: A Tactical Bid to Preempt Global AI Governance",
+      "url": "https://asiaai.fyi/openai-misalignment-framework-global-governance/",
+      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://asiaai.fyi/openai-misa...",
+      "score": 19
+    },
+    {
+      "type": "HackerNews",
+      "title": "LLM Classification Is Feature Engineering",
+      "url": "https://minimallysufficient.com/posts/llm-classification-is-feature-extraction/",
+      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://minimallysufficient.co...",
+      "score": 19
+    },
     {
       "type": "HackerNews",
       "title": "One Year of Sponsored Servo Development",
       "url": "https://servo.org/blog/2026/09/15/one-year-of-sponsorship/",
       "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://servo.org/blog/2026/09...",
-      "score": 100
+      "score": 274
     },
     {
       "type": "HackerNews",
-      "title": "GLM Built Its Own Inference Infrastructure",
-      "url": "https://z.ai/blog/glm-built-its-inference-infrastructure",
-      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://z.ai/blog/glm-built-it...",
-      "score": 71
+      "title": "Whoisinspace.com/",
+      "url": "https://whoisinspace.com",
+      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://whoisinspace.com...",
+      "score": 9
     },
     {
       "type": "HackerNews",
-      "title": "Nvidia announces native GPU programming in Rust",
-      "url": "https://developer.nvidia.com/blog/introducing-cuda-rust-two-tracks-for-writing-gpu-kernels/",
-      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://developer.nvidia.com/b...",
-      "score": 718
-    },
-    {
-      "type": "HackerNews",
-      "title": "Better Vector Search for Long Documents: Chunking Inside Manticore Search",
-      "url": "https://manticoresearch.com/blog/auto-chunking/",
-      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://manticoresearch.com/bl...",
+      "title": "CrowdSec Source Code Leak",
+      "url": "https://www.crowdsec.net/blog/crowdsec-statement-source-code-exposure",
+      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.crowdsec.net/blog/...",
       "score": 8
-    },
-    {
-      "type": "HackerNews",
-      "title": "Keys Not Included: recovering the signing keys for US driver's license barcodes",
-      "url": "https://ryan.science/blog/keys-not-included",
-      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://ryan.science/blog/keys...",
-      "score": 186
-    },
-    {
-      "type": "HackerNews",
-      "title": "OpenAI Model Misalignment Report",
-      "url": "https://openai.com/index/model-misalignment-reporting-framework/",
-      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://openai.com/index/model...",
-      "score": 44
-    },
-    {
-      "type": "HackerNews",
-      "title": "My temporary PHP fix from 2014 has nearly 20M installs. Today I'm deprecating it",
-      "url": "https://jakeasmith.com/blog/http-build-url/",
-      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://jakeasmith.com/blog/ht...",
-      "score": 133
-    },
-    {
-      "type": "HackerNews",
-      "title": "The Relation Between Mathematics and Physics by Paul Dirac",
-      "url": "https://www.damtp.cam.ac.uk/events/strings02/dirac/speach.html",
-      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.damtp.cam.ac.uk/ev...",
-      "score": 59
     }
   ]
 }
