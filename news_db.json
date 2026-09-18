@@ -1,61 +1,61 @@
 {
-  "last_updated": "2026-09-18 10:40:16",
+  "last_updated": "2026-09-18 15:55:56",
   "news": [
+    {
+      "type": "HackerNews",
+      "title": "Cloudflare Quick Tunnels",
+      "url": "https://try.cloudflare.com/",
+      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://try.cloudflare.com/...",
+      "score": 65
+    },
+    {
+      "type": "HackerNews",
+      "title": "An Empirical Study of Harness Design for Coding Agents",
+      "url": "https://arxiv.org/abs/2609.20804",
+      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://arxiv.org/abs/2609.208...",
+      "score": 126
+    },
+    {
+      "type": "HackerNews",
+      "title": "North Korean nuclear test sets off years of earthquakes",
+      "url": "https://www.science.org/content/article/north-korean-nuclear-test-sets-years-earthquakes",
+      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.science.org/conten...",
+      "score": 32
+    },
+    {
+      "type": "HackerNews",
+      "title": "C++26: Trivial infinite loops are no longer undefined behaviour",
+      "url": "https://www.sandordargo.com/blog/2026/09/16/cpp26-trivial-infinite-loops",
+      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.sandordargo.com/bl...",
+      "score": 34
+    },
+    {
+      "type": "HackerNews",
+      "title": "Show HN: Rickub – The Smartest Git in the Universe",
+      "url": "https://rickub.com/",
+      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://rickub.com/...",
+      "score": 12
+    },
     {
       "type": "HackerNews",
       "title": "OpenJev",
       "url": "https://openjev.com/",
-      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://openjev.com/...",
-      "score": 70
+      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://openjev.com/...",
+      "score": 329
     },
     {
       "type": "HackerNews",
-      "title": "Jemalloc 5.4.0",
-      "url": "https://github.com/jemalloc/jemalloc/releases/tag/5.4.0",
-      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://github.com/jemalloc/je...",
-      "score": 160
+      "title": "Bend 2 and the Vibe-Coding Trap",
+      "url": "https://blog.liampwll.com/posts/bend_vibe_coding/",
+      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://blog.liampwll.com/post...",
+      "score": 270
     },
     {
       "type": "HackerNews",
-      "title": "The scourge of x86 emulation",
-      "url": "https://fex-emu.com/Scourge-of-emulation/",
-      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://fex-emu.com/Scourge-of...",
-      "score": 154
-    },
-    {
-      "type": "HackerNews",
-      "title": "Astra for Law",
-      "url": "https://openai.com/index/astra-for-law/",
-      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://openai.com/index/astra...",
-      "score": 497
-    },
-    {
-      "type": "HackerNews",
-      "title": "Bonsai 2 27B: Near-Lossless Compression in a 9x Smaller Footprint",
-      "url": "https://prismml.com/news/bonsai-2-27b",
-      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://prismml.com/news/bonsa...",
-      "score": 460
-    },
-    {
-      "type": "HackerNews",
-      "title": "Bend – A language that blocks AI mistakes via proof, on CPU and GPU",
-      "url": "https://bend-lang.com/",
-      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://bend-lang.com/...",
-      "score": 480
-    },
-    {
-      "type": "HackerNews",
-      "title": "Qwen 3.8 Omni Flash",
-      "url": "https://qwen.ai/blog?id=qwen3.8-omni-flash",
-      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://qwen.ai/blog?id=qwen3....",
-      "score": 229
-    },
-    {
-      "type": "HackerNews",
-      "title": "Hister: A private search engine for the pages you visit and the files you keep",
-      "url": "https://github.com/asciimoo/hister",
-      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://github.com/asciimoo/hi...",
-      "score": 620
+      "title": "I don't like passkeys",
+      "url": "https://hawksley.dev/blog/i-dont-like-passkeys",
+      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://hawksley.dev/blog/i-do...",
+      "score": 406
     }
   ]
 }
