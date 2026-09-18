@@ -1,61 +1,61 @@
 {
-  "last_updated": "2026-09-18 03:28:48",
+  "last_updated": "2026-09-18 10:40:16",
   "news": [
+    {
+      "type": "HackerNews",
+      "title": "OpenJev",
+      "url": "https://openjev.com/",
+      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://openjev.com/...",
+      "score": 70
+    },
+    {
+      "type": "HackerNews",
+      "title": "Jemalloc 5.4.0",
+      "url": "https://github.com/jemalloc/jemalloc/releases/tag/5.4.0",
+      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://github.com/jemalloc/je...",
+      "score": 160
+    },
+    {
+      "type": "HackerNews",
+      "title": "The scourge of x86 emulation",
+      "url": "https://fex-emu.com/Scourge-of-emulation/",
+      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://fex-emu.com/Scourge-of...",
+      "score": 154
+    },
     {
       "type": "HackerNews",
       "title": "Astra for Law",
       "url": "https://openai.com/index/astra-for-law/",
-      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://openai.com/index/astra...",
-      "score": 371
+      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://openai.com/index/astra...",
+      "score": 497
     },
     {
       "type": "HackerNews",
       "title": "Bonsai 2 27B: Near-Lossless Compression in a 9x Smaller Footprint",
       "url": "https://prismml.com/news/bonsai-2-27b",
-      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://prismml.com/news/bonsa...",
-      "score": 279
+      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://prismml.com/news/bonsa...",
+      "score": 460
     },
     {
       "type": "HackerNews",
       "title": "Bend – A language that blocks AI mistakes via proof, on CPU and GPU",
       "url": "https://bend-lang.com/",
       "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://bend-lang.com/...",
-      "score": 340
+      "score": 480
+    },
+    {
+      "type": "HackerNews",
+      "title": "Qwen 3.8 Omni Flash",
+      "url": "https://qwen.ai/blog?id=qwen3.8-omni-flash",
+      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://qwen.ai/blog?id=qwen3....",
+      "score": 229
     },
     {
       "type": "HackerNews",
       "title": "Hister: A private search engine for the pages you visit and the files you keep",
       "url": "https://github.com/asciimoo/hister",
-      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://github.com/asciimoo/hi...",
-      "score": 502
-    },
-    {
-      "type": "HackerNews",
-      "title": "Alibaba releases Qwen 3.8 Omni Flash",
-      "url": "https://qwen.ai/blog?id=qwen3.8-omni-flash",
-      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://qwen.ai/blog?id=qwen3....",
-      "score": 66
-    },
-    {
-      "type": "HackerNews",
-      "title": "Wax motor",
-      "url": "https://en.wikipedia.org/wiki/Wax_motor",
-      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://en.wikipedia.org/wiki/...",
-      "score": 280
-    },
-    {
-      "type": "HackerNews",
-      "title": "Fujitsu launches made-in-Japan next-generation CPU FUJITSU-MONAKA",
-      "url": "https://global.fujitsu/en-global/pr/news/2026/09/14-02",
-      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://global.fujitsu/en-glob...",
-      "score": 529
-    },
-    {
-      "type": "HackerNews",
-      "title": "Better Icon and Label Alignment",
-      "url": "https://ishadeed.com/article/aligning-list-icons/",
-      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://ishadeed.com/article/a...",
-      "score": 13
+      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://github.com/asciimoo/hi...",
+      "score": 620
     }
   ]
 }
