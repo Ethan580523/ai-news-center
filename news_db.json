@@ -1,61 +1,61 @@
 {
-  "last_updated": "2026-09-18 20:29:24",
+  "last_updated": "2026-09-18 23:02:44",
   "news": [
+    {
+      "type": "HackerNews",
+      "title": "Claude Code now reads AGENTS.md if there is no Claude.md",
+      "url": "https://code.claude.com/docs/en/changelog",
+      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://code.claude.com/docs/e...",
+      "score": 309
+    },
     {
       "type": "HackerNews",
       "title": "Android 17 is the first since 3.x to add new APIs without releasing to the AOSP",
       "url": "https://grapheneos.social/@GrapheneOS/117282080803799576",
-      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://grapheneos.social/@Gra...",
-      "score": 156
+      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://grapheneos.social/@Gra...",
+      "score": 389
     },
     {
       "type": "HackerNews",
-      "title": "Korea raises data breach fines to 10% of revenue",
-      "url": "https://www.koreajoongangdaily.com/business/korea-raises-data-breach-fines-to-10-of-revenue/12869899",
-      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.koreajoongangdaily...",
-      "score": 18
+      "title": "Saving another 100TB of RAM",
+      "url": "https://blog.cloudflare.com/saving-100-tb-of-ram-with-math/",
+      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://blog.cloudflare.com/sa...",
+      "score": 161
     },
     {
       "type": "HackerNews",
       "title": "Cloudflare Quick Tunnels",
       "url": "https://try.cloudflare.com/",
-      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://try.cloudflare.com/...",
-      "score": 415
+      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://try.cloudflare.com/...",
+      "score": 506
     },
     {
       "type": "HackerNews",
-      "title": "Saving another 100TB of RAM with math (and Rust)",
-      "url": "https://blog.cloudflare.com/saving-100-tb-of-ram-with-math/",
-      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://blog.cloudflare.com/sa...",
-      "score": 61
-    },
-    {
-      "type": "HackerNews",
-      "title": "Apple releases iPhone Duo simulator and Xcode 27.1 beta",
+      "title": "Xcode 27.1 Beta Release Notes",
       "url": "https://developer.apple.com/documentation/xcode-release-notes/xcode-27_1-release-notes",
-      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://developer.apple.com/do...",
-      "score": 59
+      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://developer.apple.com/do...",
+      "score": 101
     },
     {
       "type": "HackerNews",
-      "title": "Cache-to-Cache: Direct Semantic Communication Between Large Language Models",
+      "title": "Cache-to-Cache: Direct Semantic Communication Between LLMs (2025)",
       "url": "https://arxiv.org/abs/2510.03215",
-      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://arxiv.org/abs/2510.032...",
-      "score": 28
+      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://arxiv.org/abs/2510.032...",
+      "score": 55
     },
     {
       "type": "HackerNews",
       "title": "Photon-Emission-Guided Laser Fault Injection Enables RP2350 Secure Debug",
       "url": "https://donjon.ledger.com/blog/rp2350-secure-debug-laser-fault-injection/",
-      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://donjon.ledger.com/blog...",
-      "score": 114
+      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://donjon.ledger.com/blog...",
+      "score": 136
     },
     {
       "type": "HackerNews",
-      "title": "Show HN: Cactus Needle 3: 8-29MB automation models can match DeepSeek V4 Flash",
-      "url": "https://cactuscompute.com/needle",
-      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://cactuscompute.com/need...",
-      "score": 111
+      "title": "US troop deaths during Iran war exceed Pentagon count by at least four",
+      "url": "https://www.reuters.com/world/middle-east/us-troop-deaths-iran-war-exceed-pentagon-count-by-least-four-washington-post-2026-09-18/",
+      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.reuters.com/world/...",
+      "score": 36
     }
   ]
 }
