@@ -1,60 +1,60 @@
 {
-  "last_updated": "2026-09-19 20:07:31",
+  "last_updated": "2026-09-19 22:41:50",
   "news": [
+    {
+      "type": "HackerNews",
+      "title": "English: A vs. An",
+      "url": "https://www.redblobgames.com/blog/2026-09-16-english-a-vs-an/",
+      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.redblobgames.com/b...",
+      "score": 62
+    },
     {
       "type": "HackerNews",
       "title": "I built non-autoregressive decision models with RL a year ago",
       "url": "https://laya.convaiinnovations.com/",
       "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://laya.convaiinnovations...",
-      "score": 846
+      "score": 1013
     },
     {
       "type": "HackerNews",
       "title": "AI-generated posters don’t have to be horrible",
       "url": "https://john.hartnup.uk/2026/06/07/ai-event-posters.html",
-      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://john.hartnup.uk/2026/0...",
-      "score": 1079
+      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://john.hartnup.uk/2026/0...",
+      "score": 1267
     },
     {
       "type": "HackerNews",
-      "title": "Btrfs/ZFS/bcachefs under workloads classic benchmarks skip",
-      "url": "https://bartosz.fenski.pl/modern-fs-benchmark/",
-      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://bartosz.fenski.pl/mode...",
-      "score": 47
+      "title": "Measure internet censorship. Contribute to the largest open dataset",
+      "url": "https://ooni.org/install",
+      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://ooni.org/install...",
+      "score": 54
     },
     {
       "type": "HackerNews",
-      "title": "Human brain is two separate organs, Stanford Medicine-led research finds",
-      "url": "https://med.stanford.edu/news/all-news/2026/09/two-separate-brains.html",
-      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://med.stanford.edu/news/...",
-      "score": 573
+      "title": "How Hacker News ranking works: scoring, controversy, and penalties (2013)",
+      "url": "https://www.righto.com/2013/11/how-hacker-news-ranking-really-works.html",
+      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.righto.com/2013/11...",
+      "score": 23
     },
     {
       "type": "HackerNews",
-      "title": "Tin: full-text search for Postgres",
-      "url": "https://planetscale.com/blog/introducing-tin",
-      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://planetscale.com/blog/i...",
-      "score": 140
+      "title": "Brood War Bench",
+      "url": "https://bw.swerdlow.dev/report",
+      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://bw.swerdlow.dev/report...",
+      "score": 95
     },
     {
       "type": "HackerNews",
-      "title": "Show HN: CUA-S1 – A System One Model for Computer Use",
-      "url": "https://github.com/trycua/cua",
-      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://github.com/trycua/cua...",
-      "score": 18
+      "title": "Compiler-style optimization for drawing via Skia",
+      "url": "https://arxiv.org/abs/2603.23696",
+      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://arxiv.org/abs/2603.236...",
+      "score": 26
     },
     {
       "type": "HackerNews",
-      "title": "A graphical desktop for the ZX Spectrum",
-      "url": "https://github.com/mindbox77/zxdesk",
-      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://github.com/mindbox77/z...",
-      "score": 119
-    },
-    {
-      "type": "HackerNews",
-      "title": "Suzanne Ciani's Buchla Cookbook",
-      "url": "https://echo.orpheusinstituut.be/article/suzannes-buchla-cookbook",
-      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://echo.orpheusinstituut....",
+      "title": "Deodands put a price on objects that caused death",
+      "url": "https://daily.jstor.org/how-the-railways-killed-a-medieval-law/",
+      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://daily.jstor.org/how-th...",
       "score": 25
     }
   ]
