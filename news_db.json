@@ -1,61 +1,61 @@
 {
-  "last_updated": "2026-09-19 03:25:27",
+  "last_updated": "2026-09-19 10:24:37",
   "news": [
+    {
+      "type": "HackerNews",
+      "title": "AI-generated posters don’t have to be horrible",
+      "url": "https://john.hartnup.uk/2026/06/07/ai-event-posters.html",
+      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://john.hartnup.uk/2026/0...",
+      "score": 39
+    },
+    {
+      "type": "HackerNews",
+      "title": "Human brain is two separate organs, Stanford Medicine-led research finds",
+      "url": "https://med.stanford.edu/news/all-news/2026/09/two-separate-brains.html",
+      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://med.stanford.edu/news/...",
+      "score": 235
+    },
+    {
+      "type": "HackerNews",
+      "title": "If math is more than proof, we need to better celebrate the rest of it",
+      "url": "https://terrytao.wordpress.com/2026/09/18/if-math-is-more-than-proof-we-need-to-better-celebrate-the-rest-of-it/",
+      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://terrytao.wordpress.com...",
+      "score": 98
+    },
+    {
+      "type": "HackerNews",
+      "title": "GPT-6 Astra Solves a WWI German Radio Cipher",
+      "url": "https://www.prinzai.com/p/gpt-6-astra-solves-a-wwi-german-radio",
+      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.prinzai.com/p/gpt-...",
+      "score": 119
+    },
     {
       "type": "HackerNews",
       "title": "Android 17 is the first since 3.x to add new APIs without releasing to the AOSP",
       "url": "https://grapheneos.social/@GrapheneOS/117282080803799576",
       "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://grapheneos.social/@Gra...",
-      "score": 609
+      "score": 846
     },
     {
       "type": "HackerNews",
-      "title": "Science Is Open Software",
-      "url": "https://jepedersen.dk/blog/202505_research/",
-      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://jepedersen.dk/blog/202...",
-      "score": 19
+      "title": "San Francisco Onion Futures Company",
+      "url": "https://onionfutures.com/",
+      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://onionfutures.com/...",
+      "score": 195
     },
     {
       "type": "HackerNews",
-      "title": "SDCC – Small Device C Compiler",
-      "url": "https://sdcc.sourceforge.net/",
-      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://sdcc.sourceforge.net/...",
-      "score": 12
+      "title": "\"The Secret Life of Circuits\" is here",
+      "url": "https://blog.coredump.cx/p/the-secret-life-of-circuits-is-here",
+      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://blog.coredump.cx/p/the...",
+      "score": 24
     },
     {
       "type": "HackerNews",
       "title": "Cloudflare Quick Tunnels",
       "url": "https://try.cloudflare.com/",
       "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://try.cloudflare.com/...",
-      "score": 619
-    },
-    {
-      "type": "HackerNews",
-      "title": "Saving another 100TB of RAM",
-      "url": "https://blog.cloudflare.com/saving-100-tb-of-ram-with-math/",
-      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://blog.cloudflare.com/sa...",
-      "score": 256
-    },
-    {
-      "type": "HackerNews",
-      "title": "How to Write with an LLM",
-      "url": "https://sockpuppet.org/blog/2026/09/17/how-to-write-with-an-llm/",
-      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://sockpuppet.org/blog/20...",
-      "score": 414
-    },
-    {
-      "type": "HackerNews",
-      "title": "Why building a Rust LSP is hard",
-      "url": "https://rust-glancer.github.io/blog/why-lsp-is-hard/",
-      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://rust-glancer.github.io...",
-      "score": 13
-    },
-    {
-      "type": "HackerNews",
-      "title": "Xcode 27.1 Beta Release Notes",
-      "url": "https://developer.apple.com/documentation/xcode-release-notes/xcode-27_1-release-notes",
-      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://developer.apple.com/do...",
-      "score": 120
+      "score": 708
     }
   ]
 }
