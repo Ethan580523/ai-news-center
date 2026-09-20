@@ -1,61 +1,61 @@
 {
-  "last_updated": "2026-09-20 20:24:08",
+  "last_updated": "2026-09-20 23:01:22",
   "news": [
     {
       "type": "HackerNews",
       "title": "Samsung is expected to more than double output of its HBM4 and HBM4E DRAM",
       "url": "https://en.sedaily.com/finance/2026/09/20/samsung-to-double-hbm4-output-next-year-sources-say",
       "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://en.sedaily.com/finance...",
-      "score": 162
+      "score": 284
+    },
+    {
+      "type": "HackerNews",
+      "title": "Google's Open Agentic Orchestrator",
+      "url": "https://agentexecutor.io",
+      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://agentexecutor.io...",
+      "score": 16
     },
     {
       "type": "HackerNews",
       "title": "ChatGPT now knows what you do on other websites via ad collector",
       "url": "https://www.buchodi.com/chatgpt-now-knows-what-you-do-on-other-websites-via-ad-collector/",
-      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.buchodi.com/chatgp...",
-      "score": 342
+      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.buchodi.com/chatgp...",
+      "score": 506
     },
     {
       "type": "HackerNews",
-      "title": "Pirate Face Rescues LLM Models from Deletion",
-      "url": "https://pirateface.co/",
-      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://pirateface.co/...",
-      "score": 317
+      "title": "Nobody pays for FOSS, we can force them to",
+      "url": "https://seldo.com/posts/nobody-pays-for-open-source-we-can-force-them-to/",
+      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://seldo.com/posts/nobody...",
+      "score": 69
     },
     {
       "type": "HackerNews",
       "title": "Qwen Image 2.1",
       "url": "https://qwen.ai/blog?id=qwen-image-2.1",
       "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://qwen.ai/blog?id=qwen-i...",
-      "score": 365
+      "score": 442
     },
     {
       "type": "HackerNews",
-      "title": "A Necessary History of the Oddest Letter: W",
-      "url": "https://lithub.com/a-necessary-history-of-the-oddest-letter-w/",
-      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://lithub.com/a-necessary...",
-      "score": 49
+      "title": "Pirate Face Rescues LLM Models from Deletion",
+      "url": "https://pirateface.co/",
+      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://pirateface.co/...",
+      "score": 396
     },
     {
       "type": "HackerNews",
-      "title": "Why MCP Was Always a Bad Idea",
-      "url": "https://maharship.com/blog/why-mcp-was-always-a-bad-idea/",
-      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://maharship.com/blog/why...",
-      "score": 18
+      "title": "The Effect of CRTs on Pixel Art",
+      "url": "https://datagubbe.se/crt/",
+      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://datagubbe.se/crt/...",
+      "score": 45
     },
     {
       "type": "HackerNews",
-      "title": "Singapore’s National Library Board offers micropayments to build reading habits",
-      "url": "https://www.gadgetreview.com/singapore-is-paying-people-to-put-down-their-phones-and-read-books",
-      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.gadgetreview.com/s...",
-      "score": 135
-    },
-    {
-      "type": "HackerNews",
-      "title": "The Hierarchy of Money",
-      "url": "https://gregorygundersen.com/blog/2026/09/20/hierarchy-of-money/",
-      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://gregorygundersen.com/b...",
-      "score": 14
+      "title": "What Happened to the Snowden Archive",
+      "url": "https://libroot.org/posts/what-happened-to-the-snowden-archive",
+      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://libroot.org/posts/what...",
+      "score": 9
     }
   ]
 }
