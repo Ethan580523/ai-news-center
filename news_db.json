@@ -1,61 +1,61 @@
 {
-  "last_updated": "2026-09-20 23:01:22",
+  "last_updated": "2026-09-21 03:37:42",
   "news": [
+    {
+      "type": "HackerNews",
+      "title": "AX – Google’s Open Agentic Orchestrator",
+      "url": "https://agentexecutor.io",
+      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://agentexecutor.io...",
+      "score": 281
+    },
     {
       "type": "HackerNews",
       "title": "Samsung is expected to more than double output of its HBM4 and HBM4E DRAM",
       "url": "https://en.sedaily.com/finance/2026/09/20/samsung-to-double-hbm4-output-next-year-sources-say",
       "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://en.sedaily.com/finance...",
-      "score": 284
-    },
-    {
-      "type": "HackerNews",
-      "title": "Google's Open Agentic Orchestrator",
-      "url": "https://agentexecutor.io",
-      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://agentexecutor.io...",
-      "score": 16
+      "score": 377
     },
     {
       "type": "HackerNews",
       "title": "ChatGPT now knows what you do on other websites via ad collector",
       "url": "https://www.buchodi.com/chatgpt-now-knows-what-you-do-on-other-websites-via-ad-collector/",
-      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.buchodi.com/chatgp...",
-      "score": 506
+      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.buchodi.com/chatgp...",
+      "score": 654
     },
     {
       "type": "HackerNews",
-      "title": "Nobody pays for FOSS, we can force them to",
-      "url": "https://seldo.com/posts/nobody-pays-for-open-source-we-can-force-them-to/",
-      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://seldo.com/posts/nobody...",
-      "score": 69
+      "title": "What happened to the Snowden archive",
+      "url": "https://libroot.org/posts/what-happened-to-the-snowden-archive",
+      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://libroot.org/posts/what...",
+      "score": 223
     },
     {
       "type": "HackerNews",
       "title": "Qwen Image 2.1",
       "url": "https://qwen.ai/blog?id=qwen-image-2.1",
       "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://qwen.ai/blog?id=qwen-i...",
-      "score": 442
+      "score": 531
+    },
+    {
+      "type": "HackerNews",
+      "title": "The Effect of CRTs on Pixel Art (2024)",
+      "url": "https://datagubbe.se/crt/",
+      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://datagubbe.se/crt/...",
+      "score": 118
     },
     {
       "type": "HackerNews",
       "title": "Pirate Face Rescues LLM Models from Deletion",
       "url": "https://pirateface.co/",
-      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://pirateface.co/...",
-      "score": 396
+      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://pirateface.co/...",
+      "score": 472
     },
     {
       "type": "HackerNews",
-      "title": "The Effect of CRTs on Pixel Art",
-      "url": "https://datagubbe.se/crt/",
-      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://datagubbe.se/crt/...",
-      "score": 45
-    },
-    {
-      "type": "HackerNews",
-      "title": "What Happened to the Snowden Archive",
-      "url": "https://libroot.org/posts/what-happened-to-the-snowden-archive",
-      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://libroot.org/posts/what...",
-      "score": 9
+      "title": "Bill to Ban Private Equity from Owning Medical Practices",
+      "url": "https://truthout.org/articles/warren-introduces-bill-to-ban-private-equity-from-owning-medical-practices/",
+      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://truthout.org/articles/...",
+      "score": 356
     }
   ]
 }
