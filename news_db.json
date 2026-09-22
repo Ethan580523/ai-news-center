@@ -1,61 +1,61 @@
 {
-  "last_updated": "2026-09-22 11:03:20",
+  "last_updated": "2026-09-22 16:23:25",
   "news": [
     {
       "type": "HackerNews",
-      "title": "9 Ads per Minute: FIFA Cup 26 – \"the price of the beautiful game\"",
-      "url": "https://www.bristol.ac.uk/news/2026/september/world-cup-viewers.html",
-      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.bristol.ac.uk/news...",
-      "score": 15
+      "title": "OpenAI GPT–6 Astra breaks Enigma message that has resisted solution since 2005",
+      "url": "https://www.cryptocellar.org/bgac/the-mvueh-break.html",
+      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.cryptocellar.org/b...",
+      "score": 243
     },
     {
       "type": "HackerNews",
-      "title": "AMD's random number generator can't generate a 0?",
-      "url": "https://board.flatassembler.net/topic.php?t=24261",
-      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://board.flatassembler.ne...",
-      "score": 73
+      "title": "OpenAI is well positioned to fast-follow Jev",
+      "url": "https://arcturus-labs.com/blog/2026/09/21/will-openai-eat-jevs-lunch/",
+      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://arcturus-labs.com/blog...",
+      "score": 93
     },
     {
       "type": "HackerNews",
-      "title": "Can gzip be a language model?",
-      "url": "https://nathan.rs/posts/gzip-lm/",
-      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://nathan.rs/posts/gzip-l...",
-      "score": 165
+      "title": "Jev – a curation of Jev demos on X, tools, skills, and integrations",
+      "url": "https://github.com/Amal-David/awesome-jev",
+      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://github.com/Amal-David/...",
+      "score": 68
     },
     {
       "type": "HackerNews",
-      "title": "MiMo v2.6",
-      "url": "https://mimo.xiaomi.com/mimo-v2-6",
-      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://mimo.xiaomi.com/mimo-v...",
-      "score": 924
+      "title": "Apple has added persistent 'ads' to iOS, and it's driving users crazy",
+      "url": "https://www.techradar.com/phones/iphone/i-wish-apple-would-just-stop-that-crap-apple-has-added-persistent-ads-to-ios-and-its-driving-users-crazy",
+      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.techradar.com/phon...",
+      "score": 264
     },
     {
       "type": "HackerNews",
-      "title": "Spymarks, Not Watermarks",
-      "url": "https://brand.io/article/spymarks/",
-      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://brand.io/article/spyma...",
-      "score": 463
+      "title": "16-bit Intel 8088 chip by Charles Bukowski",
+      "url": "https://allpoetry.com/16-bit-Intel-8088-chip",
+      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://allpoetry.com/16-bit-I...",
+      "score": 7
     },
     {
       "type": "HackerNews",
-      "title": "I said no and Apple said yes",
-      "url": "https://dbushell.com/2026/09/22/apple-intelligence/",
-      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://dbushell.com/2026/09/2...",
-      "score": 230
+      "title": "Show HN: Drop – a rootless Linux sandbox with gVisor support",
+      "url": "https://droprun.sh/",
+      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://droprun.sh/...",
+      "score": 77
     },
     {
       "type": "HackerNews",
-      "title": "Transformers Explained Visually",
-      "url": "https://poloclub.github.io/transformer-explainer/",
-      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://poloclub.github.io/tra...",
-      "score": 434
+      "title": "Solitaire Alone Together",
+      "url": "https://solitairealonetogether.com/",
+      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://solitairealonetogether...",
+      "score": 33
     },
     {
       "type": "HackerNews",
-      "title": "Attention is all you have",
-      "url": "https://alicegg.tech/2026/09/21/attention",
-      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://alicegg.tech/2026/09/2...",
-      "score": 831
+      "title": "Writing Rust code that's fast by asking agents to make the code faster",
+      "url": "https://minimaxir.com/2026/09/agentic-iteration/",
+      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://minimaxir.com/2026/09/...",
+      "score": 10
     }
   ]
 }
