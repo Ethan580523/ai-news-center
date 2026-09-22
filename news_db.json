@@ -1,61 +1,61 @@
 {
-  "last_updated": "2026-09-21 23:51:09",
+  "last_updated": "2026-09-22 03:36:06",
   "news": [
     {
       "type": "HackerNews",
       "title": "Xiaomi MiMo v2.6",
       "url": "https://mimo.xiaomi.com/mimo-v2-6",
-      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://mimo.xiaomi.com/mimo-v...",
-      "score": 431
+      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://mimo.xiaomi.com/mimo-v...",
+      "score": 620
     },
     {
       "type": "HackerNews",
-      "title": "Data Protection Commission fines Google €403M over processing of location data",
-      "url": "https://www.dataprotection.ie/en/news-media/latest-news/data-protection-commission-fines-google-eu403-million-following-inquiry-googles-processing-location",
-      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.dataprotection.ie/...",
-      "score": 48
-    },
-    {
-      "type": "HackerNews",
-      "title": "NASA’s Mars Sample Return mission is dead",
-      "url": "https://www.science.org/content/article/nasa-s-mars-sample-return-mission-dead",
-      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.science.org/conten...",
-      "score": 267
-    },
-    {
-      "type": "HackerNews",
-      "title": "Suspension of the de minimis administrative exemption for imports $800 or less",
-      "url": "https://www.personalimportation.org/advocacy",
-      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.personalimportatio...",
-      "score": 108
-    },
-    {
-      "type": "HackerNews",
-      "title": "Transformers Explained Visually",
-      "url": "https://poloclub.github.io/transformer-explainer/",
-      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://poloclub.github.io/tra...",
-      "score": 148
+      "title": "Spymarks, Not Watermarks",
+      "url": "https://brand.io/article/spymarks/",
+      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://brand.io/article/spyma...",
+      "score": 187
     },
     {
       "type": "HackerNews",
       "title": "I don't want to read what you didn't write",
       "url": "https://blog.colinbreck.com/i-dont-want-to-read-what-you-didnt-write/",
       "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://blog.colinbreck.com/i-...",
-      "score": 104
+      "score": 375
     },
     {
       "type": "HackerNews",
       "title": "What Sun got wrong",
       "url": "https://bcantrill.dtrace.org/2026/09/20/what-sun-got-wrong/",
-      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://bcantrill.dtrace.org/2...",
-      "score": 478
+      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://bcantrill.dtrace.org/2...",
+      "score": 521
+    },
+    {
+      "type": "HackerNews",
+      "title": "Transformers Explained Visually",
+      "url": "https://poloclub.github.io/transformer-explainer/",
+      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://poloclub.github.io/tra...",
+      "score": 236
     },
     {
       "type": "HackerNews",
       "title": "Attention is all you have",
       "url": "https://alicegg.tech/2026/09/21/attention",
-      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://alicegg.tech/2026/09/2...",
-      "score": 547
+      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://alicegg.tech/2026/09/2...",
+      "score": 616
+    },
+    {
+      "type": "HackerNews",
+      "title": "NASA’s Mars Sample Return mission is dead",
+      "url": "https://www.science.org/content/article/nasa-s-mars-sample-return-mission-dead",
+      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.science.org/conten...",
+      "score": 328
+    },
+    {
+      "type": "HackerNews",
+      "title": "AI coding has made CI a bottleneck, so we reworked ours to keep up",
+      "url": "https://linear.app/now/ci-bottleneck-reworked",
+      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://linear.app/now/ci-bott...",
+      "score": 162
     }
   ]
 }
