@@ -1,61 +1,61 @@
 {
-  "last_updated": "2026-09-24 11:12:20",
+  "last_updated": "2026-09-24 16:36:13",
   "news": [
+    {
+      "type": "HackerNews",
+      "title": "F-Droid 2.0: A New Chapter for Android Freedom",
+      "url": "https://f-droid.org/2026/09/24/f-droid-2.0-a-new-chapter-for-android-freedom.html",
+      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://f-droid.org/2026/09/24...",
+      "score": 209
+    },
+    {
+      "type": "HackerNews",
+      "title": "GitHub has not removed malicious imitation software after 3 weeks",
+      "url": "https://successfulsoftware.net/2026/09/24/github-has-not-removed-malicious-imitation-software-after-3-weeks/",
+      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://successfulsoftware.net...",
+      "score": 21
+    },
+    {
+      "type": "HackerNews",
+      "title": "Dynamic Abliteration: Non-Destructive Refusal Suppression via Engram Steering",
+      "url": "https://blog.madhukaraphatak.in/non-destructive-refusal-supression-using-engram",
+      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://blog.madhukaraphatak.i...",
+      "score": 81
+    },
+    {
+      "type": "HackerNews",
+      "title": "The science of Monkey Island: can grog dissolve a metal mug that fast?",
+      "url": "https://jgeekstudies.org/2026/09/23/the-science-of-monkey-island-can-grog-actually-dissolve-a-metal-mug-that-fast/",
+      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://jgeekstudies.org/2026/...",
+      "score": 68
+    },
+    {
+      "type": "HackerNews",
+      "title": "Enjoy Every Sandwich",
+      "url": "https://bradmontague.substack.com/p/enjoy-every-sandwich",
+      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://bradmontague.substack....",
+      "score": 122
+    },
     {
       "type": "HackerNews",
       "title": "Nokia Design Archive (2025)",
       "url": "https://nokiadesignarchive.aalto.fi/index.html",
-      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://nokiadesignarchive.aal...",
-      "score": 60
+      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://nokiadesignarchive.aal...",
+      "score": 165
+    },
+    {
+      "type": "HackerNews",
+      "title": "QR Codes That Route to the Appropriate App Store",
+      "url": "https://matthuggins.com/blog/posts/qr-codes-that-route-to-the-appropriate-app-store",
+      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://matthuggins.com/blog/p...",
+      "score": 8
     },
     {
       "type": "HackerNews",
       "title": "Linux support is coming to Snapdragon X2 Series",
       "url": "https://www.qualcomm.com/news/onq/2026/09/snapdragon-summit-agentic-ai-pcs-linux",
       "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.qualcomm.com/news/...",
-      "score": 442
-    },
-    {
-      "type": "HackerNews",
-      "title": "Claude discovers a novel enzyme system with CRISPR-like repeats",
-      "url": "https://www.anthropic.com/news/claude-discovers-novel-enzyme-system",
-      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.anthropic.com/news...",
-      "score": 664
-    },
-    {
-      "type": "HackerNews",
-      "title": "RAM: the forgotten history (2024)",
-      "url": "https://blog.coredump.cx/p/memory-the-forgotten-history",
-      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://blog.coredump.cx/p/mem...",
-      "score": 32
-    },
-    {
-      "type": "HackerNews",
-      "title": "Ideas on modernizing the open-source desktop",
-      "url": "https://lwn.net/SubscriberLink/1095425/2d9f411252325784/",
-      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://lwn.net/SubscriberLink...",
-      "score": 160
-    },
-    {
-      "type": "HackerNews",
-      "title": "Starlink ground station in Poland hit by fire in suspected arson attack",
-      "url": "https://notesfrompoland.com/2026/09/24/starlink-ground-station-in-poland-hit-by-fire-in-suspected-arson-attack/",
-      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://notesfrompoland.com/20...",
-      "score": 51
-    },
-    {
-      "type": "HackerNews",
-      "title": "Meta takes down a critical video about meta AI Glasses after filming at Meta",
-      "url": "https://www.reddit.com/r/facebook/comments/1wotwrk/meta_takes_down_a_critical_video_about_meta_ai/",
-      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.reddit.com/r/faceb...",
-      "score": 183
-    },
-    {
-      "type": "HackerNews",
-      "title": "Early rogue AI agent activity and attempts to hack found on urlquery.net",
-      "url": "https://transluce.org/agent-activity",
-      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://transluce.org/agent-ac...",
-      "score": 144
+      "score": 562
     }
   ]
 }
