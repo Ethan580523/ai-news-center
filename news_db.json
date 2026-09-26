@@ -1,61 +1,61 @@
 {
-  "last_updated": "2026-09-25 21:09:29",
+  "last_updated": "2026-09-26 03:49:48",
   "news": [
+    {
+      "type": "HackerNews",
+      "title": "Revealing the details of how OpenAI agents hacked Hugging Face",
+      "url": "https://swarmtraces.org/",
+      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://swarmtraces.org/...",
+      "score": 279
+    },
     {
       "type": "HackerNews",
       "title": "Ollaya – Ollama for open-source, Jev-style decision models",
       "url": "https://ollaya.dev/",
-      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://ollaya.dev/...",
-      "score": 189
+      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://ollaya.dev/...",
+      "score": 365
+    },
+    {
+      "type": "HackerNews",
+      "title": "Plan mode is dead",
+      "url": "https://www.aymannadeem.com/artificial/intelligence,/developer/tools/2026/09/24/plan-mode-is-dead.html",
+      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.aymannadeem.com/ar...",
+      "score": 155
     },
     {
       "type": "HackerNews",
       "title": "Show HN: Jev Plays Pokémon Red",
       "url": "https://jev-pokemon.vercel.app/",
       "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://jev-pokemon.vercel.app...",
-      "score": 60
+      "score": 169
     },
     {
       "type": "HackerNews",
-      "title": "Platform-independent SIMD in Go",
-      "url": "https://go.dev/blog/simd-experiment",
-      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://go.dev/blog/simd-exper...",
-      "score": 320
+      "title": "What even is an OS now?",
+      "url": "https://sockpuppet.org/blog/2026/09/25/what-even-is-an-os-now/",
+      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://sockpuppet.org/blog/20...",
+      "score": 112
     },
     {
       "type": "HackerNews",
-      "title": "Bug: Border radius has infected VSCode editor",
-      "url": "https://github.com/microsoft/vscode/issues/338035",
-      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://github.com/microsoft/v...",
-      "score": 35
+      "title": "Jury finds Facebook liable for deceiving users in Cambridge Analytica case",
+      "url": "https://www.cbsnews.com/news/facebook-liable-deceiving-users-cambridge-analytica/",
+      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.cbsnews.com/news/f...",
+      "score": 91
     },
     {
       "type": "HackerNews",
-      "title": "Git-bug: Distributed, offline-first bug tracker embedded in Git",
-      "url": "https://github.com/git-bug/git-bug",
-      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://github.com/git-bug/git...",
-      "score": 263
+      "title": "We're gonna need a lot more mathematicians",
+      "url": "https://terrytao.wordpress.com/2026/09/24/were-gonna-need-a-lot-more-mathematicians/",
+      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://terrytao.wordpress.com...",
+      "score": 6
     },
     {
       "type": "HackerNews",
-      "title": "First Principles Thinking",
-      "url": "https://sunilsadasivan.com/writing/first-principles-thinking/",
-      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://sunilsadasivan.com/wri...",
-      "score": 176
-    },
-    {
-      "type": "HackerNews",
-      "title": "U.S. appeals court upholds designation of Anthropic as supply chain risk",
-      "url": "https://www.cnbc.com/2026/09/25/pentagon-anthropic-ai-risk-appeals-court.html",
-      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.cnbc.com/2026/09/2...",
-      "score": 304
-    },
-    {
-      "type": "HackerNews",
-      "title": "Alan Kay: Shannon gave us a way of dealing with noisy channels [video]",
-      "url": "https://www.youtube.com/watch?v=Cjntrqhn8pk",
-      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.youtube.com/watch?...",
-      "score": 90
+      "title": "Postgres SELECT DISTINCT Does Not Scale",
+      "url": "https://www.dbos.dev/blog/postgres-select-distinct-does-not-scale",
+      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.dbos.dev/blog/post...",
+      "score": 17
     }
   ]
 }
