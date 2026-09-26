@@ -1,61 +1,61 @@
 {
-  "last_updated": "2026-09-26 03:49:48",
+  "last_updated": "2026-09-26 10:53:59",
   "news": [
+    {
+      "type": "HackerNews",
+      "title": "Fifteen years later, the Apple Cards origin story",
+      "url": "https://lexontech.org/fifteen-years-later-the-apple-cards-origin-story",
+      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://lexontech.org/fifteen-...",
+      "score": 29
+    },
     {
       "type": "HackerNews",
       "title": "Revealing the details of how OpenAI agents hacked Hugging Face",
       "url": "https://swarmtraces.org/",
       "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://swarmtraces.org/...",
-      "score": 279
+      "score": 502
+    },
+    {
+      "type": "HackerNews",
+      "title": "A single function Jev-like wrapper for LLMs, including vision models",
+      "url": "http://allanrbo.blogspot.com/2026/09/a-jev-like-wrapper-for-llms-including.html",
+      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：http://allanrbo.blogspot.com/2...",
+      "score": 83
+    },
+    {
+      "type": "HackerNews",
+      "title": "We're gonna need a lot more mathematicians",
+      "url": "https://terrytao.wordpress.com/2026/09/24/were-gonna-need-a-lot-more-mathematicians/",
+      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://terrytao.wordpress.com...",
+      "score": 147
+    },
+    {
+      "type": "HackerNews",
+      "title": "Plan mode is dead",
+      "url": "https://www.aymannadeem.com/artificial/intelligence,/developer/tools/2026/09/24/plan-mode-is-dead.html",
+      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.aymannadeem.com/ar...",
+      "score": 345
     },
     {
       "type": "HackerNews",
       "title": "Ollaya – Ollama for open-source, Jev-style decision models",
       "url": "https://ollaya.dev/",
       "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://ollaya.dev/...",
-      "score": 365
+      "score": 470
     },
     {
       "type": "HackerNews",
-      "title": "Plan mode is dead",
-      "url": "https://www.aymannadeem.com/artificial/intelligence,/developer/tools/2026/09/24/plan-mode-is-dead.html",
-      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.aymannadeem.com/ar...",
-      "score": 155
+      "title": "Floci: Locally emulating any cloud service",
+      "url": "https://floci.io",
+      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://floci.io...",
+      "score": 14
     },
     {
       "type": "HackerNews",
-      "title": "Show HN: Jev Plays Pokémon Red",
-      "url": "https://jev-pokemon.vercel.app/",
-      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://jev-pokemon.vercel.app...",
-      "score": 169
-    },
-    {
-      "type": "HackerNews",
-      "title": "What even is an OS now?",
-      "url": "https://sockpuppet.org/blog/2026/09/25/what-even-is-an-os-now/",
-      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://sockpuppet.org/blog/20...",
-      "score": 112
-    },
-    {
-      "type": "HackerNews",
-      "title": "Jury finds Facebook liable for deceiving users in Cambridge Analytica case",
-      "url": "https://www.cbsnews.com/news/facebook-liable-deceiving-users-cambridge-analytica/",
-      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.cbsnews.com/news/f...",
-      "score": 91
-    },
-    {
-      "type": "HackerNews",
-      "title": "We're gonna need a lot more mathematicians",
-      "url": "https://terrytao.wordpress.com/2026/09/24/were-gonna-need-a-lot-more-mathematicians/",
-      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://terrytao.wordpress.com...",
-      "score": 6
-    },
-    {
-      "type": "HackerNews",
-      "title": "Postgres SELECT DISTINCT Does Not Scale",
-      "url": "https://www.dbos.dev/blog/postgres-select-distinct-does-not-scale",
-      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.dbos.dev/blog/post...",
-      "score": 17
+      "title": "Is your Postgres migration safe or not safe?",
+      "url": "https://safenotsafe.dev/",
+      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://safenotsafe.dev/...",
+      "score": 30
     }
   ]
 }
