@@ -1,61 +1,61 @@
 {
-  "last_updated": "2026-09-27 11:30:30",
+  "last_updated": "2026-09-27 16:30:24",
   "news": [
     {
       "type": "HackerNews",
-      "title": "\"As a Language Model\": Chat Template Switches LLM Self-Referential Voice",
-      "url": "https://arxiv.org/abs/2609.25021",
-      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://arxiv.org/abs/2609.250...",
-      "score": 26
+      "title": "\"They had no concept of a duty of care to their users.\"",
+      "url": "https://unsung.aresluna.org/they-had-no-concept-of-a-duty-of-care-to-their-users/",
+      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://unsung.aresluna.org/th...",
+      "score": 194
     },
     {
       "type": "HackerNews",
-      "title": "Flip Fluid on Flip Dots",
-      "url": "https://mitxela.com/projects/flipflip",
-      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://mitxela.com/projects/f...",
-      "score": 113
+      "title": "In an $80 Motel Room, a Discovery to Shed Light on the Origins of Life",
+      "url": "https://www.nytimes.com/2026/09/26/science/motel-science-discovery.html",
+      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.nytimes.com/2026/0...",
+      "score": 59
     },
     {
       "type": "HackerNews",
-      "title": "Does Georgism work? Five years later",
-      "url": "https://www.astralcodexten.com/p/does-georgism-work-five-years-later",
-      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.astralcodexten.com...",
-      "score": 361
+      "title": "The Normalization of Inexplicable Failures",
+      "url": "https://www.ihatethefuture.com/2026/09/the-normalization-of-inexplicable.html",
+      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.ihatethefuture.com...",
+      "score": 31
     },
     {
       "type": "HackerNews",
-      "title": "OpenAI Feared \"Optics\" of what might appear on Hacker News",
-      "url": "https://authorsguild.org/news/ag-v-openai-top-execs-knew-mass-book-piracy-was-illegal/",
-      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://authorsguild.org/news/...",
-      "score": 259
+      "title": "Replacing the old battery on rechargeable bike lights",
+      "url": "https://jvns.ca/blog/2026/09/27/replacing-the-old-battery-on-rechargeable-bike-lights/",
+      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://jvns.ca/blog/2026/09/2...",
+      "score": 58
     },
     {
       "type": "HackerNews",
-      "title": "Go Concurrency Distilled",
-      "url": "https://antonz.org/go-concurrency-distilled/",
-      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://antonz.org/go-concurre...",
-      "score": 235
+      "title": "Show HN: TinyAIArena watch AI agents battle it out",
+      "url": "https://tinyaiarena.com/",
+      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://tinyaiarena.com/...",
+      "score": 13
     },
     {
       "type": "HackerNews",
-      "title": "Meta Blocks President Lula's Facebook Page, Campaign Ads 2 Weeks from Election",
-      "url": "https://www.reddit.com/r/worldnews/comments/1wr3id3/meta_blocks_president_lulas_facebook_page_and/",
-      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.reddit.com/r/world...",
-      "score": 201
+      "title": "Writing Efficient C++ Code",
+      "url": "https://asawicki.info/articles/writing_efficient_cpp_code.php",
+      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://asawicki.info/articles...",
+      "score": 36
     },
     {
       "type": "HackerNews",
-      "title": "PipePipe: NewPipe hard fork implementing SponsorBlock",
-      "url": "https://github.com/InfinityLoop1308/PipePipe",
-      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://github.com/InfinityLoo...",
-      "score": 429
+      "title": "Ten Lines of Code That Changed My World",
+      "url": "https://pixelambacht.nl/2026/ten-lines-of-code/",
+      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://pixelambacht.nl/2026/t...",
+      "score": 30
     },
     {
       "type": "HackerNews",
-      "title": "Finally, A True Blue Rose Exists",
-      "url": "https://www.sciencenews.org/article/true-blue-rose-pigment-copigment",
-      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.sciencenews.org/ar...",
-      "score": 17
+      "title": "Font where each token is equal-width",
+      "url": "https://twitter.com/amplifiedamp/status/2103535129503383700",
+      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://twitter.com/amplifieda...",
+      "score": 23
     }
   ]
 }
