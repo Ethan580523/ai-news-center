@@ -1,61 +1,61 @@
 {
-  "last_updated": "2026-09-27 16:30:24",
+  "last_updated": "2026-09-27 20:57:59",
   "news": [
     {
       "type": "HackerNews",
-      "title": "\"They had no concept of a duty of care to their users.\"",
-      "url": "https://unsung.aresluna.org/they-had-no-concept-of-a-duty-of-care-to-their-users/",
-      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://unsung.aresluna.org/th...",
-      "score": 194
+      "title": "When did Google get so weird?",
+      "url": "https://sancho.bearblog.dev/google-weird/",
+      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://sancho.bearblog.dev/go...",
+      "score": 114
     },
     {
       "type": "HackerNews",
-      "title": "In an $80 Motel Room, a Discovery to Shed Light on the Origins of Life",
+      "title": "Ember-1",
+      "url": "https://fireworks.ai/blog/ember-1",
+      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://fireworks.ai/blog/embe...",
+      "score": 209
+    },
+    {
+      "type": "HackerNews",
+      "title": "Alan Kay's answer to \"Did the ENIAC have a BIOS\"?",
+      "url": "https://www.quora.com/Did-the-ENIAC-have-a-BIOS/answer/Alan-Kay-11",
+      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.quora.com/Did-the-...",
+      "score": 26
+    },
+    {
+      "type": "HackerNews",
+      "title": "The state of SIMD in Rust in 2026",
+      "url": "https://shnatsel.github.io/state-of-simd-rust-2026/",
+      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://shnatsel.github.io/sta...",
+      "score": 38
+    },
+    {
+      "type": "HackerNews",
+      "title": "Show HN: Lofi Cities – Pixel-art city nights with browser-generated lofi",
+      "url": "https://loficities.com/",
+      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://loficities.com/...",
+      "score": 73
+    },
+    {
+      "type": "HackerNews",
+      "title": "Imp is a full port of DSPy to the BEAM",
+      "url": "https://github.com/deepfates/imp",
+      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://github.com/deepfates/i...",
+      "score": 17
+    },
+    {
+      "type": "HackerNews",
+      "title": "In an $80 motel room, a discovery to shed light on the origins of life",
       "url": "https://www.nytimes.com/2026/09/26/science/motel-science-discovery.html",
       "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.nytimes.com/2026/0...",
-      "score": 59
+      "score": 171
     },
     {
       "type": "HackerNews",
-      "title": "The Normalization of Inexplicable Failures",
-      "url": "https://www.ihatethefuture.com/2026/09/the-normalization-of-inexplicable.html",
-      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.ihatethefuture.com...",
-      "score": 31
-    },
-    {
-      "type": "HackerNews",
-      "title": "Replacing the old battery on rechargeable bike lights",
-      "url": "https://jvns.ca/blog/2026/09/27/replacing-the-old-battery-on-rechargeable-bike-lights/",
-      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://jvns.ca/blog/2026/09/2...",
-      "score": 58
-    },
-    {
-      "type": "HackerNews",
-      "title": "Show HN: TinyAIArena watch AI agents battle it out",
-      "url": "https://tinyaiarena.com/",
-      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://tinyaiarena.com/...",
-      "score": 13
-    },
-    {
-      "type": "HackerNews",
-      "title": "Writing Efficient C++ Code",
-      "url": "https://asawicki.info/articles/writing_efficient_cpp_code.php",
-      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://asawicki.info/articles...",
-      "score": 36
-    },
-    {
-      "type": "HackerNews",
-      "title": "Ten Lines of Code That Changed My World",
-      "url": "https://pixelambacht.nl/2026/ten-lines-of-code/",
-      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://pixelambacht.nl/2026/t...",
-      "score": 30
-    },
-    {
-      "type": "HackerNews",
-      "title": "Font where each token is equal-width",
-      "url": "https://twitter.com/amplifiedamp/status/2103535129503383700",
-      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://twitter.com/amplifieda...",
-      "score": 23
+      "title": "What I did at Recurse Center",
+      "url": "https://thill.me/2026/09/11/what-i-did-at-rc.html",
+      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://thill.me/2026/09/11/wh...",
+      "score": 12
     }
   ]
 }
