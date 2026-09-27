@@ -1,61 +1,61 @@
 {
-  "last_updated": "2026-09-26 23:23:10",
+  "last_updated": "2026-09-27 03:59:03",
   "news": [
     {
       "type": "HackerNews",
       "title": "PipePipe: NewPipe hard fork implementing SponsorBlock",
       "url": "https://github.com/InfinityLoop1308/PipePipe",
       "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://github.com/InfinityLoo...",
-      "score": 294
+      "score": 341
     },
     {
       "type": "HackerNews",
       "title": "DeepSeek Elastic Compute (DSec)",
       "url": "https://arxiv.org/abs/2609.22978",
       "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://arxiv.org/abs/2609.229...",
-      "score": 111
+      "score": 185
+    },
+    {
+      "type": "HackerNews",
+      "title": "Go Concurrency Distilled",
+      "url": "https://antonz.org/go-concurrency-distilled/",
+      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://antonz.org/go-concurre...",
+      "score": 72
     },
     {
       "type": "HackerNews",
       "title": "Show HN: Reladraw – A diagram language where you decide where to place things",
       "url": "https://github.com/reladraw/reladraw",
       "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://github.com/reladraw/re...",
-      "score": 135
+      "score": 215
     },
     {
       "type": "HackerNews",
-      "title": "LA Metro has some of the slowest escalators on Earth",
-      "url": "https://basin.la/articles/ninety-feet-a-minute.html",
-      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://basin.la/articles/nine...",
-      "score": 59
+      "title": "Does Georgism work? Five years later",
+      "url": "https://www.astralcodexten.com/p/does-georgism-work-five-years-later",
+      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.astralcodexten.com...",
+      "score": 194
     },
     {
       "type": "HackerNews",
-      "title": "A searchable library of forgotten public-domain film clips from 1915 onward",
-      "url": "https://www.movingimagearchive.com/",
-      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.movingimagearchive...",
-      "score": 91
+      "title": "Turning GLM-5.3-Flash into a Jev-like decision model",
+      "url": "https://www.privatemode.ai/blog/system-one-from-glm-flash",
+      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.privatemode.ai/blo...",
+      "score": 51
     },
     {
       "type": "HackerNews",
-      "title": "Drawgent: Coding agent on a live Excalidraw canvas",
-      "url": "https://tangled.org/yanndegat.tngl.sh/drawgent",
-      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://tangled.org/yanndegat....",
-      "score": 91
+      "title": "Snap Wants to be a State Actor??–Kansas v. Snap",
+      "url": "https://blog.ericgoldman.org/archives/2026/09/snap-wants-to-be-a-state-actor-kansas-v-snap.htm",
+      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://blog.ericgoldman.org/a...",
+      "score": 24
     },
     {
       "type": "HackerNews",
-      "title": "Welcome to the Medical Clinic at the Interplanetary Relay Station",
-      "url": "https://www.lightspeedmagazine.com/fiction/welcome-to-the-medical-clinic-at-the-interplanetary-relay-station/",
-      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.lightspeedmagazine...",
-      "score": 30
-    },
-    {
-      "type": "HackerNews",
-      "title": "Fifteen years later, the Apple Cards origin story",
-      "url": "https://lexontech.org/fifteen-years-later-the-apple-cards-origin-story",
-      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://lexontech.org/fifteen-...",
-      "score": 326
+      "title": "If we do not stop to help each other, what do we become?",
+      "url": "https://blog.codinghorror.com/if-we-do-not-stop-to-help-each-other-what-do-we-become/",
+      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://blog.codinghorror.com/...",
+      "score": 23
     }
   ]
 }
