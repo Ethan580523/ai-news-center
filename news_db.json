@@ -1,61 +1,61 @@
 {
-  "last_updated": "2026-09-29 12:14:17",
+  "last_updated": "2026-09-29 19:47:47",
   "news": [
     {
       "type": "HackerNews",
-      "title": "You Are No Longer Invited to Dinner",
-      "url": "https://www.derekthompson.org/p/the-death-of-the-american-host",
-      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.derekthompson.org/...",
-      "score": 81
+      "title": "GPT 6.1 Sol: Near-Astra intelligence for a fifth of the price",
+      "url": "https://openai.com/index/introducing-gpt-6-1-sol/",
+      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://openai.com/index/intro...",
+      "score": 534
     },
     {
       "type": "HackerNews",
-      "title": "AI companies leak data to advertisers [pdf]",
-      "url": "https://jorgegarciaherrero.com/wp-content/interactivos/20260916-Prompt-like-a-butterfly-sting-like-a-tracker-(clean).pdf",
-      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://jorgegarciaherrero.com...",
-      "score": 163
+      "title": "Tcl/Tk 9.1 Released",
+      "url": "https://www.tcl-lang.org/software/tcltk/9.1.html",
+      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.tcl-lang.org/softw...",
+      "score": 129
     },
     {
       "type": "HackerNews",
-      "title": "Jeeves. Reasoning improves Jev-like decision models",
-      "url": "https://github.com/PostHog/jeeves",
-      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://github.com/PostHog/jee...",
+      "title": "Nicholas Polson has authored 258 academic papers in 2026 (so far)",
+      "url": "https://statmodeling.stat.columbia.edu/2026/08/27/258/",
+      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://statmodeling.stat.colu...",
+      "score": 21
+    },
+    {
+      "type": "HackerNews",
+      "title": "How Delhi cut electricity loss from 50 to 5 percent",
+      "url": "https://spectrum.ieee.org/delhi-electricity-loss",
+      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://spectrum.ieee.org/delh...",
+      "score": 363
+    },
+    {
+      "type": "HackerNews",
+      "title": "PS5 Relapse Exploit",
+      "url": "https://github.com/ntfargo/Relapse-Exploit",
+      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://github.com/ntfargo/Rel...",
+      "score": 123
+    },
+    {
+      "type": "HackerNews",
+      "title": "DraftKings Is Using AI to Behaviorally Target Chronic Gamblers",
+      "url": "https://www.eff.org/deeplinks/2026/09/draftkings-using-ai-supercharge-harms-online-behavioral-advertising",
+      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.eff.org/deeplinks/...",
+      "score": 357
+    },
+    {
+      "type": "HackerNews",
+      "title": "Dots: Always-on agents",
+      "url": "https://openai.com/index/introducing-dots/",
+      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://openai.com/index/intro...",
+      "score": 341
+    },
+    {
+      "type": "HackerNews",
+      "title": "NAND-16: a computer built from 277,248 NAND gates",
+      "url": "https://somethingbig.ai/computer",
+      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://somethingbig.ai/comput...",
       "score": 41
-    },
-    {
-      "type": "HackerNews",
-      "title": "Using any C++ library in Godot",
-      "url": "https://blog.conan.io/cpp/conan/gamedev/godot/cmake/2026/09/29/Using-Any-Cpp-Library-In-Godot.html",
-      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://blog.conan.io/cpp/cona...",
-      "score": 66
-    },
-    {
-      "type": "HackerNews",
-      "title": "500k facial scans at UK stations yield no arrests, 1 false positive",
-      "url": "https://www.theguardian.com/technology/2026/sep/29/trial-live-facial-recognition-cameras-london-stations-false-positive",
-      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.theguardian.com/te...",
-      "score": 53
-    },
-    {
-      "type": "HackerNews",
-      "title": "Phyllotaxis: An audio-reactive LED display",
-      "url": "https://jagi.studio/posts/phyllotaxis/",
-      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://jagi.studio/posts/phyl...",
-      "score": 167
-    },
-    {
-      "type": "HackerNews",
-      "title": "Booted up in 1993, this server still runs – but not for much longer (2017)",
-      "url": "https://www.computerworld.com/article/1673071/booted-up-in-1993-this-server-still-runs-but-not-for-much-longer-2.html",
-      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.computerworld.com/...",
-      "score": 90
-    },
-    {
-      "type": "HackerNews",
-      "title": "The systems that no one will test",
-      "url": "https://blog.christianperone.com/2026/09/the-systems-that-no-one-will-test/",
-      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://blog.christianperone.c...",
-      "score": 86
     }
   ]
 }
