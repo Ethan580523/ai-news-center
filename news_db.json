@@ -1,61 +1,61 @@
 {
-  "last_updated": "2026-09-30 00:04:32",
+  "last_updated": "2026-09-30 09:22:02",
   "news": [
+    {
+      "type": "HackerNews",
+      "title": "September 2026: The world today, as seen by one Polish guy",
+      "url": "https://tomwojcik.com/posts/2026-09-21/september-2026-the-world-today/",
+      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://tomwojcik.com/posts/20...",
+      "score": 157
+    },
     {
       "type": "HackerNews",
       "title": "Livenerf: Has Opus 5.5 been nerfed yet?",
       "url": "https://github.com/ninjahawk/livenerf",
-      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://github.com/ninjahawk/l...",
-      "score": 99
+      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://github.com/ninjahawk/l...",
+      "score": 598
+    },
+    {
+      "type": "HackerNews",
+      "title": "Solving Factorio Quality",
+      "url": "https://exyr.org/2026/solving-factorio-quality/",
+      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://exyr.org/2026/solving-...",
+      "score": 62
+    },
+    {
+      "type": "HackerNews",
+      "title": "Dots: Always-on agents",
+      "url": "https://openai.com/index/introducing-dots/",
+      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://openai.com/index/intro...",
+      "score": 610
+    },
+    {
+      "type": "HackerNews",
+      "title": "Vermont replacing power plants with home batteries",
+      "url": "https://www.bbc.com/future/article/20260928-a-virtual-power-plant-hidden-in-vermont-homes-is-keeping-the-lights-on-during-storms",
+      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.bbc.com/future/art...",
+      "score": 191
     },
     {
       "type": "HackerNews",
       "title": "U.S. postal inspectors shut down website selling counterfeit postage labels",
       "url": "https://postalemployeenetwork.com/news/2026/09/26/u-s-postal-inspectors-shut-down-website-selling-millions-of-counterfeit-postage-labels/",
-      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://postalemployeenetwork....",
-      "score": 152
+      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://postalemployeenetwork....",
+      "score": 228
     },
     {
       "type": "HackerNews",
-      "title": "GPT 6.1 Sol: Near-Astra intelligence for a fifth of the price",
-      "url": "https://openai.com/index/introducing-gpt-6-1-sol/",
-      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://openai.com/index/intro...",
-      "score": 747
+      "title": "America.gov",
+      "url": "https://america.gov/",
+      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://america.gov/...",
+      "score": 552
     },
     {
       "type": "HackerNews",
       "title": "NASA asked several former SR-71A staffers to help secret restart",
       "url": "https://aviationweek.com/defense/aircraft-propulsion/nasa-asked-several-former-sr-71a-staffers-help-secret-restart",
       "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://aviationweek.com/defen...",
-      "score": 10
-    },
-    {
-      "type": "HackerNews",
-      "title": "Show HN: A working 3D model of an Enigma machine",
-      "url": "https://enigma.design",
-      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://enigma.design...",
-      "score": 18
-    },
-    {
-      "type": "HackerNews",
-      "title": "Vermont replacing power plants with home batteries",
-      "url": "https://www.bbc.com/future/article/20260928-a-virtual-power-plant-hidden-in-vermont-homes-is-keeping-the-lights-on-during-storms",
-      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.bbc.com/future/art...",
-      "score": 36
-    },
-    {
-      "type": "HackerNews",
-      "title": "We’re forgetting what darkness feels like",
-      "url": "https://www.theguardian.com/environment/2026/sep/29/night-sky-darkness-city-regulation",
-      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.theguardian.com/en...",
-      "score": 13
-    },
-    {
-      "type": "HackerNews",
-      "title": "Show HN: Real-time Solar System with 526k asteroids and all tracked satellites",
-      "url": "https://space.bl2.net/",
-      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://space.bl2.net/...",
-      "score": 82
+      "score": 162
     }
   ]
 }
