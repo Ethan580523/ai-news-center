@@ -1,61 +1,61 @@
 {
-  "last_updated": "2026-09-29 19:47:47",
+  "last_updated": "2026-09-30 00:04:32",
   "news": [
+    {
+      "type": "HackerNews",
+      "title": "Livenerf: Has Opus 5.5 been nerfed yet?",
+      "url": "https://github.com/ninjahawk/livenerf",
+      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://github.com/ninjahawk/l...",
+      "score": 99
+    },
+    {
+      "type": "HackerNews",
+      "title": "U.S. postal inspectors shut down website selling counterfeit postage labels",
+      "url": "https://postalemployeenetwork.com/news/2026/09/26/u-s-postal-inspectors-shut-down-website-selling-millions-of-counterfeit-postage-labels/",
+      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://postalemployeenetwork....",
+      "score": 152
+    },
     {
       "type": "HackerNews",
       "title": "GPT 6.1 Sol: Near-Astra intelligence for a fifth of the price",
       "url": "https://openai.com/index/introducing-gpt-6-1-sol/",
       "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://openai.com/index/intro...",
-      "score": 534
+      "score": 747
     },
     {
       "type": "HackerNews",
-      "title": "Tcl/Tk 9.1 Released",
-      "url": "https://www.tcl-lang.org/software/tcltk/9.1.html",
-      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.tcl-lang.org/softw...",
-      "score": 129
+      "title": "NASA asked several former SR-71A staffers to help secret restart",
+      "url": "https://aviationweek.com/defense/aircraft-propulsion/nasa-asked-several-former-sr-71a-staffers-help-secret-restart",
+      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://aviationweek.com/defen...",
+      "score": 10
     },
     {
       "type": "HackerNews",
-      "title": "Nicholas Polson has authored 258 academic papers in 2026 (so far)",
-      "url": "https://statmodeling.stat.columbia.edu/2026/08/27/258/",
-      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://statmodeling.stat.colu...",
-      "score": 21
+      "title": "Show HN: A working 3D model of an Enigma machine",
+      "url": "https://enigma.design",
+      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://enigma.design...",
+      "score": 18
     },
     {
       "type": "HackerNews",
-      "title": "How Delhi cut electricity loss from 50 to 5 percent",
-      "url": "https://spectrum.ieee.org/delhi-electricity-loss",
-      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://spectrum.ieee.org/delh...",
-      "score": 363
+      "title": "Vermont replacing power plants with home batteries",
+      "url": "https://www.bbc.com/future/article/20260928-a-virtual-power-plant-hidden-in-vermont-homes-is-keeping-the-lights-on-during-storms",
+      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.bbc.com/future/art...",
+      "score": 36
     },
     {
       "type": "HackerNews",
-      "title": "PS5 Relapse Exploit",
-      "url": "https://github.com/ntfargo/Relapse-Exploit",
-      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://github.com/ntfargo/Rel...",
-      "score": 123
+      "title": "We’re forgetting what darkness feels like",
+      "url": "https://www.theguardian.com/environment/2026/sep/29/night-sky-darkness-city-regulation",
+      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.theguardian.com/en...",
+      "score": 13
     },
     {
       "type": "HackerNews",
-      "title": "DraftKings Is Using AI to Behaviorally Target Chronic Gamblers",
-      "url": "https://www.eff.org/deeplinks/2026/09/draftkings-using-ai-supercharge-harms-online-behavioral-advertising",
-      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.eff.org/deeplinks/...",
-      "score": 357
-    },
-    {
-      "type": "HackerNews",
-      "title": "Dots: Always-on agents",
-      "url": "https://openai.com/index/introducing-dots/",
-      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://openai.com/index/intro...",
-      "score": 341
-    },
-    {
-      "type": "HackerNews",
-      "title": "NAND-16: a computer built from 277,248 NAND gates",
-      "url": "https://somethingbig.ai/computer",
-      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://somethingbig.ai/comput...",
-      "score": 41
+      "title": "Show HN: Real-time Solar System with 526k asteroids and all tracked satellites",
+      "url": "https://space.bl2.net/",
+      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://space.bl2.net/...",
+      "score": 82
     }
   ]
 }
