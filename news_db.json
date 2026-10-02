@@ -1,61 +1,61 @@
 {
-  "last_updated": "2026-10-01 20:09:10",
+  "last_updated": "2026-10-02 00:33:13",
   "news": [
     {
       "type": "HackerNews",
       "title": "Pi 1.0",
       "url": "https://earendil.com/posts/pi-1-0/",
-      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://earendil.com/posts/pi-...",
-      "score": 119
+      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://earendil.com/posts/pi-...",
+      "score": 687
     },
     {
       "type": "HackerNews",
-      "title": "Clef: Open-source decision models, and new RL fine-tuning platform",
+      "title": "Clef: Open-weight decision models, and new RL fine-tuning platform",
       "url": "https://blog.cloudflare.com/clef-decision-models/",
       "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://blog.cloudflare.com/cl...",
-      "score": 300
+      "score": 410
     },
     {
       "type": "HackerNews",
-      "title": "RIP, vector database",
-      "url": "https://turbopuffer.com/blog/rip-vector-database",
-      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://turbopuffer.com/blog/r...",
-      "score": 207
+      "title": "Several vulnerabilities have been discovered in the Linux kernel",
+      "url": "https://lwn.net/Articles/1097401/",
+      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://lwn.net/Articles/10974...",
+      "score": 30
     },
     {
       "type": "HackerNews",
-      "title": "Oxygen-deprived underwater zones may not be \"dead zones\" but clue to early life",
-      "url": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2026AV002570",
-      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://agupubs.onlinelibrary....",
-      "score": 23
-    },
-    {
-      "type": "HackerNews",
-      "title": "StreetComplete on iOS is now in public beta",
-      "url": "https://github.com/streetcomplete/StreetComplete/issues/5421",
-      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://github.com/streetcompl...",
-      "score": 453
-    },
-    {
-      "type": "HackerNews",
-      "title": "Bez: Generating a browser engine from specs and tests",
-      "url": "https://tangled.org/burrito.space/bez",
-      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://tangled.org/burrito.sp...",
-      "score": 48
+      "title": "SvelteKit 3",
+      "url": "https://svelte.dev/blog/sveltekit-3-is-here",
+      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://svelte.dev/blog/svelte...",
+      "score": 95
     },
     {
       "type": "HackerNews",
       "title": "Ask HN: Who is hiring? (October 2026)",
       "url": null,
-      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：...",
-      "score": 99
+      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：...",
+      "score": 142
     },
     {
       "type": "HackerNews",
-      "title": "RacketCon Is Saturday",
-      "url": "https://con.racket-lang.org/",
-      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://con.racket-lang.org/...",
-      "score": 106
+      "title": "Show HN: Janus – Go binary that runs GGUF models via Vulkan on AMD/Intel/Nvidia",
+      "url": "https://github.com/Vibra-Ingenn/Janus",
+      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://github.com/Vibra-Ingen...",
+      "score": 44
+    },
+    {
+      "type": "HackerNews",
+      "title": "CSS Bed: Classless CSS themes to use as starting points in web development",
+      "url": "https://www.cssbed.com",
+      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.cssbed.com...",
+      "score": 50
+    },
+    {
+      "type": "HackerNews",
+      "title": "Pi Durable",
+      "url": "https://earendil.com/posts/pi-durable/",
+      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://earendil.com/posts/pi-...",
+      "score": 198
     }
   ]
 }
