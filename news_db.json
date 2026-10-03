@@ -1,61 +1,61 @@
 {
-  "last_updated": "2026-10-03 15:48:29",
+  "last_updated": "2026-10-03 20:39:26",
   "news": [
     {
       "type": "HackerNews",
-      "title": "Kolibri is an open-weight LLM from Aleph Alpha for German and English",
-      "url": "https://tej.as/blog/aleph-alpha-kolibri",
-      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://tej.as/blog/aleph-alph...",
-      "score": 238
+      "title": "Hole Punch: Sling your spaceship around gravitational fields",
+      "url": "https://notoriousbfg.com/hole-punch/",
+      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://notoriousbfg.com/hole-...",
+      "score": 87
     },
     {
       "type": "HackerNews",
-      "title": "Woking Electrical Control Room (2016)",
-      "url": "http://www.darbiansphotography.com/woking-electrical-control-room-urbex",
-      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：http://www.darbiansphotography...",
-      "score": 53
+      "title": "Kolibri – Tech Report [pdf]",
+      "url": "https://aleph-alpha.com/downloads/tech-report.pdf",
+      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://aleph-alpha.com/downlo...",
+      "score": 94
     },
     {
       "type": "HackerNews",
-      "title": "Kolibri Has Landed: A Sovereign Open-Weight Model",
+      "title": "Celebrating the 100th birthday of the kidney donated to him as a teenager",
+      "url": "https://www.whec.com/top-news/webster-man-celebrating-the-100th-birthday-of-the-kidney-his-mom-donated-to-him-as-a-teenager/",
+      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.whec.com/top-news/...",
+      "score": 60
+    },
+    {
+      "type": "HackerNews",
+      "title": "We want you to build the next Git platform on Cloudflare",
+      "url": "https://blog.cloudflare.com/next-git-platform-on-cloudflare/",
+      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://blog.cloudflare.com/ne...",
+      "score": 13
+    },
+    {
+      "type": "HackerNews",
+      "title": "Getting the most out of Opus 5.5 in Claude and Claude Code",
+      "url": "https://claude.dev/blog/getting-the-most-out-of-opus-5-5/",
+      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://claude.dev/blog/gettin...",
+      "score": 23
+    },
+    {
+      "type": "HackerNews",
+      "title": "Show HN: Pi pod – Run your pi coding agent in sandboxes on your own server",
+      "url": "https://pipod.dev/",
+      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://pipod.dev/...",
+      "score": 38
+    },
+    {
+      "type": "HackerNews",
+      "title": "Kolibri: A Sovereign Open-Weight Model",
       "url": "https://aleph-alpha.com/en/blog/kolibri-has-landed-a-sovereign-open-weight-model/",
-      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://aleph-alpha.com/en/blo...",
-      "score": 155
+      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://aleph-alpha.com/en/blo...",
+      "score": 390
     },
     {
       "type": "HackerNews",
       "title": "FTL: A new operating system for clouds",
       "url": "https://ftl-os.org/",
       "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://ftl-os.org/...",
-      "score": 9
-    },
-    {
-      "type": "HackerNews",
-      "title": "C++ Insights – See your source code with the eyes of a Compiler",
-      "url": "https://github.com/andreasfertig/cppinsights",
-      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://github.com/andreasfert...",
-      "score": 62
-    },
-    {
-      "type": "HackerNews",
-      "title": "Newgrounds.com – A community of games, music, and art",
-      "url": "https://www.newgrounds.com/",
-      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.newgrounds.com/...",
-      "score": 354
-    },
-    {
-      "type": "HackerNews",
-      "title": "What is going on with ceiling fans",
-      "url": "https://mcmansionhell.com/post/829127919552151552/what-is-going-on-with-ceiling-fans",
-      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://mcmansionhell.com/post...",
-      "score": 69
-    },
-    {
-      "type": "HackerNews",
-      "title": "Court agrees with EFF: Utah's VPN law demands a technical impossibility",
-      "url": "https://www.eff.org/deeplinks/2026/10/court-agrees-eff-utahs-vpn-law-demands-technical-impossibility",
-      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.eff.org/deeplinks/...",
-      "score": 707
+      "score": 117
     }
   ]
 }
