@@ -1,61 +1,61 @@
 {
-  "last_updated": "2026-10-04 16:31:10",
+  "last_updated": "2026-10-04 20:55:18",
   "news": [
+    {
+      "type": "HackerNews",
+      "title": "Remove and Disable Apple Macos27 AI Models Tool",
+      "url": "https://github.com/omlahore/RemoveMacAI",
+      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://github.com/omlahore/Re...",
+      "score": 74
+    },
+    {
+      "type": "HackerNews",
+      "title": "Improper redaction reveals Google Data Center water and electricity usage",
+      "url": "https://www.1011now.com/2026/09/30/more-questions-than-answers-about-lincolns-google-data-center-water-electricity-usage/",
+      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.1011now.com/2026/0...",
+      "score": 68
+    },
     {
       "type": "HackerNews",
       "title": "Run Qwen 3.8 Flash Next (125B) on consumer hardware (RTX 4090) at 100T/s",
       "url": "https://github.com/Niko1221/Strata",
       "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://github.com/Niko1221/St...",
-      "score": 255
+      "score": 469
     },
     {
       "type": "HackerNews",
-      "title": "Car is a smartphone on wheels. Here's who's listening",
-      "url": "https://automatictransmission.khoury.northeastern.edu/",
-      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://automatictransmission....",
-      "score": 67
-    },
-    {
-      "type": "HackerNews",
-      "title": "A Map of Every Lighthouse on the Planet",
+      "title": "A map of every lighthouse",
       "url": "https://mapped.earth/lighthouses/world",
       "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://mapped.earth/lighthous...",
-      "score": 18
+      "score": 124
     },
     {
       "type": "HackerNews",
-      "title": "Glashütte Trash Clock – A 30-minute pendulum clock made from trash",
-      "url": "https://niklasroy.com/gtc/",
-      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://niklasroy.com/gtc/...",
-      "score": 88
+      "title": "'Neanderthals Among Us' review",
+      "url": "https://www.historytoday.com/archive/review/neanderthals-among-us-peter-sahlins-review",
+      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.historytoday.com/a...",
+      "score": 36
     },
     {
       "type": "HackerNews",
-      "title": "Tell HN: Bob Cringely has died",
-      "url": null,
-      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：...",
-      "score": 678
+      "title": "Results from the ASIC puzzle",
+      "url": "https://blog.janestreet.com/asic-puzzle-results/",
+      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://blog.janestreet.com/as...",
+      "score": 47
     },
     {
       "type": "HackerNews",
-      "title": "Show HN: AI search for every photo and every frame of video on macOS",
-      "url": "https://github.com/allenv0/SCM",
-      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://github.com/allenv0/SCM...",
-      "score": 66
+      "title": "Homa: The End of TCP for AI Clusters [video]",
+      "url": "https://www.youtube.com/watch?v=eZ8WWZzoaR0",
+      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.youtube.com/watch?...",
+      "score": 13
     },
     {
       "type": "HackerNews",
-      "title": "Why don't more developers “use the platform”?",
-      "url": "https://nolanlawson.com/2026/10/03/why-dont-more-developers-use-the-platform/",
-      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://nolanlawson.com/2026/1...",
-      "score": 225
-    },
-    {
-      "type": "HackerNews",
-      "title": "VGHF Digital Archive passes 5000 magazines. Here's what's next",
-      "url": "https://gamehistory.org/5k-magazines/",
-      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://gamehistory.org/5k-mag...",
-      "score": 75
+      "title": "How effective altruism conquered the world (and might yet end it)",
+      "url": "https://www.economist.com/international/2026/10/01/how-effective-altruism-conquered-the-world",
+      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.economist.com/inte...",
+      "score": 29
     }
   ]
 }
