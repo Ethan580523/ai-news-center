@@ -1,61 +1,61 @@
 {
-  "last_updated": "2026-10-04 11:51:29",
+  "last_updated": "2026-10-04 16:31:10",
   "news": [
     {
       "type": "HackerNews",
-      "title": "VGHF Digital Archive passes 5000 magazines. Here's what's next",
-      "url": "https://gamehistory.org/5k-magazines/",
-      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://gamehistory.org/5k-mag...",
-      "score": 34
+      "title": "Run Qwen 3.8 Flash Next (125B) on consumer hardware (RTX 4090) at 100T/s",
+      "url": "https://github.com/Niko1221/Strata",
+      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://github.com/Niko1221/St...",
+      "score": 255
+    },
+    {
+      "type": "HackerNews",
+      "title": "Car is a smartphone on wheels. Here's who's listening",
+      "url": "https://automatictransmission.khoury.northeastern.edu/",
+      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://automatictransmission....",
+      "score": 67
+    },
+    {
+      "type": "HackerNews",
+      "title": "A Map of Every Lighthouse on the Planet",
+      "url": "https://mapped.earth/lighthouses/world",
+      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://mapped.earth/lighthous...",
+      "score": 18
+    },
+    {
+      "type": "HackerNews",
+      "title": "Glashütte Trash Clock – A 30-minute pendulum clock made from trash",
+      "url": "https://niklasroy.com/gtc/",
+      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://niklasroy.com/gtc/...",
+      "score": 88
     },
     {
       "type": "HackerNews",
       "title": "Tell HN: Bob Cringely has died",
       "url": null,
-      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：...",
-      "score": 512
+      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：...",
+      "score": 678
+    },
+    {
+      "type": "HackerNews",
+      "title": "Show HN: AI search for every photo and every frame of video on macOS",
+      "url": "https://github.com/allenv0/SCM",
+      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://github.com/allenv0/SCM...",
+      "score": 66
     },
     {
       "type": "HackerNews",
       "title": "Why don't more developers “use the platform”?",
       "url": "https://nolanlawson.com/2026/10/03/why-dont-more-developers-use-the-platform/",
-      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://nolanlawson.com/2026/1...",
-      "score": 162
+      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://nolanlawson.com/2026/1...",
+      "score": 225
     },
     {
       "type": "HackerNews",
-      "title": "The work by Valve's Timur Kristóf on improving old AMD GPUs on Linux",
-      "url": "https://www.phoronix.com/news/XDC-2026-Valve-Timur-AMDGPU",
-      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.phoronix.com/news/...",
-      "score": 319
-    },
-    {
-      "type": "HackerNews",
-      "title": "So you think you could be an electrician?",
-      "url": "https://asteriskmag.com/issues/15/so-you-think-you-could-be-an-electrician",
-      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://asteriskmag.com/issues...",
-      "score": 276
-    },
-    {
-      "type": "HackerNews",
-      "title": "Treachery in the Rodin Museum 3D scan verdict",
-      "url": "https://cosmowenman.substack.com/p/rodin-museum-3d-scan-verdict",
-      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://cosmowenman.substack.c...",
-      "score": 216
-    },
-    {
-      "type": "HackerNews",
-      "title": "Agents don't need memory, they need documentation",
-      "url": "https://liao.gg/blog/agents-dont-need-memory",
-      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://liao.gg/blog/agents-do...",
-      "score": 210
-    },
-    {
-      "type": "HackerNews",
-      "title": "gpuvis: GPU Trace Visualizer",
-      "url": "https://github.com/mikesart/gpuvis",
-      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://github.com/mikesart/gp...",
-      "score": 15
+      "title": "VGHF Digital Archive passes 5000 magazines. Here's what's next",
+      "url": "https://gamehistory.org/5k-magazines/",
+      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://gamehistory.org/5k-mag...",
+      "score": 75
     }
   ]
 }
