@@ -1,61 +1,61 @@
 {
-  "last_updated": "2026-10-06 05:10:07",
+  "last_updated": "2026-10-06 12:51:30",
   "news": [
     {
       "type": "HackerNews",
-      "title": "Why Common Lisp is now the best programming language",
-      "url": "https://www.vivienhenz.com/common-lisp",
-      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.vivienhenz.com/com...",
-      "score": 49
+      "title": "Nobel Prize in Physics goes to Francis Halzen",
+      "url": "https://www.nobelprize.org/prizes/physics/2026/",
+      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.nobelprize.org/pri...",
+      "score": 184
+    },
+    {
+      "type": "HackerNews",
+      "title": "JetBrains reported a net financial loss first time in its tracked history",
+      "url": "https://www.helgilibrary.com/companies/jetbrains",
+      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.helgilibrary.com/c...",
+      "score": 79
+    },
+    {
+      "type": "HackerNews",
+      "title": "Release of Polars 2.0",
+      "url": "https://pola.rs/posts/release-polars-2/",
+      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://pola.rs/posts/release-...",
+      "score": 8
+    },
+    {
+      "type": "HackerNews",
+      "title": "Gleam doesn't compile to Erlang source anymore",
+      "url": "https://gleam.run/news/gleam-doesnt-compile-to-erlang-source-anymore/",
+      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://gleam.run/news/gleam-d...",
+      "score": 88
     },
     {
       "type": "HackerNews",
       "title": "Beam: Reflection's 501B open-weight model",
       "url": "https://reflection.ai/blog/introducing-beam",
-      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://reflection.ai/blog/int...",
-      "score": 378
+      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://reflection.ai/blog/int...",
+      "score": 480
+    },
+    {
+      "type": "HackerNews",
+      "title": "Nature's capacity to 'bounce back' when species are lost is vastly overestimated",
+      "url": "https://phys.org/news/2026-10-nature-capacity-species-lost-vastly.html",
+      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://phys.org/news/2026-10-...",
+      "score": 37
     },
     {
       "type": "HackerNews",
       "title": "Find the flattest route between any two points in SF",
       "url": "https://flattensf.com/",
       "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://flattensf.com/...",
-      "score": 148
-    },
-    {
-      "type": "HackerNews",
-      "title": "Example.com just launched the biggest redesign in decades",
-      "url": "https://www.debugbear.com/blog/example-dot-com-redesign-history",
-      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.debugbear.com/blog...",
-      "score": 137
+      "score": 235
     },
     {
       "type": "HackerNews",
       "title": "Dust: Pretraining Transformers Without Backpropagation",
       "url": "https://qlabs.sh/research/dust",
       "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://qlabs.sh/research/dust...",
-      "score": 140
-    },
-    {
-      "type": "HackerNews",
-      "title": "Opus 5.5 agents discover two room-temperature magnetic semiconductor candidates",
-      "url": "https://www.vals.ai/blogs/room-temperature-magnetic-semiconductors",
-      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.vals.ai/blogs/room...",
-      "score": 265
-    },
-    {
-      "type": "HackerNews",
-      "title": "An algorithmic failure beneath the secret ballot",
-      "url": "https://blog.citp.princeton.edu/2026/08/03/an-algorithmic-failure-beneath-the-secret-ballot/",
-      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://blog.citp.princeton.ed...",
-      "score": 54
-    },
-    {
-      "type": "HackerNews",
-      "title": "Friendship ended with Deno, now Node is my best friend",
-      "url": "https://dbushell.com/2026/10/03/deno-to-node/",
-      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://dbushell.com/2026/10/0...",
-      "score": 107
+      "score": 229
     }
   ]
 }
