@@ -1,61 +1,61 @@
 {
-  "last_updated": "2026-10-06 19:59:09",
+  "last_updated": "2026-10-07 00:22:48",
   "news": [
+    {
+      "type": "HackerNews",
+      "title": "Sharing AI progress in mathematics",
+      "url": "https://openai.com/index/sharing-ai-progress-in-mathematics/",
+      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://openai.com/index/shari...",
+      "score": 279
+    },
     {
       "type": "HackerNews",
       "title": "Mistral Large 4",
       "url": "https://mistral.ai/news/mistral-large-4/\\",
-      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://mistral.ai/news/mistra...",
-      "score": 1249
+      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://mistral.ai/news/mistra...",
+      "score": 1554
     },
     {
       "type": "HackerNews",
-      "title": "Nobel Prize in Physics 2026: Francis Halzen",
-      "url": "https://www.nobelprize.org/prizes/physics/2026/",
-      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.nobelprize.org/pri...",
-      "score": 442
+      "title": "Decisions API is in public beta",
+      "url": "https://developers.openai.com/api/docs/guides/decisions",
+      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://developers.openai.com/...",
+      "score": 108
     },
     {
       "type": "HackerNews",
-      "title": "Tapo (Rust/Python library) now speaks TP-Link's TPAP protocol",
-      "url": "https://mihai.dinculescu.dev/posts/tapo-speaks-tpap/",
-      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://mihai.dinculescu.dev/p...",
-      "score": 107
+      "title": "Integer multiplication below n log n",
+      "url": "https://github.com/openai/math/tree/main/preprints/Integer-multiplication-below-n-log-n-September-23-2026",
+      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://github.com/openai/math...",
+      "score": 22
     },
     {
       "type": "HackerNews",
-      "title": "Berthd",
-      "url": "https://berthd.app/",
-      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://berthd.app/...",
-      "score": 5
-    },
-    {
-      "type": "HackerNews",
-      "title": "Benchmark in Milliseconds",
-      "url": "https://matklad.github.io/2026/10/05/benchmark-milliseconds.html",
-      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://matklad.github.io/2026...",
-      "score": 98
-    },
-    {
-      "type": "HackerNews",
-      "title": "Gleam doesn't compile to Erlang source anymore",
-      "url": "https://gleam.run/news/gleam-doesnt-compile-to-erlang-source-anymore/",
-      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://gleam.run/news/gleam-d...",
-      "score": 250
-    },
-    {
-      "type": "HackerNews",
-      "title": "Mathematics of Geothermal Energy",
-      "url": "https://www.ebsco.com/research-starters/power-and-energy/mathematics-geothermal-energy/",
-      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.ebsco.com/research...",
-      "score": 55
-    },
-    {
-      "type": "HackerNews",
-      "title": "Show HN: I turned my iPhone and a $20 smart plug into an f-stop timer",
-      "url": "https://peterszentkiralyi.eu/darkplug/",
-      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://peterszentkiralyi.eu/d...",
+      "title": "Vibecoding Photoshop: Time and pressure",
+      "url": "https://andreklein.net/vibecoding-photoshop-time-and-pressure/",
+      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://andreklein.net/vibecod...",
       "score": 42
+    },
+    {
+      "type": "HackerNews",
+      "title": "Penguin Mail – open-source Rust email client for Linux with AI",
+      "url": "https://penguin-mail.com/",
+      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://penguin-mail.com/...",
+      "score": 29
+    },
+    {
+      "type": "HackerNews",
+      "title": "EmbeddingGemma 2: An open, lightweight multimodal embedding model",
+      "url": "https://blog.google/innovation-and-ai/technology/developers-tools/embeddinggemma-2/",
+      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://blog.google/innovation...",
+      "score": 197
+    },
+    {
+      "type": "HackerNews",
+      "title": "AnyPS5: Port PS5 binaries to PC without emulation (87% system libraries mapped)",
+      "url": "https://github.com/boykopovar/AnyPS5",
+      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://github.com/boykopovar/...",
+      "score": 7
     }
   ]
 }
