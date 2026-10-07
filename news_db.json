@@ -1,61 +1,61 @@
 {
-  "last_updated": "2026-10-07 00:22:48",
+  "last_updated": "2026-10-07 09:54:09",
   "news": [
+    {
+      "type": "HackerNews",
+      "title": "Reasons to Dislike AI Coding",
+      "url": "https://www.sicpers.info/2026/10/reasons-to-dislike-ai-coding/",
+      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.sicpers.info/2026/...",
+      "score": 16
+    },
     {
       "type": "HackerNews",
       "title": "Sharing AI progress in mathematics",
       "url": "https://openai.com/index/sharing-ai-progress-in-mathematics/",
       "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://openai.com/index/shari...",
-      "score": 279
+      "score": 919
     },
     {
       "type": "HackerNews",
-      "title": "Mistral Large 4",
-      "url": "https://mistral.ai/news/mistral-large-4/\\",
-      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://mistral.ai/news/mistra...",
-      "score": 1554
+      "title": "A font recreated from photographs of classic Commodore 64 keycaps",
+      "url": "https://github.com/szabadkai/c64-keyboard-font/",
+      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://github.com/szabadkai/c...",
+      "score": 10
+    },
+    {
+      "type": "HackerNews",
+      "title": "Strands Decider 2B: a small, open-source, decision model",
+      "url": "https://strandsagents.com/blog/introducing-strands-decider/",
+      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://strandsagents.com/blog...",
+      "score": 175
     },
     {
       "type": "HackerNews",
       "title": "Decisions API is in public beta",
       "url": "https://developers.openai.com/api/docs/guides/decisions",
-      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://developers.openai.com/...",
-      "score": 108
+      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://developers.openai.com/...",
+      "score": 296
     },
     {
       "type": "HackerNews",
-      "title": "Integer multiplication below n log n",
-      "url": "https://github.com/openai/math/tree/main/preprints/Integer-multiplication-below-n-log-n-September-23-2026",
-      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://github.com/openai/math...",
-      "score": 22
+      "title": "The art of defusing a second world war bomb",
+      "url": "https://www.theguardian.com/news/ng-interactive/2026/oct/06/it-could-knock-a-whole-street-down-the-art-of-defusing-a-second-world-war-bomb",
+      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.theguardian.com/ne...",
+      "score": 65
     },
     {
       "type": "HackerNews",
-      "title": "Vibecoding Photoshop: Time and pressure",
-      "url": "https://andreklein.net/vibecoding-photoshop-time-and-pressure/",
-      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://andreklein.net/vibecod...",
-      "score": 42
+      "title": "Mistral Large 4",
+      "url": "https://mistral.ai/news/mistral-large-4/\\",
+      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://mistral.ai/news/mistra...",
+      "score": 1809
     },
     {
       "type": "HackerNews",
-      "title": "Penguin Mail – open-source Rust email client for Linux with AI",
-      "url": "https://penguin-mail.com/",
-      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://penguin-mail.com/...",
-      "score": 29
-    },
-    {
-      "type": "HackerNews",
-      "title": "EmbeddingGemma 2: An open, lightweight multimodal embedding model",
-      "url": "https://blog.google/innovation-and-ai/technology/developers-tools/embeddinggemma-2/",
-      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://blog.google/innovation...",
-      "score": 197
-    },
-    {
-      "type": "HackerNews",
-      "title": "AnyPS5: Port PS5 binaries to PC without emulation (87% system libraries mapped)",
-      "url": "https://github.com/boykopovar/AnyPS5",
-      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://github.com/boykopovar/...",
-      "score": 7
+      "title": "Shaders, WebGPU Components for React, Vue, Svelte, Solid, JavaScript and Framer",
+      "url": "https://github.com/shader-effects-inc/shaders",
+      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://github.com/shader-effe...",
+      "score": 27
     }
   ]
 }
