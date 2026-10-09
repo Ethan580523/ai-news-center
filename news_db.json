@@ -1,61 +1,61 @@
 {
-  "last_updated": "2026-10-08 18:29:30",
+  "last_updated": "2026-10-09 00:59:51",
   "news": [
     {
       "type": "HackerNews",
       "title": "Whistle: Speech to Text in 16.9 MB",
       "url": "https://cactuscompute.com/blog/whistle",
-      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://cactuscompute.com/blog...",
-      "score": 132
+      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://cactuscompute.com/blog...",
+      "score": 512
     },
     {
       "type": "HackerNews",
-      "title": "Trump administration is suspending Microsoft from a green card program",
-      "url": "https://apnews.com/article/h1b-visa-program-vance-microsoft-e7b3a407f822702b269ee277d21343ea",
-      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://apnews.com/article/h1b...",
-      "score": 507
+      "title": "Theranos.world",
+      "url": "https://www.theranos.world/",
+      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.theranos.world/...",
+      "score": 251
     },
     {
       "type": "HackerNews",
-      "title": "Step 5 Preview, a 1M-context MoE from StepFun, shows up on OpenRouter",
-      "url": "https://openrouter.ai/stepfun/step-5-preview",
-      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://openrouter.ai/stepfun/...",
-      "score": 34
+      "title": "Why isn't the industry freaking out about DeepSeek 4.1 Flash?",
+      "url": "https://www.dgt.is/blog/2026-10-07-deepseek-freek-out/",
+      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.dgt.is/blog/2026-1...",
+      "score": 380
     },
     {
       "type": "HackerNews",
-      "title": "Beauty in DVD Menus",
-      "url": "https://vale.rocks/posts/dvd-menus",
-      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://vale.rocks/posts/dvd-m...",
-      "score": 186
+      "title": "OpenAI, the Partition Principle, and Mathematics",
+      "url": "https://karagila.org/2026/openai-pp/",
+      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://karagila.org/2026/open...",
+      "score": 68
     },
     {
       "type": "HackerNews",
-      "title": "Archaeologists Are Reconstructing the 'Invisible' Technologies of the Stone Age",
-      "url": "https://www.smithsonianmag.com/science-nature/archaeologists-are-reconstructing-the-invisible-technologies-of-the-stone-age-from-rope-to-thread-and-twine-180989534/",
-      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.smithsonianmag.com...",
-      "score": 59
+      "title": "Man discovers his parents' coffee machine used 1TB of data in 10 days",
+      "url": "https://www.dexerto.com/entertainment/man-discovers-his-parents-coffee-machine-used-1tb-of-data-in-10-days-3416399/",
+      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.dexerto.com/entert...",
+      "score": 370
     },
     {
       "type": "HackerNews",
-      "title": "“Math 2.0” will need to value mathematical progress more holistically",
-      "url": "https://mathstodon.xyz/@tao/117395269325940185",
-      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://mathstodon.xyz/@tao/11...",
-      "score": 560
+      "title": "Show HN: SVG Spark – 10 client-side SVG design and dev tools",
+      "url": "https://svg-spark.vercel.app/",
+      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://svg-spark.vercel.app/...",
+      "score": 17
     },
     {
       "type": "HackerNews",
-      "title": "4-hour battery storage is cheaper to install than gas turbines all across globe",
-      "url": "https://www.solarpowerworldonline.com/2026/10/4-hour-battery-storage-is-cheaper-to-install-than-gas-turbines-all-across-globe/",
-      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.solarpowerworldonl...",
-      "score": 144
+      "title": "The value of not getting to the point (2015)",
+      "url": "https://ken.arneson.name/2015/11/the-value-of-not-getting-to-the-point/",
+      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://ken.arneson.name/2015/...",
+      "score": 109
     },
     {
       "type": "HackerNews",
-      "title": "The Slow Formation of Durable Software",
-      "url": "https://newsletter.dancohen.org/archive/the-slow-formation-of-durable-software/",
-      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://newsletter.dancohen.or...",
-      "score": 206
+      "title": "I hired an illustrator to draw my house. Now it's my Home Assistant dashboard",
+      "url": "https://antonfrolov.substack.com/p/i-hired-an-illustrator-to-draw-my",
+      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://antonfrolov.substack.c...",
+      "score": 363
     }
   ]
 }
