@@ -1,61 +1,61 @@
 {
-  "last_updated": "2026-10-09 00:59:51",
+  "last_updated": "2026-10-09 10:08:08",
   "news": [
-    {
-      "type": "HackerNews",
-      "title": "Whistle: Speech to Text in 16.9 MB",
-      "url": "https://cactuscompute.com/blog/whistle",
-      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://cactuscompute.com/blog...",
-      "score": 512
-    },
-    {
-      "type": "HackerNews",
-      "title": "Theranos.world",
-      "url": "https://www.theranos.world/",
-      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.theranos.world/...",
-      "score": 251
-    },
     {
       "type": "HackerNews",
       "title": "Why isn't the industry freaking out about DeepSeek 4.1 Flash?",
       "url": "https://www.dgt.is/blog/2026-10-07-deepseek-freek-out/",
-      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.dgt.is/blog/2026-1...",
-      "score": 380
+      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.dgt.is/blog/2026-1...",
+      "score": 769
     },
     {
       "type": "HackerNews",
-      "title": "OpenAI, the Partition Principle, and Mathematics",
-      "url": "https://karagila.org/2026/openai-pp/",
-      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://karagila.org/2026/open...",
-      "score": 68
+      "title": "Whistle: Speech to Text in 16.9 MB",
+      "url": "https://cactuscompute.com/blog/whistle",
+      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://cactuscompute.com/blog...",
+      "score": 768
+    },
+    {
+      "type": "HackerNews",
+      "title": "MXC - a sandboxed code execution system",
+      "url": "https://github.com/microsoft/mxc",
+      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://github.com/microsoft/m...",
+      "score": 35
+    },
+    {
+      "type": "HackerNews",
+      "title": "Keyboard differences between Windows and Macs",
+      "url": "https://unsung.aresluna.org/deeper-dive-keyboard-differences-between-windows-and-macs/",
+      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://unsung.aresluna.org/de...",
+      "score": 148
     },
     {
       "type": "HackerNews",
       "title": "Man discovers his parents' coffee machine used 1TB of data in 10 days",
       "url": "https://www.dexerto.com/entertainment/man-discovers-his-parents-coffee-machine-used-1tb-of-data-in-10-days-3416399/",
-      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.dexerto.com/entert...",
-      "score": 370
-    },
-    {
-      "type": "HackerNews",
-      "title": "Show HN: SVG Spark – 10 client-side SVG design and dev tools",
-      "url": "https://svg-spark.vercel.app/",
-      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://svg-spark.vercel.app/...",
-      "score": 17
-    },
-    {
-      "type": "HackerNews",
-      "title": "The value of not getting to the point (2015)",
-      "url": "https://ken.arneson.name/2015/11/the-value-of-not-getting-to-the-point/",
-      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://ken.arneson.name/2015/...",
-      "score": 109
+      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.dexerto.com/entert...",
+      "score": 702
     },
     {
       "type": "HackerNews",
       "title": "I hired an illustrator to draw my house. Now it's my Home Assistant dashboard",
       "url": "https://antonfrolov.substack.com/p/i-hired-an-illustrator-to-draw-my",
-      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://antonfrolov.substack.c...",
-      "score": 363
+      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://antonfrolov.substack.c...",
+      "score": 646
+    },
+    {
+      "type": "HackerNews",
+      "title": "Theranos.world",
+      "url": "https://www.theranos.world/",
+      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.theranos.world/...",
+      "score": 451
+    },
+    {
+      "type": "HackerNews",
+      "title": "Yes, and",
+      "url": "https://htmx.org/essays/yes-and/",
+      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://htmx.org/essays/yes-an...",
+      "score": 444
     }
   ]
 }
