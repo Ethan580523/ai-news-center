@@ -1,61 +1,61 @@
 {
-  "last_updated": "2026-10-10 09:29:07",
+  "last_updated": "2026-10-10 17:01:39",
   "news": [
+    {
+      "type": "HackerNews",
+      "title": "Bitwarden Dual License Model",
+      "url": "https://community.bitwarden.com/t/published-version-update-in-app-stores/102750",
+      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://community.bitwarden.co...",
+      "score": 173
+    },
+    {
+      "type": "HackerNews",
+      "title": "Knuth Reward Check",
+      "url": "https://www.thomas-huehn.com/knuth-reward-check",
+      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.thomas-huehn.com/k...",
+      "score": 30
+    },
+    {
+      "type": "HackerNews",
+      "title": "Talorys – A self-hosted personal AI agent on Cloudflare's free tier",
+      "url": "https://github.com/rociiu/talorys",
+      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://github.com/rociiu/talo...",
+      "score": 145
+    },
+    {
+      "type": "HackerNews",
+      "title": "Rampart: Browser native on-device PII radaction",
+      "url": "https://ndstudio.gov/posts/say-hello-to-rampart",
+      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://ndstudio.gov/posts/say...",
+      "score": 29
+    },
+    {
+      "type": "HackerNews",
+      "title": "Grieving the Loss of Details",
+      "url": "https://purplesyringa.moe/blog/grieving-the-loss-of-details/",
+      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://purplesyringa.moe/blog...",
+      "score": 15
+    },
+    {
+      "type": "HackerNews",
+      "title": "Mxc: Microsoft Execution Containers version 1.0.0",
+      "url": "https://blogs.windows.com/windowsdeveloper/2026/10/07/microsoft-execution-containers-policy-driven-containment-for-ai-agents/",
+      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://blogs.windows.com/wind...",
+      "score": 52
+    },
     {
       "type": "HackerNews",
       "title": "REA Reverse – Engineer Anything",
       "url": "https://rea.tools/",
       "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://rea.tools/...",
-      "score": 408
+      "score": 585
     },
     {
       "type": "HackerNews",
-      "title": "Computers Cannot Make Decisions",
-      "url": "https://wiki.cateat.fish/art:computers_cannot_make_decisions",
-      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://wiki.cateat.fish/art:c...",
-      "score": 66
-    },
-    {
-      "type": "HackerNews",
-      "title": "Telegram Desktop vulnerability allowed any user's file to be stolen",
-      "url": "https://beaksec.github.io/posts/telegram-desktop-one-click-account-takeover/",
-      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://beaksec.github.io/post...",
-      "score": 156
-    },
-    {
-      "type": "HackerNews",
-      "title": "Cloudflare acquires Deno",
-      "url": "https://deno.com/blog/cloudflare",
-      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://deno.com/blog/cloudfla...",
-      "score": 1221
-    },
-    {
-      "type": "HackerNews",
-      "title": "Triple-A Minesweeper",
-      "url": "https://minesweeper.mikelacher.com/",
-      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://minesweeper.mikelacher...",
-      "score": 954
-    },
-    {
-      "type": "HackerNews",
-      "title": "Eye of Sauron: Long-Range Hidden Spy Camera Detection",
-      "url": "https://www.usenix.org/conference/usenixsecurity24/presentation/zhang-qibo",
-      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.usenix.org/confere...",
-      "score": 151
-    },
-    {
-      "type": "HackerNews",
-      "title": "Cube Type – Isometric Typography Generator",
-      "url": "https://typeincube.com/",
-      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://typeincube.com/...",
-      "score": 11
-    },
-    {
-      "type": "HackerNews",
-      "title": "Food processing influences metabolism and brain activity",
-      "url": "https://news.vt.edu/articles/2026/10/research_fralinbiomed_upfhutelin.html",
-      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://news.vt.edu/articles/2...",
-      "score": 26
+      "title": "I would like the value of my home to rise, while my property taxes fall",
+      "url": "https://conversableeconomist.com/2026/09/28/i-would-like-the-value-of-my-home-to-rise-while-my-property-taxes-fall/",
+      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://conversableeconomist.c...",
+      "score": 86
     }
   ]
 }
