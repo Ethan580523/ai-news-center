@@ -1,61 +1,61 @@
 {
-  "last_updated": "2026-10-10 00:30:04",
+  "last_updated": "2026-10-10 09:29:07",
   "news": [
+    {
+      "type": "HackerNews",
+      "title": "REA Reverse – Engineer Anything",
+      "url": "https://rea.tools/",
+      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://rea.tools/...",
+      "score": 408
+    },
+    {
+      "type": "HackerNews",
+      "title": "Computers Cannot Make Decisions",
+      "url": "https://wiki.cateat.fish/art:computers_cannot_make_decisions",
+      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://wiki.cateat.fish/art:c...",
+      "score": 66
+    },
+    {
+      "type": "HackerNews",
+      "title": "Telegram Desktop vulnerability allowed any user's file to be stolen",
+      "url": "https://beaksec.github.io/posts/telegram-desktop-one-click-account-takeover/",
+      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://beaksec.github.io/post...",
+      "score": 156
+    },
     {
       "type": "HackerNews",
       "title": "Cloudflare acquires Deno",
       "url": "https://deno.com/blog/cloudflare",
       "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://deno.com/blog/cloudfla...",
-      "score": 1035
+      "score": 1221
     },
     {
       "type": "HackerNews",
       "title": "Triple-A Minesweeper",
       "url": "https://minesweeper.mikelacher.com/",
       "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://minesweeper.mikelacher...",
-      "score": 573
+      "score": 954
     },
     {
       "type": "HackerNews",
-      "title": "Our $445M Series D",
-      "url": "https://oxide.computer/blog/our-445m-series-d",
-      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://oxide.computer/blog/ou...",
-      "score": 572
+      "title": "Eye of Sauron: Long-Range Hidden Spy Camera Detection",
+      "url": "https://www.usenix.org/conference/usenixsecurity24/presentation/zhang-qibo",
+      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.usenix.org/confere...",
+      "score": 151
     },
     {
       "type": "HackerNews",
-      "title": "Show HN: Carrier-Explode: iPhone, Pixel and Galaxy carrier settings decoded",
-      "url": "https://carrierexplode.com/",
-      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://carrierexplode.com/...",
-      "score": 198
+      "title": "Cube Type – Isometric Typography Generator",
+      "url": "https://typeincube.com/",
+      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://typeincube.com/...",
+      "score": 11
     },
     {
       "type": "HackerNews",
-      "title": "Japan's Most Famous Tuna Buyer Says He Turned Somali Pirates into Fishermen",
-      "url": "https://www.japaninsides.com/the-sushi-king-who-went-to-somalia-how-japans-most-famous-tuna-buyer-says-he-turned-pirates-into-fishermen-55344",
-      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.japaninsides.com/t...",
-      "score": 39
-    },
-    {
-      "type": "HackerNews",
-      "title": "YouTuber Says Cops Visited Him After He Built a Flock-Style Camera to Track Cops",
-      "url": "https://gizmodo.com/youtuber-says-cops-paid-him-a-visit-after-he-built-flock-style-camera-to-track-cops-2000824306",
-      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://gizmodo.com/youtuber-s...",
-      "score": 365
-    },
-    {
-      "type": "HackerNews",
-      "title": "Sorry, I'm in a meeting",
-      "url": "https://iminafleeting.com/",
-      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://iminafleeting.com/...",
-      "score": 739
-    },
-    {
-      "type": "HackerNews",
-      "title": "Typesafe AI raises $870M at $7.5B",
-      "url": "https://typesafe.ai/blog/series-ai",
-      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://typesafe.ai/blog/serie...",
-      "score": 241
+      "title": "Food processing influences metabolism and brain activity",
+      "url": "https://news.vt.edu/articles/2026/10/research_fralinbiomed_upfhutelin.html",
+      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://news.vt.edu/articles/2...",
+      "score": 26
     }
   ]
 }
