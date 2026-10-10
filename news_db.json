@@ -1,61 +1,61 @@
 {
-  "last_updated": "2026-10-09 18:01:04",
+  "last_updated": "2026-10-10 00:30:04",
   "news": [
     {
       "type": "HackerNews",
       "title": "Cloudflare acquires Deno",
       "url": "https://deno.com/blog/cloudflare",
       "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://deno.com/blog/cloudfla...",
-      "score": 711
+      "score": 1035
+    },
+    {
+      "type": "HackerNews",
+      "title": "Triple-A Minesweeper",
+      "url": "https://minesweeper.mikelacher.com/",
+      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://minesweeper.mikelacher...",
+      "score": 573
     },
     {
       "type": "HackerNews",
       "title": "Our $445M Series D",
       "url": "https://oxide.computer/blog/our-445m-series-d",
       "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://oxide.computer/blog/ou...",
-      "score": 382
+      "score": 572
+    },
+    {
+      "type": "HackerNews",
+      "title": "Show HN: Carrier-Explode: iPhone, Pixel and Galaxy carrier settings decoded",
+      "url": "https://carrierexplode.com/",
+      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://carrierexplode.com/...",
+      "score": 198
+    },
+    {
+      "type": "HackerNews",
+      "title": "Japan's Most Famous Tuna Buyer Says He Turned Somali Pirates into Fishermen",
+      "url": "https://www.japaninsides.com/the-sushi-king-who-went-to-somalia-how-japans-most-famous-tuna-buyer-says-he-turned-pirates-into-fishermen-55344",
+      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.japaninsides.com/t...",
+      "score": 39
+    },
+    {
+      "type": "HackerNews",
+      "title": "YouTuber Says Cops Visited Him After He Built a Flock-Style Camera to Track Cops",
+      "url": "https://gizmodo.com/youtuber-says-cops-paid-him-a-visit-after-he-built-flock-style-camera-to-track-cops-2000824306",
+      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://gizmodo.com/youtuber-s...",
+      "score": 365
     },
     {
       "type": "HackerNews",
       "title": "Sorry, I'm in a meeting",
       "url": "https://iminafleeting.com/",
-      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://iminafleeting.com/...",
-      "score": 484
+      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://iminafleeting.com/...",
+      "score": 739
     },
     {
       "type": "HackerNews",
-      "title": "Show HN: Let your AI agents paint big arrows, boxes and text on your screen",
-      "url": "https://github.com/franzenzenhofer/big-arrow-on-the-screen",
-      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://github.com/franzenzenh...",
-      "score": 305
-    },
-    {
-      "type": "HackerNews",
-      "title": "Nobel Peace Prize for 2026 to Navanethem Pillay",
-      "url": "https://www.nobelprize.org/prizes/peace/2026/press-release/",
-      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.nobelprize.org/pri...",
-      "score": 335
-    },
-    {
-      "type": "HackerNews",
-      "title": "Germany transforms former coal mines into Europe's largest lake landscape",
-      "url": "https://www.euronews.com/2026/04/14/almost-like-lake-como-germany-transforms-former-coal-mines-into-europes-largest-lake-lands",
-      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.euronews.com/2026/...",
-      "score": 115
-    },
-    {
-      "type": "HackerNews",
-      "title": "Training Text-to-Image Models Without a VAE",
-      "url": "https://www.linum.ai/field-notes/pyramid-jit",
-      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.linum.ai/field-not...",
-      "score": 11
-    },
-    {
-      "type": "HackerNews",
-      "title": "Why isn't the industry freaking out about DeepSeek 4.1 Flash?",
-      "url": "https://www.dgt.is/blog/2026-10-07-deepseek-freek-out/",
-      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.dgt.is/blog/2026-1...",
-      "score": 995
+      "title": "Typesafe AI raises $870M at $7.5B",
+      "url": "https://typesafe.ai/blog/series-ai",
+      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://typesafe.ai/blog/serie...",
+      "score": 241
     }
   ]
 }
