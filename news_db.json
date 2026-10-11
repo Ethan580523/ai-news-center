@@ -1,61 +1,61 @@
 {
-  "last_updated": "2026-10-11 04:21:30",
+  "last_updated": "2026-10-11 12:12:12",
   "news": [
     {
       "type": "HackerNews",
-      "title": "WallHop – 12ft.io is gone, so I built a replacement",
-      "url": "https://wallhop.io/",
-      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://wallhop.io/...",
-      "score": 171
+      "title": "Sudden drop in Cloudflare bot traffic after strike on Yandex datacenter",
+      "url": "https://radar.cloudflare.com/bots/as13238?dateRange=7d",
+      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://radar.cloudflare.com/b...",
+      "score": 150
+    },
+    {
+      "type": "HackerNews",
+      "title": "I paid people to try and follow my README",
+      "url": "https://shkspr.mobi/blog/2026/10/i-paid-people-to-try-and-follow-my-readme/",
+      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://shkspr.mobi/blog/2026/...",
+      "score": 20
+    },
+    {
+      "type": "HackerNews",
+      "title": "IRCv3",
+      "url": "https://ircv3.net/",
+      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://ircv3.net/...",
+      "score": 115
+    },
+    {
+      "type": "HackerNews",
+      "title": "Nitter: Update Oct 10th seeking funding and legal help",
+      "url": "https://nitter.net",
+      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://nitter.net...",
+      "score": 136
+    },
+    {
+      "type": "HackerNews",
+      "title": "LineageOS 24.0",
+      "url": "https://lineageos.org/Changelog-32/",
+      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://lineageos.org/Changelo...",
+      "score": 156
+    },
+    {
+      "type": "HackerNews",
+      "title": "Weave (YC W25) is hiring ML, AI, product, & design engineers",
+      "url": "https://jobs.ashbyhq.com/weave-os",
+      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://jobs.ashbyhq.com/weave...",
+      "score": 1
     },
     {
       "type": "HackerNews",
       "title": "Build your own decision model",
       "url": "https://nishtahir.com/build-your-own-decision-model/",
       "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://nishtahir.com/build-yo...",
-      "score": 169
+      "score": 344
     },
     {
       "type": "HackerNews",
       "title": "2D Vehicles",
       "url": "https://patkerr.co.uk/2d-vehicles/",
-      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://patkerr.co.uk/2d-vehic...",
-      "score": 396
-    },
-    {
-      "type": "HackerNews",
-      "title": "A city-building game in which the city would prefer you didn't",
-      "url": "https://housing.over.pizza/",
-      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://housing.over.pizza/...",
-      "score": 238
-    },
-    {
-      "type": "HackerNews",
-      "title": "CIA World Facebook Is Dead – Here Is an Attempt at Recreation",
-      "url": "https://worldfacts.app",
-      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://worldfacts.app...",
-      "score": 12
-    },
-    {
-      "type": "HackerNews",
-      "title": "Terrence Tao does not understand cancer medicine",
-      "url": "https://www.drvinayprasad.com/p/terrence-tao-does-not-understand",
-      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.drvinayprasad.com/...",
-      "score": 15
-    },
-    {
-      "type": "HackerNews",
-      "title": "PSPi 6 – Raspberry Pi in a PSP",
-      "url": "https://github.com/othermod/PSPi-Version-6",
-      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://github.com/othermod/PS...",
-      "score": 33
-    },
-    {
-      "type": "HackerNews",
-      "title": "The Lightbulb Computer",
-      "url": "https://lightbulbcomputer.com/",
-      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://lightbulbcomputer.com/...",
-      "score": 309
+      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://patkerr.co.uk/2d-vehic...",
+      "score": 510
     }
   ]
 }
