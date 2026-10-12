@@ -1,61 +1,61 @@
 {
-  "last_updated": "2026-10-12 00:14:37",
+  "last_updated": "2026-10-12 10:18:46",
   "news": [
+    {
+      "type": "HackerNews",
+      "title": "Type-safe HTML templating in Zig",
+      "url": "https://lalinsky.com/2026/10/11/type-safe-html-templating-in-zig.html",
+      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://lalinsky.com/2026/10/1...",
+      "score": 118
+    },
+    {
+      "type": "HackerNews",
+      "title": "Postgres isn't slow, your storage is",
+      "url": "https://clickhouse.com/blog/posette-talk-recap-postgres-isnt-slow-your-storage-is",
+      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://clickhouse.com/blog/po...",
+      "score": 89
+    },
+    {
+      "type": "HackerNews",
+      "title": "Fingerprints are the new cookies",
+      "url": "https://royfish.dev/fingerprints-are-the-new-cookies",
+      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://royfish.dev/fingerprin...",
+      "score": 384
+    },
     {
       "type": "HackerNews",
       "title": "Total Annihilation, rebuilt for modern computers",
       "url": "https://nanolathe.gg",
       "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://nanolathe.gg...",
-      "score": 325
+      "score": 518
+    },
+    {
+      "type": "HackerNews",
+      "title": "Calculus with Julia",
+      "url": "https://jverzani.github.io/CalculusWithJuliaNotes.jl/",
+      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://jverzani.github.io/Cal...",
+      "score": 131
+    },
+    {
+      "type": "HackerNews",
+      "title": "Running the unmodified Linux amdgpu driver on an iPad",
+      "url": "https://github.com/Geramy/LemonSeed-Studio",
+      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://github.com/Geramy/Lemo...",
+      "score": 24
     },
     {
       "type": "HackerNews",
       "title": "Whatever became of holography? (2011)",
       "url": "https://www.americanscientist.org/article/whatever-became-of-holography",
-      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.americanscientist....",
-      "score": 11
+      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.americanscientist....",
+      "score": 133
     },
     {
       "type": "HackerNews",
-      "title": "Cartographers of North Korea",
+      "title": "Cartographers of North Korea (2019)",
       "url": "https://cartographers-nk.wonyoung.so/",
       "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://cartographers-nk.wonyo...",
-      "score": 162
-    },
-    {
-      "type": "HackerNews",
-      "title": "Recursive self-improvement through collective intelligence",
-      "url": "https://pub.sakana.ai/mass/",
-      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://pub.sakana.ai/mass/...",
-      "score": 33
-    },
-    {
-      "type": "HackerNews",
-      "title": "Google Data Centers around the world",
-      "url": "https://datacenters.google/locations/",
-      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://datacenters.google/loc...",
-      "score": 32
-    },
-    {
-      "type": "HackerNews",
-      "title": "The gap in shared understanding of LLM capability is widening",
-      "url": "https://twitter.com/karpathy/status/2109361546505966046",
-      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://twitter.com/karpathy/s...",
-      "score": 188
-    },
-    {
-      "type": "HackerNews",
-      "title": "Fingerprints Are the New Cookies",
-      "url": "https://royfish.dev/fingerprints-are-the-new-cookies",
-      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://royfish.dev/fingerprin...",
-      "score": 29
-    },
-    {
-      "type": "HackerNews",
-      "title": "So, You’d Like To Sell Your Print Issues Of The Onion?",
-      "url": "https://theonion.com/archivehunt/",
-      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://theonion.com/archivehu...",
-      "score": 227
+      "score": 264
     }
   ]
 }
