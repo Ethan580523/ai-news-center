@@ -1,61 +1,61 @@
 {
-  "last_updated": "2026-10-11 19:21:29",
+  "last_updated": "2026-10-12 00:14:37",
   "news": [
     {
       "type": "HackerNews",
       "title": "Total Annihilation, rebuilt for modern computers",
       "url": "https://nanolathe.gg",
       "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://nanolathe.gg...",
-      "score": 83
+      "score": 325
     },
     {
       "type": "HackerNews",
-      "title": "Terence Tao: Math 2.0 [pdf]",
-      "url": "https://teorth.github.io/tao-web/slides/math-2-0-caltech-2026.pdf",
-      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://teorth.github.io/tao-w...",
-      "score": 184
+      "title": "Whatever became of holography? (2011)",
+      "url": "https://www.americanscientist.org/article/whatever-became-of-holography",
+      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.americanscientist....",
+      "score": 11
     },
     {
       "type": "HackerNews",
-      "title": "NYC's \"Click to Cancel\" rule is now in effect",
-      "url": "https://www.nyc.gov/main/click-to-cancel",
-      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.nyc.gov/main/click...",
-      "score": 80
+      "title": "Cartographers of North Korea",
+      "url": "https://cartographers-nk.wonyoung.so/",
+      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://cartographers-nk.wonyo...",
+      "score": 162
     },
     {
       "type": "HackerNews",
-      "title": "apsw: Another Python SQLite Wrapper",
-      "url": "https://github.com/rogerbinns/apsw",
-      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://github.com/rogerbinns/...",
-      "score": 24
+      "title": "Recursive self-improvement through collective intelligence",
+      "url": "https://pub.sakana.ai/mass/",
+      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://pub.sakana.ai/mass/...",
+      "score": 33
     },
     {
       "type": "HackerNews",
-      "title": "LineageOS 24.0",
-      "url": "https://lineageos.org/Changelog-32/",
-      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://lineageos.org/Changelo...",
-      "score": 351
+      "title": "Google Data Centers around the world",
+      "url": "https://datacenters.google/locations/",
+      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://datacenters.google/loc...",
+      "score": 32
     },
     {
       "type": "HackerNews",
-      "title": "Chapter 1 of Ways of Seeing by John Berger",
-      "url": "https://www.ways-of-seeing.com/ch1",
-      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.ways-of-seeing.com...",
-      "score": 5
+      "title": "The gap in shared understanding of LLM capability is widening",
+      "url": "https://twitter.com/karpathy/status/2109361546505966046",
+      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://twitter.com/karpathy/s...",
+      "score": 188
     },
     {
       "type": "HackerNews",
-      "title": "Valen's Memory Safety: A New Kind of Borrow Checking",
-      "url": "https://verdagon.dev/blog/valen-group-borrowing",
-      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://verdagon.dev/blog/vale...",
-      "score": 109
+      "title": "Fingerprints Are the New Cookies",
+      "url": "https://royfish.dev/fingerprints-are-the-new-cookies",
+      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://royfish.dev/fingerprin...",
+      "score": 29
     },
     {
       "type": "HackerNews",
-      "title": "How I reverse engineered a commercial spatial audio effect",
-      "url": "http://epestr.com/blog/reverse-engineering-a-commercial-spatial-audio-effect/",
-      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：http://epestr.com/blog/reverse...",
-      "score": 48
+      "title": "So, You’d Like To Sell Your Print Issues Of The Onion?",
+      "url": "https://theonion.com/archivehunt/",
+      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://theonion.com/archivehu...",
+      "score": 227
     }
   ]
 }
