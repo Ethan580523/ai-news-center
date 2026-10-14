@@ -1,61 +1,61 @@
 {
-  "last_updated": "2026-10-14 19:11:07",
+  "last_updated": "2026-10-14 23:43:07",
   "news": [
     {
       "type": "HackerNews",
-      "title": "AI agents aren't 'going rogue.' Frontier labs are skipping security basics",
-      "url": "https://www.csoonline.com/article/4234854/ai-agents-arent-going-rogue-frontier-labs-are-skipping-security-basics.html",
-      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.csoonline.com/arti...",
-      "score": 404
+      "title": "Things to know when you get cancer – 2026 Edition",
+      "url": "https://jjmaxwell4.com/writing/things-to-know-when-you-get-cancer/",
+      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://jjmaxwell4.com/writing...",
+      "score": 614
     },
     {
       "type": "HackerNews",
-      "title": "Fire at Starlink site in Bulgaria after suspected sabotage in Poland",
-      "url": "https://dpa-international.com/politics/urn:newsml:dpa.com:20090101:261014-930-839530/",
-      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://dpa-international.com/...",
-      "score": 26
+      "title": "OpenCode 2.0",
+      "url": "https://anoma.ly/notes/opencode-2-0/",
+      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://anoma.ly/notes/opencod...",
+      "score": 211
     },
     {
       "type": "HackerNews",
-      "title": "How the Military Will Hack the Election",
-      "url": "https://www.kenklippenstein.com/p/how-the-military-will-hack-the-election",
-      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.kenklippenstein.co...",
-      "score": 70
+      "title": "We’re releasing Jev 1.14.0 along with experimental features for dreamers",
+      "url": "https://typesafe.ai/blog/jev-1-14",
+      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://typesafe.ai/blog/jev-1...",
+      "score": 129
+    },
+    {
+      "type": "HackerNews",
+      "title": "Tiny Little Office",
+      "url": "https://tinylittleoffice.com/",
+      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://tinylittleoffice.com/...",
+      "score": 67
+    },
+    {
+      "type": "HackerNews",
+      "title": "Passkeys are not a trap",
+      "url": "https://scotthelme.co.uk/passkeys-are-not-a-trap/",
+      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://scotthelme.co.uk/passk...",
+      "score": 423
+    },
+    {
+      "type": "HackerNews",
+      "title": "Do dentists know what they're doing?",
+      "url": "https://mapwriting.substack.com/p/dentists",
+      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://mapwriting.substack.co...",
+      "score": 337
     },
     {
       "type": "HackerNews",
       "title": "Better HTTP/1 connection reuse in Go 1.27",
       "url": "https://go.dev/blog/http-connection-reuse",
       "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://go.dev/blog/http-conne...",
-      "score": 98
+      "score": 184
     },
     {
       "type": "HackerNews",
-      "title": "Iosevka is an open-source, sans-serif and slab-serif monospace font",
-      "url": "https://typeof.net/Iosevka/",
-      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://typeof.net/Iosevka/...",
-      "score": 609
-    },
-    {
-      "type": "HackerNews",
-      "title": "Submarine cable resilience",
-      "url": "https://blog.apnic.net/2026/10/14/submarine-cable-resilience/",
-      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://blog.apnic.net/2026/10...",
-      "score": 89
-    },
-    {
-      "type": "HackerNews",
-      "title": "Banks are now trying to offload the AI data center debt they just underwrote",
-      "url": "https://startupfortune.com/banks-are-now-trying-to-offload-the-ai-data-center-debt-they-just-underwrote/",
-      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://startupfortune.com/ban...",
-      "score": 41
-    },
-    {
-      "type": "HackerNews",
-      "title": "Neckbeard – a DevOps/platform/SRE plugin for your agent",
-      "url": "https://github.com/bealesh/neckbeard",
-      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://github.com/bealesh/nec...",
-      "score": 14
+      "title": "Containment and monitoring failures are to blame for AI hacking reports: experts",
+      "url": "https://www.csoonline.com/article/4234854/ai-agents-arent-going-rogue-frontier-labs-are-skipping-security-basics.html",
+      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.csoonline.com/arti...",
+      "score": 811
     }
   ]
 }
