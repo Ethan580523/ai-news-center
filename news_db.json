@@ -1,61 +1,61 @@
 {
-  "last_updated": "2026-10-14 14:20:57",
+  "last_updated": "2026-10-14 19:11:07",
   "news": [
     {
       "type": "HackerNews",
-      "title": "Iosevka is an open-source, sans-serif and slab-serif, monospace font",
+      "title": "AI agents aren't 'going rogue.' Frontier labs are skipping security basics",
+      "url": "https://www.csoonline.com/article/4234854/ai-agents-arent-going-rogue-frontier-labs-are-skipping-security-basics.html",
+      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.csoonline.com/arti...",
+      "score": 404
+    },
+    {
+      "type": "HackerNews",
+      "title": "Fire at Starlink site in Bulgaria after suspected sabotage in Poland",
+      "url": "https://dpa-international.com/politics/urn:newsml:dpa.com:20090101:261014-930-839530/",
+      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://dpa-international.com/...",
+      "score": 26
+    },
+    {
+      "type": "HackerNews",
+      "title": "How the Military Will Hack the Election",
+      "url": "https://www.kenklippenstein.com/p/how-the-military-will-hack-the-election",
+      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.kenklippenstein.co...",
+      "score": 70
+    },
+    {
+      "type": "HackerNews",
+      "title": "Better HTTP/1 connection reuse in Go 1.27",
+      "url": "https://go.dev/blog/http-connection-reuse",
+      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://go.dev/blog/http-conne...",
+      "score": 98
+    },
+    {
+      "type": "HackerNews",
+      "title": "Iosevka is an open-source, sans-serif and slab-serif monospace font",
       "url": "https://typeof.net/Iosevka/",
       "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://typeof.net/Iosevka/...",
-      "score": 356
+      "score": 609
     },
     {
       "type": "HackerNews",
-      "title": "Pg_vectorsearch: An index that is faster than pgvector's IVFFlat and HNSW",
-      "url": "https://github.com/timescale/pg_vectorsearch",
-      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://github.com/timescale/p...",
-      "score": 80
+      "title": "Submarine cable resilience",
+      "url": "https://blog.apnic.net/2026/10/14/submarine-cable-resilience/",
+      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://blog.apnic.net/2026/10...",
+      "score": 89
     },
     {
       "type": "HackerNews",
-      "title": "RIP Eric Binnion",
-      "url": "https://ma.tt/2026/10/rip-eric/",
-      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://ma.tt/2026/10/rip-eric...",
-      "score": 39
+      "title": "Banks are now trying to offload the AI data center debt they just underwrote",
+      "url": "https://startupfortune.com/banks-are-now-trying-to-offload-the-ai-data-center-debt-they-just-underwrote/",
+      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://startupfortune.com/ban...",
+      "score": 41
     },
     {
       "type": "HackerNews",
-      "title": "Pulsar at ESUG 2026 (new Smalltalk IDE)",
-      "url": "https://blog.lorenzano.eu/pulsar-at-esug-2026/",
-      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://blog.lorenzano.eu/puls...",
-      "score": 46
-    },
-    {
-      "type": "HackerNews",
-      "title": "Amazon pushes up prices across the Internet",
-      "url": "https://www.not-ship.com/how-amazon-pushes-up-prices-all-across-the-internet/",
-      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.not-ship.com/how-a...",
-      "score": 263
-    },
-    {
-      "type": "HackerNews",
-      "title": "Sound – Bartosz Ciechanowski (2022)",
-      "url": "https://ciechanow.ski/sound/",
-      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://ciechanow.ski/sound/...",
-      "score": 192
-    },
-    {
-      "type": "HackerNews",
-      "title": "The Aaronson Oracle",
-      "url": "https://aaronsonoracle.com/",
-      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://aaronsonoracle.com/...",
-      "score": 25
-    },
-    {
-      "type": "HackerNews",
-      "title": "Show HN: Guitoro, a virtual guitar you strum with your keyboard",
-      "url": "https://guitoro.com/",
-      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://guitoro.com/...",
-      "score": 500
+      "title": "Neckbeard – a DevOps/platform/SRE plugin for your agent",
+      "url": "https://github.com/bealesh/neckbeard",
+      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://github.com/bealesh/nec...",
+      "score": 14
     }
   ]
 }
