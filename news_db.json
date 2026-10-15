@@ -1,61 +1,61 @@
 {
-  "last_updated": "2026-10-15 20:59:13",
+  "last_updated": "2026-10-15 23:38:14",
   "news": [
     {
       "type": "HackerNews",
       "title": "Muse Spark Open",
       "url": "https://research.meta.ai/blog/muse-spark-open",
-      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://research.meta.ai/blog/...",
-      "score": 433
+      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://research.meta.ai/blog/...",
+      "score": 565
+    },
+    {
+      "type": "HackerNews",
+      "title": "What I Self-Host",
+      "url": "https://viceconsole.fyi/blog/2026/10/10/what-i-self-host/",
+      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://viceconsole.fyi/blog/2...",
+      "score": 176
     },
     {
       "type": "HackerNews",
       "title": "Neural networks are clean",
       "url": "https://already-clean.goodfire.com/",
-      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://already-clean.goodfire...",
-      "score": 354
+      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://already-clean.goodfire...",
+      "score": 457
     },
     {
       "type": "HackerNews",
-      "title": "Why are we even doing all this?",
-      "url": "https://terrytao.wordpress.com/2026/10/15/why-are-we-even-doing-all-this/",
-      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://terrytao.wordpress.com...",
-      "score": 36
-    },
-    {
-      "type": "HackerNews",
-      "title": "E Ink Kaleido 4",
-      "url": "https://www.eink.com/news/detail/EInk-Launches-Latest-Version-of-Color-ePaper-Platform-E-Ink-Kaleido-4",
-      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.eink.com/news/deta...",
-      "score": 69
+      "title": "Someone on Torrent Sites Kept Fucking with My Sonarr",
+      "url": "https://thereallo.dev/blog/someone-on-torrent-sites-kept-fucking-with-my-sonarr-setup",
+      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://thereallo.dev/blog/som...",
+      "score": 172
     },
     {
       "type": "HackerNews",
       "title": "Wayland desktop for Linux with skeuomorphic design",
       "url": "https://github.com/fyzugx/DEsk",
-      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://github.com/fyzugx/DEsk...",
-      "score": 419
+      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://github.com/fyzugx/DEsk...",
+      "score": 469
+    },
+    {
+      "type": "HackerNews",
+      "title": "Jev meets the Trolley Problem",
+      "url": "https://zachlandes.com/trolley-problem/",
+      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://zachlandes.com/trolley...",
+      "score": 255
+    },
+    {
+      "type": "HackerNews",
+      "title": "AdFection: Targeted ads turned into a pipeline for zero-click mercenary spyware",
+      "url": "https://citizenlab.ca/research/how-discover-tech-turned-targeted-ads-into-a-pipeline-for-spyware/",
+      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://citizenlab.ca/research...",
+      "score": 359
     },
     {
       "type": "HackerNews",
       "title": "Krea 3 – An image model built for editing at scale",
       "url": "https://www.krea.ai/krea-3",
       "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.krea.ai/krea-3...",
-      "score": 192
-    },
-    {
-      "type": "HackerNews",
-      "title": "AdFection: Targeted ads turned into a pipeline for zero-click mercenary spyware",
-      "url": "https://citizenlab.ca/research/how-discover-tech-turned-targeted-ads-into-a-pipeline-for-spyware/",
-      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://citizenlab.ca/research...",
-      "score": 302
-    },
-    {
-      "type": "HackerNews",
-      "title": "Why I Wrote PGP (1991, revised 1999)",
-      "url": "https://philzimmermann.com/EN/essays/WhyIWrotePGP.html",
-      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://philzimmermann.com/EN/...",
-      "score": 62
+      "score": 227
     }
   ]
 }
