@@ -1,61 +1,61 @@
 {
-  "last_updated": "2026-10-14 23:43:07",
+  "last_updated": "2026-10-15 03:27:54",
   "news": [
     {
       "type": "HackerNews",
-      "title": "Things to know when you get cancer – 2026 Edition",
+      "title": "Things to know when you get cancer",
       "url": "https://jjmaxwell4.com/writing/things-to-know-when-you-get-cancer/",
-      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://jjmaxwell4.com/writing...",
-      "score": 614
+      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://jjmaxwell4.com/writing...",
+      "score": 912
     },
     {
       "type": "HackerNews",
       "title": "OpenCode 2.0",
       "url": "https://anoma.ly/notes/opencode-2-0/",
       "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://anoma.ly/notes/opencod...",
-      "score": 211
+      "score": 372
+    },
+    {
+      "type": "HackerNews",
+      "title": "Tiny Little Office",
+      "url": "https://tinylittleoffice.com/",
+      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://tinylittleoffice.com/...",
+      "score": 205
     },
     {
       "type": "HackerNews",
       "title": "We’re releasing Jev 1.14.0 along with experimental features for dreamers",
       "url": "https://typesafe.ai/blog/jev-1-14",
       "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://typesafe.ai/blog/jev-1...",
-      "score": 129
+      "score": 215
     },
     {
       "type": "HackerNews",
-      "title": "Tiny Little Office",
-      "url": "https://tinylittleoffice.com/",
-      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://tinylittleoffice.com/...",
-      "score": 67
-    },
-    {
-      "type": "HackerNews",
-      "title": "Passkeys are not a trap",
-      "url": "https://scotthelme.co.uk/passkeys-are-not-a-trap/",
-      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://scotthelme.co.uk/passk...",
-      "score": 423
+      "title": "LFM2.5-24B-A2B: Built for fast on-device agents",
+      "url": "https://www.liquid.ai/blog/lfm2-5-24b-a2b",
+      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.liquid.ai/blog/lfm...",
+      "score": 96
     },
     {
       "type": "HackerNews",
       "title": "Do dentists know what they're doing?",
       "url": "https://mapwriting.substack.com/p/dentists",
-      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://mapwriting.substack.co...",
-      "score": 337
+      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://mapwriting.substack.co...",
+      "score": 482
     },
     {
       "type": "HackerNews",
-      "title": "Better HTTP/1 connection reuse in Go 1.27",
-      "url": "https://go.dev/blog/http-connection-reuse",
-      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://go.dev/blog/http-conne...",
-      "score": 184
+      "title": "The Double Headed Stack Allocator",
+      "url": "https://blog.demofox.org/2026/10/03/the-double-headed-stack-allocator/",
+      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://blog.demofox.org/2026/...",
+      "score": 20
     },
     {
       "type": "HackerNews",
-      "title": "Containment and monitoring failures are to blame for AI hacking reports: experts",
-      "url": "https://www.csoonline.com/article/4234854/ai-agents-arent-going-rogue-frontier-labs-are-skipping-security-basics.html",
-      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.csoonline.com/arti...",
-      "score": 811
+      "title": "Donaldson Futuro House in Idyllwild, California, USA",
+      "url": "https://www.wowhaus.co.uk/2026/10/12/donaldson-futuro-house-in-idyllwild-california-usa/",
+      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.wowhaus.co.uk/2026...",
+      "score": 8
     }
   ]
 }
