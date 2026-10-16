@@ -1,61 +1,61 @@
 {
-  "last_updated": "2026-10-16 16:10:21",
+  "last_updated": "2026-10-16 20:33:59",
   "news": [
     {
       "type": "HackerNews",
-      "title": "Big Fish: Exploiting a 37-Year-Old Kernel Bug in OpenBSD",
-      "url": "https://calif.io/research/big-fish",
-      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://calif.io/research/big-...",
-      "score": 58
+      "title": "Tesla Roadster",
+      "url": "https://www.tesla.com/roadster",
+      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.tesla.com/roadster...",
+      "score": 799
     },
     {
       "type": "HackerNews",
-      "title": "What on Earth Is Dekton?",
-      "url": "https://www.worksinprogress.news/p/porcelain",
-      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.worksinprogress.ne...",
-      "score": 30
+      "title": "Claude reveals ECDSA curve origins",
+      "url": "https://www.anthropic.com/research/ecdsa-curve-origins",
+      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.anthropic.com/rese...",
+      "score": 319
     },
     {
       "type": "HackerNews",
-      "title": "Apple ML Research: Muse Spark Open with MLX on Mac Studio",
-      "url": "https://machinelearning.apple.com/research/mlx-distributed-inference",
-      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://machinelearning.apple....",
-      "score": 65
+      "title": "Llama.cpp on a jailbroken PS5: run any GGUF model natively on the console",
+      "url": "https://github.com/cobanov/PS5LM",
+      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://github.com/cobanov/PS5...",
+      "score": 76
     },
     {
       "type": "HackerNews",
-      "title": "I Love Software Rendering",
-      "url": "https://www.jamesfmackenzie.com/2026/10/13/i-love-software-rendering/",
-      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.jamesfmackenzie.co...",
-      "score": 176
+      "title": "Flux 3 Image Klein: open weights, 5.6B parameters",
+      "url": "https://bfl.ai/blog/flux-3-image-klein",
+      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://bfl.ai/blog/flux-3-ima...",
+      "score": 12
     },
     {
       "type": "HackerNews",
-      "title": "Show HN: Gemini 4 Argon plays StarCraft",
-      "url": "https://starskirmish.com/bench/v0-2/",
-      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://starskirmish.com/bench...",
+      "title": "The Fatal Flaw of 911",
+      "url": "https://www.themarshallproject.org/2026/10/16/911-book-policing-mental-health",
+      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.themarshallproject...",
+      "score": 19
+    },
+    {
+      "type": "HackerNews",
+      "title": "Waymo in Toronto",
+      "url": "https://waymo.com/blog/2026/10/waymo-in-toronto/",
+      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://waymo.com/blog/2026/10...",
+      "score": 161
+    },
+    {
+      "type": "HackerNews",
+      "title": "JPEG XL vs. AVIF for web use-cases",
+      "url": "https://jakearchibald.com/2026/jpeg-xl-vs-avif/",
+      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://jakearchibald.com/2026...",
+      "score": 137
+    },
+    {
+      "type": "HackerNews",
+      "title": "Designing more efficient quantum circuits with Claude",
+      "url": "https://www.anthropic.com/research/designing-efficient-quantum-circuits",
+      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.anthropic.com/rese...",
       "score": 51
-    },
-    {
-      "type": "HackerNews",
-      "title": "How to Formalize All of Mathematics",
-      "url": "https://xenaproject.wordpress.com/2026/10/16/how-to-formalize-all-of-mathematics/",
-      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://xenaproject.wordpress....",
-      "score": 34
-    },
-    {
-      "type": "HackerNews",
-      "title": "Is Liquid Metal Killing Our PCs? Scientific Analysis and a 2-Year Test [video]",
-      "url": "https://www.youtube.com/watch?v=eF6bMSjPepM",
-      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.youtube.com/watch?...",
-      "score": 37
-    },
-    {
-      "type": "HackerNews",
-      "title": "Gyroscopes Got So Small [video]",
-      "url": "https://www.youtube.com/watch?v=0Zc_6xB5W3Y",
-      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.youtube.com/watch?...",
-      "score": 45
     }
   ]
 }
