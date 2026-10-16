@@ -1,61 +1,61 @@
 {
-  "last_updated": "2026-10-15 23:38:14",
+  "last_updated": "2026-10-16 03:23:48",
   "news": [
     {
       "type": "HackerNews",
       "title": "Muse Spark Open",
       "url": "https://research.meta.ai/blog/muse-spark-open",
       "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://research.meta.ai/blog/...",
-      "score": 565
+      "score": 662
     },
     {
       "type": "HackerNews",
-      "title": "What I Self-Host",
-      "url": "https://viceconsole.fyi/blog/2026/10/10/what-i-self-host/",
-      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://viceconsole.fyi/blog/2...",
-      "score": 176
+      "title": "RPKI now protects 70% of internet routes",
+      "url": "https://ipinfo.io/blog/rpki-protects-70-internet-routes",
+      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://ipinfo.io/blog/rpki-pr...",
+      "score": 62
+    },
+    {
+      "type": "HackerNews",
+      "title": "Any window from your Mac, on your iPhone and iPad",
+      "url": "https://github.com/Saffsanity/sill",
+      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://github.com/Saffsanity/...",
+      "score": 33
+    },
+    {
+      "type": "HackerNews",
+      "title": "Business accounts will consent to Meta scraping their websites Starting Oct. 30",
+      "url": "https://www.niemanlab.org/2026/10/metas-new-commercial-terms-will-allow-the-scraping-of-news-sites-legal-experts-say/",
+      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.niemanlab.org/2026...",
+      "score": 72
     },
     {
       "type": "HackerNews",
       "title": "Neural networks are clean",
       "url": "https://already-clean.goodfire.com/",
-      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://already-clean.goodfire...",
-      "score": 457
+      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://already-clean.goodfire...",
+      "score": 541
     },
     {
       "type": "HackerNews",
-      "title": "Someone on Torrent Sites Kept Fucking with My Sonarr",
-      "url": "https://thereallo.dev/blog/someone-on-torrent-sites-kept-fucking-with-my-sonarr-setup",
-      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://thereallo.dev/blog/som...",
-      "score": 172
+      "title": "Apple routed a graphite pipe through the iPhone Duo's hinge to dissipate heat",
+      "url": "https://www.pcmag.com/news/apple-routed-a-graphite-pipe-through-the-iphone-duos-hinge",
+      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.pcmag.com/news/app...",
+      "score": 69
+    },
+    {
+      "type": "HackerNews",
+      "title": "What I self-host",
+      "url": "https://viceconsole.fyi/blog/2026/10/10/what-i-self-host/",
+      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://viceconsole.fyi/blog/2...",
+      "score": 312
     },
     {
       "type": "HackerNews",
       "title": "Wayland desktop for Linux with skeuomorphic design",
       "url": "https://github.com/fyzugx/DEsk",
-      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://github.com/fyzugx/DEsk...",
-      "score": 469
-    },
-    {
-      "type": "HackerNews",
-      "title": "Jev meets the Trolley Problem",
-      "url": "https://zachlandes.com/trolley-problem/",
-      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://zachlandes.com/trolley...",
-      "score": 255
-    },
-    {
-      "type": "HackerNews",
-      "title": "AdFection: Targeted ads turned into a pipeline for zero-click mercenary spyware",
-      "url": "https://citizenlab.ca/research/how-discover-tech-turned-targeted-ads-into-a-pipeline-for-spyware/",
-      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://citizenlab.ca/research...",
-      "score": 359
-    },
-    {
-      "type": "HackerNews",
-      "title": "Krea 3 – An image model built for editing at scale",
-      "url": "https://www.krea.ai/krea-3",
-      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.krea.ai/krea-3...",
-      "score": 227
+      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://github.com/fyzugx/DEsk...",
+      "score": 537
     }
   ]
 }
