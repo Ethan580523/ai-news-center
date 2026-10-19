@@ -1,61 +1,61 @@
 {
-  "last_updated": "2026-10-19 12:18:15",
+  "last_updated": "2026-10-19 20:23:20",
   "news": [
     {
       "type": "HackerNews",
-      "title": "Documents: Police officer gave her Flock login to her ICE agent husband",
-      "url": "https://www.wjcl.com/article/savannah-police-officer-ice-agent-flock-access/74135816",
-      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.wjcl.com/article/s...",
-      "score": 88
+      "title": "MiniMax M3.1 Flash",
+      "url": "https://www.minimax.io/blog/minimax-m31f",
+      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.minimax.io/blog/mi...",
+      "score": 246
     },
     {
       "type": "HackerNews",
-      "title": "Linux 7.3 Released",
-      "url": "https://lwn.net/Articles/1101143/",
-      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://lwn.net/Articles/11011...",
-      "score": 302
+      "title": "I built a drone with only one motor [video]",
+      "url": "https://www.youtube.com/watch?v=Ndftcft6XhU",
+      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.youtube.com/watch?...",
+      "score": 128
     },
     {
       "type": "HackerNews",
-      "title": "Timestral: Mistral release time-series foundation models",
-      "url": "https://mistral.ai/news/timestral/",
-      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://mistral.ai/news/timest...",
-      "score": 79
+      "title": "Wine ported to OpenBSD",
+      "url": "https://marc.info/?l=openbsd-ports&m=179236125692175",
+      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://marc.info/?l=openbsd-p...",
+      "score": 421
     },
     {
       "type": "HackerNews",
-      "title": "Let's Encrypt is adding two additional remote perspectives for domain validation",
-      "url": "https://community.letsencrypt.org/t/lets-encrypt-is-adding-two-additional-remote-perspectives-for-domain-validation/252166",
-      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://community.letsencrypt....",
-      "score": 33
+      "title": "Android apps running native on macOS",
+      "url": "https://github.com/kksimp/Mac.apk",
+      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://github.com/kksimp/Mac....",
+      "score": 154
     },
     {
       "type": "HackerNews",
-      "title": "Gdynia and the Dream of a Maritime Poland",
-      "url": "https://engelsbergideas.com/notebook/gdynia-and-the-dream-of-a-maritime-poland/",
-      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://engelsbergideas.com/no...",
-      "score": 19
+      "title": "The reverts will continue until morale improves",
+      "url": "http://peter.eisentraut.org/blog/2026/10/09/the-reverts-will-continue-until-morale-improves",
+      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：http://peter.eisentraut.org/bl...",
+      "score": 48
     },
     {
       "type": "HackerNews",
-      "title": "ESA's Hera Will View Asteroid Scars from DART's Strike",
-      "url": "https://spectrum.ieee.org/esa-hera-dimorphos-rendezvous",
-      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://spectrum.ieee.org/esa-...",
-      "score": 9
+      "title": "It's still ok to enjoy programming",
+      "url": "https://chriskiehl.com/article/it-is-still-ok-to-enjoy-programming",
+      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://chriskiehl.com/article...",
+      "score": 285
     },
     {
       "type": "HackerNews",
-      "title": "Hybrid Reasoning Agents: LLM agents that think in latent space, act through text",
-      "url": "https://arxiv.org/abs/2610.18861",
-      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://arxiv.org/abs/2610.188...",
-      "score": 434
+      "title": "RuneScape Bench: MMOs for Agents [video]",
+      "url": "https://www.youtube.com/watch?v=cNm4zyUtWj0",
+      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.youtube.com/watch?...",
+      "score": 81
     },
     {
       "type": "HackerNews",
-      "title": "How to Train Your Robot",
-      "url": "https://www.construction-physics.com/p/how-to-train-your-robot",
-      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.construction-physi...",
-      "score": 65
+      "title": "The fire retardant in the seafood chain",
+      "url": "https://insideclimatenews.org/news/14102026/ethoxyquin-fire-retardant-in-seafood-chain/",
+      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://insideclimatenews.org/...",
+      "score": 53
     }
   ]
 }
