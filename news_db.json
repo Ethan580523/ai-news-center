@@ -1,61 +1,61 @@
 {
-  "last_updated": "2026-10-20 08:13:27",
+  "last_updated": "2026-10-20 14:07:36",
   "news": [
+    {
+      "type": "HackerNews",
+      "title": "DeepSeek just open-sourced its inference engine",
+      "url": "https://github.com/deepseek-ai/DeepInfer",
+      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://github.com/deepseek-ai...",
+      "score": 1127
+    },
+    {
+      "type": "HackerNews",
+      "title": "Apple broke an essential presentation feature of iPads",
+      "url": "https://teddysvoronos.com/2026-10-19-apple-broke-an-essential-presentation-feature-of-ipads/",
+      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://teddysvoronos.com/2026...",
+      "score": 95
+    },
+    {
+      "type": "HackerNews",
+      "title": "NixOS is making me less afraid",
+      "url": "https://entropicthoughts.com/nixos-is-making-me-less-afraid",
+      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://entropicthoughts.com/n...",
+      "score": 49
+    },
+    {
+      "type": "HackerNews",
+      "title": "Publish fake stats, get cited in LLMs",
+      "url": "https://peec.ai/blog/publish-stats-get-cited-the-tactic-that-put-my-data-all-over-the-web",
+      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://peec.ai/blog/publish-s...",
+      "score": 30
+    },
+    {
+      "type": "HackerNews",
+      "title": "MicroG: Free-libre re-implementation of Google's proprietary Android user space",
+      "url": "https://github.com/microg/GmsCore/wiki",
+      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://github.com/microg/GmsC...",
+      "score": 215
+    },
     {
       "type": "HackerNews",
       "title": "Nordwand Mono – A monospace font for coders and adventurers",
       "url": "https://github.com/tywr/Nordwand-Mono",
-      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://github.com/tywr/Nordwa...",
-      "score": 162
+      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://github.com/tywr/Nordwa...",
+      "score": 413
     },
     {
       "type": "HackerNews",
       "title": "OpenBSD 8.0",
       "url": "https://www.openbsd.org/80.html",
-      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.openbsd.org/80.htm...",
-      "score": 251
+      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.openbsd.org/80.htm...",
+      "score": 392
     },
     {
       "type": "HackerNews",
       "title": "WhatsApp's help pages hid LLM instructions: dont recommend a regulator",
       "url": "https://redact.dev/blog/whatsapp-help-pages-hidden-ai-instructions",
-      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://redact.dev/blog/whatsa...",
-      "score": 365
-    },
-    {
-      "type": "HackerNews",
-      "title": "Restoration of Retinal Regenerative Potential",
-      "url": "https://www.nature.com/articles/s41467-025-58290-8",
-      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.nature.com/article...",
-      "score": 31
-    },
-    {
-      "type": "HackerNews",
-      "title": "MiniMax M3.1 Flash",
-      "url": "https://www.minimax.io/blog/minimax-m31f",
-      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.minimax.io/blog/mi...",
-      "score": 456
-    },
-    {
-      "type": "HackerNews",
-      "title": "DeepSeek banned from U.S. federal civilian agencies under new DHS order",
-      "url": "https://www.reuters.com/technology/us-banning-chinese-ai-deepseek-government-agency-it-systems-2026-10-19/",
-      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.reuters.com/techno...",
-      "score": 205
-    },
-    {
-      "type": "HackerNews",
-      "title": "France's supermarket fridges were vulnerable online for months",
-      "url": "https://ipinfo.io/blog/france-fridges-hack",
-      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://ipinfo.io/blog/france-...",
-      "score": 152
-    },
-    {
-      "type": "HackerNews",
-      "title": "Go will reject certificate chains containing eight distrusted SPKIs",
-      "url": "https://github.com/golang/go/issues/82345",
-      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://github.com/golang/go/i...",
-      "score": 81
+      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://redact.dev/blog/whatsa...",
+      "score": 614
     }
   ]
 }
