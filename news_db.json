@@ -1,61 +1,61 @@
 {
-  "last_updated": "2026-10-25 15:38:25",
+  "last_updated": "2026-10-25 20:26:24",
   "news": [
     {
       "type": "HackerNews",
-      "title": "Show HN: I put employees inside S&P 500 market-cap bubbles",
-      "url": "https://bigwhalehunting.com/workforce/",
-      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://bigwhalehunting.com/wo...",
-      "score": 32
+      "title": "Dolly Parton's Imagination Library",
+      "url": "https://imaginationlibrary.com/",
+      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://imaginationlibrary.com...",
+      "score": 164
     },
     {
       "type": "HackerNews",
-      "title": "Tool book of a Nuremberg knight from 1505",
-      "url": "https://loeffelholz-codex.org/en/",
-      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://loeffelholz-codex.org/...",
-      "score": 109
+      "title": "Eunice is almost here (William Gibson, Agency)",
+      "url": "https://armincat.com/articles/eunice-is-almost-here",
+      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://armincat.com/articles/...",
+      "score": 13
     },
     {
       "type": "HackerNews",
-      "title": "fheroes2: A recreation of Heroes of Might and Magic II game engine",
-      "url": "https://github.com/ihhub/fheroes2",
-      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://github.com/ihhub/fhero...",
-      "score": 111
+      "title": "A 10-year-old CNN outperforms frontier LLMs for skin cancer diagnosis",
+      "url": "https://lynchlab.net/llm-skin-cancer",
+      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://lynchlab.net/llm-skin-...",
+      "score": 257
     },
     {
       "type": "HackerNews",
-      "title": "We should be more ambitious with the software we build",
-      "url": "https://danluu.com/ambitious/",
-      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://danluu.com/ambitious/...",
-      "score": 577
+      "title": "I refuse to accept a censored Internet. Join Me at FOSDEM 27",
+      "url": "https://talkweb.eu/openweb/4558/",
+      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://talkweb.eu/openweb/455...",
+      "score": 247
     },
     {
       "type": "HackerNews",
-      "title": "Show HN: Farol – a risk map of a pull request for the person who approves it",
-      "url": "https://github.com/winnin/farol",
-      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://github.com/winnin/faro...",
-      "score": 34
+      "title": "JetBrains Thinkrail",
+      "url": "https://github.com/JetBrains/thinkrail",
+      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://github.com/JetBrains/t...",
+      "score": 78
     },
     {
       "type": "HackerNews",
-      "title": "A Few Thoughts on Intensity",
-      "url": "https://www.tylerhogge.com/blog/a-few-thoughts-on-intensity/",
-      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.tylerhogge.com/blo...",
-      "score": 7
+      "title": "Oregon Police Are Charging a Local News Outlet $2.5M for Records About One Cop",
+      "url": "https://theintercept.com/2026/10/01/oregon-police-misconduct-public-records-cost-fee/",
+      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://theintercept.com/2026/...",
+      "score": 191
     },
     {
       "type": "HackerNews",
-      "title": "Cerebras Deploys Trillion-Parameter AI Models",
-      "url": "https://www.cerebras.ai/blog/how-we-deploy-trillion-parameter-frontier-models-on-cerebras",
-      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.cerebras.ai/blog/h...",
-      "score": 268
+      "title": "Why I Am a Programmer",
+      "url": "https://www.alfie.wtf/programming/why-i-am-a-programmer.html",
+      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.alfie.wtf/programm...",
+      "score": 10
     },
     {
       "type": "HackerNews",
-      "title": "How Japanese Dried Bonito Is Made",
-      "url": "https://kottke.org/26/10/how-japanese-dried-bonito-is-made",
-      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://kottke.org/26/10/how-j...",
-      "score": 126
+      "title": "Dijkstra vs. A* vs. Contraction Hierarchies",
+      "url": "https://arcadedb.com/route-planning.html",
+      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://arcadedb.com/route-pla...",
+      "score": 22
     }
   ]
 }
