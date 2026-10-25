@@ -1,61 +1,61 @@
 {
-  "last_updated": "2026-10-25 10:50:41",
+  "last_updated": "2026-10-25 15:38:25",
   "news": [
     {
       "type": "HackerNews",
-      "title": "Meta Ignores Brazilian Court Order to End Bolsonaro Favoritism",
-      "url": "https://www.panamericandispatch.org/p/meta-ignores-brazilian-court-order",
-      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.panamericandispatc...",
-      "score": 159
+      "title": "Show HN: I put employees inside S&P 500 market-cap bubbles",
+      "url": "https://bigwhalehunting.com/workforce/",
+      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://bigwhalehunting.com/wo...",
+      "score": 32
+    },
+    {
+      "type": "HackerNews",
+      "title": "Tool book of a Nuremberg knight from 1505",
+      "url": "https://loeffelholz-codex.org/en/",
+      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://loeffelholz-codex.org/...",
+      "score": 109
+    },
+    {
+      "type": "HackerNews",
+      "title": "fheroes2: A recreation of Heroes of Might and Magic II game engine",
+      "url": "https://github.com/ihhub/fheroes2",
+      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://github.com/ihhub/fhero...",
+      "score": 111
     },
     {
       "type": "HackerNews",
       "title": "We should be more ambitious with the software we build",
       "url": "https://danluu.com/ambitious/",
       "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://danluu.com/ambitious/...",
-      "score": 448
+      "score": 577
+    },
+    {
+      "type": "HackerNews",
+      "title": "Show HN: Farol – a risk map of a pull request for the person who approves it",
+      "url": "https://github.com/winnin/farol",
+      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://github.com/winnin/faro...",
+      "score": 34
+    },
+    {
+      "type": "HackerNews",
+      "title": "A Few Thoughts on Intensity",
+      "url": "https://www.tylerhogge.com/blog/a-few-thoughts-on-intensity/",
+      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.tylerhogge.com/blo...",
+      "score": 7
     },
     {
       "type": "HackerNews",
       "title": "Cerebras Deploys Trillion-Parameter AI Models",
       "url": "https://www.cerebras.ai/blog/how-we-deploy-trillion-parameter-frontier-models-on-cerebras",
       "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.cerebras.ai/blog/h...",
-      "score": 183
-    },
-    {
-      "type": "HackerNews",
-      "title": "France asked ISPs to prepare temporary DNS blocks for major social platforms",
-      "url": "https://www.blast-info.fr/articles/2026/information-exclusive-blast-le-premier-ministre-a-prepare-la-coupure-des-reseaux-sociaux-pour-le-24-octobre-9D8cgrU5S5iiW14Sb9nMzQ",
-      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.blast-info.fr/arti...",
-      "score": 34
+      "score": 268
     },
     {
       "type": "HackerNews",
       "title": "How Japanese Dried Bonito Is Made",
       "url": "https://kottke.org/26/10/how-japanese-dried-bonito-is-made",
-      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://kottke.org/26/10/how-j...",
-      "score": 48
-    },
-    {
-      "type": "HackerNews",
-      "title": "The Goose Programming Language",
-      "url": "https://aardappel.github.io/goose/",
-      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://aardappel.github.io/go...",
-      "score": 419
-    },
-    {
-      "type": "HackerNews",
-      "title": "Rewriting a Commercial Engine in Jai",
-      "url": "https://polygonjs.com/blog/why-i-rewrote-polygon-from-scratch",
-      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://polygonjs.com/blog/why...",
-      "score": 25
-    },
-    {
-      "type": "HackerNews",
-      "title": "SpeedCrunch 1.1",
-      "url": "https://www.speedcrunch.org/",
-      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.speedcrunch.org/...",
-      "score": 153
+      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://kottke.org/26/10/how-j...",
+      "score": 126
     }
   ]
 }
