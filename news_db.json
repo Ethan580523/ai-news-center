@@ -1,61 +1,61 @@
 {
-  "last_updated": "2026-10-26 12:21:20",
+  "last_updated": "2026-10-26 20:18:49",
   "news": [
     {
       "type": "HackerNews",
-      "title": "Switzerland. Block by block. At 1:1 scale",
-      "url": "https://blocks.manifold3d.ch/",
-      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://blocks.manifold3d.ch/...",
-      "score": 211
+      "title": "Type Server Protocol",
+      "url": "https://github.com/microsoft/pylance-release/blob/main/docs/tsp/type-server-protocol.md",
+      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://github.com/microsoft/p...",
+      "score": 111
     },
     {
       "type": "HackerNews",
-      "title": "Websites Should Be Printable",
-      "url": "https://brennenputh.me/blog/printable-websites/",
-      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://brennenputh.me/blog/pr...",
-      "score": 22
+      "title": "Sebastian Raschka's from-scratch video course on building reasoning models",
+      "url": "https://magazine.sebastianraschka.com/p/building-reasoning-models",
+      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://magazine.sebastianrasc...",
+      "score": 409
     },
     {
       "type": "HackerNews",
-      "title": "Birdwatching rewires the brain and slows cognitive decline",
-      "url": "https://www.bbc.com/future/article/20261019-birdwatching-rewires-the-brain-and-slows-cognitive-decline",
-      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.bbc.com/future/art...",
-      "score": 114
+      "title": "Oldest GUI application that still runs on Windows 11",
+      "url": "https://blog.enlyth.com/posts/oldest-windows-gui-app-win-11/",
+      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://blog.enlyth.com/posts/...",
+      "score": 109
     },
     {
       "type": "HackerNews",
-      "title": "Show HN: TitleArt – Make text like it's 1997",
-      "url": "https://titleart.dvy.io/",
-      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://titleart.dvy.io/...",
-      "score": 274
+      "title": "CSS-Tricks has a new owner",
+      "url": "https://css-tricks.com/css-tricks-has-a-new-owner/",
+      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://css-tricks.com/css-tri...",
+      "score": 275
     },
     {
       "type": "HackerNews",
-      "title": "Behind the scenes at the NeXT Computer office",
-      "url": "https://exhibits.stanford.edu/menuez/browse/next-computer-inc?per_page=96&sort=pub_year_isi+asc%2C+title_sort+asc&view=masonry",
-      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://exhibits.stanford.edu/...",
-      "score": 155
+      "title": "GPT-6.1 Terra",
+      "url": "https://openai.com/index/introducing-gpt-6-1-terra/",
+      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://openai.com/index/intro...",
+      "score": 308
     },
     {
       "type": "HackerNews",
-      "title": "PaperPilot – Zero-Cloud, Pure-Rust PDF Engine with WASM and MCP",
-      "url": "https://github.com/KrushnaVardhanReddy/PaperPilot",
-      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://github.com/KrushnaVard...",
-      "score": 167
+      "title": "Nietzschian Debugger",
+      "url": "https://github.com/DilawarShafiq/nietzschian-debugger",
+      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://github.com/DilawarShaf...",
+      "score": 71
     },
     {
       "type": "HackerNews",
-      "title": "Dolly Parton's Imagination Library",
-      "url": "https://imaginationlibrary.com/",
-      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://imaginationlibrary.com...",
-      "score": 572
+      "title": "A Man from the Future: Why Johnny Can't Stop Abstracting",
+      "url": "http://muratbuffalo.blogspot.com/2026/10/the-man-from-future-why-johnny-cant.html",
+      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：http://muratbuffalo.blogspot.c...",
+      "score": 47
     },
     {
       "type": "HackerNews",
-      "title": "Show HN: A Truly Modular Keyboard",
-      "url": "https://github.com/notaroomba/keybytes",
-      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://github.com/notaroomba/...",
-      "score": 187
+      "title": "Anthropic S-1",
+      "url": "https://www.sec.gov/Archives/edgar/data/2130357/000162828026067168/anthropicpbc-sx1.htm",
+      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.sec.gov/Archives/e...",
+      "score": 1275
     }
   ]
 }
