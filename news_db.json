@@ -1,61 +1,61 @@
 {
-  "last_updated": "2026-10-27 00:14:24",
+  "last_updated": "2026-10-27 08:40:56",
   "news": [
     {
       "type": "HackerNews",
-      "title": "Working with academic communities to build scientific understanding",
+      "title": "Three new discoveries in mathematics, computer science, and physics",
       "url": "https://openai.com/index/building-scientific-understanding-with-academic-communities/",
       "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://openai.com/index/build...",
-      "score": 254
+      "score": 846
+    },
+    {
+      "type": "HackerNews",
+      "title": "The Mythical Man-Month in the Age of AI",
+      "url": "https://j11g.com/the-mythical-man-month-in-the-age-of-ai",
+      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://j11g.com/the-mythical-...",
+      "score": 77
     },
     {
       "type": "HackerNews",
       "title": "The Exponential Time Hypothesis Is False [pdf]",
       "url": "https://github.com/openai/math/blob/main/preprints/The-Exponential-Time-Hypothesis-is-False-October-25-2026/paper.pdf",
-      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://github.com/openai/math...",
-      "score": 156
+      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://github.com/openai/math...",
+      "score": 598
     },
     {
       "type": "HackerNews",
-      "title": "Just Imagining a Workout Can Make You Stronger",
-      "url": "https://nautil.us/just-imagining-a-workout-can-make-you-stronger-236068",
-      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://nautil.us/just-imagini...",
-      "score": 45
-    },
-    {
-      "type": "HackerNews",
-      "title": "CorridorKey 2.0",
-      "url": "https://corridorkey.com/",
-      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://corridorkey.com/...",
-      "score": 171
+      "title": "New 'Circadian' Subtype of Depression Affecting 1 in 4 Patients",
+      "url": "https://www.sciencealert.com/researchers-identify-new-circadian-subtype-of-depression-affecting-1-in-4-patients",
+      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.sciencealert.com/r...",
+      "score": 32
     },
     {
       "type": "HackerNews",
       "title": "Sebastian Raschka's from-scratch video course on building reasoning models",
       "url": "https://magazine.sebastianraschka.com/p/building-reasoning-models",
-      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://magazine.sebastianrasc...",
-      "score": 526
+      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://magazine.sebastianrasc...",
+      "score": 691
     },
     {
       "type": "HackerNews",
-      "title": "Cross-request KV cache exposure in the GLM-5.3 Workers AI model (155 responses)",
-      "url": "https://blog.cloudflare.com/kv-cache-exposure-remediation/",
-      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://blog.cloudflare.com/kv...",
-      "score": 42
+      "title": "Writing about pratt parsing so I remember it",
+      "url": "https://www.unix.dog/~yosh/blog/2026-10-25_pratt-parsing.html",
+      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.unix.dog/~yosh/blo...",
+      "score": 19
     },
     {
       "type": "HackerNews",
-      "title": "Type Server Protocol",
-      "url": "https://github.com/microsoft/pylance-release/blob/main/docs/tsp/type-server-protocol.md",
-      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://github.com/microsoft/p...",
-      "score": 178
+      "title": "Oldest GUI application that still runs on Windows 11",
+      "url": "https://blog.enlyth.com/posts/oldest-windows-gui-app-win-11/",
+      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://blog.enlyth.com/posts/...",
+      "score": 401
     },
     {
       "type": "HackerNews",
-      "title": "A Printer Printing onto Paper",
-      "url": "https://twitter.com/macrofying/status/2112904628509528219",
-      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://twitter.com/macrofying...",
-      "score": 32
+      "title": "I still teach OpenGL ES 3.0",
+      "url": "https://eliasfarhan.ch/graphics/cpp/2026/01/27/why-i-teach-opengles.html",
+      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://eliasfarhan.ch/graphic...",
+      "score": 50
     }
   ]
 }
