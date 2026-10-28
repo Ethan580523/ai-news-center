@@ -1,61 +1,61 @@
 {
-  "last_updated": "2026-10-28 04:18:57",
+  "last_updated": "2026-10-28 12:12:36",
   "news": [
     {
       "type": "HackerNews",
-      "title": "Git for US Legislation",
+      "title": "Ten days later, Git on macOS still trusts the compromised eMudhra certificates",
+      "url": "https://emudhra.we-have-a-problem.com/apple.html",
+      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://emudhra.we-have-a-prob...",
+      "score": 68
+    },
+    {
+      "type": "HackerNews",
+      "title": "Start Doing Graph Theory",
+      "url": "https://vertex.degree/",
+      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://vertex.degree/...",
+      "score": 161
+    },
+    {
+      "type": "HackerNews",
+      "title": "Git for the US Code",
       "url": "https://lexifina.com/blog/git-for-the-us-code",
-      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://lexifina.com/blog/git-...",
-      "score": 93
+      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://lexifina.com/blog/git-...",
+      "score": 305
     },
     {
       "type": "HackerNews",
       "title": "Genie 4",
       "url": "https://deepmind.google/blog/genie-4-a-new-generation-of-world-simulation/",
       "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://deepmind.google/blog/g...",
-      "score": 792
+      "score": 923
+    },
+    {
+      "type": "HackerNews",
+      "title": "Ghostty 1.4",
+      "url": "https://ghostty.org/docs/install/release-notes/1-4-0",
+      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://ghostty.org/docs/insta...",
+      "score": 1087
     },
     {
       "type": "HackerNews",
       "title": "Ink droplets in motion snag top prize in Nikon Small World contest",
       "url": "https://arstechnica.com/science/2026/10/meet-the-2026-winner-of-nikons-small-world-photomicrography-contest/",
       "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://arstechnica.com/scienc...",
-      "score": 119
+      "score": 271
     },
     {
       "type": "HackerNews",
-      "title": "Ghostty 1.4",
-      "url": "https://ghostty.org/docs/install/release-notes/1-4-0",
-      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://ghostty.org/docs/insta...",
-      "score": 847
+      "title": "Amazon to buy satellite firm Globalstar in $11.57B deal",
+      "url": "https://www.reuters.com/business/media-telecom/amazon-signs-1157-billion-deal-satellite-firm-globalstar-challenge-starlink-2026-04-14/1157-billion-deal-satellite-firm-globalstar-challenge-starlink-2026-04-14/",
+      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.reuters.com/busine...",
+      "score": 13
     },
     {
       "type": "HackerNews",
-      "title": "Tailscale SSH: Investigation and remediation update",
-      "url": "https://tailscale.com/ssh-investigation-update",
-      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://tailscale.com/ssh-inve...",
-      "score": 228
-    },
-    {
-      "type": "HackerNews",
-      "title": "Early progress on accelerating drug development with Claude",
-      "url": "https://www.anthropic.com/research/early-progress-drug-development",
-      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.anthropic.com/rese...",
-      "score": 166
-    },
-    {
-      "type": "HackerNews",
-      "title": "Assembly Nights",
-      "url": "https://ratfactor.com/assembly-nights",
-      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://ratfactor.com/assembly...",
-      "score": 26
-    },
-    {
-      "type": "HackerNews",
-      "title": "Survival LLM: AI assistant and emergency library that runs on your own computer",
-      "url": "https://www.brangus.io/survival-llm",
-      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.brangus.io/surviva...",
-      "score": 232
+      "title": "MacOS Extensions Pack for the Apple Network Server v1.0",
+      "url": "http://oldvcr.blogspot.com/2026/10/macos-extensions-pack-for-apple-network.html",
+      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：http://oldvcr.blogspot.com/202...",
+      "score": 66
     }
   ]
 }
