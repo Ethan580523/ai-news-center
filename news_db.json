@@ -1,61 +1,61 @@
 {
-  "last_updated": "2026-10-30 21:58:14",
+  "last_updated": "2026-10-31 04:22:48",
   "news": [
     {
       "type": "HackerNews",
-      "title": "My favourite PowerMac is a Nintendo Wii",
-      "url": "https://virtuallyfun.com/2026/10/29/my-favourite-powermac-is-a-nintendo-wii/",
-      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://virtuallyfun.com/2026/...",
-      "score": 172
+      "title": "Show HN: To Honor Sir Patrick Stewart, Enjoy the TNG Episode Guessing Game",
+      "url": "https://tng.episodle.com/",
+      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://tng.episodle.com/...",
+      "score": 120
     },
     {
       "type": "HackerNews",
-      "title": "Bunny CDN Security Incident",
-      "url": "https://status.bunny.net/incidents/p6gf1by9kr7m",
-      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://status.bunny.net/incid...",
-      "score": 112
-    },
-    {
-      "type": "HackerNews",
-      "title": "Northflank Breached",
-      "url": "https://status.northflank.com",
-      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://status.northflank.com...",
-      "score": 303
+      "title": "Cloudflare Turnstile solver library (no headless browser required)",
+      "url": "https://github.com/chris124567/cfsolve",
+      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://github.com/chris124567...",
+      "score": 129
     },
     {
       "type": "HackerNews",
       "title": "Backdoor in Claude Code for VS Code extension on the Cursor Marketplace",
       "url": "https://phorion.io/blog/offical-claude-code-vsx-compromise/",
-      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://phorion.io/blog/offica...",
-      "score": 673
+      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://phorion.io/blog/offica...",
+      "score": 831
     },
     {
       "type": "HackerNews",
-      "title": "Infinite Mac: BeOS",
-      "url": "https://blog.persistent.info/2026/10/infinite-mac-beos.html",
-      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://blog.persistent.info/2...",
-      "score": 54
+      "title": "My favourite PowerMac is a Nintendo Wii",
+      "url": "https://virtuallyfun.com/2026/10/29/my-favourite-powermac-is-a-nintendo-wii/",
+      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://virtuallyfun.com/2026/...",
+      "score": 266
     },
     {
       "type": "HackerNews",
-      "title": "Show HN: A working Nintendo in ~1GB of Qwen weights",
-      "url": "https://github.com/dbreunig/nesformer",
-      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://github.com/dbreunig/ne...",
-      "score": 150
+      "title": "Tell HN: Scribd Breached",
+      "url": null,
+      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：...",
+      "score": 72
     },
     {
       "type": "HackerNews",
-      "title": "Jules Verne's Lost Novel",
-      "url": "https://blue-continuum.com/verne-paris",
-      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://blue-continuum.com/ver...",
-      "score": 37
+      "title": "Northflank Breached",
+      "url": "https://status.northflank.com",
+      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://status.northflank.com...",
+      "score": 387
+    },
+    {
+      "type": "HackerNews",
+      "title": "The $6.3B Binance hack was pulled off in just 20 minutes",
+      "url": "https://www.wired.com/story/the-dollar63-billion-binance-hack-was-pulled-off-in-just-20-minutes/",
+      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.wired.com/story/th...",
+      "score": 374
     },
     {
       "type": "HackerNews",
       "title": "Breaking the open web won't stop the bad bots",
       "url": "https://www.techpolicy.press/breaking-the-open-web-wont-stop-the-bad-bots/",
-      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.techpolicy.press/b...",
-      "score": 134
+      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.techpolicy.press/b...",
+      "score": 213
     }
   ]
 }
