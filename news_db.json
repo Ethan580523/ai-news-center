@@ -1,61 +1,61 @@
 {
-  "last_updated": "2026-11-01 19:22:44",
+  "last_updated": "2026-11-02 00:18:22",
   "news": [
     {
       "type": "HackerNews",
       "title": "Show HN: HackerBooks – HackerTube, but for books mentioned on HN",
       "url": "https://hackerbooks.org",
       "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://hackerbooks.org...",
-      "score": 408
-    },
-    {
-      "type": "HackerNews",
-      "title": "Mathematics has changed. Let's act like it",
-      "url": "https://terrytao.wordpress.com/2026/11/01/mathematics-has-changed-lets-act-like-it/",
-      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://terrytao.wordpress.com...",
-      "score": 41
+      "score": 842
     },
     {
       "type": "HackerNews",
       "title": "HackerTube: YouTube built from videos recommended by HN",
       "url": "https://karpathy.bearblog.dev/hacker-tube/",
       "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://karpathy.bearblog.dev/...",
-      "score": 1943
+      "score": 2230
     },
     {
       "type": "HackerNews",
-      "title": "Patrick Stewart taught us what good men do with power",
-      "url": "https://www.vox.com/politics/508526/patrick-stewart-jean-luc-picard-star-trek-liberalism",
-      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.vox.com/politics/5...",
-      "score": 161
+      "title": "Nibnib: Image compression with extreme decompression speed",
+      "url": "https://github.com/raphlinus/nibnib",
+      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://github.com/raphlinus/n...",
+      "score": 79
     },
     {
       "type": "HackerNews",
-      "title": "Police chief unplugs Flock cameras after company ignores contract cancellation",
-      "url": "https://www.tomshardware.com/tech-industry/big-tech/police-chief-physically-unplugs-flock-cameras-after-the-company-ignores-contract-cancellation-city-takes-matters-into-its-own-hands-amid-privacy-controversies",
-      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.tomshardware.com/t...",
-      "score": 319
+      "title": "Tips for more effective fuzz testing with AFL++",
+      "url": "https://nullprogram.com/blog/2025/02/05/",
+      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://nullprogram.com/blog/2...",
+      "score": 67
     },
     {
       "type": "HackerNews",
-      "title": "Proving and improving the Platonic Representation Hypothesis with JEPAs",
-      "url": "https://arxiv.org/abs/2610.39302",
-      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://arxiv.org/abs/2610.393...",
-      "score": 81
+      "title": "AI delivers 'zero financial payoff' to most companies, Apollo economist says",
+      "url": "https://techcrunch.com/2026/10/25/ai-delivers-zero-financial-payoff-to-most-companies-according-to-apollo-economist/",
+      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://techcrunch.com/2026/10...",
+      "score": 95
     },
     {
       "type": "HackerNews",
-      "title": "Copper – A minimal low-level programming language with OOP and generics",
-      "url": "https://tibleiz.net/copper/",
-      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://tibleiz.net/copper/...",
-      "score": 65
+      "title": "Ask HN: Which TV do you recommend for privacy?",
+      "url": null,
+      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：...",
+      "score": 91
     },
     {
       "type": "HackerNews",
-      "title": "Seoul Viosys begins production of rare-earth-free white light emitter",
-      "url": "https://www.semiconductor-today.com/news_items/2026/oct/seoul-291026.shtml",
-      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.semiconductor-toda...",
-      "score": 87
+      "title": "Keeping Up Appearances – The women taking over the funeral industry",
+      "url": "https://lareviewofbooks.org/article/death-industry-mortuary-programs-women-andie-eisen-quarterly/",
+      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://lareviewofbooks.org/ar...",
+      "score": 10
+    },
+    {
+      "type": "HackerNews",
+      "title": "New 3D thermal invisibility cloak makes objects disappear from infrared cameras",
+      "url": "https://www.sciencedaily.com/releases/2026/10/261025073051.htm",
+      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.sciencedaily.com/r...",
+      "score": 33
     }
   ]
 }
