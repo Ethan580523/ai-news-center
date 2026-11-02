@@ -1,61 +1,61 @@
 {
-  "last_updated": "2026-11-02 00:18:22",
+  "last_updated": "2026-11-02 10:36:45",
   "news": [
+    {
+      "type": "HackerNews",
+      "title": "Show HN: Wikihack – HackerTube, but for Wikipedia articles mentioned on HN",
+      "url": "https://wikihack.netlify.app",
+      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://wikihack.netlify.app...",
+      "score": 197
+    },
     {
       "type": "HackerNews",
       "title": "Show HN: HackerBooks – HackerTube, but for books mentioned on HN",
       "url": "https://hackerbooks.org",
       "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://hackerbooks.org...",
-      "score": 842
+      "score": 1405
+    },
+    {
+      "type": "HackerNews",
+      "title": "Postgres 19 is late because so many more bugs are being found now",
+      "url": "http://rhaas.blogspot.com/2026/10/postgres-19-is-late-and-its-ais-fault.html",
+      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：http://rhaas.blogspot.com/2026...",
+      "score": 468
     },
     {
       "type": "HackerNews",
       "title": "HackerTube: YouTube built from videos recommended by HN",
       "url": "https://karpathy.bearblog.dev/hacker-tube/",
-      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://karpathy.bearblog.dev/...",
-      "score": 2230
+      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://karpathy.bearblog.dev/...",
+      "score": 2584
     },
     {
       "type": "HackerNews",
-      "title": "Nibnib: Image compression with extreme decompression speed",
-      "url": "https://github.com/raphlinus/nibnib",
-      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://github.com/raphlinus/n...",
-      "score": 79
-    },
-    {
-      "type": "HackerNews",
-      "title": "Tips for more effective fuzz testing with AFL++",
-      "url": "https://nullprogram.com/blog/2025/02/05/",
-      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://nullprogram.com/blog/2...",
-      "score": 67
-    },
-    {
-      "type": "HackerNews",
-      "title": "AI delivers 'zero financial payoff' to most companies, Apollo economist says",
-      "url": "https://techcrunch.com/2026/10/25/ai-delivers-zero-financial-payoff-to-most-companies-according-to-apollo-economist/",
-      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://techcrunch.com/2026/10...",
-      "score": 95
+      "title": "F/OSS Comics #13: BSD Unix, Part 3 – The Beginning of BSD Unix",
+      "url": "https://fosscomics.com/posts/13.%20BSD%20Unix%20Part%203%20-%20The%20Beginning%20of%20BSD%20Unix/",
+      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://fosscomics.com/posts/1...",
+      "score": 128
     },
     {
       "type": "HackerNews",
       "title": "Ask HN: Which TV do you recommend for privacy?",
       "url": null,
-      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：...",
-      "score": 91
+      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：...",
+      "score": 406
     },
     {
       "type": "HackerNews",
-      "title": "Keeping Up Appearances – The women taking over the funeral industry",
-      "url": "https://lareviewofbooks.org/article/death-industry-mortuary-programs-women-andie-eisen-quarterly/",
-      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://lareviewofbooks.org/ar...",
-      "score": 10
+      "title": "Bones may release proteins that slow aging and extend life span",
+      "url": "https://www.science.org/content/article/bones-may-release-proteins-slow-aging-and-extend-life-span",
+      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.science.org/conten...",
+      "score": 93
     },
     {
       "type": "HackerNews",
-      "title": "New 3D thermal invisibility cloak makes objects disappear from infrared cameras",
-      "url": "https://www.sciencedaily.com/releases/2026/10/261025073051.htm",
-      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.sciencedaily.com/r...",
-      "score": 33
+      "title": "From Charlemagne to the Kitchen Boy: Reading the Hamburg Rathaus",
+      "url": "https://alsterrunde.com/from-charlemagne-to-the-kitchen-boy-reading-the-hamburg-rathaus/",
+      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://alsterrunde.com/from-c...",
+      "score": 35
     }
   ]
 }
