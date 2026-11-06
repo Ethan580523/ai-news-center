@@ -1,61 +1,61 @@
 {
-  "last_updated": "2026-11-05 19:34:41",
+  "last_updated": "2026-11-06 01:23:01",
   "news": [
+    {
+      "type": "HackerNews",
+      "title": "Claude Code sends your email address to websites",
+      "url": "https://github.com/anthropics/claude-code/issues/107757",
+      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://github.com/anthropics/...",
+      "score": 454
+    },
+    {
+      "type": "HackerNews",
+      "title": "Search for everyone",
+      "url": "https://kagi.com/changelog#11820",
+      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://kagi.com/changelog#118...",
+      "score": 499
+    },
+    {
+      "type": "HackerNews",
+      "title": "MS Paint Remote Code Execution Vulnerability",
+      "url": "https://www.cve.org/CVERecord?id=CVE-2026-83844",
+      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.cve.org/CVERecord?...",
+      "score": 302
+    },
     {
       "type": "HackerNews",
       "title": "sshole",
       "url": "https://sshhole.com",
-      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://sshhole.com...",
-      "score": 1758
+      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://sshhole.com...",
+      "score": 2304
     },
     {
       "type": "HackerNews",
       "title": "Alpine Linux Security Advisory: OpenSSH-server password authentication bypass",
       "url": "https://alpinelinux.org/posts/2026-11-05-openssh-password-authentication-bypass/",
-      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://alpinelinux.org/posts/...",
-      "score": 399
+      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://alpinelinux.org/posts/...",
+      "score": 579
     },
     {
       "type": "HackerNews",
-      "title": "Motorola Signature 27 with GrapheneOS support",
-      "url": "https://motorolanews.com/motorola-signature-27-2/",
-      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://motorolanews.com/motor...",
-      "score": 236
+      "title": "The Hackintosh Reborn",
+      "url": "https://www.naut.ca/blog/2026/11/05/the-hackintosh-reborn-with-ai/",
+      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.naut.ca/blog/2026/...",
+      "score": 193
+    },
+    {
+      "type": "HackerNews",
+      "title": "Inkling 2 Small",
+      "url": "https://thinkingmachines.ai/news/inkling-2-small/",
+      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://thinkingmachines.ai/ne...",
+      "score": 38
     },
     {
       "type": "HackerNews",
       "title": "Window Sweaters",
       "url": "https://github.com/saragordic/window-sweaters",
-      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://github.com/saragordic/...",
-      "score": 81
-    },
-    {
-      "type": "HackerNews",
-      "title": "The Lisp curse, now coming to your ecosystem",
-      "url": "https://javahippie.net/programming/llm/2026/03/05/the-lisp-curse-coming-to-your-ecosystem.html",
-      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://javahippie.net/program...",
-      "score": 119
-    },
-    {
-      "type": "HackerNews",
-      "title": "How to Lie With Statistics (1954) [pdf]",
-      "url": "https://www.horace.org/blog/wp-content/uploads/2012/05/How-to-Lie-With-Statistics-1954-Huff.pdf",
-      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.horace.org/blog/wp...",
-      "score": 16
-    },
-    {
-      "type": "HackerNews",
-      "title": "September in Servo: <progress>, rounded rectangles, and more",
-      "url": "https://servo.org/blog/2026/11/05/september-in-servo/",
-      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://servo.org/blog/2026/11...",
-      "score": 129
-    },
-    {
-      "type": "HackerNews",
-      "title": "Launch HN: Rivet (YC W23) – Scale and Orchestrate Agents on S3",
-      "url": "https://github.com/rivet-dev/rivet",
-      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://github.com/rivet-dev/r...",
-      "score": 31
+      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://github.com/saragordic/...",
+      "score": 239
     }
   ]
 }
