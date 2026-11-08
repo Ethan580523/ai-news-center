@@ -1,61 +1,61 @@
 {
-  "last_updated": "2026-11-08 04:45:17",
+  "last_updated": "2026-11-08 12:50:48",
   "news": [
+    {
+      "type": "HackerNews",
+      "title": "Person of Interest",
+      "url": "https://krthr.co/person-of-interest/",
+      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://krthr.co/person-of-int...",
+      "score": 79
+    },
+    {
+      "type": "HackerNews",
+      "title": "Petered (what happens after the Peter Principle)",
+      "url": "https://aworkinglibrary.com/writing/petered",
+      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://aworkinglibrary.com/wr...",
+      "score": 42
+    },
+    {
+      "type": "HackerNews",
+      "title": "Llama-modchip: 284B DeepSeek on 64GB RAM, no GPU",
+      "url": "https://github.com/synchopate/llama-modchip",
+      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://github.com/synchopate/...",
+      "score": 24
+    },
+    {
+      "type": "HackerNews",
+      "title": "Goodbye Claude, Hello Pi",
+      "url": "https://caleb.software/posts/claude-to-pi.html",
+      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://caleb.software/posts/c...",
+      "score": 394
+    },
+    {
+      "type": "HackerNews",
+      "title": "JIT bitmap text rendering for microcontrollers",
+      "url": "https://linebender.org/blog/jit-bitmap-text/",
+      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://linebender.org/blog/ji...",
+      "score": 19
+    },
+    {
+      "type": "HackerNews",
+      "title": "Clj.rs – a Clojure dialect implemented in Rust",
+      "url": "https://clj.rs/",
+      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://clj.rs/...",
+      "score": 83
+    },
+    {
+      "type": "HackerNews",
+      "title": "Agent memory needs its OpenTelemetry moment",
+      "url": "https://www.lorekit.io/blog/open-agent-memory-format",
+      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.lorekit.io/blog/op...",
+      "score": 68
+    },
     {
       "type": "HackerNews",
       "title": "What I run on my $10 USD OpenStick homelab",
       "url": "https://blog.bosscher.ch/posts/openstick/",
       "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://blog.bosscher.ch/posts...",
-      "score": 446
-    },
-    {
-      "type": "HackerNews",
-      "title": "Claude Code's \"Don't Ask Again\" exposes passwords in 1,122 public GitHub files",
-      "url": "https://apiiro.com/blog/coding-agents-leaking-secrets-github-dont-ask-again",
-      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://apiiro.com/blog/coding...",
-      "score": 262
-    },
-    {
-      "type": "HackerNews",
-      "title": "ZapFast: A fast, native WhatsApp client in Rust and egui",
-      "url": "https://github.com/crmne/zapfast",
-      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://github.com/crmne/zapfa...",
-      "score": 18
-    },
-    {
-      "type": "HackerNews",
-      "title": "Making any integer with four 2s (2025)",
-      "url": "https://eli.thegreenplace.net/2025/making-any-integer-with-four-2s/",
-      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://eli.thegreenplace.net/...",
-      "score": 82
-    },
-    {
-      "type": "HackerNews",
-      "title": "GitHub New pull request overview page in public preview",
-      "url": "https://github.blog/changelog/2026-11-05-new-pull-request-overview-page-in-public-preview/",
-      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://github.blog/changelog/...",
-      "score": 98
-    },
-    {
-      "type": "HackerNews",
-      "title": "Uranium cubes reveal why the German nuclear project failed",
-      "url": "https://arstechnica.com/science/2026/11/uranium-cubes-reveal-why-the-german-nuclear-project-failed/",
-      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://arstechnica.com/scienc...",
-      "score": 93
-    },
-    {
-      "type": "HackerNews",
-      "title": "Amsterdam School",
-      "url": "https://architecture-history.org/schools/AMSTERDAM%20SCHOOL.html",
-      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://architecture-history.o...",
-      "score": 12
-    },
-    {
-      "type": "HackerNews",
-      "title": "Need for Speed Underground 2 online in the browser",
-      "url": "https://nfsu2.xyz/",
-      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://nfsu2.xyz/...",
-      "score": 866
+      "score": 629
     }
   ]
 }
