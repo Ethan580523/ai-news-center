@@ -1,61 +1,61 @@
 {
-  "last_updated": "2026-11-08 19:20:53",
+  "last_updated": "2026-11-09 00:34:11",
   "news": [
     {
       "type": "HackerNews",
-      "title": "Goldman Sachs Is Pulling Claude Code from Its Bankers and Traders",
+      "title": "KetchUp – Open-source SketchUp alternative built with Rust and WebGPU",
+      "url": "https://ketchup3d.github.io/app/",
+      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://ketchup3d.github.io/ap...",
+      "score": 114
+    },
+    {
+      "type": "HackerNews",
+      "title": "Herb Sutter: When a language's creator and its owners strongly disagree [pdf]",
+      "url": "https://isocpp.org/files/papers/P4454R0.pdf",
+      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://isocpp.org/files/paper...",
+      "score": 27
+    },
+    {
+      "type": "HackerNews",
+      "title": "Chimera Vocal Synth",
+      "url": "https://chimera-vocal-synth.vercel.app/",
+      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://chimera-vocal-synth.ve...",
+      "score": 53
+    },
+    {
+      "type": "HackerNews",
+      "title": "Ask HN: What are you working on? (November 2026)",
+      "url": null,
+      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：...",
+      "score": 101
+    },
+    {
+      "type": "HackerNews",
+      "title": "Dux: Free, open-source Wayland desktop shell with file manager and theming",
+      "url": "https://duxlabs.dev/",
+      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://duxlabs.dev/...",
+      "score": 179
+    },
+    {
+      "type": "HackerNews",
+      "title": "Declarative Dragging",
+      "url": "https://declarative-dragging.github.io/",
+      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://declarative-dragging.g...",
+      "score": 308
+    },
+    {
+      "type": "HackerNews",
+      "title": "Outlook.com Is Quietly Rejecting Email from Domains Without DMARC",
+      "url": "https://mailroute.net/blog/outlook-rejecting-email-without-dmarc",
+      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://mailroute.net/blog/out...",
+      "score": 215
+    },
+    {
+      "type": "HackerNews",
+      "title": "Goldman Sachs is pulling Claude Code from its bankers and traders",
       "url": "https://www.thestateofai.com/news/goldman-sachs-claude-code-traders-bankers",
       "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.thestateofai.com/n...",
-      "score": 131
-    },
-    {
-      "type": "HackerNews",
-      "title": "Llama-modchip: 284B DeepSeek on 64GB RAM, no GPU",
-      "url": "https://github.com/synchopate/llama-modchip",
-      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://github.com/synchopate/...",
-      "score": 270
-    },
-    {
-      "type": "HackerNews",
-      "title": "The Reconstruction of Torn Documents",
-      "url": "https://www.bundesarchiv.de/en/stasi-records-archive/the-reconstruction-of-torn-documents/",
-      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.bundesarchiv.de/en...",
-      "score": 58
-    },
-    {
-      "type": "HackerNews",
-      "title": "Writing as a thinking tool",
-      "url": "http://muratbuffalo.blogspot.com/2026/11/writing-as-thinking-tool.html",
-      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：http://muratbuffalo.blogspot.c...",
-      "score": 171
-    },
-    {
-      "type": "HackerNews",
-      "title": "UK House of Lords to propose mandatory CSAM detection software on smartphones",
-      "url": "https://observer.co.uk/news/national/article/fight-to-block-child-sexual-abuse-images-unites-peers-and-mps-in-cross-party-campaign",
-      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://observer.co.uk/news/na...",
-      "score": 40
-    },
-    {
-      "type": "HackerNews",
-      "title": "A Little Snitch for Windows",
-      "url": "https://packethound.app/",
-      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://packethound.app/...",
-      "score": 30
-    },
-    {
-      "type": "HackerNews",
-      "title": "I'm not a fan of Deno's security model (2024)",
-      "url": "https://goldstein.lol/posts/deno-security/",
-      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://goldstein.lol/posts/de...",
-      "score": 42
-    },
-    {
-      "type": "HackerNews",
-      "title": "Show HN: Vegetable Gardening for Engineers",
-      "url": "https://jrcpl.us/contrib/2020/gardening-for-engineers/",
-      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://jrcpl.us/contrib/2020/...",
-      "score": 67
+      "score": 564
     }
   ]
 }
