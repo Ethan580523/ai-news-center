@@ -1,61 +1,61 @@
 {
-  "last_updated": "2026-11-09 00:34:11",
+  "last_updated": "2026-11-09 10:57:15",
   "news": [
+    {
+      "type": "HackerNews",
+      "title": "Fun things to do with your VM/370 CE machine – Fun with big computers",
+      "url": "https://rbanffy.github.io/fun-with-big-computers/fun-with-vm370/",
+      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://rbanffy.github.io/fun-...",
+      "score": 15
+    },
+    {
+      "type": "HackerNews",
+      "title": "Next-Concept Modeling: Fast, Parallel Coarse-to-Fine Text Generation",
+      "url": "https://arxiv.org/abs/2610.14162",
+      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://arxiv.org/abs/2610.141...",
+      "score": 96
+    },
+    {
+      "type": "HackerNews",
+      "title": "Unlocking any car from X brand in most of the world",
+      "url": "https://shubs.io/unlocking-any-car-from-x-brand-in-most-of-the-world/",
+      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://shubs.io/unlocking-any...",
+      "score": 384
+    },
     {
       "type": "HackerNews",
       "title": "KetchUp – Open-source SketchUp alternative built with Rust and WebGPU",
       "url": "https://ketchup3d.github.io/app/",
-      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://ketchup3d.github.io/ap...",
-      "score": 114
+      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://ketchup3d.github.io/ap...",
+      "score": 516
     },
     {
       "type": "HackerNews",
-      "title": "Herb Sutter: When a language's creator and its owners strongly disagree [pdf]",
-      "url": "https://isocpp.org/files/papers/P4454R0.pdf",
-      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://isocpp.org/files/paper...",
-      "score": 27
+      "title": "I'm not convinced the AI bubble exists",
+      "url": "https://matteoraso.github.io/im-not-convinced-the-ai-bubble-exists.html#im-not-convinced-the-ai-bubble-exists",
+      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://matteoraso.github.io/i...",
+      "score": 312
     },
     {
       "type": "HackerNews",
-      "title": "Chimera Vocal Synth",
-      "url": "https://chimera-vocal-synth.vercel.app/",
-      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://chimera-vocal-synth.ve...",
-      "score": 53
-    },
-    {
-      "type": "HackerNews",
-      "title": "Ask HN: What are you working on? (November 2026)",
-      "url": null,
-      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：...",
-      "score": 101
-    },
-    {
-      "type": "HackerNews",
-      "title": "Dux: Free, open-source Wayland desktop shell with file manager and theming",
-      "url": "https://duxlabs.dev/",
-      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://duxlabs.dev/...",
+      "title": "Is Opus 5.5 nerfed? Thinking patterns changed on November 3",
+      "url": "https://twitter.com/shanemelaugh/status/2119192075505893695",
+      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://twitter.com/shanemelau...",
       "score": 179
+    },
+    {
+      "type": "HackerNews",
+      "title": "Psalm 7 release: PHP security&static analysis software",
+      "url": "https://psalm.dev/articles/psalm-7",
+      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://psalm.dev/articles/psa...",
+      "score": 25
     },
     {
       "type": "HackerNews",
       "title": "Declarative Dragging",
       "url": "https://declarative-dragging.github.io/",
-      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://declarative-dragging.g...",
-      "score": 308
-    },
-    {
-      "type": "HackerNews",
-      "title": "Outlook.com Is Quietly Rejecting Email from Domains Without DMARC",
-      "url": "https://mailroute.net/blog/outlook-rejecting-email-without-dmarc",
-      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://mailroute.net/blog/out...",
-      "score": 215
-    },
-    {
-      "type": "HackerNews",
-      "title": "Goldman Sachs is pulling Claude Code from its bankers and traders",
-      "url": "https://www.thestateofai.com/news/goldman-sachs-claude-code-traders-bankers",
-      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.thestateofai.com/n...",
-      "score": 564
+      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://declarative-dragging.g...",
+      "score": 563
     }
   ]
 }
