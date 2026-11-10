@@ -1,61 +1,61 @@
 {
-  "last_updated": "2026-11-10 16:48:28",
+  "last_updated": "2026-11-10 22:53:37",
   "news": [
     {
       "type": "HackerNews",
-      "title": "Blender 5.3 released with Gaussian Splat support",
-      "url": "https://www.blender.org/download/releases/5-3/",
-      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.blender.org/downlo...",
-      "score": 80
+      "title": "Toyota brand Scion is back and it's going to sell a kei truck in America",
+      "url": "https://www.theautopian.com/scion-is-back-and-its-going-to-sell-a-freaking-kei-truck-in-america/",
+      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.theautopian.com/sc...",
+      "score": 166
     },
     {
       "type": "HackerNews",
-      "title": "AlphaProof Code",
-      "url": "https://deepmind.google/blog/introducing-alphaproof-code/",
-      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://deepmind.google/blog/i...",
-      "score": 403
+      "title": ".name Grandfathered",
+      "url": "https://neil.fraser.name/news/2026/11/10/",
+      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://neil.fraser.name/news/...",
+      "score": 601
     },
     {
       "type": "HackerNews",
-      "title": "The Hardest Tarball?",
-      "url": "https://stoppels.ch/2026/11/07/the-hardest-tarball.html",
-      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://stoppels.ch/2026/11/07...",
-      "score": 88
+      "title": "Smart home devices should work without the internet",
+      "url": "https://docodethatmatters.com/home-automation-overnight-success/",
+      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://docodethatmatters.com/...",
+      "score": 608
     },
     {
       "type": "HackerNews",
-      "title": "Gemini 4 Carbon is now available",
-      "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-4-carbon-now-available/",
-      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://blog.google/innovation...",
-      "score": 107
+      "title": "Six Math Essentials by Terence Tao",
+      "url": "https://teorth.github.io/tao-web/six-math-essentials.html",
+      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://teorth.github.io/tao-w...",
+      "score": 61
     },
     {
       "type": "HackerNews",
-      "title": "Amazon saves millions by replacing Sonnet 4.6 with Strands Decider",
-      "url": "https://strandsagents.com/blog/amazon-saves-millions-replacing-sonnet-with-strands-decider/",
-      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://strandsagents.com/blog...",
-      "score": 573
+      "title": "After 7 Months, Glasswing Overwelms Maintainers with Underwhelming Findings",
+      "url": "https://www.vulncheck.com/blog/anthropic-glasswing-november-update",
+      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.vulncheck.com/blog...",
+      "score": 17
     },
     {
       "type": "HackerNews",
-      "title": "NetBSD 11 desktop on a Raspberry Pi 4",
-      "url": "https://neongd.com/articles/netbsd11-rpi4.gmi",
-      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://neongd.com/articles/ne...",
-      "score": 78
+      "title": "Synaptics patent claims stop work on DisplayLink drivers",
+      "url": "https://lwn.net/SubscriberLink/1102549/acbc92e00cee3a3f/",
+      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://lwn.net/SubscriberLink...",
+      "score": 242
     },
     {
       "type": "HackerNews",
-      "title": "What's new in the .NET 11 runtime",
-      "url": "https://learn.microsoft.com/en-us/dotnet/core/whats-new/dotnet-11/runtime",
-      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://learn.microsoft.com/en...",
-      "score": 96
+      "title": "Sherman Anti-Trust Act (1890)",
+      "url": "https://www.archives.gov/milestone-documents/sherman-anti-trust-act",
+      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.archives.gov/miles...",
+      "score": 46
     },
     {
       "type": "HackerNews",
-      "title": "Palantir hires a former Democratic senator as it faces scrutiny in new Congress",
-      "url": "https://text.npr.org/nx-s1-6029641",
-      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://text.npr.org/nx-s1-602...",
-      "score": 72
+      "title": "Val Town is winding down",
+      "url": "https://blog.val.town/winding-down",
+      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://blog.val.town/winding-...",
+      "score": 258
     }
   ]
 }
