@@ -1,61 +1,61 @@
 {
-  "last_updated": "2026-11-11 04:56:31",
+  "last_updated": "2026-11-11 13:39:32",
   "news": [
     {
       "type": "HackerNews",
-      "title": "After 7 months, Glasswing overwelms maintainers with underwhelming findings",
-      "url": "https://www.vulncheck.com/blog/anthropic-glasswing-november-update",
-      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.vulncheck.com/blog...",
-      "score": 355
+      "title": "Google SWE points 48 AI agents at NASA Lidar, finds unmapped Maya pyramid in 72h",
+      "url": "https://pietromiotti.com/latest/maya-site/?maya",
+      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://pietromiotti.com/lates...",
+      "score": 165
     },
     {
       "type": "HackerNews",
-      "title": "Scion is back and is going to sell a kei truck in America",
-      "url": "https://www.theautopian.com/scion-is-back-and-its-going-to-sell-a-freaking-kei-truck-in-america/",
-      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.theautopian.com/sc...",
-      "score": 397
+      "title": "Can a Linear Program Do Weight-Space Programming?",
+      "url": "https://nathan.rs/posts/weight-space-lp/",
+      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://nathan.rs/posts/weight...",
+      "score": 41
     },
     {
       "type": "HackerNews",
-      "title": ".name Grandfathered",
-      "url": "https://neil.fraser.name/news/2026/11/10/",
-      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://neil.fraser.name/news/...",
-      "score": 735
-    },
-    {
-      "type": "HackerNews",
-      "title": "Smart home devices should work without the internet",
-      "url": "https://docodethatmatters.com/home-automation-overnight-success/",
-      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://docodethatmatters.com/...",
-      "score": 791
-    },
-    {
-      "type": "HackerNews",
-      "title": "A great old-timey game-programming hack (2013)",
-      "url": "https://blog.moertel.com/posts/2013-12-14-great-old-timey-game-programming-hack.html",
-      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://blog.moertel.com/posts...",
-      "score": 71
+      "title": "Using voltage glitching to unleash the A100 in my mining card",
+      "url": "https://blog.kate.land/posts/using-voltage-glitching-to-unlock-the-a100/",
+      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://blog.kate.land/posts/u...",
+      "score": 58
     },
     {
       "type": "HackerNews",
       "title": "Protecting SSH Keys with macOS Secure Enclave",
       "url": "https://gatezh.com/posts/macos-secure-enclave-ssh-keys/",
       "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://gatezh.com/posts/macos...",
-      "score": 8
+      "score": 279
     },
     {
       "type": "HackerNews",
-      "title": "Six Math Essentials by Terence Tao",
-      "url": "https://teorth.github.io/tao-web/six-math-essentials.html",
-      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://teorth.github.io/tao-w...",
-      "score": 176
+      "title": "Next-Level Benchmarking Overfitting – Thomas Neumann",
+      "url": "http://databasearchitects.blogspot.com/2026/11/next-level-benchmarking-overfitting.html",
+      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：http://databasearchitects.blog...",
+      "score": 16
     },
     {
       "type": "HackerNews",
-      "title": "Starlink Mini 2",
-      "url": "https://starlink.com/mini-2",
-      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://starlink.com/mini-2...",
-      "score": 328
+      "title": "The Housing Market Is Nuts",
+      "url": "https://nuts.logical.li/",
+      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://nuts.logical.li/...",
+      "score": 28
+    },
+    {
+      "type": "HackerNews",
+      "title": "Smart home devices should work without the internet",
+      "url": "https://docodethatmatters.com/home-automation-overnight-success/",
+      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://docodethatmatters.com/...",
+      "score": 1062
+    },
+    {
+      "type": "HackerNews",
+      "title": ".name Grandfathered",
+      "url": "https://neil.fraser.name/news/2026/11/10/",
+      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://neil.fraser.name/news/...",
+      "score": 890
     }
   ]
 }
