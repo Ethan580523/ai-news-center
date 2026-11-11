@@ -1,61 +1,61 @@
 {
-  "last_updated": "2026-11-10 22:53:37",
+  "last_updated": "2026-11-11 04:56:31",
   "news": [
     {
       "type": "HackerNews",
-      "title": "Toyota brand Scion is back and it's going to sell a kei truck in America",
+      "title": "After 7 months, Glasswing overwelms maintainers with underwhelming findings",
+      "url": "https://www.vulncheck.com/blog/anthropic-glasswing-november-update",
+      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.vulncheck.com/blog...",
+      "score": 355
+    },
+    {
+      "type": "HackerNews",
+      "title": "Scion is back and is going to sell a kei truck in America",
       "url": "https://www.theautopian.com/scion-is-back-and-its-going-to-sell-a-freaking-kei-truck-in-america/",
       "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.theautopian.com/sc...",
-      "score": 166
+      "score": 397
     },
     {
       "type": "HackerNews",
       "title": ".name Grandfathered",
       "url": "https://neil.fraser.name/news/2026/11/10/",
-      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://neil.fraser.name/news/...",
-      "score": 601
+      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://neil.fraser.name/news/...",
+      "score": 735
     },
     {
       "type": "HackerNews",
       "title": "Smart home devices should work without the internet",
       "url": "https://docodethatmatters.com/home-automation-overnight-success/",
-      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://docodethatmatters.com/...",
-      "score": 608
+      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://docodethatmatters.com/...",
+      "score": 791
+    },
+    {
+      "type": "HackerNews",
+      "title": "A great old-timey game-programming hack (2013)",
+      "url": "https://blog.moertel.com/posts/2013-12-14-great-old-timey-game-programming-hack.html",
+      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://blog.moertel.com/posts...",
+      "score": 71
+    },
+    {
+      "type": "HackerNews",
+      "title": "Protecting SSH Keys with macOS Secure Enclave",
+      "url": "https://gatezh.com/posts/macos-secure-enclave-ssh-keys/",
+      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://gatezh.com/posts/macos...",
+      "score": 8
     },
     {
       "type": "HackerNews",
       "title": "Six Math Essentials by Terence Tao",
       "url": "https://teorth.github.io/tao-web/six-math-essentials.html",
-      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://teorth.github.io/tao-w...",
-      "score": 61
+      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://teorth.github.io/tao-w...",
+      "score": 176
     },
     {
       "type": "HackerNews",
-      "title": "After 7 Months, Glasswing Overwelms Maintainers with Underwhelming Findings",
-      "url": "https://www.vulncheck.com/blog/anthropic-glasswing-november-update",
-      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.vulncheck.com/blog...",
-      "score": 17
-    },
-    {
-      "type": "HackerNews",
-      "title": "Synaptics patent claims stop work on DisplayLink drivers",
-      "url": "https://lwn.net/SubscriberLink/1102549/acbc92e00cee3a3f/",
-      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://lwn.net/SubscriberLink...",
-      "score": 242
-    },
-    {
-      "type": "HackerNews",
-      "title": "Sherman Anti-Trust Act (1890)",
-      "url": "https://www.archives.gov/milestone-documents/sherman-anti-trust-act",
-      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.archives.gov/miles...",
-      "score": 46
-    },
-    {
-      "type": "HackerNews",
-      "title": "Val Town is winding down",
-      "url": "https://blog.val.town/winding-down",
-      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://blog.val.town/winding-...",
-      "score": 258
+      "title": "Starlink Mini 2",
+      "url": "https://starlink.com/mini-2",
+      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://starlink.com/mini-2...",
+      "score": 328
     }
   ]
 }
