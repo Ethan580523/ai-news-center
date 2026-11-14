@@ -1,61 +1,61 @@
 {
-  "last_updated": "2026-11-13 21:12:31",
+  "last_updated": "2026-11-14 05:12:05",
   "news": [
     {
       "type": "HackerNews",
-      "title": "Big tech is here to let us down",
-      "url": "https://blog.jsweeting.me/big-tech-is-here-to-let-us-down",
-      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://blog.jsweeting.me/big-...",
-      "score": 55
+      "title": "Ggml v1.0.0",
+      "url": "https://github.com/ggml-org/ggml/releases/tag/v1.0.0",
+      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://github.com/ggml-org/gg...",
+      "score": 103
     },
     {
       "type": "HackerNews",
-      "title": "$11.4M in Nvidia hardware vanishes during shipment from CA to TX",
-      "url": "https://www.freightwaves.com/news/11-4-million-in-nvidia-hardware-vanishes-during-shipment-from-california-to-texas",
-      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.freightwaves.com/n...",
-      "score": 106
-    },
-    {
-      "type": "HackerNews",
-      "title": "FM-1 Workbench",
-      "url": "https://open.m-vave.com/fm1-workbench",
-      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://open.m-vave.com/fm1-wo...",
-      "score": 91
-    },
-    {
-      "type": "HackerNews",
-      "title": "After 600 experiments, here's what I discovered about JEPA world models",
-      "url": "https://haddyalchaer.com/jepa",
-      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://haddyalchaer.com/jepa...",
+      "title": "Nvidia Allegedly Engineered Scarcity by Funding AI Startups to Buy Its GPUs",
+      "url": "https://www.techpowerup.com/354814/nvidia-allegedly-engineered-scarcity-by-funding-ai-startups-to-buy-its-gpus",
+      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.techpowerup.com/35...",
       "score": 154
     },
     {
       "type": "HackerNews",
-      "title": "Reverse engineering my Coway air purifier to ditch the cloud",
-      "url": "https://scottjg.com/posts/2026-11-11-reverse-engineering-my-coway-air-purifier-to-ditch-the-cloud/",
-      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://scottjg.com/posts/2026...",
-      "score": 605
+      "title": "FAA issues national ground stop – lifted 4.5 hours later",
+      "url": "https://www.nbcnews.com/news/us-news/faa-orders-nationwide-ground-stop-departing-flights-reasons-safety-rcna609247",
+      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.nbcnews.com/news/u...",
+      "score": 1436
     },
     {
       "type": "HackerNews",
-      "title": "Autonomous (YC F25) is hiring MTS to build AI agents that manage your wealth",
-      "url": "https://atg.science/careers",
-      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://atg.science/careers...",
-      "score": 1
+      "title": "Terminal borders that don't cost a cell",
+      "url": "https://www.joshka.net/cell-borders/",
+      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.joshka.net/cell-bo...",
+      "score": 161
     },
     {
       "type": "HackerNews",
-      "title": "Perplexity Decider v1.3: Training, eval, and use cases",
-      "url": "https://www.perplexity.ai/hub/blog/perplexity-decider",
-      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.perplexity.ai/hub/...",
-      "score": 44
+      "title": "Unsloth Qwen3.8-27B Quantizations – Dynamic v3.1 Update",
+      "url": "https://unsloth.ai/docs/models/qwen3.8",
+      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://unsloth.ai/docs/models...",
+      "score": 54
     },
     {
       "type": "HackerNews",
-      "title": "Doomsday: Friday, 13 November, A.D. 2026 (1960)",
-      "url": "https://www.science.org/doi/10.1126/science.132.3436.1291",
-      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.science.org/doi/10...",
-      "score": 399
+      "title": "What Happened to 3Com?",
+      "url": "https://dfarq.homeip.net/what-happened-to-3com/",
+      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://dfarq.homeip.net/what-...",
+      "score": 91
+    },
+    {
+      "type": "HackerNews",
+      "title": "Live airband on all frequencies from KORS. Victoria, CA also ground stopped",
+      "url": "https://orcasairband.com/",
+      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://orcasairband.com/...",
+      "score": 240
+    },
+    {
+      "type": "HackerNews",
+      "title": "Show HN: Live map of U.S. flights during tonight's FAA nationwide ground stop",
+      "url": "https://grounds.top/",
+      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://grounds.top/...",
+      "score": 82
     }
   ]
 }
