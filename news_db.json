@@ -1,61 +1,61 @@
 {
-  "last_updated": "2026-11-16 21:41:03",
+  "last_updated": "2026-11-17 06:50:16",
   "news": [
     {
       "type": "HackerNews",
-      "title": "Outages reported at Bank of America, Chase, U.S. Bank, Wells Fargo and Zelle",
-      "url": "https://apnews.com/article/bank-outage-chase-wells-fargo-truist-50fee2693c22f597fa6ca51a97ef2cda",
-      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://apnews.com/article/ban...",
-      "score": 553
+      "title": "Carnegie Mellon is putting computer science courses on YouTube for free",
+      "url": "https://www.cs.cmu.edu/learn/",
+      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.cs.cmu.edu/learn/...",
+      "score": 1202
     },
     {
       "type": "HackerNews",
-      "title": "Grazing sheep in fields with solar arrays",
-      "url": "https://news.cornell.edu/stories/2026/10/sheep-grazing-solar-fields-offers-farmers-economic-ecological-gains",
-      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://news.cornell.edu/stori...",
-      "score": 159
+      "title": "Windows 11 Is Collecting Data on Which Coding Agents and Developer Tools You Use",
+      "url": "https://xusheng.dev/posts/windows-coding-agent-telemetry/",
+      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://xusheng.dev/posts/wind...",
+      "score": 468
     },
     {
       "type": "HackerNews",
-      "title": "Jiff 1.0: A datetime library for Rust",
-      "url": "https://burntsushi.net/jiff/",
-      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://burntsushi.net/jiff/...",
-      "score": 244
+      "title": "BugMeNot has closed",
+      "url": "https://www.bugmenot.com/",
+      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.bugmenot.com/...",
+      "score": 457
     },
     {
       "type": "HackerNews",
-      "title": "Rust changed me as a developer",
-      "url": "https://blog.startifact.com/posts/how-rust-changed-me/",
-      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://blog.startifact.com/po...",
-      "score": 45
+      "title": "Optimizely compromised, served malware on Zoom, GitLab",
+      "url": "https://blog.report-uri.com/worlds-largest-brands-infected-with-malware-via-optimizely/",
+      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://blog.report-uri.com/wo...",
+      "score": 262
     },
     {
       "type": "HackerNews",
-      "title": "Frame – 31.5\" color ePaper display",
-      "url": "https://trmnl.com/blog/introducing-frame",
-      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://trmnl.com/blog/introdu...",
-      "score": 210
+      "title": "If an App Asks for Full Disk Access or System and App Protection Override",
+      "url": "https://support.apple.com/en-us/149699",
+      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://support.apple.com/en-u...",
+      "score": 80
     },
     {
       "type": "HackerNews",
-      "title": "My Quest to push native Three.js quality match AAA Game Engines",
-      "url": "https://ben3d.ca/blog/building-the-aaa-lighting-pipeline-in-threejs",
-      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://ben3d.ca/blog/building...",
-      "score": 13
+      "title": "Running coding agents without handing them my credentials",
+      "url": "https://blog.antonio.cx/running-agents-with-lend",
+      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://blog.antonio.cx/runnin...",
+      "score": 91
     },
     {
       "type": "HackerNews",
-      "title": "Launch HN: Axonnic (YC F26) – Sleeves that track fingers and estimate force",
-      "url": null,
-      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：...",
-      "score": 20
+      "title": "OpenCode Browse",
+      "url": "https://opencode.ai/product/browse",
+      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://opencode.ai/product/br...",
+      "score": 208
     },
     {
       "type": "HackerNews",
-      "title": "Squircles",
-      "url": "https://linebender.org/wiki/curves/squircle/",
-      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://linebender.org/wiki/cu...",
-      "score": 54
+      "title": "Why did modems have speakers? (2019)",
+      "url": "https://retrocomputing.stackexchange.com/questions/11765",
+      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://retrocomputing.stackex...",
+      "score": 40
     }
   ]
 }
