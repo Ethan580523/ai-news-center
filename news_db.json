@@ -1,61 +1,61 @@
 {
-  "last_updated": "2026-11-19 20:00:36",
+  "last_updated": "2026-11-20 02:01:13",
   "news": [
     {
       "type": "HackerNews",
-      "title": "Anthropic hits $2T in Nasdaq debut",
+      "title": "Anthropic’s Nasdaq debut",
       "url": "https://www.reuters.com/business/finance/anthropics-historic-debut-put-ais-promise-peril-wall-st-test-2026-11-19/",
       "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.reuters.com/busine...",
-      "score": 456
+      "score": 917
+    },
+    {
+      "type": "HackerNews",
+      "title": "Pancreatic cancer halted by virus injection in three patients",
+      "url": "https://www.newscientist.com/article/2528235-pancreatic-cancer-halted-by-virus-injection-in-three-patients/",
+      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.newscientist.com/a...",
+      "score": 597
+    },
+    {
+      "type": "HackerNews",
+      "title": "Gemini 4 Neon is the new #1 on the Models Engineering Index",
+      "url": "https://git-aarvin.github.io/mei/",
+      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://git-aarvin.github.io/m...",
+      "score": 109
     },
     {
       "type": "HackerNews",
       "title": "Claude solves two open problems in the physics of black holes",
       "url": "https://www.anthropic.com/research/claude-black-hole-physics",
       "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.anthropic.com/rese...",
-      "score": 194
+      "score": 390
     },
     {
       "type": "HackerNews",
-      "title": "Pancreatic cancer halted by virus injection in three patients",
-      "url": "https://scienceinhand.com/pancreatic-cancer-halted-by-virus-injection-in-three-patients/",
-      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://scienceinhand.com/panc...",
-      "score": 107
+      "title": "Synology Security Advisory",
+      "url": "https://www.synology.com/en-uk/security/advisory/Synology_SA_26_21",
+      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.synology.com/en-uk...",
+      "score": 102
+    },
+    {
+      "type": "HackerNews",
+      "title": "How to CAD Almost Anything",
+      "url": "https://ocw.mit.edu/courses/res-16-002-how-to-cad-almost-anything-january-iap-2024/",
+      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://ocw.mit.edu/courses/re...",
+      "score": 129
+    },
+    {
+      "type": "HackerNews",
+      "title": "Garage Door Spam",
+      "url": "https://blog.harrison.page/garage-door-spam/",
+      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://blog.harrison.page/gar...",
+      "score": 755
     },
     {
       "type": "HackerNews",
       "title": "The 98% Slot Machine: How Paid Advertising Became an Extraction Tax",
       "url": "https://globalcommercegraph.com/writing/the-ninety-eight-percent-slot-machine",
       "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://globalcommercegraph.co...",
-      "score": 29
-    },
-    {
-      "type": "HackerNews",
-      "title": "Garage Door Spam",
-      "url": "https://blog.harrison.page/garage-door-spam/",
-      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://blog.harrison.page/gar...",
-      "score": 596
-    },
-    {
-      "type": "HackerNews",
-      "title": "Show HN: Cornhole News – A Hacker News inspired site for news across the Midwest",
-      "url": "https://cornholenews.news",
-      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://cornholenews.news...",
-      "score": 117
-    },
-    {
-      "type": "HackerNews",
-      "title": "UK government forced to admit it issued Apple a secret encryption order",
-      "url": "https://macanorak.com/uk-government-forced-to-admit-it-issued-apple-a-secret-encryption-order/",
-      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://macanorak.com/uk-gover...",
-      "score": 274
-    },
-    {
-      "type": "HackerNews",
-      "title": "Launch HN: Onlook (YC W25) – An open-source developer tool for designers",
-      "url": "https://github.com/onlook-dev/onlook/",
-      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://github.com/onlook-dev/...",
-      "score": 50
+      "score": 204
     }
   ]
 }
