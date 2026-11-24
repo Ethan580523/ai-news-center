@@ -1,61 +1,61 @@
 {
-  "last_updated": "2026-11-23 23:27:06",
+  "last_updated": "2026-11-24 08:41:01",
   "news": [
-    {
-      "type": "HackerNews",
-      "title": "Nvidia Reinstates Jensen Huang as CEO",
-      "url": "https://www.cnbc.com/2026/11/23/nvidia-jensen-huang-ceo.html",
-      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.cnbc.com/2026/11/2...",
-      "score": 1881
-    },
-    {
-      "type": "HackerNews",
-      "title": "Stalwart is now a drop-in replacement for Microsoft Exchange",
-      "url": "https://stalw.art/blog/microsoft-exchange-replacement/",
-      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://stalw.art/blog/microso...",
-      "score": 52
-    },
     {
       "type": "HackerNews",
       "title": "Ladybird is now in alpha",
       "url": "https://ladybird.org/posts/alpha/",
       "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://ladybird.org/posts/alp...",
-      "score": 1260
+      "score": 1853
     },
     {
       "type": "HackerNews",
-      "title": "VP ≠ VNP over Every Field",
-      "url": "https://github.com/anthropics/formal-math/tree/main/vp-vnp",
-      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://github.com/anthropics/...",
-      "score": 124
+      "title": "Stalwart is now a drop-in replacement for Microsoft Exchange",
+      "url": "https://stalw.art/blog/microsoft-exchange-replacement/",
+      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://stalw.art/blog/microso...",
+      "score": 427
     },
     {
       "type": "HackerNews",
-      "title": "Levent Alpöge comments on his Riemann Hypothesis proof",
-      "url": "https://twitter.com/__alpoge__/status/2124987173439209561",
-      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://twitter.com/__alpoge__...",
-      "score": 29
+      "title": "AMD EPYC Zen 6 vs. Zen 1 Performance: 12.1x Geo Mean in Less Than 10 Years",
+      "url": "https://www.phoronix.com/review/amd-epyc-9006-7601",
+      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.phoronix.com/revie...",
+      "score": 52
     },
     {
       "type": "HackerNews",
-      "title": "Per Arm's request, this site will be discontinued on 4 December 2026 :(",
-      "url": "https://arm.jonpalmisc.com/",
-      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://arm.jonpalmisc.com/...",
-      "score": 745
+      "title": "Drone Maps of Salvage Yards",
+      "url": "https://salvageyarddrone.wordpress.com/",
+      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://salvageyarddrone.wordp...",
+      "score": 71
     },
     {
       "type": "HackerNews",
-      "title": "GPUI is getting its own repository",
-      "url": "https://github.com/zed-industries/gpui",
-      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://github.com/zed-industr...",
-      "score": 59
+      "title": "Nvidia Reinstates Jensen Huang as CEO",
+      "url": "https://www.cnbc.com/2026/11/23/nvidia-jensen-huang-ceo.html",
+      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.cnbc.com/2026/11/2...",
+      "score": 2517
     },
     {
       "type": "HackerNews",
-      "title": "Bored.com: Fun, interesting and cool websites to explore when bored",
-      "url": "https://www.bored.com/",
-      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.bored.com/...",
-      "score": 58
+      "title": "2035 Came Early",
+      "url": "https://fzakaria.com/2026/11/23/2035-came-early",
+      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://fzakaria.com/2026/11/2...",
+      "score": 30
+    },
+    {
+      "type": "HackerNews",
+      "title": "Modernizing iperf/iperf3 and introducing fireperf",
+      "url": "https://blog.daniel-baumann.ch/posts/20261122-1.html",
+      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://blog.daniel-baumann.ch...",
+      "score": 88
+    },
+    {
+      "type": "HackerNews",
+      "title": "Ride the SQL curve from basics to mastery",
+      "url": "https://sqlride.com/",
+      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://sqlride.com/...",
+      "score": 23
     }
   ]
 }
