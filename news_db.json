@@ -1,61 +1,61 @@
 {
-  "last_updated": "2026-11-24 19:57:48",
+  "last_updated": "2026-11-25 03:57:22",
   "news": [
     {
       "type": "HackerNews",
-      "title": "What Cloudflare Doesn't Tell You",
-      "url": "https://charlie.fish/posts/2026/11/what-cloudflare-doesnt-tell-you/",
-      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://charlie.fish/posts/202...",
-      "score": 58
+      "title": "Matrix Multiplication is Θ(n^2.25) [pdf]",
+      "url": "https://github.com/openai/math/blob/main/preprints/The-matrix-multiplication-exponent-is-nine-fourths-November-24-2026/paper.pdf",
+      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://github.com/openai/math...",
+      "score": 246
     },
     {
       "type": "HackerNews",
-      "title": "Active Intrusion Campaign Against Check Point Security Management Servers",
-      "url": "https://www.greynoise.io/blog/check-point-security-management-servers-intrusion-campaign",
-      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.greynoise.io/blog/...",
-      "score": 205
+      "title": "Ternary Bonsai 2.5 27B",
+      "url": "https://prismml.com/news/bonsai-2-5-27b",
+      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://prismml.com/news/bonsa...",
+      "score": 372
     },
     {
       "type": "HackerNews",
-      "title": "Grafana 12.4.16, 13.0.14, 13.1.11, 13.2.7 and 13.3.2 (multiple CVEs)",
-      "url": "https://grafana.com/grafana/download",
-      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://grafana.com/grafana/do...",
-      "score": 26
+      "title": "PenGPT: A Generative Transformer for Handwriting and Sketches",
+      "url": "https://greydanus.github.io/2026/11/12/pengpt/",
+      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://greydanus.github.io/20...",
+      "score": 104
     },
     {
       "type": "HackerNews",
-      "title": "Jetty Pro",
-      "url": "http://hypercritical.co/2026/11/23/jetty-pro",
-      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：http://hypercritical.co/2026/1...",
-      "score": 181
+      "title": "Models Can Communicate via Inference Servers Despite Being Sandboxed",
+      "url": "https://www.lesswrong.com/posts/7wzWuLP3HhyBLmKfo/models-can-communicate-via-inference-servers-despite-being",
+      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.lesswrong.com/post...",
+      "score": 33
     },
     {
       "type": "HackerNews",
-      "title": "Mechanical Pencil: Spray Bottle",
-      "url": "https://mechanical-pencil.com/products/spray-bottle",
-      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://mechanical-pencil.com/...",
-      "score": 196
+      "title": "GPT-6 models demonstrate intrinsic protein-design capabilities",
+      "url": "https://openai.com/index/gpt-6-models-demonstrate-intrinsic-protein-design-capabilities/",
+      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://openai.com/index/gpt-6...",
+      "score": 201
     },
     {
       "type": "HackerNews",
-      "title": "Canada's median health-care wait time hits 30.7 weeks–longest ever recorded",
-      "url": "https://www.fraserinstitute.org/studies/waiting-your-turn-wait-times-for-health-care-in-canada-2026",
-      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.fraserinstitute.or...",
-      "score": 52
+      "title": "Button Sounds – collection of professionally-recorded button clicks and presses",
+      "url": "https://buttons.joshwcomeau.com/",
+      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://buttons.joshwcomeau.co...",
+      "score": 6
     },
     {
       "type": "HackerNews",
-      "title": "Ask HN: Anthropic is accusing my company of distilling. How can I prove I'm not?",
+      "title": "Launch HN: Versine (YC F26) – MCP to send and receive money",
       "url": null,
-      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：...",
-      "score": 98
+      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：...",
+      "score": 75
     },
     {
       "type": "HackerNews",
-      "title": "2035 came early",
-      "url": "https://fzakaria.com/2026/11/23/2035-came-early",
-      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://fzakaria.com/2026/11/2...",
-      "score": 866
+      "title": "The Spray Bottle",
+      "url": "https://mechanical-pencil.com/products/spray-bottle",
+      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://mechanical-pencil.com/...",
+      "score": 400
     }
   ]
 }
