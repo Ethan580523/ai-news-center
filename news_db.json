@@ -1,61 +1,61 @@
 {
-  "last_updated": "2026-11-26 01:37:20",
+  "last_updated": "2026-11-26 11:56:30",
   "news": [
     {
       "type": "HackerNews",
-      "title": "1Password Security Incident",
-      "url": "https://1password.com/blog/update-on-nov-2026-security-incident",
-      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://1password.com/blog/upd...",
-      "score": 1130
+      "title": "Intel One Mono font",
+      "url": "https://github.com/intel/intel-one-mono",
+      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://github.com/intel/intel...",
+      "score": 87
+    },
+    {
+      "type": "HackerNews",
+      "title": "Google Will Make AI Agents Use Its MCP Servers. The Gmail One Can't Send Email",
+      "url": "https://techstackups.com/articles/google-workspace-ai-agents-mcp/",
+      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://techstackups.com/artic...",
+      "score": 50
     },
     {
       "type": "HackerNews",
       "title": "Holy shit holy shit holy shit holy shit: The magnitude of what’s now happening",
       "url": "https://scottaaronson.blog/?p=10379",
-      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://scottaaronson.blog/?p=...",
-      "score": 883
+      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://scottaaronson.blog/?p=...",
+      "score": 1623
     },
     {
       "type": "HackerNews",
-      "title": "Much shorter version of GRH Lean verification from Anthropic",
-      "url": "https://github.com/lsernau/grh-lean",
-      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://github.com/lsernau/grh...",
-      "score": 264
+      "title": "1Password Security Incident",
+      "url": "https://1password.com/blog/update-on-nov-2026-security-incident",
+      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://1password.com/blog/upd...",
+      "score": 1470
     },
     {
       "type": "HackerNews",
-      "title": "Tell HN: Lots of Ask HNs again",
-      "url": null,
-      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：...",
-      "score": 45
+      "title": "Lions' Commentary on Unix: Why It Was Secretly Copied for 20 Years",
+      "url": "https://fosscomics.com/posts/17.%20Lions%27%20Commentary%20on%20Unix/",
+      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://fosscomics.com/posts/1...",
+      "score": 118
+    },
+    {
+      "type": "HackerNews",
+      "title": "Moat: Your OpenRouter Replacement",
+      "url": "https://commandcode.ai/moat",
+      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://commandcode.ai/moat...",
+      "score": 98
     },
     {
       "type": "HackerNews",
       "title": "The New York Times warns photographers not to update Photoshop over AI features",
       "url": "https://www.theverge.com/ai-artificial-intelligence/1041227/the-new-york-times-warns-photographers-not-to-update-photoshop-over-ai-features",
       "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.theverge.com/ai-ar...",
-      "score": 198
+      "score": 421
     },
     {
       "type": "HackerNews",
-      "title": "GPT-6.2 Astra is the first model to beat Googlers' code golf records",
-      "url": "https://bjin.github.io/go-codegolf-benchmark/#leaderboard",
-      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://bjin.github.io/go-code...",
-      "score": 245
-    },
-    {
-      "type": "HackerNews",
-      "title": "Slow Ubuntu security response times",
-      "url": "https://www.openwall.com/lists/oss-security/2026/11/25/9",
-      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.openwall.com/lists...",
-      "score": 138
-    },
-    {
-      "type": "HackerNews",
-      "title": "A few questions for the guy who went snorkeling in a Home Depot retention pond",
-      "url": "https://www.vox.com/down-to-earth/511999/home-depot-retention-pond-snorkel-joseph-ricketts",
-      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.vox.com/down-to-ea...",
-      "score": 437
+      "title": "Much shorter version of GRH Lean verification from Anthropic",
+      "url": "https://github.com/lsernau/grh-lean",
+      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://github.com/lsernau/grh...",
+      "score": 470
     }
   ]
 }
