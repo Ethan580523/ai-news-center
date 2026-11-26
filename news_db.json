@@ -1,61 +1,61 @@
 {
-  "last_updated": "2026-11-25 16:52:06",
+  "last_updated": "2026-11-26 01:37:20",
   "news": [
+    {
+      "type": "HackerNews",
+      "title": "1Password Security Incident",
+      "url": "https://1password.com/blog/update-on-nov-2026-security-incident",
+      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://1password.com/blog/upd...",
+      "score": 1130
+    },
+    {
+      "type": "HackerNews",
+      "title": "Holy shit holy shit holy shit holy shit: The magnitude of what’s now happening",
+      "url": "https://scottaaronson.blog/?p=10379",
+      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://scottaaronson.blog/?p=...",
+      "score": 883
+    },
+    {
+      "type": "HackerNews",
+      "title": "Much shorter version of GRH Lean verification from Anthropic",
+      "url": "https://github.com/lsernau/grh-lean",
+      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://github.com/lsernau/grh...",
+      "score": 264
+    },
+    {
+      "type": "HackerNews",
+      "title": "Tell HN: Lots of Ask HNs again",
+      "url": null,
+      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：...",
+      "score": 45
+    },
+    {
+      "type": "HackerNews",
+      "title": "The New York Times warns photographers not to update Photoshop over AI features",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1041227/the-new-york-times-warns-photographers-not-to-update-photoshop-over-ai-features",
+      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.theverge.com/ai-ar...",
+      "score": 198
+    },
+    {
+      "type": "HackerNews",
+      "title": "GPT-6.2 Astra is the first model to beat Googlers' code golf records",
+      "url": "https://bjin.github.io/go-codegolf-benchmark/#leaderboard",
+      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://bjin.github.io/go-code...",
+      "score": 245
+    },
+    {
+      "type": "HackerNews",
+      "title": "Slow Ubuntu security response times",
+      "url": "https://www.openwall.com/lists/oss-security/2026/11/25/9",
+      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.openwall.com/lists...",
+      "score": 138
+    },
     {
       "type": "HackerNews",
       "title": "A few questions for the guy who went snorkeling in a Home Depot retention pond",
       "url": "https://www.vox.com/down-to-earth/511999/home-depot-retention-pond-snorkel-joseph-ricketts",
       "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.vox.com/down-to-ea...",
-      "score": 172
-    },
-    {
-      "type": "HackerNews",
-      "title": "Investigating degraded experiences across GitHub products",
-      "url": "https://www.githubstatus.com/incidents/qn8mfv6q5hlx",
-      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.githubstatus.com/i...",
-      "score": 80
-    },
-    {
-      "type": "HackerNews",
-      "title": "Windows Loudness Equalization, reverse-engineered and ported to PipeWire",
-      "url": "https://github.com/xoxorwr/pw-loudness-eq",
-      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://github.com/xoxorwr/pw-...",
-      "score": 225
-    },
-    {
-      "type": "HackerNews",
-      "title": "Google Releases Cogentic Papers on Integer Factorization, Discrete Logs and More",
-      "url": "https://github.com/google-research/google-research/tree/master/cogentic_research_papers",
-      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://github.com/google-rese...",
-      "score": 241
-    },
-    {
-      "type": "HackerNews",
-      "title": "Predicting LoRA size for any dataset",
-      "url": "https://engram.com/blog/lora-size",
-      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://engram.com/blog/lora-s...",
-      "score": 17
-    },
-    {
-      "type": "HackerNews",
-      "title": "Button Sounds – collection of professionally-recorded button clicks and presses",
-      "url": "https://buttons.joshwcomeau.com/",
-      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://buttons.joshwcomeau.co...",
-      "score": 686
-    },
-    {
-      "type": "HackerNews",
-      "title": "Anthropic migrated Messages API to Rust with no Rust developers",
-      "url": "https://www.anthropic.com/research/migrating-api-to-rust",
-      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.anthropic.com/rese...",
-      "score": 6
-    },
-    {
-      "type": "HackerNews",
-      "title": "Matrix Multiplication is Θ(n^2.25) [pdf]",
-      "url": "https://github.com/openai/math/blob/main/preprints/The-matrix-multiplication-exponent-is-nine-fourths-November-24-2026/paper.pdf",
-      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://github.com/openai/math...",
-      "score": 869
+      "score": 437
     }
   ]
 }
