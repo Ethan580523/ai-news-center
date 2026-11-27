@@ -1,61 +1,61 @@
 {
-  "last_updated": "2026-11-26 21:08:52",
+  "last_updated": "2026-11-27 06:59:06",
   "news": [
     {
       "type": "HackerNews",
-      "title": "AMD Specific Patches for Llama.cpp",
-      "url": "https://devnull.land/amd-specific-llama-cpp",
-      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://devnull.land/amd-speci...",
-      "score": 189
+      "title": "The need for a formally verifiable mainstream programming language",
+      "url": "https://blainehansen.me/post/mainstream-verifiable-language/",
+      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://blainehansen.me/post/m...",
+      "score": 62
     },
     {
       "type": "HackerNews",
-      "title": "CTO of 'RansomwareHelp' Indicted for Wire Fraud",
-      "url": "https://krebsonsecurity.com/2026/11/cto-of-ransomwarehelp-indicted-for-wire-fraud/",
-      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://krebsonsecurity.com/20...",
-      "score": 130
+      "title": "AI made self-hosting fun again",
+      "url": "https://janlukas.blog/posts/ai-self-hosting",
+      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://janlukas.blog/posts/ai...",
+      "score": 548
+    },
+    {
+      "type": "HackerNews",
+      "title": "Hard Drive pricing has gotten bad",
+      "url": "https://blog.ktz.me/black-friday-hard-drive-prices-are-messed-up/",
+      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://blog.ktz.me/black-frid...",
+      "score": 267
+    },
+    {
+      "type": "HackerNews",
+      "title": "The group chat where your AI talks behind your back",
+      "url": "https://construct22.com/",
+      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://construct22.com/...",
+      "score": 5
     },
     {
       "type": "HackerNews",
       "title": "YouTube Ad Punisher – Auto-reloads YouTube pages when an ad plays",
       "url": "https://github.com/antonpictures/youtube-punisher",
       "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://github.com/antonpictur...",
-      "score": 121
+      "score": 351
     },
     {
       "type": "HackerNews",
-      "title": "Show HN: Fuck_data_brokers.py",
-      "url": "https://github.com/gary23w/f-ck_data_brokers",
-      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://github.com/gary23w/f-c...",
-      "score": 75
+      "title": "Kamil Khan Mumtaz: Pakistani architect, admired at home, almost invisible abroad",
+      "url": "https://worksinprogress.co/issue/the-greatest-architect-youve-never-heard-of-is-in-pakistan/",
+      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://worksinprogress.co/iss...",
+      "score": 334
     },
     {
       "type": "HackerNews",
-      "title": "The USA as a Civilizations-esque map",
-      "url": "https://karpathy.ai/usaciv/",
-      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://karpathy.ai/usaciv/...",
-      "score": 50
+      "title": "\"What's Claude's Fursona?\" and Other Questions",
+      "url": "https://herecomesthemoon.net/2026/11/whats-claudes-fursona/",
+      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://herecomesthemoon.net/2...",
+      "score": 67
     },
     {
       "type": "HackerNews",
-      "title": "Nvidia was right to bring back Jensen Huang, writes Sarah Guo",
-      "url": "https://www.economist.com/by-invitation/2026/11/25/nvidia-was-right-to-bring-back-jensen-huang-writes-sarah-guo",
-      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.economist.com/by-i...",
-      "score": 15
-    },
-    {
-      "type": "HackerNews",
-      "title": "Rvoip 0.5 the complete VoIP stack in Rust",
-      "url": "https://github.com/eisenzopf/rvoip",
-      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://github.com/eisenzopf/r...",
-      "score": 16
-    },
-    {
-      "type": "HackerNews",
-      "title": "Intel One Mono font (2023)",
-      "url": "https://github.com/intel/intel-one-mono",
-      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://github.com/intel/intel...",
-      "score": 407
+      "title": "AMD-specific fork of llama.cpp",
+      "url": "https://devnull.land/amd-specific-llama-cpp",
+      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://devnull.land/amd-speci...",
+      "score": 330
     }
   ]
 }
