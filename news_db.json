@@ -1,61 +1,61 @@
 {
-  "last_updated": "2026-11-27 18:42:11",
+  "last_updated": "2026-11-28 03:06:25",
   "news": [
+    {
+      "type": "HackerNews",
+      "title": "Atari Homebrew Awards Cancelled",
+      "url": "https://forums.atariage.com/topic/394894-atari-homebrew-awards-cancelled/",
+      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://forums.atariage.com/to...",
+      "score": 46
+    },
+    {
+      "type": "HackerNews",
+      "title": "Google's DeepCrossAttention achieves comparable model quality up to 3x faster",
+      "url": "https://research.google/blog/supercharging-transformer-residual-connections/",
+      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://research.google/blog/s...",
+      "score": 153
+    },
+    {
+      "type": "HackerNews",
+      "title": "GPT 6.2 Astra Solves a Historical Mystery",
+      "url": "https://generativehistory.substack.com/p/gpt-62-astra-solves-a-historical",
+      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://generativehistory.subs...",
+      "score": 343
+    },
+    {
+      "type": "HackerNews",
+      "title": "The Balatro Timeline",
+      "url": "https://localthunk.com/blog/balatro-timeline-3aarh",
+      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://localthunk.com/blog/ba...",
+      "score": 104
+    },
     {
       "type": "HackerNews",
       "title": "Credit card skimming scripts using WebRTC found on popular shopping sites",
       "url": "https://www.infohawk.com/news/2026-11-27-black-friday-webrtc-skimmer",
-      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.infohawk.com/news/...",
-      "score": 155
+      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.infohawk.com/news/...",
+      "score": 445
     },
     {
       "type": "HackerNews",
-      "title": "Show HN: bouncemarket – a live prediction market game for a bouncing ball",
-      "url": "https://bouncemarket.minhanhday.com/",
-      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://bouncemarket.minhanhda...",
-      "score": 245
+      "title": "Cyberpunk Television Shows",
+      "url": "https://shellzine.net/cyberpunk-television/",
+      "summary": "【深度财考】此话题背后折射出当下国内社交媒体的情绪共振点。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://shellzine.net/cyberpun...",
+      "score": 30
     },
     {
       "type": "HackerNews",
-      "title": "False computer-checked proofs",
-      "url": "https://cr.yp.to/proofs/falseccp.html",
-      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://cr.yp.to/proofs/falsec...",
-      "score": 96
+      "title": "Convex skills send the user's app idea to a remote server without telling them",
+      "url": "https://github.com/convex/convex-backend-skill/issues/64",
+      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://github.com/convex/conv...",
+      "score": 241
     },
     {
       "type": "HackerNews",
-      "title": "First images of the impact of DART asteroid deflection experiment",
-      "url": "https://arstechnica.com/space/2026/11/europes-hera-mission-returns-to-the-chaotic-scene-of-a-cosmic-smashup/",
-      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://arstechnica.com/space/...",
-      "score": 124
-    },
-    {
-      "type": "HackerNews",
-      "title": "I'm Scared of AI",
-      "url": "https://thesoapbox.email/archive/3",
-      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://thesoapbox.email/archi...",
-      "score": 108
-    },
-    {
-      "type": "HackerNews",
-      "title": "Group chat where your AI talks behind your back",
-      "url": "https://construct22.com/",
-      "summary": "【行业前瞻】该开源项目正在 GitHub 上引发千万级关注，其核心在于极简的架构选择。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://construct22.com/...",
-      "score": 602
-    },
-    {
-      "type": "HackerNews",
-      "title": "AI made self-hosting fun again",
-      "url": "https://janlukas.blog/posts/ai-self-hosting",
-      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://janlukas.blog/posts/ai...",
-      "score": 1007
-    },
-    {
-      "type": "HackerNews",
-      "title": "Making a 3D fantasy map like a 16th-Century atlas",
-      "url": "https://www.spritefusion.com/blog/making-a-fantasy-map-like-a-16th-century-atlas",
-      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://www.spritefusion.com/b...",
-      "score": 44
+      "title": "Passkey blues",
+      "url": "https://ssg.dev/passkey-blues/",
+      "summary": "【AI 视角】该技术可能彻底重构现有开发范式。 核心价值点：1. 解决了痛点 X；2. 大幅提升了效率。建议重点关注：https://ssg.dev/passkey-blues/...",
+      "score": 56
     }
   ]
 }
